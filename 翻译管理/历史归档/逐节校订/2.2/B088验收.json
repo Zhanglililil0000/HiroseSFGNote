@@ -1,0 +1,14 @@
+{
+  "batch": "B088",
+  "date": "2026-10-19",
+  "page": 10,
+  "equation": "4.28a",
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅本公式与状态行改变，其他正文相同",
+  "math_syntax_pass": 804,
+  "render_overflow": false,
+  "visual_review": "参考渲染与高清原式及六倍分母局部对照通过",
+  "new_issue": "Q062；原下标wvis保留",
+  "adopted_source_corrections": 0,
+  "next": "B089，式4.28b及其后无编号场式"
+}

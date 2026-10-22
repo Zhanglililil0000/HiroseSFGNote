@@ -1,0 +1,55 @@
+{
+  "amplitude_cases": 40,
+  "max_expansion_error": 8.881784197001252e-16,
+  "extra_phi_counterexample": {
+    "B": 0.5,
+    "a": 0.7,
+    "phi": 0,
+    "true_intensity": 1.44,
+    "intensity_with_extra_phi": 0.74
+  },
+  "beta_squared_counterexample": {
+    "B": 0.5,
+    "beta": 0.7,
+    "N_G": 1,
+    "true_intensity": 1.44,
+    "intensity_with_beta_squared": 0.9801
+  },
+  "width_cases": [
+    {
+      "sigma": 0.3,
+      "Gaussian_HWHM": 0.3532230067546424,
+      "squared_HWHM": 0.2497663833473093,
+      "ratio": 0.7071067811865475
+    },
+    {
+      "sigma": 1,
+      "Gaussian_HWHM": 1.1774100225154747,
+      "squared_HWHM": 0.8325546111576977,
+      "ratio": 0.7071067811865475
+    },
+    {
+      "sigma": 2,
+      "Gaussian_HWHM": 2.3548200450309493,
+      "squared_HWHM": 1.6651092223153954,
+      "ratio": 0.7071067811865475
+    }
+  ],
+  "phase_cases": [
+    {
+      "a/gamma": 0.5,
+      "phase_change_degrees": 53.13010235415599
+    },
+    {
+      "a/gamma": 1,
+      "phase_change_degrees": 90.0
+    },
+    {
+      "a/gamma": 2,
+      "phase_change_degrees": 126.86989764584402
+    }
+  ],
+  "original_body_preserved_after_removing_note": true,
+  "source_corrections": 0,
+  "scope": "实系数模型及指定相位区间的检查，不是作者意图或全模型认证"
+}

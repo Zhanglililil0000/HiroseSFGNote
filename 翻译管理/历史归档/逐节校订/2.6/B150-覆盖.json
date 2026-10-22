@@ -1,0 +1,16 @@
+{
+  "batch": "B150",
+  "date": "2026-10-20",
+  "pages": [
+    3
+  ],
+  "tags": [
+    "2.4a",
+    "2.4b"
+  ],
+  "matrix_entries_checked": 8,
+  "translation_repairs": "右上元恢复原文±i n/cosθ，上标x恢复",
+  "source_corrections_adopted": false,
+  "source_sha256": "329e6cc656b6e143555bac82f6320e9dd051ee782f93151a1c743159f76f2f35",
+  "unreviewed_tail_unchanged": true
+}

@@ -1,0 +1,24 @@
+{
+  "batch": "B359",
+  "date": "2026-10-21",
+  "scope": "附录F：简并对称模式",
+  "pages": [
+    63,
+    64,
+    65,
+    66,
+    67
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "ed3caf471fbb18b20f52af9771a14817e1875b24be5a74ea18a848d350f6c1e4",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B359",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

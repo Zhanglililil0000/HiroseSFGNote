@@ -1,0 +1,15 @@
+{
+  "batch": "B089",
+  "date": "2026-10-19",
+  "page": 10,
+  "numbered_equation": "4.28b",
+  "unnumbered_formulas_added": 1,
+  "body_image_blocks_replaced": 2,
+  "scope_check": "仅本分支与状态行改变，Q046及其他正文相同",
+  "math_syntax_pass": 806,
+  "render_overflow": false,
+  "visual_review": "参考渲染与两幅高清原式对照通过",
+  "issue_status": "Q046保留；无新增",
+  "adopted_source_corrections": 0,
+  "next": "B090，式4.29"
+}

@@ -1,0 +1,22 @@
+{
+  "batch": "B232",
+  "date": "2026-10-20",
+  "pages": [
+    3
+  ],
+  "tags": [
+    "2.3",
+    "2.4"
+  ],
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "unresolved": [
+    "Q114"
+  ],
+  "old_translation_repairs": [
+    "恢复两首行的矩阵乘法顺序",
+    "补回2.4逆矩阵中间行"
+  ],
+  "next": "B233：p3的m层E+源式2.5—2.6；核b₀*、层标和三行关系"
+}

@@ -1,0 +1,183 @@
+2 層膜の SFG - 27
+€ 
+E
+−
+1 (0
+−
+)net = L
+−
+1/m'Pa
+*
+αβ
+∑
+i
+δ
+€ 
+×{(1+ rm'm,vis,α
+rm2,vis,α e
+2 iβ m,vishm
+)(1+ rm'm,ir,β
+rm2,ir,β e
+2iβm, irhm
+)
+€ 
+×[(1+ rmm',SFrm2 ,SFe
+2iβm,SFhm
+)
+e
+i( βm ', SF+β m',vis +βm',ir ) hm' − 1
+βm',SF + βm',vis + βm',ir
+€ 
+±(rm'm,SF + rm2,SFe
+2 iβ m,SFhm
+)e
+2iβm ', SFhm'
+e
+i( −βm ', SF+β m',vis+β m',ir ) hm' − 1
+β m',SF − βm',vis − βm',ir
+]
+€ 
++(1 + rm'm,vis ,α
+rm2,vis,α e
+2 iβ m,vishm
+)(rm'm,ir,β + rm2 ,ir,βe
+2iβ m, irhm
+)e
+2iβm ', irhm'
+€ 
+×[(1+ rmm',SFrm2 ,SFe
+2iβm,SFhm
+)
+e
+i( βm ', SF+β m',vis −β m', ir )hm' −1
+βm',SF + βm',vis − βm',ir
+€ 
+±(rm'm,SF + rm2,SFe
+2 iβ m,SFhm
+)e
+2iβm ', SFhm'
+e
+i( −βm ', SF+β m',vis−β m', ir )hm' −1
+βm',SF − β m',vis + βm',ir
+]
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(1 + rm'm,ir,β
+rm2 ,ir,βe
+2iβ m, irhm
+)e
+2iβm ', vishm '
+€ 
+×[(1+ rmm',SFrm2 ,SFe
+2iβm,SFhm
+)
+e
+i( βm ', SF−βm ', vis+β m', ir )hm' −1
+βm',SF − β m',vis + βm',ir
+€ 
+±(rm'm,SF + rm2,SFe
+2 iβ m,SFhm
+)e
+2iβm ', SFhm'
+e
+i( −βm ', SF−βm ', vis+β m', ir )hm' −1
+βm',SF + βm',vis − βm',ir
+]
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(rm'm,ir,β + rm2 ,ir,βe
+2iβ m, irhm
+)e
+2i(β m',vis +βm ', ir )hm'
+€ 
+×[(1+ rmm',SFrm2 ,SFe
+2iβm,SFhm
+)
+e
+i( βm ', SF−βm ', vis−βm',ir ) hm' − 1
+βm',SF − β m',vis − βm',ir
+€ 
+±(rm'm,SF + rm2,SFe
+2 iβ m,SFhm
+)e
+2iβm ', SFhm'
+]
+e
+i( −β m', SF−β m', vis−βm ', ir )hm' −1
+βm',SF + βm',vis + β m',ir
+}
+(upper sign for x and y components, lower sign for z component)
+よって、
+€ 
+E
+−
+1 (0
+−
+)p = E
+0
+vis,α E
+0
+ir,β
+αβ
+∑
+i
+δ
+€ 
+×
+t
+1 m',vis,α
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×{{(1+ rm'm,vis,α
+rm2,vis,α e
+2iβ m, vishm
+)(1+ rm'm,ir,β
+rm2,ir,β e
+2iβm, irhm
+)
+€ 
+×[(1+ rmm',SF,p
+rm2,SF,pe
+2iβ m,SFhm
+)
+e
+i(β m',SF +βm ', vis+β m',ir )hm' −1
+β m',SF + β m',vis + βm',ir
+€ 
++(rm'm,SF,p + rm2 ,SF,p e
+2iβm, SFhm
+)e
+2 iβ m',SFhm'
+e
+i(−β m',SF +βm ', vis+β m', ir )hm' −1
+βm',SF − β m',vis − βm',ir
+]

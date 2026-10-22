@@ -1,0 +1,19 @@
+{
+  "batch": "B083",
+  "date": "2026-10-19",
+  "page": 8,
+  "equations": [
+    "4.19",
+    "4.20",
+    "4.21"
+  ],
+  "editable_equations_added": 3,
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅替换公式组、细化Q044与状态行，其他正文相同",
+  "strict_syntax_math_fragments": 790,
+  "render_overflow": false,
+  "visual_review": "B083-参考渲染.png与p8高清原式对照",
+  "issue_updated": "Q044；原式未改",
+  "new_errata": 0,
+  "next": "B084，式4.22—4.24"
+}

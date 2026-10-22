@@ -1,0 +1,28 @@
+{
+  "batch": "B159",
+  "date": "2026-10-20",
+  "coverage": {
+    "batch": "B159",
+    "date": "2026-10-20",
+    "pages": [
+      9
+    ],
+    "units": "双层前/后薄膜分别零厚度的八个完整极限式4.11a/b—4.14a/b",
+    "tags": [
+      "4.11a",
+      "4.12a",
+      "4.13a",
+      "4.14a",
+      "4.11b",
+      "4.12b",
+      "4.13b",
+      "4.14b"
+    ],
+    "source_images_visually_checked": true,
+    "source_formula_corrections_adopted": false
+  },
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false
+}

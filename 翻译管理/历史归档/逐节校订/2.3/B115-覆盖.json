@@ -1,0 +1,29 @@
+{
+  "batch": "B115",
+  "pages": [
+    1,
+    3
+  ],
+  "end": "附录B标题前",
+  "labels": [
+    "A.1",
+    "A.2",
+    "A.3",
+    "A.4",
+    "A.5",
+    "A.6a",
+    "A.6b",
+    "A.7",
+    "A.8",
+    "A.9a",
+    "A.9b",
+    "A.10a",
+    "A.10b",
+    "A.11a",
+    "A.11b",
+    "A.12"
+  ],
+  "source_sha256": "63c635f8fde9e43fd6e7e9b1be2504119bf4354fb7a1f3deba48f3024eb28384",
+  "unreviewed": "附录B—D",
+  "source_correction_adopted": false
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-21",
+  "source_pages": 78,
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "post_B325_source_lines": 2627,
+  "math_physical_lines": 2357,
+  "none_items": 50,
+  "unmapped_math_lines": 0,
+  "duplicate_source_lines": 0,
+  "prose_mapping_complete": true,
+  "math_round_trip_mismatches": 0,
+  "chi_component_equalities": 853,
+  "beta_component_equalities": 156,
+  "appendix_B_to_F_each_chi_tables": "5×27=135",
+  "bracket_issue_locations": 27,
+  "verification_limit": "数字字形与基线转录、逐页图浏览及异常重点复核；不表示原文理论推导已经独立证明。"
+}

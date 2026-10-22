@@ -1,0 +1,22 @@
+{
+  "batch": "B306",
+  "date": "2026-10-21",
+  "pages": [
+    15,
+    16
+  ],
+  "scope": "4c冻结旋转反对称及面外模式各27分量，保留残缺加号",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B306",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "425b7561b65b253b41ec1688abd86f8212c1222b6b25a83f7e41e9e4985d7a79",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

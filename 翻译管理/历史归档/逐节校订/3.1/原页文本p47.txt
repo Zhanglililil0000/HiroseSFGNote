@@ -1,0 +1,266 @@
+2 層膜の SFG - 47
+€ 
+×
+{t1 m',ir,β e
+iβm ', irhm'
+(1+ rm'm,ir,β
+)[(1 + rmm",ir,β
+rm"2 ,ir,βe
+2iβ m", irhm"
+)
++ (rm'm,ir,β
++ e
+2iβm',ir hm'
+)(rmm",ir,β
++ rm"2,ir,β
+e
+2 iβ m",irhm"
+)e
+2iβ m, irhm
+]}
+{(1 + r
+1m',ir,β
+rm'm,ir,β
+e
+2iβ m',irhm'
+)(1 + rmm",ir,β
+rm"2,ir,β
+e
+2iβm", irhm"
+)
++(rm'm,ir,β + r1m',ir,βe
+2iβ m',irhm'
+)(rmm",ir,β + rm"2,ir,β e
+2iβm", irhm"
+)e
+2iβm, irhm
+}
+(3.23)
+E
++
+(by reflection and transmission) and E
+-
+sources
+€ 
+Pa
+*
+(hm'
+−
+) = χaαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+{t1 m',vis ,α e
+iβ m',vishm'
+(1 + rm'm,vis,α
+)[(1 + rmm",vis,α
+rm"2,vis,α e
+2 iβ m",vishm"
+)
++(rmm",vis,α
++ rm"2 ,vis,α
+e
+2iβm", vishm"
+)e
+2iβ m,vishm
+]}
+{(1 + r
+1m',vis,α
+rm'm,vis,α
+e
+2 iβ m',vishm'
+)(1 + rmm",vis,α
+rm"2,vis,α
+e
+2 iβ m",vishm"
+)
++(rm'm,vis,α + r1 m',vis,α e
+2 iβ m',vishm'
+)(rmm",vis,α + rm"2,vis,α e
+2 iβ m",vishm"
+)e
+2iβm, vishm
+}
+€ 
+×
+{t1 m',ir,β e
+iβm ', irhm'
+(1+ rm'm,ir,β
+)[(1 + rmm",ir,β
+rm"2 ,ir,βe
+2iβ m", irhm"
+)
++ (rm'm,ir,β
++ e
+2iβm',ir hm'
+)(rmm",ir,β
++ rm"2,ir,β
+e
+2 iβ m",irhm"
+)e
+2iβ m, irhm
+]}
+{(1 + r
+1m',ir,β
+rm'm,ir,β
+e
+2iβ m',irhm'
+)(1 + rmm",ir,β
+rm"2,ir,β
+e
+2iβm", irhm"
+)
++(rm'm,ir,β + r1m',ir,βe
+2iβ m',irhm'
+)(rmm",ir,β + rm"2,ir,β e
+2iβm", irhm"
+)e
+2iβm, irhm
+}
+(3.24)
+m'/m 界面 のm 側：
+E
++
+and E
+-
+(by reflection and transmission) sources
+€ 
+Pa
+*
+(hm'
++
+) = χ aαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+tm'm,vis,α
+e
+iβ m',vishm'
+[(1+ rmm",vis,α
+rm"2 ,vis,α
+e
+2iβm", vishm"
+) + (rmm",vis,α
++ rm"2 ,vis,α
+e
+2iβm", vishm"
+)e
+2 iβ m,vishm
+]
+{(1 + r
+1m',vis,α
+rm'm,vis,α
+e
+2 iβ m',vishm'
+)(1 + rmm",vis,α
+rm"2,vis,α
+e
+2iβ m",vishm"
+)
++ (rm'm,vis,α + r1 m',vis,α e
+2 iβ m',vishm'
+)(rmm",vis,α + rm"2,vis,α e
+2iβ m",vishm"
+)e
+2iβm, vishm
+}
+€ 
+×
+t
+1m',ir,β
+tm'm,ir,β
+e
+iβ m', irhm'
+[(1+ rmm",ir,β
+rm"2,ir,β
+e
+2 iβ m",irhm"
+) + (rmm",ir,β
++ rm"2,ir,β
+e
+2 iβ m",irhm"
+)e
+2iβ m, irhm
+]
+{(1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm'
+)(1+ rmm",ir,β
+rm"2,ir,β
+e
+2 iβ m",irhm"
+)
++(rm'm,ir,β + r1m',ir,β e
+2iβm',ir hm'
+)(rmm",ir,β + rm"2,ir,βe
+2 iβ m",irhm"
+)e
+2iβ m, irhm
+}
+(3.25)
+E
++
+(by reflection and transmission) and E
+-
+sources
+€ 
+Pa
+*
+(hm'
++
+) = χ aαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+tm'm,vis,α
+e
+iβ m',vishm'
+[(1+ rmm",vis,α
+rm"2 ,vis,α
+e
+2iβm", vishm"
+) + (rmm",vis,α
++ rm"2 ,vis,α
+e
+2iβm", vishm"
+)e
+2 iβ m,vishm
+]
+{(1 + r
+1m',vis,α
+rm'm,vis,α
+e
+2 iβ m',vishm'
+)(1 + rmm",vis,α
+rm"2,vis,α
+e
+2iβ m",vishm"
+)
++ (rm'm,vis,α + r1 m',vis,α e
+2 iβ m',vishm'
+)(rmm",vis,α + rm"2,vis,α e
+2iβ m",vishm"
+)e
+2iβm, vishm
+}

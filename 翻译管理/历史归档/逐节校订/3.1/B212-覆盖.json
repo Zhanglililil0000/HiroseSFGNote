@@ -1,0 +1,16 @@
+{
+  "batch": "B212",
+  "date": "2026-10-20",
+  "pages": [
+    39,
+    40
+  ],
+  "units": "三层系场乘积3.5—3.6",
+  "tags": [
+    "3.5",
+    "3.6"
+  ],
+  "source_formula_corrections_adopted": false,
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f"
+}

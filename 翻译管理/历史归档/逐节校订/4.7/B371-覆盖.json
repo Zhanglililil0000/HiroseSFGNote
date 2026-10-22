@@ -1,0 +1,234 @@
+{
+  "batch": "B371",
+  "pages": [
+    7
+  ],
+  "tables": [
+    {
+      "label": "3a-4",
+      "rows": [
+        {
+          "polarization": "ppp",
+          "indices": "XXX",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "XZZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "XZX",
+          "values": [
+            "(1/2)\\beta_{caa}\\cos\\tau",
+            "(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "XXZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZXZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZZX",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZXX",
+          "values": [
+            "(1/2)\\beta_{caa}\\cos\\tau",
+            "(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZZZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YXX",
+          "values": [
+            "(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau",
+            "-(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YZZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YZX",
+          "values": [
+            "-(\\pm 1/2)\\beta_{caa}\\cos\\tau",
+            "\\pm(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YXZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "ssp",
+          "indices": "YYX",
+          "values": [
+            "\\pm(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau",
+            "\\pm(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "ssp",
+          "indices": "YYZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "XYX",
+          "values": [
+            "(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau",
+            "-(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "XYZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "ZYZ",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "ZYX",
+          "values": [
+            "-(\\pm 1/2)\\beta_{caa}\\cos\\tau",
+            "\\pm(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "sps",
+          "indices": "YXY",
+          "values": [
+            "\\pm(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau",
+            "\\pm(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "sps",
+          "indices": "YZY",
+          "values": [
+            "(1/2)\\beta_{caa}\\cos\\tau",
+            "(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "XXY",
+          "values": [
+            "(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau",
+            "-(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "XZY",
+          "values": [
+            "-(\\pm 1/2)\\beta_{caa}\\cos\\tau",
+            "\\pm(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "ZZY",
+          "values": [
+            "0",
+            "0"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "ZXY",
+          "values": [
+            "-(\\pm 1/2)\\beta_{caa}\\cos\\tau",
+            "\\pm(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "pss",
+          "indices": "XYY",
+          "values": [
+            "\\pm(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau",
+            "\\pm(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "pss",
+          "indices": "ZYY",
+          "values": [
+            "(1/2)\\beta_{caa}\\cos\\tau",
+            "(1/2)\\beta_{caa}\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "sss",
+          "indices": "YYY",
+          "values": [
+            "(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau",
+            "-(\\sqrt{2}/2)\\beta_{caa}\\sin\\tau"
+          ]
+        }
+      ],
+      "angle_cells": 54,
+      "none_polarizations": []
+    }
+  ],
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

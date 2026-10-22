@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-19",
+  "batches": [
+    "B065",
+    "B066",
+    "B067"
+  ],
+  "scope": "p5末—p6，4.1引言及4.1a/b",
+  "completedNumberedEquations": 12,
+  "completedMathFragments": 194,
+  "part41cOnwardUnchanged": true,
+  "batchTextsMatchReviewedPrefix": true,
+  "sectionComplete": false
+}

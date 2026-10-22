@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-19",
+  "translation_pages": 47,
+  "batches": "B058—B081",
+  "new_batches": 13,
+  "numbered_equations": 116,
+  "new_image_blocks": 132,
+  "math_fragments_syntax_pass": 771,
+  "rendered_new_batches": 13,
+  "terms": 90,
+  "new_questions": "Q044—Q058",
+  "new_errata": [
+    "E-2.2-004",
+    "E-2.2-005"
+  ],
+  "source_unchanged": true,
+  "limits": [
+    "复杂公式保留影像，可编辑转写尚待专项",
+    "原式科学/代数疑点未决",
+    "非独立专家审校"
+  ]
+}

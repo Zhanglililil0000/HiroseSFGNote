@@ -1,0 +1,11 @@
+{
+  "samples": 50,
+  "max_real_field_difference": 0.0,
+  "body_unchanged_after_removing_added_notes": {
+    "中文版本/第一章 SFG快速入门/1.3 光电场、极化与菲涅尔因子.md": true,
+    "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md": true,
+    "中文版本/第八章 拟合/8.1 和频光谱的线形.md": true
+  },
+  "new_source_corrections": 0,
+  "scope": "条件性代数检验，非原文全部公式认证"
+}

@@ -1,0 +1,3 @@
+const fs=require('fs'),path=require('path');const root=path.resolve('HiroseSFGNote');const k=require(path.join(root,'翻译管理/排版工具/katex-0.16.22.min.js'));let results=[];
+for(const file of fs.readdirSync(path.join(root,'中文版本/第一章 SFG快速入门')).filter(x=>/^1\..*\.md$/.test(x))){let s=fs.readFileSync(path.join(root,'中文版本/第一章 SFG快速入门',file),'utf8'),count=0;for(const m of s.matchAll(/\$\$([\s\S]*?)\$\$|\$([^$\n]+)\$/g)){k.renderToString(m[1]||m[2],{displayMode:m[1]!==undefined,throwOnError:true,strict:'error'});count++;}results.push({file,math:count});}
+fs.writeFileSync(path.join(root,'翻译管理/历史归档/逐节校订/第一章最终数学检查.json'),JSON.stringify({date:'2026-10-18',results},null,2));console.log(JSON.stringify(results));

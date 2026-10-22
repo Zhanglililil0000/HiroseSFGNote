@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-21",
+  "section": "4.7",
+  "batches": "B367—B368",
+  "verified_pages": [
+    3,
+    4
+  ],
+  "tables": [
+    "3a-1",
+    "3a-2"
+  ],
+  "tensor_rows": 54,
+  "angle_cells": 162,
+  "zero_cells": 126,
+  "nonzero_cells": 36,
+  "cumulative_math_fragments_B365_B368": 435,
+  "math_syntax_errors": 0,
+  "formula_overflows": 0,
+  "open_source_issue": "Q181",
+  "source_corrections_adopted": false,
+  "next_batch": "B369，p5表(3b-1)/(3b-2)",
+  "translation_sha256": "58c4c9814a93b6285ed2dc8c6334d5851c076dfa4bfeac722b7a548d33202518"
+}

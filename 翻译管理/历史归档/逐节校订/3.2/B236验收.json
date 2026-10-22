@@ -1,0 +1,17 @@
+{
+  "batch": "B236",
+  "date": "2026-10-20",
+  "pages": [4, 5],
+  "tags": ["2.11"],
+  "scope": "n次电场、n+1递推、矩阵幂及逆矩阵求和式",
+  "source_images_visually_checked": true,
+  "math_fragments_this_batch": 9,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "convergence_and_zero_order_conditions_preserved": true,
+  "unresolved_source_questions_carried_forward": ["Q117"],
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "next": "B237：p5—6的E+源反射光，七幅光路子图及式2.12"
+}

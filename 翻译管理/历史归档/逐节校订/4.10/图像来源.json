@@ -1,0 +1,35 @@
+[
+  {
+    "asset": "4.10-CH2.png",
+    "pdf_page": 1,
+    "crop_pdf_points": [
+      180,
+      350,
+      425,
+      510
+    ],
+    "method": "原PDF渲染裁取，未重绘"
+  },
+  {
+    "asset": "4.10-HCCH-C2.png",
+    "pdf_page": 1,
+    "crop_pdf_points": [
+      170,
+      580,
+      425,
+      750
+    ],
+    "method": "原PDF渲染裁取，未重绘"
+  },
+  {
+    "asset": "4.10-HCCH-C2v.png",
+    "pdf_page": 2,
+    "crop_pdf_points": [
+      170,
+      105,
+      425,
+      285
+    ],
+    "method": "原PDF渲染裁取，未重绘"
+  }
+]

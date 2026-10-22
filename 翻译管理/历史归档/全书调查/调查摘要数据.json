@@ -1,0 +1,27 @@
+{
+  "files": 39,
+  "pages": 717,
+  "clean_chars": 967943,
+  "cjk_chars": 193437,
+  "blocks": 200,
+  "plans": 488,
+  "min_batches": 410,
+  "max_batches": 710,
+  "cid_pages": 411,
+  "pua_pages": 53,
+  "image_pages": 10,
+  "low_pages": [
+    [
+      "2.1",
+      11
+    ],
+    [
+      "4.9",
+      5
+    ],
+    [
+      "5.4",
+      15
+    ]
+  ]
+}

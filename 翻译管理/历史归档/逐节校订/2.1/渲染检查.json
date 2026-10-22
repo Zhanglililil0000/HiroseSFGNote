@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-19",
+  "math": 225,
+  "results": [
+    {
+      "batch": "B050",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B051",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "batch": "B052",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B053",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B054",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B055",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B056",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B057",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    }
+  ]
+}

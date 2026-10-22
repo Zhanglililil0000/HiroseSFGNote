@@ -1,0 +1,249 @@
+2 層膜の SFG - 34
+€ 
+×
+t
+1 m',vis,α
+t m'm,vis,α
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+t m'm,ir,β
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×{{[
+e
+i( βm, SF+β m,vis+β m,ir ) hm − 1
+βm,SF + βm,vis + βm,ir
++ rm2,SF ,p e
+2iβm, SFhm
+e
+i( −β m,SF +βm, vis+β m,ir )hm −1
+β m,SF − βm,vis − βm,ir
+]
+€ 
++rm2,ir,β e
+2iβm,ir hm
+[
+e
+i( βm, SF+β m,vis−β m, ir )hm − 1
+βm,SF + βm,visβ m,ir
++ rm2,SF,pe
+2iβ m, SFhm
+e
+i( −βm, SF+β m,vis −β m, ir )hm −1
+β m,SF − βm,vis + βm,ir
+]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+[
+e
+i( β m,SF −β m, vis+β m,ir )hm −1
+β m,SF − βm,vis + βm,ir
++ rm2,SF ,p e
+2iβ m,SFhm
+e
+i(−β m,SF −β m,vis+β m,ir ) hm − 1
+βm,SF + βm,vis − βm,ir
+]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,vis +βm, ir) hm
+€ 
+×[
+e
+i( βm, SF−βm, vis−β m,ir )hm −1
+βm,SF − βm,vis − βm,ir
++ rm2,SF ,p e
+2iβm,SFhm
+e
+i( −β m,SF −β m,vis −wβ m, ir )hm −1
+β m,SF + β m,vis + βm,ir
+]}L
+−
+m'/m,pxχ xαβ
+€ 
+×{{[
+e
+i( βm, SF+β m,vis+β m,ir ) hm − 1
+βm,SF + βm,vis + βm,ir
+− rm2,SF,pe
+2iβ m,SFhm
+e
+i( −β m, SF+β m,vis +βm, ir) hm − 1
+βm,SF − β m,vis − βm,ir
+]
+€ 
++rm2,ir,β e
+2iβm,ir hm
+[
+e
+i( βm, SF+β m,vis−β m, ir )hm − 1
+βm,SF + βm,visβ m,ir
+− rm2,SF ,p e
+2iβm,SFhm
+e
+i( −β m,SF +βm, vis−βm,ir ) hm − 1
+βm,SF − β m,vis + βm,ir
+]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+[
+e
+i( β m,SF −β m, vis+β m,ir )hm −1
+β m,SF − βm,vis + βm,ir
+− rm2 ,SF,pe
+2iβ m, SFhm
+e
+i( −βm, SF−βm, vis+β m, ir )hm −1
+βm,SF + βm,vis − βm,ir
+]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,vis +βm, ir) hm
+€ 
+×[
+e
+i( βm, SF−βm, vis−β m,ir )hm −1
+βm,SF − βm,vis − βm,ir
+− rm2,SF,pe
+2iβ m, SFhm
+e
+i( −βm, SF−βm, vis−wβm,ir ) hm − 1
+βm,SF + βm,vis + βm,ir
+]}L
+−
+m'/m,pz χzαβ
+(nm" = nm)
+(2.45a)
+€ 
+E
+−
+1 (0
+−
+)s = E
+0
+vis,α E
+0
+ir,β
+αβ
+∑ tm'1,SF ,se
+i( βm ', SF+β m',vis+β m',ir ) hm'
+i
+δ
+€ 
+×
+t
+1 m',vis,α
+t m'm,vis,α
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+t m'm,ir,β
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×{[
+e
+i( β m, SF+β m,vis +βm, ir) hm − 1
+β m,SF + β m,vis + βm,ir
++ rm2 ,SF,se
+2 iβ m,SFhm
+e
+i(−β m,SF +βm,vis +βm, ir )hm − 1
+βm,SF − βm,vis − βm,ir
+]
+€ 
++rm2,ir,β e
+2iβm,ir hm
+[
+e
+i( βm, SF+β m,vis−β m, ir )hm − 1
+βm,SF + βm,visβ m,ir
++ rm2,SF,se
+2iβm,SFhm
+e
+i( −β m,SF +βm, vis−βm,ir ) hm − 1
+βm,SF − β m,vis + βm,ir
+]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+[
+e
+i( β m,SF −β m, vis+β m,ir )hm −1
+β m,SF − βm,vis + βm,ir
++ rm2,SF ,se
+2iβ m, SFhm
+e
+i( −βm, SF−βm, vis+β m, ir )hm −1
+βm,SF + βm,vis − βm,ir
+]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,vis +βm, ir) hm
+€ 
+×[
+e
+i( βm, SF−βm, vis−β m,ir )hm −1
+βm,SF − βm,vis − βm,ir
++ rm2,SF ,se
+2iβ m, SFhm
+e
+i( −βm, SF−βm, vis−wβm,ir ) hm − 1
+βm,SF + βm,vis + βm,ir
+]}L
+−
+m'/m,syχ yαβ
+(2.45b)

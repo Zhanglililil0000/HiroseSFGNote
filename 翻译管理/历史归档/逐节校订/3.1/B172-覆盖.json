@@ -1,0 +1,17 @@
+{
+  "batch": "B172",
+  "date": "2026-10-20",
+  "pages": [
+    7
+  ],
+  "units": "m′层反向源单场2.12a/b与四项乘积2.13",
+  "tags": [
+    "2.12a",
+    "2.12b",
+    "2.13"
+  ],
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "source_formula_corrections_adopted": false,
+  "layout_factor_comparison_passed": true
+}

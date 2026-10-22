@@ -1,0 +1,21 @@
+{
+  "batch": "B348",
+  "date": "2026-10-21",
+  "scope": "附录C：简并面外模式",
+  "pages": [
+    37,
+    38
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "eb134df026b114dfd41fe6eb6c2c9977e0b4bc119cf6d5a0e1e5ae28da06e6dd",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B348",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

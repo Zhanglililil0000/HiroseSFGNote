@@ -1,0 +1,14 @@
+{
+  "batch": "B087",
+  "date": "2026-10-19",
+  "page": 10,
+  "equation": "4.27",
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅公式与状态行改变，原引用及Q045不变",
+  "math_syntax_pass": 802,
+  "render_overflow": false,
+  "visual_review": "参考渲染、高清原式及六倍指数局部对照通过",
+  "new_issues": 0,
+  "adopted_source_corrections": 0,
+  "next": "B088，式4.28a"
+}

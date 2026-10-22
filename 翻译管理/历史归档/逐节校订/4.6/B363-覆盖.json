@@ -1,0 +1,12 @@
+{
+  "batch": "B363",
+  "date": "2026-10-21",
+  "pages": [
+    2
+  ],
+  "scope": "FS矩阵、GF五分量、本征值与D展开、谱带分裂及Td近似",
+  "source_sha256": "c20d8094d3aa4ed74ef52cc35cc911f54524263c274039fcce2fc9727c1415aa",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "display_blocks": 8
+}

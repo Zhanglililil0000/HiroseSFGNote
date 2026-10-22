@@ -1,0 +1,1015 @@
+{
+  "batch": "B361",
+  "date": "2026-10-21",
+  "pages": [
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78
+  ],
+  "scope": "附录F：简并面外模式",
+  "source_lines": [
+    "p72l24",
+    "p72l25",
+    "p72l26",
+    "p72l27",
+    "p72l28",
+    "p72l29",
+    "p72l30",
+    "p72l31",
+    "p72l32",
+    "p72l33",
+    "p72l34",
+    "p72l35",
+    "p72l36",
+    "p72l37",
+    "p72l38",
+    "p73l01",
+    "p73l02",
+    "p73l03",
+    "p73l04",
+    "p73l05",
+    "p73l06",
+    "p73l07",
+    "p73l08",
+    "p73l09",
+    "p73l10",
+    "p73l11",
+    "p73l12",
+    "p73l13",
+    "p73l14",
+    "p73l15",
+    "p73l16",
+    "p73l17",
+    "p73l18",
+    "p73l19",
+    "p73l20",
+    "p73l21",
+    "p73l22",
+    "p73l23",
+    "p73l24",
+    "p73l25",
+    "p73l26",
+    "p73l27",
+    "p73l28",
+    "p73l29",
+    "p73l30",
+    "p73l31",
+    "p73l32",
+    "p73l33",
+    "p73l34",
+    "p73l35",
+    "p73l36",
+    "p73l37",
+    "p73l38",
+    "p73l39",
+    "p73l40",
+    "p74l01",
+    "p74l02",
+    "p74l03",
+    "p74l04",
+    "p74l05",
+    "p74l06",
+    "p74l07",
+    "p74l08",
+    "p74l09",
+    "p74l10",
+    "p74l11",
+    "p74l12",
+    "p74l13",
+    "p74l14",
+    "p74l15",
+    "p74l16",
+    "p74l17",
+    "p74l18",
+    "p74l19",
+    "p74l20",
+    "p74l21",
+    "p74l22",
+    "p74l23",
+    "p74l24",
+    "p74l25",
+    "p74l26",
+    "p74l27",
+    "p74l28",
+    "p74l29",
+    "p74l30",
+    "p74l31",
+    "p74l32",
+    "p74l33",
+    "p74l34",
+    "p74l35",
+    "p74l36",
+    "p74l37",
+    "p74l38",
+    "p74l39",
+    "p75l01",
+    "p75l02",
+    "p75l03",
+    "p75l04",
+    "p75l05",
+    "p75l06",
+    "p75l07",
+    "p75l08",
+    "p75l09",
+    "p75l10",
+    "p75l11",
+    "p75l12",
+    "p75l13",
+    "p75l14",
+    "p75l15",
+    "p75l16",
+    "p75l17",
+    "p75l18",
+    "p75l19",
+    "p75l20",
+    "p75l21",
+    "p75l22",
+    "p75l23",
+    "p75l24",
+    "p75l25",
+    "p75l26",
+    "p75l27",
+    "p75l28",
+    "p75l29",
+    "p75l30",
+    "p75l31",
+    "p75l32",
+    "p75l33",
+    "p75l34",
+    "p75l35",
+    "p75l36",
+    "p75l37",
+    "p75l38",
+    "p76l01",
+    "p76l02",
+    "p76l03",
+    "p76l04",
+    "p76l05",
+    "p76l06",
+    "p76l07",
+    "p76l08",
+    "p76l09",
+    "p76l10",
+    "p76l11",
+    "p76l12",
+    "p76l13",
+    "p76l14",
+    "p76l15",
+    "p76l16",
+    "p76l17",
+    "p76l18",
+    "p76l19",
+    "p76l20",
+    "p76l21",
+    "p76l22",
+    "p76l23",
+    "p76l24",
+    "p76l25",
+    "p76l26",
+    "p76l27",
+    "p76l28",
+    "p76l29",
+    "p76l30",
+    "p76l31",
+    "p76l32",
+    "p76l33",
+    "p76l34",
+    "p76l35",
+    "p76l36",
+    "p76l37",
+    "p76l38",
+    "p77l01",
+    "p77l02",
+    "p77l03",
+    "p77l04",
+    "p77l05",
+    "p77l06",
+    "p77l07",
+    "p77l08",
+    "p77l09",
+    "p77l10",
+    "p77l11",
+    "p77l12",
+    "p77l13",
+    "p77l14",
+    "p77l15",
+    "p77l16",
+    "p77l17",
+    "p77l18",
+    "p77l19",
+    "p77l20",
+    "p77l21",
+    "p77l22",
+    "p77l23",
+    "p77l24",
+    "p77l25",
+    "p77l26",
+    "p77l27",
+    "p77l28",
+    "p77l29",
+    "p77l30",
+    "p77l31",
+    "p77l32",
+    "p77l33",
+    "p77l34",
+    "p77l35",
+    "p77l36",
+    "p77l37",
+    "p77l38",
+    "p77l39",
+    "p78l01",
+    "p78l02",
+    "p78l03",
+    "p78l04",
+    "p78l05",
+    "p78l06",
+    "p78l07",
+    "p78l08",
+    "p78l09",
+    "p78l10",
+    "p78l11",
+    "p78l12",
+    "p78l13",
+    "p78l14",
+    "p78l15",
+    "p78l16",
+    "p78l17",
+    "p78l18",
+    "p78l19",
+    "p78l20",
+    "p78l21",
+    "p78l22",
+    "p78l23"
+  ],
+  "formulas": [
+    {
+      "source_lines": [
+        "p72l25",
+        "p72l26",
+        "p72l27",
+        "p72l28",
+        "p72l29",
+        "p72l30",
+        "p72l31",
+        "p72l32",
+        "p72l33",
+        "p72l34",
+        "p72l35"
+      ],
+      "latex_lines": [
+        "\\chi _{XXX}= -(1/4)\\beta _{cbb}\\{[(\\sin \\theta - \\sin ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi )(1 - \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi - \\cos 3\\chi )(1 + \\cos 2\\phi )]",
+        "+ 2\\sin \\theta \\cos \\theta (\\sin \\chi + \\sin 3\\chi )\\sin 2\\phi \\}",
+        "+ (1/4)\\beta _{cab}\\{[\\sin \\theta (\\cos \\chi - \\cos 3\\chi ) - (\\sin \\theta - \\sin ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi )]\\sin 2\\phi",
+        "- 2\\sin \\theta \\cos \\theta (\\sin \\chi + \\sin 3\\chi )\\cos 2\\phi \\}",
+        "+ (1/16)\\beta _{aab}[-(\\cos \\theta - \\cos ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4 \\cos \\theta (\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )",
+        "+ 4(3\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi ) - \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/16)\\beta _{bbb}[-(\\cos \\theta - \\cos ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) + 4 \\cos \\theta (3\\cos \\chi \\sin \\phi - \\cos 3\\chi \\sin 3\\phi )",
+        "+ 4(\\sin \\chi \\cos \\phi - \\sin 3\\chi \\cos 3\\phi ) - 3\\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{ccb}[(\\cos \\theta - \\cos ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi )\\sin \\phi + \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )\\cos \\phi ]",
+        "+ (1/8)\\beta _{abb}[-(\\cos \\theta - \\cos ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4 \\cos \\theta (\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )",
+        "- 4(\\sin \\chi \\sin \\phi - \\sin 3\\chi \\sin 3\\phi ) + 3\\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\sin \\phi - 3\\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p72l36",
+        "p72l37",
+        "p72l38",
+        "p73l01",
+        "p73l02",
+        "p73l03"
+      ],
+      "latex_lines": [
+        "\\chi _{XZZ} = (1/2)\\beta _{cbb}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\cos \\chi (1 - \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]",
+        "+ (1/2)\\beta _{cab}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi - \\sin \\theta \\cos \\theta \\sin \\chi (1 - \\cos 2\\phi )]",
+        "+ (1/4)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (\\sin \\phi + \\sin 3\\phi ) - \\sin ^{2}\\theta \\sin \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (3\\sin \\phi - \\sin 3\\phi ) + \\sin ^{2}\\theta \\sin \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ \\beta _{ccb}(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi \\sin \\phi",
+        "+ (1/2)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (\\cos \\phi - \\cos 3\\phi ) - \\sin ^{2}\\theta \\sin \\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p73l04",
+        "p73l05",
+        "p73l06",
+        "p73l07",
+        "p73l08",
+        "p73l09"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXZ} = (1/2)\\beta _{cbb}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\cos \\chi (1 - \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]",
+        "+ (1/2)\\beta _{cab}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi - \\sin \\theta \\cos \\theta \\sin \\chi (1 - \\cos 2\\phi )]",
+        "+ (1/4)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (\\sin \\phi + \\sin 3\\phi ) - \\sin ^{2}\\theta \\sin \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (3\\sin \\phi - \\sin 3\\phi ) + \\sin ^{2}\\theta \\sin \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ \\beta _{ccb}(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi \\sin \\phi",
+        "+ (1/2)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (\\cos \\phi - \\cos 3\\phi ) - \\sin ^{2}\\theta \\sin \\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p73l10",
+        "p73l11",
+        "p73l12",
+        "p73l13",
+        "p73l14",
+        "p73l15"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZX} = \\beta _{cbb}[(\\sin \\theta - \\sin ^{3}\\theta )\\cos \\chi (1 - \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]",
+        "+ \\beta _{cab}[(\\sin \\theta - \\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi + \\sin \\theta \\cos \\theta \\sin \\chi (1 + \\cos 2\\phi )]",
+        "+ (1/4)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (\\sin \\phi + \\sin 3\\phi ) + \\sin ^{2}\\theta \\sin \\chi (3\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (3\\sin \\phi - \\sin 3\\phi ) + \\sin ^{2}\\theta \\sin \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "- \\beta _{ccb} \\cos ^{3}\\theta \\cos \\chi \\sin \\phi",
+        "+ (1/2)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )\\cos \\chi (\\cos \\phi - \\cos 3\\phi ) + \\sin ^{2}\\theta \\sin \\chi (\\sin \\phi + \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p73l16",
+        "p73l17",
+        "p73l18",
+        "p73l19",
+        "p73l20",
+        "p73l21",
+        "p73l22",
+        "p73l23",
+        "p73l24",
+        "p73l25"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXX}= (1/4)\\beta _{cbb}\\{2[\\cos \\theta (1 - \\cos 2\\chi \\cos 2\\phi ) - (\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 - \\cos 2\\phi )]",
+        "- (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}\\{2[(\\cos \\theta - \\cos ^{3}\\theta ) - \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi + [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi ]\\sin 2\\chi \\}",
+        "+ (1/8)\\beta _{aab}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi ) - \\sin \\theta (1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "- (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )\\sin \\phi + \\sin \\theta \\cos \\theta \\sin 2\\chi \\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(\\cos \\phi + \\cos 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi \\sin 3\\phi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p73l26",
+        "p73l27",
+        "p73l28",
+        "p73l29",
+        "p73l30",
+        "p73l31",
+        "p73l32",
+        "p73l33",
+        "p73l34",
+        "p73l35"
+      ],
+      "latex_lines": [
+        "\\chi _{XZX}= (1/4)\\beta _{cbb}\\{2[\\cos \\theta (1 - \\cos 2\\chi \\cos 2\\phi ) - (\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 - \\cos 2\\phi )]",
+        "- (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}\\{2[(\\cos \\theta - \\cos ^{3}\\theta ) - \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi + [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi ]\\sin 2\\chi \\}",
+        "+ (1/8)\\beta _{aab}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) - \\sin \\theta (1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "- (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )\\sin \\phi + \\sin \\theta \\cos \\theta \\sin 2\\chi \\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(\\cos \\phi + \\cos 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi \\sin 3\\phi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p73l36",
+        "p73l37",
+        "p73l38",
+        "p73l39",
+        "p73l40",
+        "p74l01",
+        "p74l02",
+        "p74l03",
+        "p74l04"
+      ],
+      "latex_lines": [
+        "\\chi _{XXZ}= -(1/2)\\beta _{cbb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(1 - \\cos 2\\phi ) + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]",
+        "- (1/2)\\beta _{cab}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )\\sin 2\\phi - \\sin ^{2}\\theta \\sin 2\\chi (1 - \\cos 2\\phi )]",
+        "+ (1/8)\\beta _{aab}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}\\sin ^{3}\\theta (1 + \\cos 2\\chi )\\sin \\phi",
+        "+ (1/4)\\beta _{abb}[[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi ) - \\sin \\theta (1 - \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p74l05",
+        "p74l06",
+        "p74l07",
+        "p74l08",
+        "p74l09",
+        "p74l10"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZZ} = \\beta _{cbb}(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\phi )",
+        "+ \\beta _{cab}(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi",
+        "+ (1/4)\\beta _{aab} \\sin ^{3}\\theta (\\sin \\phi + \\sin 3\\phi )",
+        "+ (1/4)\\beta _{bbb} \\sin ^{3}\\theta (3\\sin \\phi - \\sin 3\\phi )",
+        "+ \\beta _{ccb}(\\sin \\theta - \\sin ^{3}\\theta )\\sin \\phi",
+        "+ (1/2)\\beta _{abb} \\sin ^{3}\\theta (\\cos \\phi - \\cos 3\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p74l11",
+        "p74l12",
+        "p74l13",
+        "p74l14",
+        "p74l15",
+        "p74l16",
+        "p74l17",
+        "p74l18",
+        "p74l19",
+        "p74l20",
+        "p74l21"
+      ],
+      "latex_lines": [
+        "\\chi _{YXX}= (1/4)\\beta _{cbb}\\{[(\\sin \\theta - \\sin ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(1 - \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi - \\sin 3\\chi )(1 + \\cos 2\\phi )]",
+        "- 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}\\{[\\sin \\theta (\\sin \\chi - \\sin 3\\chi ) + (\\sin \\theta - \\sin ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )]\\sin 2\\phi",
+        "- 2\\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi \\cos 2\\phi )\\}",
+        "+ (1/16)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4\\cos \\theta (\\sin \\chi \\sin \\phi - \\sin 3\\chi \\sin 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos ^{2}\\theta (\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )]",
+        "+ (1/16)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) - 4\\cos \\theta (\\sin \\chi \\sin \\phi - \\sin 3\\chi \\sin 3\\phi )",
+        "- \\sin ^{2}\\theta (\\cos \\chi + 3\\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4(\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )]",
+        "- (1/4)\\beta _{ccb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )\\sin \\phi + \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )\\cos \\phi ]",
+        "+ (1/8)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos \\theta (\\sin \\chi \\cos \\phi - \\sin 3\\chi \\cos 3\\phi )",
+        "- \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\sin \\phi + \\sin 3\\phi ) - 4\\cos ^{2}\\theta (\\cos \\chi \\sin \\phi - \\cos 3\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p74l22",
+        "p74l23",
+        "p74l24",
+        "p74l25",
+        "p74l26",
+        "p74l27"
+      ],
+      "latex_lines": [
+        "\\chi _{YZZ} = -(1/2)\\beta _{cbb}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\sin \\chi (1 - \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]",
+        "- (1/2)\\beta _{cab}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi + \\sin \\theta \\cos \\theta \\cos (1 - \\cos 2\\phi )]",
+        "- (1/4)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (\\sin \\phi + \\sin 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "- (1/4)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (3\\sin \\phi - \\sin 3\\phi ) - \\sin ^{2}\\theta \\cos \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ \\beta _{ccb}(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi \\sin \\phi",
+        "- (1/2)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (\\cos \\phi - \\cos 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p74l28",
+        "p74l29",
+        "p74l30",
+        "p74l31",
+        "p74l32",
+        "p74l33",
+        "p74l34",
+        "p74l35"
+      ],
+      "latex_lines": [
+        "\\chi _{YZX}= (1/4)\\beta _{cbb}\\{2[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\phi ) + \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi + [\\sin ^{2}\\theta - (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi - \\sin ^{2}\\theta (1 - \\cos 2\\chi )(1 + \\cos 2\\phi ) + 2\\cos ^{2}\\theta (1 - \\cos 2\\chi \\cos 2\\phi )]",
+        "- (1/8)\\beta _{aab}\\{(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta [2\\cos \\phi - \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]\\}",
+        "+ (1/8)\\beta _{bbb}[-(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi ) + \\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi \\sin \\phi + \\sin \\theta \\cos \\theta (1 - \\cos 2\\chi )\\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}[-(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi ) + \\sin \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta (\\sin \\phi + \\cos 2\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p74l36",
+        "p74l37",
+        "p74l38",
+        "p74l39",
+        "p75l01",
+        "p75l02",
+        "p75l03",
+        "p75l04"
+      ],
+      "latex_lines": [
+        "\\chi _{YXZ}= (1/2)\\beta _{cbb}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi (1 - \\cos 2\\phi ) - \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]",
+        "+ (1/2)\\beta _{cab}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi + \\sin ^{2}\\theta \\cos 2\\chi (1 - \\cos 2\\phi )]",
+        "+ (1/8)\\beta _{aab}[-(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) + \\sin \\theta \\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[-(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi ) + \\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "- (1/2)\\beta _{ccb}\\sin ^{3}\\theta \\sin 2\\chi \\sin \\phi",
+        "- (1/4)\\beta _{abb}[(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi ) + 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p75l05",
+        "p75l06",
+        "p75l07",
+        "p75l08",
+        "p75l09",
+        "p75l10",
+        "p75l11",
+        "p75l12",
+        "p75l13",
+        "p75l14"
+      ],
+      "latex_lines": [
+        "\\chi _{YYX}= (1/4)\\beta _{cbb}\\{[-(\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\phi ) + \\sin \\theta (1 + \\cos 2\\phi )](\\cos \\chi - \\cos 3\\chi )",
+        "- 2\\sin \\theta \\cos \\theta (\\sin \\chi - \\sin 3\\chi )\\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}\\{(2\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )\\sin 2\\phi + 2\\sin \\theta \\cos \\theta [2\\sin \\chi - (\\sin \\chi - \\sin 3\\chi )\\cos 2\\phi ]\\}",
+        "+ (1/16)\\beta _{aab}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4\\cos \\theta (3\\cos \\chi \\sin \\phi - \\cos 3\\chi \\sin 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\sin \\chi + 3\\sin 3\\chi )(\\cos \\phi + \\cos 3\\phi ) + 4\\cos ^{2}\\theta (3\\sin \\chi \\cos \\phi - \\sin 3\\chi \\cos 3\\phi )]",
+        "+ (1/16)\\beta _{bbb}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) + 4\\cos \\theta (\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )",
+        "- \\sin ^{2}\\theta (\\sin \\chi - 3\\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4\\cos ^{2}\\theta (\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{ccb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )\\sin \\phi + \\sin ^{2}\\theta (3\\sin \\chi - \\sin 3\\chi )\\cos \\phi ]",
+        "+ (1/8)\\beta _{abb}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos \\theta (\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )",
+        "- \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4\\cos ^{2}\\theta (\\sin \\chi \\sin \\phi - \\sin 3\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p75l15",
+        "p75l16",
+        "p75l17",
+        "p75l18",
+        "p75l19",
+        "p75l20",
+        "p75l21",
+        "p75l22",
+        "p75l23"
+      ],
+      "latex_lines": [
+        "\\chi _{YYZ}= -(1/2)\\beta _{cbb}[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 - \\cos 2\\phi ) - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]",
+        "- (1/2)\\beta _{cab}[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\sin 2\\phi + \\sin ^{2}\\theta \\sin 2\\chi (1 - \\cos 2\\phi )]",
+        "+ (1/8)\\beta _{aab}[\\sin \\theta (1 + \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[\\sin \\theta (1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}\\sin ^{3}\\theta (1 - \\cos 2\\chi )\\sin \\phi",
+        "+ (1/4)\\beta _{abb}[-\\sin \\theta (1 + \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p75l24",
+        "p75l25",
+        "p75l26",
+        "p75l27",
+        "p75l28",
+        "p75l29",
+        "p75l30",
+        "p75l31",
+        "p75l32",
+        "p75l33"
+      ],
+      "latex_lines": [
+        "\\chi _{XYX}= (1/4)\\beta _{cbb}\\{[(\\sin \\theta - \\sin ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(1 - \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi - \\sin 3\\chi )(1 + \\cos 2\\phi )]",
+        "- 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}\\{[2\\sin \\theta \\sin \\chi - (2\\sin \\theta - \\sin ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )]\\sin 2\\phi - 2\\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi \\cos 2\\phi )\\}",
+        "+ (1/16)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4\\cos \\theta (\\sin \\chi \\sin \\phi - \\sin 3\\chi \\sin 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos ^{2}\\theta (\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )]",
+        "+ (1/16)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) - 4\\cos \\theta (\\sin \\chi \\sin \\phi - \\sin 3\\chi \\sin 3\\phi )",
+        "- \\sin ^{2}\\theta (\\cos \\chi + 3\\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4(\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )]",
+        "- (1/4)\\beta _{ccb}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )\\sin \\phi + \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )cosn\\phi ]",
+        "+ (1/8)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos \\theta (\\sin \\chi \\cos \\phi - \\sin 3\\chi \\cos 3\\phi )",
+        "- \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\sin \\phi + \\sin 3\\phi ) - 4(\\cos \\chi \\sin \\phi - \\cos 3\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p75l34",
+        "p75l35",
+        "p75l36",
+        "p75l37",
+        "p75l38",
+        "p76l01"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYZ} = -(1/2)\\beta _{cbb}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\sin \\chi (1 - \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]",
+        "- (1/2)\\beta _{cab}[(\\sin \\theta - 2\\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi + \\sin \\theta \\cos \\theta \\cos \\chi (1 - \\cos 2\\phi )]",
+        "- (1/4)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (\\sin \\phi + \\sin 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (3\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{bbb}[-(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (3\\sin \\phi - \\sin 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ \\beta _{ccb}(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi \\sin \\phi",
+        "- (1/2)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (\\cos \\phi - \\cos 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p76l02",
+        "p76l03",
+        "p76l04",
+        "p76l05",
+        "p76l06",
+        "p76l07",
+        "p76l08",
+        "p76l09"
+      ],
+      "latex_lines": [
+        "\\chi _{XYZ}= (1/2)\\beta _{cbb}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi (1 - \\cos 2\\phi ) - \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]",
+        "+ (1/2)\\beta _{cab}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi + \\sin ^{2}\\theta \\cos 2\\chi (1 - \\cos 2\\phi )]",
+        "+ (1/8)\\beta _{aab}[\\sin \\theta \\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[\\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "- (1/2)\\beta _{ccb}\\sin ^{3}\\theta \\sin 2\\chi \\sin \\phi",
+        "- (1/4)\\beta _{abb}[(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi ) + 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi - \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p76l10",
+        "p76l11",
+        "p76l12",
+        "p76l13",
+        "p76l14",
+        "p76l15",
+        "p76l16",
+        "p76l17"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYX}= (1/4)\\beta _{cbb}\\{2[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\phi ) + \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi + [\\sin ^{2}\\theta - (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ] \\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi - \\sin ^{2}\\theta (1 - \\cos 2\\chi )(1 + \\cos 2\\phi ) + 2(1 - \\cos 2\\chi \\cos 2\\phi )]",
+        "- (1/8)\\beta _{aab}\\{(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) + 2s in\\theta \\cos \\theta [2\\cos 2\\phi - \\cos 2\\chi (\\cos \\phi + \\cos 3\\phi )]\\}",
+        "+ (1/8)\\beta _{bbb}[\\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi \\sin \\phi + \\sin \\theta \\cos \\theta (1 - \\cos 2\\chi )\\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}[\\sin \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta (\\sin \\phi + \\cos 2\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p76l18",
+        "p76l19",
+        "p76l20",
+        "p76l21",
+        "p76l22",
+        "p76l23",
+        "p76l24",
+        "p76l25",
+        "p76l26",
+        "p76l27"
+      ],
+      "latex_lines": [
+        "\\chi _{YXY}= -(1/4)\\beta _{cbb}\\{[(\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(1 - \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi + \\cos 3\\chi )(1+ \\cos 2\\phi )]",
+        "- 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi \\}",
+        "+ (1/4)\\beta _{cab}\\{[2\\sin \\theta \\cos \\chi - (2\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )]\\sin 2\\phi + 2\\sin \\theta \\cos \\theta (\\sin \\chi + \\sin 3\\chi \\cos 2\\phi )\\}",
+        "+ (1/16)\\beta _{aab}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(\\sin \\phi + \\sin 3\\phi ) - 4\\cos \\theta (\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos ^{2}\\theta (\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi )]",
+        "+ (1/16)\\beta _{bbb}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) + 4\\cos \\theta (\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )",
+        "- \\sin ^{2}\\theta (\\sin \\chi - 3\\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4(\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{ccb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )\\sin \\phi - \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )\\cos \\phi ]",
+        "+ (1/8)\\beta _{abb}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4\\cos \\theta (\\cos \\chi \\cos \\phi + \\cos 3\\chi \\cos 3\\phi )",
+        "- \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\sin \\phi + \\sin 3\\phi ) - 4\\cos ^{2}\\theta (\\sin \\chi \\sin \\phi + \\sin 3\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p76l28",
+        "p76l29",
+        "p76l30",
+        "p76l31",
+        "p76l32",
+        "p76l33",
+        "p76l34",
+        "p76l35",
+        "p76l36",
+        "p76l37"
+      ],
+      "latex_lines": [
+        "\\chi _{YZY}= (1/4)\\beta _{cbb}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 - \\cos 2\\phi )]",
+        "+ (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}\\{2[(\\cos \\theta - \\cos ^{3}\\theta ) + \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi - [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi ]\\sin 2\\chi \\}",
+        "- (1/8)\\beta _{aab}[\\sin \\theta (1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[\\sin \\theta (1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}[-(\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )\\sin \\phi + \\sin \\theta \\cos \\theta \\sin 2\\chi \\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}[\\sin \\theta (1 + \\cos 2\\chi )(\\cos \\phi + \\cos 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\sin 3\\phi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p76l38",
+        "p77l01",
+        "p77l02",
+        "p77l03",
+        "p77l04",
+        "p77l05",
+        "p77l06",
+        "p77l07",
+        "p77l08",
+        "p77l09"
+      ],
+      "latex_lines": [
+        "\\chi _{XXY}= (1/4)\\beta _{cbb}\\{[(\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\phi ) - \\sin \\theta (1 + \\cos 2\\phi )](\\sin \\chi + \\sin 3\\chi )",
+        "- 2\\sin \\theta \\cos \\theta (\\cos \\chi + \\cos 3\\chi )\\sin 2\\phi \\}",
+        "+ (1/4)\\beta _{cab}\\{(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\phi - 2\\sin \\theta \\cos \\theta [2\\cos \\chi - (\\cos \\chi + \\cos 3\\chi )\\cos 2\\phi ]\\}",
+        "+ (1/16)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(\\sin \\phi + \\sin 3\\phi ) - 4\\cos \\theta (3\\sin \\chi \\sin \\phi + \\sin 3\\chi \\sin 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4\\cos ^{2}\\theta (3\\cos \\chi \\cos \\phi + \\cos 3\\chi \\cos 3\\phi )]",
+        "+ (1/16)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) - 4\\cos \\theta (3\\sin \\chi \\sin \\phi + \\sin 3\\chi \\sin 3\\phi )",
+        "- \\sin ^{2}\\theta (\\cos \\chi + \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4(\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{ccb}[-(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )\\sin \\phi + \\sin ^{2}\\theta (3\\cos \\chi + \\cos 3\\chi )\\cos \\phi ]",
+        "+ (1/8)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4\\cos \\theta (\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi )",
+        "- \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4\\cos ^{2}\\theta (\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p77l10",
+        "p77l11",
+        "p77l12",
+        "p77l13",
+        "p77l14",
+        "p77l15"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZY} = \\beta _{cbb}[-(\\sin \\theta - \\sin ^{3}\\theta )\\sin \\chi (1 - \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]",
+        "- \\beta _{cab}[(\\sin \\theta - \\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi - \\sin \\theta \\cos \\theta \\cos \\chi (1 + \\cos 2\\phi )]",
+        "+ (1/4)\\beta _{aab}[-(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (\\sin \\phi + \\sin 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (3\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{bbb}[-(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (3\\sin \\phi - \\sin 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ \\beta _{ccb}[-\\cos ^{3}\\theta \\sin \\chi \\sin \\phi + \\cos ^{2}\\theta \\cos \\chi \\cos \\phi ]",
+        "+ (1/2)\\beta _{abb}[-(\\cos \\theta - \\cos ^{3}\\theta )\\sin \\chi (\\cos \\phi - \\cos 3\\phi ) + \\sin ^{2}\\theta \\cos \\chi (\\sin \\phi + \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p77l16",
+        "p77l17",
+        "p77l18",
+        "p77l19",
+        "p77l20",
+        "p77l21",
+        "p77l22",
+        "p77l23"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXY}= (1/4)\\beta _{cbb}\\{2[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\phi ) + \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi - [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi + \\sin ^{2}\\theta (1 + \\cos 2\\chi )(1 + \\cos 2\\phi ) - 2\\cos ^{2}\\theta (1 - \\cos 2\\chi \\cos 2\\phi )]",
+        "+ (1/8)\\beta _{aab}\\{-(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta [2\\cos \\phi + \\cos 2\\chi (\\cos \\phi + \\cos 3\\phi )]\\}",
+        "+ (1/8)\\beta _{bbb}[\\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi \\sin \\phi - \\sin \\theta \\cos \\theta (1 + \\cos 2\\chi )\\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}\\{\\sin \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi - \\sin 3\\phi )]\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p77l24",
+        "p77l25",
+        "p77l26",
+        "p77l27",
+        "p77l28",
+        "p77l29",
+        "p77l30",
+        "p77l31"
+      ],
+      "latex_lines": [
+        "\\chi _{XZY}= (1/4)\\beta _{cbb}\\{2[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\phi ) + \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi - [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi + \\sin ^{2}\\theta (1 + \\cos 2\\chi )(1 + \\cos 2\\phi ) - 2\\cos ^{2}\\theta (1 + \\cos 2\\chi \\cos 2\\phi )]",
+        "+ (1/8)\\beta _{aab}\\{-(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta [2\\cos \\phi + \\cos 2\\chi (\\cos \\phi + \\cos 3\\phi )]\\}",
+        "+ (1/8)\\beta _{bbb}[\\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi )",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi \\sin \\phi - \\sin \\theta \\cos \\theta (1 + \\cos 2\\chi )\\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}\\{\\sin \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi - \\sin 3\\phi )]\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p77l32",
+        "p77l33",
+        "p77l34",
+        "p77l35",
+        "p77l36",
+        "p77l37",
+        "p77l38",
+        "p77l39",
+        "p78l01",
+        "p78l02"
+      ],
+      "latex_lines": [
+        "\\chi _{XYY}= -(1/4)\\beta _{cbb}\\{[(\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(1 - \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi + \\cos 3\\chi )(1 + \\cos 2\\phi )]",
+        "- 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi \\}",
+        "+ (1/4)\\beta _{cab}\\{[2\\sin \\theta \\cos \\chi - (2\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )]\\sin 2\\phi + 2\\sin \\theta \\cos \\theta (\\sin \\chi + \\sin 3\\chi \\cos 2\\phi )\\}",
+        "- (1/16)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4\\cos \\theta (\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )",
+        "- \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4\\cos ^{2}\\theta (\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi )]",
+        "- (1/16)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) - 4\\cos \\theta (\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\sin \\chi - 3\\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos ^{2}\\theta (\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{ccb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )\\sin \\phi - \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )\\cos \\phi ]",
+        "- (1/8)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos \\theta (\\cos \\chi \\cos \\phi + \\cos 3\\chi \\cos 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )(\\sin \\phi + \\sin 3\\phi ) + 4\\cos ^{2}\\theta (\\sin \\chi \\sin \\phi + \\sin 3\\chi \\sin 3\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p78l03",
+        "p78l04",
+        "p78l05",
+        "p78l06",
+        "p78l07",
+        "p78l08",
+        "p78l09",
+        "p78l10",
+        "p78l11",
+        "p78l12"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYY}= (1/4)\\beta _{cbb}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 - \\cos 2\\phi )]",
+        "+ (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}",
+        "- (1/4)\\beta _{cab}\\{2[(\\cos \\theta - \\cos ^{3}\\theta ) - \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi - [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi ]\\sin 2\\chi \\}",
+        "+ (1/8)\\beta _{aab}[-\\sin \\theta (1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi )]",
+        "+ (1/8)\\beta _{bbb}[\\sin \\theta (1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )]",
+        "+ (1/2)\\beta _{ccb}[-(\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )\\sin \\phi + \\sin \\theta \\cos \\theta \\sin 2\\chi \\cos \\phi ]",
+        "+ (1/4)\\beta _{abb}[\\sin \\theta (1 + \\cos 2\\chi )(\\cos \\phi + \\cos 3\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(1 - \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi )",
+        "- 2\\sin \\theta \\cos \\theta \\sin 2\\chi \\sin 3\\phi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p78l13",
+        "p78l14",
+        "p78l15",
+        "p78l16",
+        "p78l17",
+        "p78l18",
+        "p78l19",
+        "p78l20",
+        "p78l21",
+        "p78l22",
+        "p78l23"
+      ],
+      "latex_lines": [
+        "\\chi _{YYY}= (1/4)\\beta _{cbb}\\{[(\\sin \\theta - \\sin ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi )(1 - \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi + \\sin 3\\chi )(1 + \\cos 2\\phi )]",
+        "- 2\\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi )\\sin 2\\phi \\}",
+        "+ (1/4)\\beta _{cab}\\{[4(\\sin \\theta - \\sin ^{3}\\theta )\\sin \\chi -(2\\sin \\theta - \\sin ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi )]\\sin 2\\phi",
+        "- 2\\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi )\\cos 2\\phi \\}",
+        "+ (1/16)\\beta _{aab}[(\\cos \\theta - \\cos ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi )(\\sin \\phi + \\sin 3\\phi ) - 4\\cos \\theta (\\sin \\chi \\sin \\phi - \\sin 3\\chi \\sin 3\\phi )",
+        "- \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\cos \\phi + 3\\cos 3\\phi ) + 4(\\cos \\chi \\cos \\phi - \\cos 3\\chi \\cos 3\\phi )]",
+        "+ (1/16)\\beta _{bbb}[(\\cos \\theta - \\cos ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi )(3\\sin \\phi - \\sin 3\\phi ) - 4\\cos \\theta (\\sin \\chi \\sin \\phi + \\sin 3\\chi \\sin 3\\phi )",
+        "- 3\\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\cos \\phi - \\cos 3\\phi ) + 4(\\cos \\chi \\cos \\phi + \\cos 3\\chi \\cos 3\\phi )]",
+        "+ (1/4)\\beta _{ccb}[(\\cos \\theta - \\cos ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi )\\sin \\phi + \\sin ^{2}\\theta (\\sin \\chi + \\sin 3\\chi )\\cos \\phi ]",
+        "+ (1/8)\\beta _{abb}[(\\cos \\theta - \\cos ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi )(\\cos \\phi - \\cos 3\\phi ) - 4\\cos \\theta (\\sin \\chi \\cos \\phi + \\sin 3\\chi \\cos 3\\phi )",
+        "+ \\sin ^{2}\\theta (\\cos \\chi - \\cos 3\\chi )(\\sin \\phi - 3\\sin 3\\phi ) - 4(\\cos \\chi \\sin \\phi + \\cos 3\\chi \\sin 3\\phi )]"
+      ]
+    }
+  ],
+  "tensor_components": [
+    {
+      "symbol": "chi",
+      "indices": "XXX",
+      "source": "p72l25"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZZ",
+      "source": "p72l36"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXZ",
+      "source": "p73l04"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZX",
+      "source": "p73l10"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXX",
+      "source": "p73l16"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZX",
+      "source": "p73l26"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXZ",
+      "source": "p73l36"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZZ",
+      "source": "p74l05"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YXX",
+      "source": "p74l11"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZZ",
+      "source": "p74l22"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZX",
+      "source": "p74l28"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YXZ",
+      "source": "p74l36"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYX",
+      "source": "p75l05"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYZ",
+      "source": "p75l15"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XYX",
+      "source": "p75l24"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYZ",
+      "source": "p75l34"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XYZ",
+      "source": "p76l02"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYX",
+      "source": "p76l10"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YXY",
+      "source": "p76l18"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZY",
+      "source": "p76l28"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXY",
+      "source": "p76l38"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZY",
+      "source": "p77l10"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXY",
+      "source": "p77l16"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZY",
+      "source": "p77l24"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XYY",
+      "source": "p77l32"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYY",
+      "source": "p78l03"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYY",
+      "source": "p78l13"
+    }
+  ],
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true
+}

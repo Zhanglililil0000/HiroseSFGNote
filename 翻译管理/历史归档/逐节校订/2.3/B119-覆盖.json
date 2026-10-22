@@ -1,0 +1,18 @@
+{
+  "batch": "B119",
+  "title": "双介质反射路径及原图",
+  "pages": [
+    5,
+    6
+  ],
+  "source_sha256": "63c635f8fde9e43fd6e7e9b1be2504119bf4354fb7a1f3deba48f3024eb28384",
+  "units": [
+    "完整(3)—(4c)七步；θ2/θ1差异保留，新增Q074",
+    "(x,−z)/(x,z)及时间连写关联Q056",
+    "独立PDF p6示意图保留，图中文字附中文说明"
+  ],
+  "labels": [],
+  "images": [
+    "../assets/ch02/s03/ch02-s03-fig01.png"
+  ]
+}

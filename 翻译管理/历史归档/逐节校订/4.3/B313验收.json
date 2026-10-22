@@ -1,0 +1,22 @@
+{
+  "batch": "B313",
+  "date": "2026-10-21",
+  "pages": [
+    25,
+    26
+  ],
+  "scope": "第7部分全部12个编号式7.1a—7.5c、余弦因子及作者末尾疑问",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B313",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "647b4430fcb87db1fed20b4da852a8370ff2d9ac9bcce4189f0821c44d7826fd",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

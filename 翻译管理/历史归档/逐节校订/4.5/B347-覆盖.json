@@ -1,0 +1,443 @@
+{
+  "batch": "B347",
+  "date": "2026-10-21",
+  "pages": [
+    36,
+    37
+  ],
+  "scope": "附录C：简并反对称模式",
+  "source_lines": [
+    "p36l14",
+    "p36l15",
+    "p36l16",
+    "p36l17",
+    "p36l18",
+    "p36l19",
+    "p36l20",
+    "p36l21",
+    "p36l22",
+    "p36l23",
+    "p36l24",
+    "p36l25",
+    "p36l26",
+    "p36l27",
+    "p36l28",
+    "p36l29",
+    "p36l30",
+    "p36l31",
+    "p36l32",
+    "p36l33",
+    "p37l01",
+    "p37l02",
+    "p37l03",
+    "p37l04",
+    "p37l05",
+    "p37l06",
+    "p37l07",
+    "p37l08",
+    "p37l09",
+    "p37l10",
+    "p37l11",
+    "p37l12",
+    "p37l13",
+    "p37l14",
+    "p37l15",
+    "p37l16",
+    "p37l17",
+    "p37l18",
+    "p37l19",
+    "p37l20",
+    "p37l21"
+  ],
+  "formulas": [
+    {
+      "source_lines": [
+        "p36l15",
+        "p36l16"
+      ],
+      "latex_lines": [
+        "\\chi _{XXX}= -(1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(3\\cos \\chi + \\cos 3\\chi ) + (1 - \\cos 2\\phi )\\sin \\theta (\\cos \\chi - \\cos 3\\chi )]",
+        "- 2\\sin 2\\phi \\sin \\theta \\cos \\theta (\\sin \\chi + \\sin 3\\chi )\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l17"
+      ],
+      "latex_lines": [
+        "\\chi _{XZZ} = (1/2)\\beta _{caa}[(1 + \\cos 2\\phi )(\\sin \\theta - 2\\sin ^{3}\\theta )\\cos \\chi - \\sin 2\\phi \\sin \\theta \\cos \\theta \\sin \\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l18"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXZ} = (1/2)\\beta _{caa}[(1 + \\cos 2\\phi )(\\sin \\theta - 2\\sin ^{3}\\theta )\\cos \\chi - \\sin 2\\phi \\sin \\theta \\cos \\theta \\sin \\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l19"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZX} = \\beta _{caa}[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )\\cos \\chi - \\sin 2\\phi \\sin \\theta \\cos \\theta \\sin \\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l20",
+        "p36l21"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXX}= (1/4)\\beta _{caa}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )]",
+        "+ \\sin 2\\phi (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l22",
+        "p36l23"
+      ],
+      "latex_lines": [
+        "\\chi _{XZX}= (1/4)\\beta _{caa}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )]",
+        "+ \\sin 2\\phi (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l24"
+      ],
+      "latex_lines": [
+        "\\chi _{XXZ}= (1/2)\\beta _{caa}[-(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi ) + \\sin 2\\phi \\sin ^{2}\\theta \\sin 2\\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l25"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZZ} = \\beta _{caa}(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l26",
+        "p36l27"
+      ],
+      "latex_lines": [
+        "\\chi _{YXX}= (1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi ) + (1 - \\cos 2\\phi )\\sin \\theta (\\sin \\chi - \\sin 3\\chi )]",
+        "+ 2\\sin 2\\phi \\sin \\theta \\cos \\theta \\cos 3\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l28"
+      ],
+      "latex_lines": [
+        "\\chi _{YZZ} = -(1/2)\\beta _{caa}[(1 + \\cos 2\\phi )(\\sin \\theta - 2\\sin ^{3}\\theta )\\sin \\chi + \\sin 2\\phi \\sin \\theta \\cos \\theta \\cos \\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l29"
+      ],
+      "latex_lines": [
+        "\\chi _{YZX}= (1/4)\\beta _{caa}\\{2[(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta ) - \\cos 2\\phi \\cos \\theta ]\\sin 2\\chi + \\sin 2\\phi [-\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l30"
+      ],
+      "latex_lines": [
+        "\\chi _{YXZ}= (1/2)\\beta _{caa}[(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi + \\sin 2\\phi \\sin ^{2}\\theta \\cos 2\\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l31",
+        "p36l32"
+      ],
+      "latex_lines": [
+        "\\chi _{YYX}= (1/4)\\beta _{caa}\\{[-(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta ) + (1 - \\cos 2\\phi )\\sin \\theta ](\\cos \\chi - \\cos 3\\chi )",
+        "+ 2\\sin 2\\phi \\sin \\theta \\cos \\theta (\\sin \\chi - \\sin 3\\chi )\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p36l33"
+      ],
+      "latex_lines": [
+        "\\chi _{YYZ}= -(1/2)\\beta _{caa}[(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi ) + \\sin 2\\phi \\sin ^{2}\\theta \\sin 2\\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l01",
+        "p37l02"
+      ],
+      "latex_lines": [
+        "\\chi _{XYX}= (1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(\\sin \\chi + \\sin 3\\chi ) + (1 - \\cos 2\\phi )\\sin \\theta (\\sin \\chi - \\sin 3\\chi )]",
+        "+ 2\\sin 2\\phi \\sin \\theta \\cos \\theta \\cos 3\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l03"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYZ} = -(1/2)\\beta _{caa}[(1 + \\cos 2\\phi )(\\sin \\theta - 2\\sin ^{3}\\theta )\\sin \\chi + \\sin 2\\phi \\sin \\theta \\cos \\theta \\cos \\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l04"
+      ],
+      "latex_lines": [
+        "\\chi _{XYZ}= (1/2)\\beta _{caa}[(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi + \\sin 2\\phi \\sin ^{2}\\theta \\cos 2\\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l05"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYX}= (1/4)\\beta _{caa}\\{2[(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta ) - \\cos 2\\phi \\cos \\theta ]\\sin 2\\chi + \\sin 2\\phi [-\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l06",
+        "p37l07"
+      ],
+      "latex_lines": [
+        "\\chi _{YXY}= -(1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi ) + (1 - \\cos 2\\phi )\\sin \\theta (\\cos \\chi + \\cos 3\\chi )]",
+        "+ 2\\sin 2\\phi \\sin \\theta \\cos \\theta \\sin 3\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l08",
+        "p37l09"
+      ],
+      "latex_lines": [
+        "\\chi _{YZY}= (1/4)\\beta _{caa}\\{2[\\cos \\theta (1 - \\cos 2\\phi \\cos 2\\chi ) - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )]",
+        "- \\sin 2\\phi (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l10",
+        "p37l11"
+      ],
+      "latex_lines": [
+        "\\chi _{XXY}= (1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta ) - (1 - \\cos 2\\phi )\\sin \\theta ](\\sin \\chi + \\sin 3\\chi )",
+        "+ 2\\sin 2\\phi \\sin \\theta \\cos \\theta (\\cos \\chi + \\cos 3\\chi )\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l12"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZY} = -\\beta _{caa}[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )\\sin \\chi + \\sin 2\\phi \\sin \\theta \\cos \\theta \\cos \\chi ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l13"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXY}= (1/4)\\beta _{caa}\\{2[(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta ) - \\cos 2\\phi \\cos \\theta ]\\sin 2\\chi + \\sin 2\\phi [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l14"
+      ],
+      "latex_lines": [
+        "\\chi _{XZY}= (1/4)\\beta _{caa}\\{2[(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta ) - \\cos 2\\phi \\cos \\theta ]\\sin 2\\chi + \\sin 2\\phi [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l15",
+        "p37l16"
+      ],
+      "latex_lines": [
+        "\\chi _{XYY}= -(1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi ) + (1 - \\cos 2\\phi )\\sin \\theta (\\cos \\chi + \\cos 3\\chi )]",
+        "+ 2\\sin 2\\phi \\sin \\theta \\cos \\theta \\sin 3\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l17",
+        "p37l18"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYY}= (1/4)\\beta _{caa}\\{2[\\cos \\theta (1 - \\cos 2\\phi \\cos 2\\chi ) - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )]",
+        "- \\sin 2\\phi (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l19",
+        "p37l20"
+      ],
+      "latex_lines": [
+        "\\chi _{YYY}= (1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi ) + (1 - \\cos 2\\phi )\\sin \\theta (\\sin \\chi + \\sin 3\\chi )]",
+        "+ 2\\sin 2\\phi \\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi )]\\}"
+      ]
+    },
+    {
+      "source_lines": [
+        "p37l21"
+      ],
+      "latex_lines": [
+        "\\chi _{XXX}+ \\chi _{YYX}+ \\chi _{ZZX} = \\chi _{XXY}+ \\chi _{YYY}+ \\chi _{ZZY} = \\chi _{XXZ}+ \\chi _{YYZ}+ \\chi _{ZZZ} = 0"
+      ]
+    }
+  ],
+  "tensor_components": [
+    {
+      "symbol": "chi",
+      "indices": "XXX",
+      "source": "p36l15"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZZ",
+      "source": "p36l17"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXZ",
+      "source": "p36l18"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZX",
+      "source": "p36l19"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXX",
+      "source": "p36l20"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZX",
+      "source": "p36l22"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXZ",
+      "source": "p36l24"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZZ",
+      "source": "p36l25"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YXX",
+      "source": "p36l26"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZZ",
+      "source": "p36l28"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZX",
+      "source": "p36l29"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YXZ",
+      "source": "p36l30"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYX",
+      "source": "p36l31"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYZ",
+      "source": "p36l33"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XYX",
+      "source": "p37l01"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYZ",
+      "source": "p37l03"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XYZ",
+      "source": "p37l04"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYX",
+      "source": "p37l05"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YXY",
+      "source": "p37l06"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZY",
+      "source": "p37l08"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXY",
+      "source": "p37l10"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZY",
+      "source": "p37l12"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXY",
+      "source": "p37l13"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZY",
+      "source": "p37l14"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XYY",
+      "source": "p37l15"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYY",
+      "source": "p37l17"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYY",
+      "source": "p37l19"
+    }
+  ],
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true
+}

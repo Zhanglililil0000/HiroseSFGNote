@@ -1,0 +1,21 @@
+{
+  "batch": "B118",
+  "page": 5,
+  "start": "两种介质组成的体系",
+  "end": "(2c)及译校注",
+  "definitions": "坐标、三个角及范围、折射率和波矢，逐项见正文",
+  "path_steps": [
+    "1",
+    "1a",
+    "1b",
+    "2",
+    "2a",
+    "2b",
+    "2c"
+  ],
+  "new_numbered_equations": [],
+  "source_sha256": "63c635f8fde9e43fd6e7e9b1be2504119bf4354fb7a1f3deba48f3024eb28384",
+  "unreviewed_remainder_unchanged": true,
+  "issues": "关联Q056；斜线范围另加局部说明",
+  "source_corrections_adopted": false
+}

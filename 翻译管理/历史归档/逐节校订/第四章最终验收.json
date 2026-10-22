@@ -1,0 +1,82 @@
+{
+  "4.8": {
+    "section": "4.8",
+    "pages": 38,
+    "batches": "B385—B401",
+    "status": "本轮全节译校完成，原文未决疑点保留",
+    "math_fragments": 951,
+    "math_syntax_errors": 0,
+    "formula_overflows": 0,
+    "source_corrections_adopted": false,
+    "translation_sha256": "c8fc5f994c0c328819b80d6601d0402fb35f2e7f4be3f85e6bc4a58329e8f8db"
+  },
+  "4.9": {
+    "section": "4.9",
+    "pages": 26,
+    "batches": "B402—B415",
+    "status": "本轮全节译校完成，原文未决疑点保留",
+    "math_fragments": 605,
+    "math_syntax_errors": 0,
+    "formula_overflows": 0,
+    "source_corrections_adopted": false,
+    "translation_sha256": "ba2e02cf8d734476c9d9b0f4d45598b061e6aba0349d0649d1041e57f6eac5fa"
+  },
+  "4.10": {
+    "section": "4.10",
+    "pages": 8,
+    "batches": "B416—B420",
+    "status": "本轮全节译校完成，原文未决疑点保留",
+    "math_fragments": 161,
+    "math_syntax_errors": 0,
+    "formula_overflows": 0,
+    "source_corrections_adopted": false,
+    "translation_sha256": "82e142ea99dccc3de9a719f478d8b3cab2e0da0d1c62ae562e7bf3e5437f3ccc"
+  },
+  "4.11": {
+    "section": "4.11",
+    "pages": 2,
+    "batches": "B421—B422",
+    "status": "本轮全节译校完成，原文未决疑点保留",
+    "math_fragments": 34,
+    "math_syntax_errors": 0,
+    "formula_overflows": 0,
+    "source_corrections_adopted": false,
+    "translation_sha256": "2b41a5c8ffe9bee56933bfbaad245ad58c0d67d9855fda9aaf33d58c058be07e"
+  },
+  "chapter_pages": 267,
+  "sections": 11,
+  "completed_this_turn_batches": "B370—B422",
+  "new_pages_this_turn": 93,
+  "source_corrections_adopted": false,
+  "broken_links": [],
+  "current_canonical_math": [
+    {
+      "section": "4.7",
+      "math_fragments": 1209,
+      "errors": []
+    },
+    {
+      "section": "4.8",
+      "math_fragments": 951,
+      "errors": []
+    },
+    {
+      "section": "4.9",
+      "math_fragments": 605,
+      "errors": []
+    },
+    {
+      "section": "4.10",
+      "math_fragments": 161,
+      "errors": []
+    },
+    {
+      "section": "4.11",
+      "math_fragments": 34,
+      "errors": []
+    }
+  ],
+  "shared_source_images_verified": true,
+  "batch_assembly_identical": true,
+  "final_source_issue_status": "Q180—Q197保留未决，未采用候选修正"
+}

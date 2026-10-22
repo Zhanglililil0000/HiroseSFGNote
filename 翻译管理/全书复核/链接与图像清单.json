@@ -1,0 +1,3502 @@
+[
+  {
+    "file": "中文版本/第一章 SFG快速入门/1.1 红外-可见光和频振动光谱（SFG）入门.md",
+    "line": 221,
+    "href": "../附件/原文勘误表.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第一章 SFG快速入门/1.1 红外-可见光和频振动光谱（SFG）入门.md",
+    "line": 326,
+    "href": "../附件/原文勘误表.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第一章 SFG快速入门/1.2 振动共振、费米共振与双原子分子.md",
+    "line": 640,
+    "href": "../附件/原文勘误表.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.1 嵌入层内的发光膜产生的光电场.md",
+    "line": 74,
+    "href": "../assets/ch02/ch02-s01-fig21.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.1 嵌入层内的发光膜产生的光电场.md",
+    "line": 86,
+    "href": "../assets/ch02/ch02-s01-fig22a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.1 嵌入层内的发光膜产生的光电场.md",
+    "line": 88,
+    "href": "../assets/ch02/ch02-s01-fig22b.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 10,
+    "href": "../附件/原文勘误表.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 242,
+    "href": "../assets/ch02/ch02-s02-fig31.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 248,
+    "href": "../assets/ch02/ch02-s02-paths-a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 250,
+    "href": "../assets/ch02/ch02-s02-paths-b.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 2833,
+    "href": "../assets/ch02/s02/B079-p40-01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 2861,
+    "href": "../assets/ch02/s02/B080-p41-01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 2869,
+    "href": "../assets/ch02/s02/B080-p42-02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 2912,
+    "href": "../assets/ch02/s02/B080-p43-04.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "line": 2916,
+    "href": "../assets/ch02/s02/B080-p43-05.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.3 多层膜的和频过程（SFG）：附录集.md",
+    "line": 311,
+    "href": "../assets/ch02/s03/ch02-s03-fig01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.3 多层膜的和频过程（SFG）：附录集.md",
+    "line": 337,
+    "href": "../assets/ch02/s03/ch02-s03-fig02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.3 多层膜的和频过程（SFG）：附录集.md",
+    "line": 345,
+    "href": "../assets/ch02/s03/ch02-s03-fig03.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.3 多层膜的和频过程（SFG）：附录集.md",
+    "line": 388,
+    "href": "../assets/ch02/s03/ch02-s03-fig04.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/2.3 多层膜的和频过程（SFG）：附录集.md",
+    "line": 392,
+    "href": "../assets/ch02/s03/ch02-s03-fig05.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 476,
+    "href": "../assets/ch03/ch03-s03-2-p05-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 502,
+    "href": "../assets/ch03/ch03-s03-2-p06-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 531,
+    "href": "../assets/ch03/ch03-s03-2-p07-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 562,
+    "href": "../assets/ch03/ch03-s03-2-p08-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 682,
+    "href": "../assets/ch03/ch03-s03-2-p09-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 712,
+    "href": "../assets/ch03/ch03-s03-2-p10-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 742,
+    "href": "../assets/ch03/ch03-s03-2-p11-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "line": 769,
+    "href": "../assets/ch03/ch03-s03-2-p12-paths.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/4.1 CH、CH₂、CH₃基团CH伸缩振动的和频极化率.md",
+    "line": 474,
+    "href": "../assets/ch04/ch04-s04-1-p07-coordinates.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/4.7 CH₂、平面HCCH及扭转HCCH的和频张量.md",
+    "line": 17,
+    "href": "../assets/4.7-p1-diamond-models.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/4.8 氢化金刚石表面CH的和频张量.md",
+    "line": 22,
+    "href": "../assets/4.7-p1-diamond-models.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/4.9 氢化金刚石表面CH的和频张量（要点）.md",
+    "line": 22,
+    "href": "../assets/4.7-p1-diamond-models.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/4.10 CH₂基团及HCCH基团的欧拉角.md",
+    "line": 22,
+    "href": "../assets/4.10-CH2.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/4.10 CH₂基团及HCCH基团的欧拉角.md",
+    "line": 24,
+    "href": "../assets/4.10-HCCH-C2.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/4.10 CH₂基团及HCCH基团的欧拉角.md",
+    "line": 26,
+    "href": "../assets/4.10-HCCH-C2v.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 101,
+    "href": "../assets/ch05/ch05-s03-formula-001.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 105,
+    "href": "../assets/ch05/ch05-s03-formula-002.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 109,
+    "href": "../assets/ch05/ch05-s03-formula-003.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 113,
+    "href": "../assets/ch05/ch05-s03-formula-004.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 117,
+    "href": "../assets/ch05/ch05-s03-formula-005.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 121,
+    "href": "../assets/ch05/ch05-s03-formula-006.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 125,
+    "href": "../assets/ch05/ch05-s03-formula-007.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 129,
+    "href": "../assets/ch05/ch05-s03-formula-008.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 133,
+    "href": "../assets/ch05/ch05-s03-formula-009.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 137,
+    "href": "../assets/ch05/ch05-s03-formula-010.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 141,
+    "href": "../assets/ch05/ch05-s03-formula-011.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 145,
+    "href": "../assets/ch05/ch05-s03-formula-012.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 149,
+    "href": "../assets/ch05/ch05-s03-formula-013.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 153,
+    "href": "../assets/ch05/ch05-s03-formula-014.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 157,
+    "href": "../assets/ch05/ch05-s03-formula-015.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 161,
+    "href": "../assets/ch05/ch05-s03-formula-016.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 165,
+    "href": "../assets/ch05/ch05-s03-formula-017.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 169,
+    "href": "../assets/ch05/ch05-s03-formula-018.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 173,
+    "href": "../assets/ch05/ch05-s03-formula-019.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 177,
+    "href": "../assets/ch05/ch05-s03-formula-020.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 181,
+    "href": "../assets/ch05/ch05-s03-formula-021.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 185,
+    "href": "../assets/ch05/ch05-s03-formula-022.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 189,
+    "href": "../assets/ch05/ch05-s03-formula-023.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 193,
+    "href": "../assets/ch05/ch05-s03-formula-024.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 197,
+    "href": "../assets/ch05/ch05-s03-formula-025.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 201,
+    "href": "../assets/ch05/ch05-s03-formula-026.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 205,
+    "href": "../assets/ch05/ch05-s03-formula-027.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 211,
+    "href": "../assets/ch05/ch05-s03-formula-028.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 215,
+    "href": "../assets/ch05/ch05-s03-formula-029.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 219,
+    "href": "../assets/ch05/ch05-s03-formula-030.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 223,
+    "href": "../assets/ch05/ch05-s03-formula-031.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 227,
+    "href": "../assets/ch05/ch05-s03-formula-032.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 231,
+    "href": "../assets/ch05/ch05-s03-formula-033.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 235,
+    "href": "../assets/ch05/ch05-s03-formula-034.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 239,
+    "href": "../assets/ch05/ch05-s03-formula-035.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 243,
+    "href": "../assets/ch05/ch05-s03-formula-036.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 247,
+    "href": "../assets/ch05/ch05-s03-formula-037.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 251,
+    "href": "../assets/ch05/ch05-s03-formula-038.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 255,
+    "href": "../assets/ch05/ch05-s03-formula-039.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 259,
+    "href": "../assets/ch05/ch05-s03-formula-040.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 263,
+    "href": "../assets/ch05/ch05-s03-formula-041.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 267,
+    "href": "../assets/ch05/ch05-s03-formula-042.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 271,
+    "href": "../assets/ch05/ch05-s03-formula-043.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 275,
+    "href": "../assets/ch05/ch05-s03-formula-044.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 279,
+    "href": "../assets/ch05/ch05-s03-formula-045.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 283,
+    "href": "../assets/ch05/ch05-s03-formula-046.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 287,
+    "href": "../assets/ch05/ch05-s03-formula-047.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 291,
+    "href": "../assets/ch05/ch05-s03-formula-048.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 295,
+    "href": "../assets/ch05/ch05-s03-formula-049.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 299,
+    "href": "../assets/ch05/ch05-s03-formula-050.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 303,
+    "href": "../assets/ch05/ch05-s03-formula-051.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 307,
+    "href": "../assets/ch05/ch05-s03-formula-052.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 311,
+    "href": "../assets/ch05/ch05-s03-formula-053.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 315,
+    "href": "../assets/ch05/ch05-s03-formula-054.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 323,
+    "href": "../assets/ch05/ch05-s03-formula-055.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 327,
+    "href": "../assets/ch05/ch05-s03-formula-056.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 331,
+    "href": "../assets/ch05/ch05-s03-formula-057.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 335,
+    "href": "../assets/ch05/ch05-s03-formula-058.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 339,
+    "href": "../assets/ch05/ch05-s03-formula-059.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 343,
+    "href": "../assets/ch05/ch05-s03-formula-060.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 347,
+    "href": "../assets/ch05/ch05-s03-formula-061.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 351,
+    "href": "../assets/ch05/ch05-s03-formula-062.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 355,
+    "href": "../assets/ch05/ch05-s03-formula-063.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 359,
+    "href": "../assets/ch05/ch05-s03-formula-064.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 363,
+    "href": "../assets/ch05/ch05-s03-formula-065.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 367,
+    "href": "../assets/ch05/ch05-s03-formula-066.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 371,
+    "href": "../assets/ch05/ch05-s03-formula-067.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 375,
+    "href": "../assets/ch05/ch05-s03-formula-068.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 379,
+    "href": "../assets/ch05/ch05-s03-formula-069.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 383,
+    "href": "../assets/ch05/ch05-s03-formula-070.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 387,
+    "href": "../assets/ch05/ch05-s03-formula-071.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 391,
+    "href": "../assets/ch05/ch05-s03-formula-072.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 395,
+    "href": "../assets/ch05/ch05-s03-formula-073.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 399,
+    "href": "../assets/ch05/ch05-s03-formula-074.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 403,
+    "href": "../assets/ch05/ch05-s03-formula-075.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 407,
+    "href": "../assets/ch05/ch05-s03-formula-076.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 411,
+    "href": "../assets/ch05/ch05-s03-formula-077.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 415,
+    "href": "../assets/ch05/ch05-s03-formula-078.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 419,
+    "href": "../assets/ch05/ch05-s03-formula-079.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 423,
+    "href": "../assets/ch05/ch05-s03-formula-080.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+    "line": 427,
+    "href": "../assets/ch05/ch05-s03-formula-081.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 47,
+    "href": "../assets/ch05/ch05-s04-p02-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 76,
+    "href": "../assets/ch05/ch05-s04-p02-table02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 82,
+    "href": "../assets/ch05/ch05-s04-p02-table03.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 96,
+    "href": "../assets/ch05/ch05-s04-p03-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 102,
+    "href": "../assets/ch05/ch05-s04-p03-table02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 110,
+    "href": "../assets/ch05/ch05-s04-p04-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 116,
+    "href": "../assets/ch05/ch05-s04-p04-table02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 130,
+    "href": "../assets/ch05/ch05-s04-p05-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 137,
+    "href": "../assets/ch05/ch05-s04-p06-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 144,
+    "href": "../assets/ch05/ch05-s04-p07-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 151,
+    "href": "../assets/ch05/ch05-s04-p08-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 158,
+    "href": "../assets/ch05/ch05-s04-p09-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 165,
+    "href": "../assets/ch05/ch05-s04-p10-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 172,
+    "href": "../assets/ch05/ch05-s04-p11-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 179,
+    "href": "../assets/ch05/ch05-s04-p12-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 212,
+    "href": "../assets/ch05/ch05-s04-p14-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 217,
+    "href": "../assets/ch05/ch05-s04-p14-table02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 222,
+    "href": "../assets/ch05/ch05-s04-p14-table03.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+    "line": 227,
+    "href": "../assets/ch05/ch05-s04-p14-table04.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 47,
+    "href": "../assets/ch05/ch05-s05-p02-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 80,
+    "href": "../assets/ch05/ch05-s05-p03-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 90,
+    "href": "../assets/ch05/ch05-s05-p03-table02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 102,
+    "href": "../assets/ch05/ch05-s05-p04-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 112,
+    "href": "../assets/ch05/ch05-s05-p04-table02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 124,
+    "href": "../assets/ch05/ch05-s05-p05-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 134,
+    "href": "../assets/ch05/ch05-s05-p06-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 144,
+    "href": "../assets/ch05/ch05-s05-p07-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 175,
+    "href": "../assets/ch05/ch05-s05-p08-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 183,
+    "href": "../assets/ch05/ch05-s05-p08-table02.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 191,
+    "href": "../assets/ch05/ch05-s05-p09-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 199,
+    "href": "../assets/ch05/ch05-s05-p10-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 207,
+    "href": "../assets/ch05/ch05-s05-p11-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 215,
+    "href": "../assets/ch05/ch05-s05-p12-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+    "line": 223,
+    "href": "../assets/ch05/ch05-s05-p13-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 75,
+    "href": "../assets/ch05/ch05-s06-p02-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 82,
+    "href": "../assets/ch05/ch05-s06-p03-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 91,
+    "href": "../assets/ch05/ch05-s06-p04-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 98,
+    "href": "../assets/ch05/ch05-s06-p05-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 105,
+    "href": "../assets/ch05/ch05-s06-p06-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 112,
+    "href": "../assets/ch05/ch05-s06-p07-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 119,
+    "href": "../assets/ch05/ch05-s06-p08-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 126,
+    "href": "../assets/ch05/ch05-s06-p09-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 133,
+    "href": "../assets/ch05/ch05-s06-p10-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 140,
+    "href": "../assets/ch05/ch05-s06-p11-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 147,
+    "href": "../assets/ch05/ch05-s06-p12-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 154,
+    "href": "../assets/ch05/ch05-s06-p13-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 161,
+    "href": "../assets/ch05/ch05-s06-p14-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 168,
+    "href": "../assets/ch05/ch05-s06-p15-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 175,
+    "href": "../assets/ch05/ch05-s06-p16-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 182,
+    "href": "../assets/ch05/ch05-s06-p17-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 189,
+    "href": "../assets/ch05/ch05-s06-p18-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 196,
+    "href": "../assets/ch05/ch05-s06-p19-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 203,
+    "href": "../assets/ch05/ch05-s06-p20-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 210,
+    "href": "../assets/ch05/ch05-s06-p21-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 217,
+    "href": "../assets/ch05/ch05-s06-p22-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 224,
+    "href": "../assets/ch05/ch05-s06-p23-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 231,
+    "href": "../assets/ch05/ch05-s06-p24-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 238,
+    "href": "../assets/ch05/ch05-s06-p25-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 245,
+    "href": "../assets/ch05/ch05-s06-p26-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 252,
+    "href": "../assets/ch05/ch05-s06-p27-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 259,
+    "href": "../assets/ch05/ch05-s06-p28-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 266,
+    "href": "../assets/ch05/ch05-s06-p29-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 273,
+    "href": "../assets/ch05/ch05-s06-p30-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 280,
+    "href": "../assets/ch05/ch05-s06-p31-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 287,
+    "href": "../assets/ch05/ch05-s06-p32-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 294,
+    "href": "../assets/ch05/ch05-s06-p33-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 301,
+    "href": "../assets/ch05/ch05-s06-p34-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 308,
+    "href": "../assets/ch05/ch05-s06-p35-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 315,
+    "href": "../assets/ch05/ch05-s06-p36-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+    "line": 322,
+    "href": "../assets/ch05/ch05-s06-p37-table01.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 7,
+    "href": "阅读导航.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 871,
+    "href": "../assets/6.1/p23-多重散射展开.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 914,
+    "href": "../assets/6.1/p25-偶极链吸收示意.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 959,
+    "href": "../assets/6.1/p26-式2.2.6.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 963,
+    "href": "../assets/6.1/p26-辐射场.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 979,
+    "href": "../assets/6.1/p27-式2.2.9-10.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1014,
+    "href": "../assets/6.1/p29-式2.3.4展开.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1215,
+    "href": "../assets/6.1/p37-式3.6.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1219,
+    "href": "../assets/6.1/p37-式3.7.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1223,
+    "href": "../assets/6.1/p37-式3.8.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1227,
+    "href": "../assets/6.1/p37-式3.9.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1231,
+    "href": "../assets/6.1/p37-式3.10.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1257,
+    "href": "../assets/6.1/p38-式3.14.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1282,
+    "href": "../assets/6.1/p39-式3.18.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1334,
+    "href": "../assets/6.1/p41-屏蔽和频式.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1342,
+    "href": "../assets/6.1/p41-取向图.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1353,
+    "href": "../assets/6.1/p41-相互作用汇总式.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1455,
+    "href": "../assets/6.1/p44-双偶极几何.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1479,
+    "href": "../assets/6.1/p45-镜像电荷图1.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1518,
+    "href": "../assets/6.1/p46-极化面电荷图.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1555,
+    "href": "../assets/6.1/p48-镜像方向图.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1559,
+    "href": "../assets/6.1/p48-式C.2.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1616,
+    "href": "../assets/6.1/p50-膜外电荷.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1641,
+    "href": "../assets/6.1/p51-式D.2a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1649,
+    "href": "../assets/6.1/p51-式D.3a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1657,
+    "href": "../assets/6.1/p51-式D.4a上.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1658,
+    "href": "../assets/6.1/p52-式D.4a下.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1672,
+    "href": "../assets/6.1/p52-膜内电荷.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1678,
+    "href": "../assets/6.1/p52-式D.5a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1687,
+    "href": "../assets/6.1/p52-式D.6a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1696,
+    "href": "../assets/6.1/p53-式D.7a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+    "line": 1758,
+    "href": "../assets/6.1/p54-CPA示意.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 42,
+    "href": "../assets/7.1/p2-极化薄片几何.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 264,
+    "href": "7.2%20附录A：去除等介电常数近似的式17推导.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 285,
+    "href": "7.3%20附录B：式20的推导.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 291,
+    "href": "../assets/7.1/p5-折射率.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 304,
+    "href": "../assets/7.1/p6-向上.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 308,
+    "href": "../assets/7.1/p6-向下.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 310,
+    "href": "7.4%20附录C：式20的折射率表示与多重反射.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 331,
+    "href": "../assets/7.1/p6-证明起点.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 333,
+    "href": "../assets/7.1/p7-s振幅.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 337,
+    "href": "../assets/7.1/p7-分量变形.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 341,
+    "href": "../assets/7.1/p7-偏振关系.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 345,
+    "href": "../assets/7.1/p7-证明末组.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 428,
+    "href": "../assets/7.1/p9-式31.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 438,
+    "href": "../assets/7.1/p9-式32.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 447,
+    "href": "../assets/7.1/p10-式33a.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 455,
+    "href": "../assets/7.1/p10-式33c.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 498,
+    "href": "../assets/7.1/p11-式36.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 502,
+    "href": "../assets/7.1/p11-式37.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 529,
+    "href": "../assets/7.1/p12-式40.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 564,
+    "href": "../assets/7.1/p13-式41.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 574,
+    "href": "../assets/7.1/p13-式46.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 578,
+    "href": "../assets/7.1/p13-式47.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+    "line": 599,
+    "href": "7.5%20附录D：和频张量的非零分量.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.2 附录A：去除等介电常数近似的式17推导.md",
+    "line": 4,
+    "href": "7.1%20解读Tony%20F.%20Heinz的综述.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.2 附录A：去除等介电常数近似的式17推导.md",
+    "line": 10,
+    "href": "../assets/7.2/p1-示意图.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.2 附录A：去除等介电常数近似的式17推导.md",
+    "line": 61,
+    "href": "../assets/7.2/p2-式A4ef.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.2 附录A：去除等介电常数近似的式17推导.md",
+    "line": 97,
+    "href": "../assets/7.2/p3-式A8.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.2 附录A：去除等介电常数近似的式17推导.md",
+    "line": 106,
+    "href": "../assets/7.2/p3-式A9.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 4,
+    "href": "7.1%20解读Tony%20F.%20Heinz的综述.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 24,
+    "href": "../assets/7.3/p1-示意图.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 51,
+    "href": "../assets/7.3/p2-式B4.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 55,
+    "href": "../assets/7.3/p2-电场分量.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 67,
+    "href": "../assets/7.3/p2-式B5.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 71,
+    "href": "../assets/7.3/p2-式B6.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 82,
+    "href": "../assets/7.3/p3-式B8.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+    "line": 93,
+    "href": "../assets/7.3/p3-末两式.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 4,
+    "href": "7.3%20附录B：式20的推导.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 10,
+    "href": "../assets/7.4/p1-示意图.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 14,
+    "href": "../assets/7.4/p1-级数.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 18,
+    "href": "../assets/7.4/p1-闭式.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 25,
+    "href": "../assets/7.4/p2-膜内场.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 33,
+    "href": "../assets/7.4/p2-s系数.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 37,
+    "href": "../assets/7.4/p2-p系数.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 45,
+    "href": "../assets/7.4/p2-s对应.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+    "line": 49,
+    "href": "../assets/7.4/p2-p对应.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 10,
+    "href": "../assets/7.5/p1-1个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 14,
+    "href": "../assets/7.5/p1-2个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 18,
+    "href": "../assets/7.5/p1-3个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 22,
+    "href": "../assets/7.5/p1-4个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 26,
+    "href": "../assets/7.5/p1-5个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 30,
+    "href": "../assets/7.5/p1-6个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 34,
+    "href": "../assets/7.5/p1-7个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 38,
+    "href": "../assets/7.5/p1-9个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 42,
+    "href": "../assets/7.5/p1-13个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+    "line": 46,
+    "href": "../assets/7.5/p1-14个.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 68,
+    "href": "../assets/8.1/p2-多谱带.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 96,
+    "href": "../assets/8.1/p2-分子数积分.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 152,
+    "href": "../assets/8.1/p4-式1.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 160,
+    "href": "../assets/8.1/p4-式2.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 216,
+    "href": "../assets/8.1/p5-式4.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 224,
+    "href": "../assets/8.1/p6-式5.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 236,
+    "href": "../assets/8.1/p6-式6.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 238,
+    "href": "../assets/8.1/p6-式7.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 256,
+    "href": "../assets/8.1/p7-式8.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 260,
+    "href": "../assets/8.1/p7-式9.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 266,
+    "href": "../assets/8.1/p7-式10.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 276,
+    "href": "../assets/8.1/p7-式11.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 278,
+    "href": "../assets/8.1/p7-式12.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 292,
+    "href": "../assets/8.1/p8-式13.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 302,
+    "href": "../assets/8.1/p8-式14.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 306,
+    "href": "../assets/8.1/p8-式15.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 312,
+    "href": "../assets/8.1/p8-式16.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 328,
+    "href": "../assets/8.1/p9-式17.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 332,
+    "href": "../assets/8.1/p9-式18.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 350,
+    "href": "../assets/8.1/p10-式A1.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 354,
+    "href": "../assets/8.1/p10-式A2.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 358,
+    "href": "../assets/8.1/p10-式A3.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 364,
+    "href": "../assets/8.1/p10-式A4.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 368,
+    "href": "../assets/8.1/p10-式A5.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 410,
+    "href": "../assets/8.1/p12-式B2.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 414,
+    "href": "../assets/8.1/p12-式B3.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 418,
+    "href": "../assets/8.1/p12-式B4.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 422,
+    "href": "../assets/8.1/p12-式B5.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 426,
+    "href": "../assets/8.1/p12-式B6.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 430,
+    "href": "../assets/8.1/p12-式B7.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 432,
+    "href": "../assets/8.1/p12-式B8.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 436,
+    "href": "../assets/8.1/p12-式B9.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 456,
+    "href": "../assets/8.1/p13-式C1.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 460,
+    "href": "../assets/8.1/p13-式C2.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 464,
+    "href": "../assets/8.1/p13-式C3.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 468,
+    "href": "../assets/8.1/p13-式C4.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 472,
+    "href": "../assets/8.1/p13-式C5.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "line": 474,
+    "href": "../assets/8.1/p13-式C6.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.2 和频光谱分析便览.md",
+    "line": 13,
+    "href": "../assets/8.2/p1-单谱带.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.2 和频光谱分析便览.md",
+    "line": 17,
+    "href": "../assets/8.2/p1-多谱带.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.2 和频光谱分析便览.md",
+    "line": 57,
+    "href": "../assets/8.2/p2-积分.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 89,
+    "href": "../assets/8.3/p2-基本响应.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 97,
+    "href": "../assets/8.3/p3-基本雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 101,
+    "href": "../assets/8.3/p3-电场偏导.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 113,
+    "href": "../assets/8.3/p3-条件2强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 117,
+    "href": "../assets/8.3/p3-条件2雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 127,
+    "href": "../assets/8.3/p4-条件3强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 133,
+    "href": "../assets/8.3/p4-条件3雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 143,
+    "href": "../assets/8.3/p4-条件4强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 147,
+    "href": "../assets/8.3/p4-条件4雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 159,
+    "href": "../assets/8.3/p4-条件5权重.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 161,
+    "href": "../assets/8.3/p5-条件5强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 165,
+    "href": "../assets/8.3/p5-条件5雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 171,
+    "href": "../assets/8.3/p5-条件6强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 175,
+    "href": "../assets/8.3/p5-条件6雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 181,
+    "href": "../assets/8.3/p5-条件7强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 185,
+    "href": "../assets/8.3/p6-条件7雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 193,
+    "href": "../assets/8.3/p6-条件8强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 195,
+    "href": "../assets/8.3/p6-条件8雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 199,
+    "href": "../assets/8.3/p7-条件8续式.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 207,
+    "href": "../assets/8.3/p7-条件9强度.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 209,
+    "href": "../assets/8.3/p7-条件9一般雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 211,
+    "href": "../assets/8.3/p7-条件9宽度雅可比.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 221,
+    "href": "../assets/8.3/p8-附录1光强.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 225,
+    "href": "../assets/8.3/p8-附录1电场.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "line": 235,
+    "href": "../assets/8.3/p8-附录2公式.png",
+    "exists": true,
+    "image": true
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 13,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 14,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 15,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%8F%8C%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 16,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 17,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 18,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%81%B6%E6%9E%81%E9%97%B4%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 19,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 20,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 30,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/1.1%20%E7%BA%A2%E5%A4%96-%E5%8F%AF%E8%A7%81%E5%85%89%E5%92%8C%E9%A2%91%E6%8C%AF%E5%8A%A8%E5%85%89%E8%B0%B1%EF%BC%88SFG%EF%BC%89%E5%85%A5%E9%97%A8.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 31,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/1.2%20%E6%8C%AF%E5%8A%A8%E5%85%B1%E6%8C%AF%E3%80%81%E8%B4%B9%E7%B1%B3%E5%85%B1%E6%8C%AF%E4%B8%8E%E5%8F%8C%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 32,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/1.3%20%E5%85%89%E7%94%B5%E5%9C%BA%E3%80%81%E6%9E%81%E5%8C%96%E4%B8%8E%E8%8F%B2%E6%B6%85%E5%B0%94%E5%9B%A0%E5%AD%90.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 33,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/1.4%20%E7%94%B5%E5%81%B6%E6%9E%81%E5%AD%90%E7%9A%84%E7%94%B5%E5%9C%BA%E4%B8%8E%E8%BE%90%E5%B0%84.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 34,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/1.5%20SFG%E5%85%89%E8%B0%B1%E7%9A%84%E6%97%A9%E6%9C%9F%E5%B7%A5%E4%BD%9C%E6%95%B4%E7%90%86%EF%BC%881983%E2%80%941995%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 36,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 42,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/2.1%20%E5%B5%8C%E5%85%A5%E5%B1%82%E5%86%85%E7%9A%84%E5%8F%91%E5%85%89%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84%E5%85%89%E7%94%B5%E5%9C%BA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 43,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/2.2%20%E5%A4%9A%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91%E8%BF%87%E7%A8%8B%EF%BC%88SFG%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 44,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/2.3%20%E5%A4%9A%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91%E8%BF%87%E7%A8%8B%EF%BC%88SFG%EF%BC%89%EF%BC%9A%E9%99%84%E5%BD%95%E9%9B%86.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 45,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/2.4%20%E5%A4%9A%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91%E8%BF%87%E7%A8%8B%EF%BC%88SFG%EF%BC%89%EF%BC%9A%E8%A1%A8%E8%BE%BE%E5%BC%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 46,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/2.5%20%E5%A4%9A%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91%E8%BF%87%E7%A8%8B%EF%BC%88SFG%EF%BC%89%EF%BC%9A%E8%A6%81%E7%82%B9.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 47,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/2.6%20%E8%96%84%E8%86%9C%E5%86%85%E7%9A%84%E7%94%B5%E5%9C%BA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 49,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 55,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%8F%8C%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91/3.1%20%E4%BA%8C%E5%B1%82%E8%86%9C%E5%8F%8A%E4%B8%89%E5%B1%82%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84%E5%92%8C%E9%A2%91%E5%85%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 56,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%8F%8C%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91/3.2%20%E5%8F%8C%E5%B1%82%E8%86%9C%E5%92%8C%E9%A2%91%E7%9A%84%E4%B8%80%E8%88%AC%E5%BC%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 58,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%8F%8C%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 64,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.1%20CH%E3%80%81CH%E2%82%82%E3%80%81CH%E2%82%83%E5%9F%BA%E5%9B%A2CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E7%9A%84%E5%92%8C%E9%A2%91%E6%9E%81%E5%8C%96%E7%8E%87.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 65,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.2%20CH%E2%82%83%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%8F%96%E5%90%91%E4%B8%8E%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 66,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.3%20CH%E2%82%82%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%8F%96%E5%90%91%E4%B8%8E%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 67,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.4%20CH%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%8F%96%E5%90%91%E4%B8%8E%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 68,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.5%20%E4%B8%A4%E4%B8%AACH%E2%82%83%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%BC%A0%E9%87%8F%E5%88%86%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 69,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.6%20CH%E2%82%83%E5%9F%BA%E5%9B%A2%E7%9A%84C%E2%82%83%E1%B5%A5%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%A0%B4%E7%BC%BA%E6%97%B6%E7%9A%84%E5%A4%84%E7%90%86.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 70,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.7%20CH%E2%82%82%E3%80%81%E5%B9%B3%E9%9D%A2HCCH%E5%8F%8A%E6%89%AD%E8%BD%ACHCCH%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 71,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.8%20%E6%B0%A2%E5%8C%96%E9%87%91%E5%88%9A%E7%9F%B3%E8%A1%A8%E9%9D%A2CH%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 72,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.9%20%E6%B0%A2%E5%8C%96%E9%87%91%E5%88%9A%E7%9F%B3%E8%A1%A8%E9%9D%A2CH%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%EF%BC%88%E8%A6%81%E7%82%B9%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 73,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.10%20CH%E2%82%82%E5%9F%BA%E5%9B%A2%E5%8F%8AHCCH%E5%9F%BA%E5%9B%A2%E7%9A%84%E6%AC%A7%E6%8B%89%E8%A7%92.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 74,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/4.11%20%E8%A1%A8%E9%9D%A2%E5%9D%90%E6%A0%87%E7%B3%BB%E5%88%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9D%90%E6%A0%87%E7%B3%BB%E7%9A%84%E5%BC%A0%E9%87%8F%E6%97%8B%E8%BD%AC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 76,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 82,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/5.1%20%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 83,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/5.2%20%E4%B8%BB%E8%A6%81%E7%82%B9%E7%BE%A4%E7%9A%84%E7%89%B9%E5%BE%81%E6%A0%87%E8%A1%A8%E4%B8%8E%E5%9F%BA%E5%BA%95.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 84,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/5.3%20%E4%BB%8E%E5%88%86%E5%AD%90%E5%9B%BA%E5%AE%9A%E7%B3%BB%E5%88%B0%E7%A9%BA%E9%97%B4%E5%9B%BA%E5%AE%9A%E7%B3%BB%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E5%8F%98%E6%8D%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 85,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/5.4%20%E6%97%8B%E8%BD%AC%E7%BE%A4%E7%9A%84%E5%9F%BA%E5%BA%95%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 86,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/5.5%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2%E4%B8%AD%E7%9A%84%E5%BC%A0%E9%87%8F%E5%88%86%E9%87%8F%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5%EF%BC%88%E5%9F%BA%E5%BA%95%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 87,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/5.6%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2%E4%B8%AD%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E5%88%86%E9%87%8F%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5%EF%BC%88XYZ%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 89,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 95,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%81%B6%E6%9E%81%E9%97%B4%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8/6.1%20%E5%81%B6%E6%9E%81%E9%97%B4%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 97,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%81%B6%E6%9E%81%E9%97%B4%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 103,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 104,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.2%20%E9%99%84%E5%BD%95A%EF%BC%9A%E5%8E%BB%E9%99%A4%E7%AD%89%E4%BB%8B%E7%94%B5%E5%B8%B8%E6%95%B0%E8%BF%91%E4%BC%BC%E7%9A%84%E5%BC%8F17%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 105,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.3%20%E9%99%84%E5%BD%95B%EF%BC%9A%E5%BC%8F20%E7%9A%84%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 106,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.4%20%E9%99%84%E5%BD%95C%EF%BC%9A%E5%BC%8F20%E7%9A%84%E6%8A%98%E5%B0%84%E7%8E%87%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%A4%9A%E9%87%8D%E5%8F%8D%E5%B0%84.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 107,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.5%20%E9%99%84%E5%BD%95D%EF%BC%9A%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E7%9A%84%E9%9D%9E%E9%9B%B6%E5%88%86%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 109,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 115,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 116,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.2%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E5%88%86%E6%9E%90%E4%BE%BF%E8%A7%88.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 117,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 119,
+    "href": "%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "Preface序言.md",
+    "line": 134,
+    "href": "中文版本/附件/原文勘误表.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "README.md",
+    "line": 1,
+    "href": "项目导航.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "README.md",
+    "line": 1,
+    "href": "合稿准备/index.html",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "README.md",
+    "line": 1,
+    "href": "翻译管理/README.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "README.md",
+    "line": 1,
+    "href": "交付版本/README.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "README.md",
+    "line": 59,
+    "href": "合稿准备/index.html",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "README.md",
+    "line": 59,
+    "href": "翻译管理/全书复核/B676全书收尾复核.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "README.md",
+    "line": 59,
+    "href": "翻译管理/全书复核/问题状态汇总.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 5,
+    "href": "../../翻译管理/疑难与勘误.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 11,
+    "href": "../第一章%20SFG快速入门/1.1%20红外-可见光和频振动光谱（SFG）入门.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 24,
+    "href": "../第一章%20SFG快速入门/1.2%20振动共振、费米共振与双原子分子.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 32,
+    "href": "../第一章%20SFG快速入门/1.4%20电偶极子的电场与辐射.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 42,
+    "href": "../第二章%20薄膜产生的SFG/2.1%20嵌入层内的发光膜产生的光电场.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 52,
+    "href": "../第二章%20薄膜产生的SFG/2.2%20多层膜的和频过程（SFG）.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 189,
+    "href": "../第五章%20张量与对称性/阅读导航.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 189,
+    "href": "../../翻译管理/疑难与勘误.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 200,
+    "href": "../第六章%20偶极间相互作用/6.1%20偶极间相互作用.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 210,
+    "href": "../第六章%20偶极间相互作用/6.1%20偶极间相互作用.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 221,
+    "href": "../第六章%20偶极间相互作用/6.1%20偶极间相互作用.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 226,
+    "href": "../第六章%20偶极间相互作用/6.1%20偶极间相互作用.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 275,
+    "href": "../第七章%20Heinz论文解读/7.1%20解读Tony%20F.%20Heinz的综述.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 284,
+    "href": "../第七章%20Heinz论文解读/7.1%20解读Tony%20F.%20Heinz的综述.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 294,
+    "href": "../第七章%20Heinz论文解读/7.1%20解读Tony%20F.%20Heinz的综述.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 303,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 304,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 305,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 306,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 307,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 308,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 309,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 310,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 311,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 312,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 313,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 314,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 315,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 316,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 317,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 318,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.2%20%E9%99%84%E5%BD%95A%EF%BC%9A%E5%8E%BB%E9%99%A4%E7%AD%89%E4%BB%8B%E7%94%B5%E5%B8%B8%E6%95%B0%E8%BF%91%E4%BC%BC%E7%9A%84%E5%BC%8F17%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 319,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.2%20%E9%99%84%E5%BD%95A%EF%BC%9A%E5%8E%BB%E9%99%A4%E7%AD%89%E4%BB%8B%E7%94%B5%E5%B8%B8%E6%95%B0%E8%BF%91%E4%BC%BC%E7%9A%84%E5%BC%8F17%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 320,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.2%20%E9%99%84%E5%BD%95A%EF%BC%9A%E5%8E%BB%E9%99%A4%E7%AD%89%E4%BB%8B%E7%94%B5%E5%B8%B8%E6%95%B0%E8%BF%91%E4%BC%BC%E7%9A%84%E5%BC%8F17%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 321,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.3%20%E9%99%84%E5%BD%95B%EF%BC%9A%E5%BC%8F20%E7%9A%84%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 322,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.4%20%E9%99%84%E5%BD%95C%EF%BC%9A%E5%BC%8F20%E7%9A%84%E6%8A%98%E5%B0%84%E7%8E%87%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%A4%9A%E9%87%8D%E5%8F%8D%E5%B0%84.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 323,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.4%20%E9%99%84%E5%BD%95C%EF%BC%9A%E5%BC%8F20%E7%9A%84%E6%8A%98%E5%B0%84%E7%8E%87%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%A4%9A%E9%87%8D%E5%8F%8D%E5%B0%84.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 324,
+    "href": "../%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/7.5%20%E9%99%84%E5%BD%95D%EF%BC%9A%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E7%9A%84%E9%9D%9E%E9%9B%B6%E5%88%86%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 334,
+    "href": "../第八章%20拟合/8.1%20和频光谱的线形.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 343,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 344,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 345,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 346,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 347,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 348,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 349,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 350,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 351,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 352,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 353,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 354,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 355,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 356,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.2%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E5%88%86%E6%9E%90%E4%BE%BF%E8%A7%88.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 357,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.2%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E5%88%86%E6%9E%90%E4%BE%BF%E8%A7%88.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 358,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 359,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 360,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 361,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 362,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 363,
+    "href": "../%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 403,
+    "href": "../../%E7%BF%BB%E8%AF%91%E7%AE%A1%E7%90%86/%E5%85%A8%E4%B9%A6%E5%A4%8D%E6%A0%B8/%E5%8E%86%E5%8F%B2%E6%89%B9%E6%AC%A1/B675/B675%E9%99%84%E5%BD%95%E4%B8%8E%E6%8B%9F%E5%90%88%E5%A4%8D%E6%A0%B8.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/附件/原文勘误表.md",
+    "line": 407,
+    "href": "../../翻译管理/全书复核/问题状态汇总.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第一章 SFG快速入门/阅读导航.md",
+    "line": 3,
+    "href": "../../%E7%BF%BB%E8%AF%91%E7%AE%A1%E7%90%86/%E5%8E%86%E5%8F%B2%E5%BD%92%E6%A1%A3/%E9%98%B6%E6%AE%B5%E6%8A%A5%E5%91%8A/%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%AE%8C%E6%88%90%E5%A4%8D%E6%A0%B8.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/阅读导航.md",
+    "line": 5,
+    "href": "7.1%20%E8%A7%A3%E8%AF%BBTony%20F.%20Heinz%E7%9A%84%E7%BB%BC%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/阅读导航.md",
+    "line": 6,
+    "href": "7.2%20%E9%99%84%E5%BD%95A%EF%BC%9A%E5%8E%BB%E9%99%A4%E7%AD%89%E4%BB%8B%E7%94%B5%E5%B8%B8%E6%95%B0%E8%BF%91%E4%BC%BC%E7%9A%84%E5%BC%8F17%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/阅读导航.md",
+    "line": 7,
+    "href": "7.3%20%E9%99%84%E5%BD%95B%EF%BC%9A%E5%BC%8F20%E7%9A%84%E6%8E%A8%E5%AF%BC.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/阅读导航.md",
+    "line": 8,
+    "href": "7.4%20%E9%99%84%E5%BD%95C%EF%BC%9A%E5%BC%8F20%E7%9A%84%E6%8A%98%E5%B0%84%E7%8E%87%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%A4%9A%E9%87%8D%E5%8F%8D%E5%B0%84.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/阅读导航.md",
+    "line": 9,
+    "href": "7.5%20%E9%99%84%E5%BD%95D%EF%BC%9A%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E7%9A%84%E9%9D%9E%E9%9B%B6%E5%88%86%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第七章 Heinz论文解读/阅读导航.md",
+    "line": 24,
+    "href": "../附件/原文勘误表.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/阅读导航.md",
+    "line": 7,
+    "href": "3.1%20二层膜及三层膜产生的和频光.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第三章 双层膜的和频/阅读导航.md",
+    "line": 22,
+    "href": "3.2%20双层膜和频的一般式.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/阅读导航.md",
+    "line": 7,
+    "href": "2.1%20嵌入层内的发光膜产生的光电场.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/阅读导航.md",
+    "line": 20,
+    "href": "2.2%20多层膜的和频过程（SFG）.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/阅读导航.md",
+    "line": 38,
+    "href": "2.3%20多层膜的和频过程（SFG）：附录集.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/阅读导航.md",
+    "line": 49,
+    "href": "2.4%20多层膜的和频过程（SFG）：表达式.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/阅读导航.md",
+    "line": 61,
+    "href": "2.5%20多层膜的和频过程（SFG）：要点.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第二章 薄膜产生的SFG/阅读导航.md",
+    "line": 76,
+    "href": "2.6%20薄膜内的电场.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/阅读导航.md",
+    "line": 7,
+    "href": "5.1%20和频张量与对称性.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/阅读导航.md",
+    "line": 21,
+    "href": "5.2%20%E4%B8%BB%E8%A6%81%E7%82%B9%E7%BE%A4%E7%9A%84%E7%89%B9%E5%BE%81%E6%A0%87%E8%A1%A8%E4%B8%8E%E5%9F%BA%E5%BA%95.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/阅读导航.md",
+    "line": 25,
+    "href": "5.3%20%E4%BB%8E%E5%88%86%E5%AD%90%E5%9B%BA%E5%AE%9A%E7%B3%BB%E5%88%B0%E7%A9%BA%E9%97%B4%E5%9B%BA%E5%AE%9A%E7%B3%BB%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E5%8F%98%E6%8D%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/阅读导航.md",
+    "line": 35,
+    "href": "5.4%20%E6%97%8B%E8%BD%AC%E7%BE%A4%E7%9A%84%E5%9F%BA%E5%BA%95%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/阅读导航.md",
+    "line": 45,
+    "href": "5.5%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2%E4%B8%AD%E7%9A%84%E5%BC%A0%E9%87%8F%E5%88%86%E9%87%8F%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5%EF%BC%88%E5%9F%BA%E5%BA%95%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第五章 张量与对称性/阅读导航.md",
+    "line": 55,
+    "href": "5.6%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2%E4%B8%AD%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%E5%88%86%E9%87%8F%E5%8F%98%E6%8D%A2%E7%9F%A9%E9%98%B5%EF%BC%88XYZ%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第八章 拟合/阅读导航.md",
+    "line": 5,
+    "href": "8.1%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E7%9A%84%E7%BA%BF%E5%BD%A2.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第八章 拟合/阅读导航.md",
+    "line": 23,
+    "href": "8.2%20%E5%92%8C%E9%A2%91%E5%85%89%E8%B0%B1%E5%88%86%E6%9E%90%E4%BE%BF%E8%A7%88.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第八章 拟合/阅读导航.md",
+    "line": 30,
+    "href": "8.3%20%E6%8B%9F%E5%90%88%E6%A6%82%E8%BF%B0.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第八章 拟合/阅读导航.md",
+    "line": 50,
+    "href": "../附件/原文勘误表.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第六章 偶极间相互作用/阅读导航.md",
+    "line": 5,
+    "href": "6.1%20偶极间相互作用.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 7,
+    "href": "4.1%20CH%E3%80%81CH%E2%82%82%E3%80%81CH%E2%82%83%E5%9F%BA%E5%9B%A2CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E7%9A%84%E5%92%8C%E9%A2%91%E6%9E%81%E5%8C%96%E7%8E%87.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 15,
+    "href": "4.2%20CH%E2%82%83%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%8F%96%E5%90%91%E4%B8%8E%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 23,
+    "href": "4.3%20CH%E2%82%82%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%8F%96%E5%90%91%E4%B8%8E%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 31,
+    "href": "4.4%20CH%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%8F%96%E5%90%91%E4%B8%8E%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 39,
+    "href": "4.5%20%E4%B8%A4%E4%B8%AACH%E2%82%83%E5%9F%BA%E5%9B%A2%E7%9A%84%E5%BC%A0%E9%87%8F%E5%88%86%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 47,
+    "href": "4.6%20CH%E2%82%83%E5%9F%BA%E5%9B%A2%E7%9A%84C%E2%82%83%E1%B5%A5%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%A0%B4%E7%BC%BA%E6%97%B6%E7%9A%84%E5%A4%84%E7%90%86.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 55,
+    "href": "4.7%20CH%E2%82%82%E3%80%81%E5%B9%B3%E9%9D%A2HCCH%E5%8F%8A%E6%89%AD%E8%BD%ACHCCH%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 63,
+    "href": "4.8%20%E6%B0%A2%E5%8C%96%E9%87%91%E5%88%9A%E7%9F%B3%E8%A1%A8%E9%9D%A2CH%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 71,
+    "href": "4.9%20%E6%B0%A2%E5%8C%96%E9%87%91%E5%88%9A%E7%9F%B3%E8%A1%A8%E9%9D%A2CH%E7%9A%84%E5%92%8C%E9%A2%91%E5%BC%A0%E9%87%8F%EF%BC%88%E8%A6%81%E7%82%B9%EF%BC%89.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 79,
+    "href": "4.10%20CH%E2%82%82%E5%9F%BA%E5%9B%A2%E5%8F%8AHCCH%E5%9F%BA%E5%9B%A2%E7%9A%84%E6%AC%A7%E6%8B%89%E8%A7%92.md",
+    "exists": true,
+    "image": false
+  },
+  {
+    "file": "中文版本/第四章 CH伸缩振动与取向张量/阅读导航.md",
+    "line": 87,
+    "href": "4.11%20%E8%A1%A8%E9%9D%A2%E5%9D%90%E6%A0%87%E7%B3%BB%E5%88%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9D%90%E6%A0%87%E7%B3%BB%E7%9A%84%E5%BC%A0%E9%87%8F%E6%97%8B%E8%BD%AC.md",
+    "exists": true,
+    "image": false
+  }
+]

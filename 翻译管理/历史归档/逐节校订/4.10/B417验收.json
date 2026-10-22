@@ -1,0 +1,61 @@
+{
+  "batch": "B417",
+  "source_sha256": "d734ad0e42503a08065d0beb0964a16668ad9b7d7667355dbc59629378d9ef20",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          3,
+          580.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = \\sin \\gamma 、\\sin 2\\chi  = \\sin 2\\gamma 、\\sin 3\\chi  = \\sin 3\\gamma \\cos \\chi  = \\cos \\gamma 、\\cos 2\\chi  = \\cos 2\\gamma 、\\cos 3\\chi  = \\cos 3\\gamma"
+      ]
+    },
+    {
+      "locations": [
+        [
+          3,
+          596.2
+        ],
+        [
+          3,
+          613.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0  \\cos \\phi  = 1、\\cos 2\\phi  = -1、\\cos 3\\phi  = 1",
+        "(\\sin \\gamma  /-\\sin \\gamma ), (\\sin 2\\gamma  /-\\sin 2\\gamma ), (\\sin 3\\gamma  /-\\sin 3\\gamma )  pairs"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "manual_vector_and_prose_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pages": [
+    2,
+    3
+  ],
+  "tensor_left_sides": [],
+  "source_images_visually_checked": true,
+  "translation_sha256": "379e72203a9587401ff55fa3ee9f20c6ca10fd1b3effa0a323cc99527ff7e3cf",
+  "status": "本批原页对照、译校、覆盖与参考排版验收完成",
+  "date": "2026-10-21",
+  "render": {
+    "batch": "B417",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "validation_limit": "数学语法和版式通过不等于原稿公式已完成独立物理证明。"
+}

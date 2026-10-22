@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-19",
+  "pages": 11,
+  "batches": 8,
+  "numberedEquations": 40,
+  "mathFragments": 225,
+  "termEntries": 87,
+  "checkedLinks": 37,
+  "sourceHash": "e6b7962f94f3b89be4897a81668b4061439b070c3cfef7f8776918f12c05dd61",
+  "sourceMatchesBaseline": true,
+  "batchTextsMatchFinal": true,
+  "allBatchesNoHorizontalOverflow": true,
+  "scope": "页面对照与排版整理；未独立认证原式物理正确性"
+}

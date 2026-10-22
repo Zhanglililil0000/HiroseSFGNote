@@ -1,0 +1,13 @@
+{
+  "batch": "B325",
+  "date": "2026-10-21",
+  "pages": [
+    2,
+    3
+  ],
+  "scope": "第3部分振动谱带、共线极限排除及第4部分对称分类",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核"
+}

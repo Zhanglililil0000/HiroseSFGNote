@@ -1,0 +1,608 @@
+===== PDF p.1 =====
+積層膜からの和周波発生(SFG) — 表式
+準備
+原点：光線の入射点に取る。（広がりがある場合にはその中央）
+z 軸：媒質１から媒質２に向けた法線。
+x 軸：界面上でみた光の進行方向にとる。（k ベクトルの界面への射影に沿わせる）
+次のように用語を定義する。
+1/m 界面：媒質-1 と膜の界面。
+m/2 界面：媒質-1 と膜の界面。
+n, n, n ：媒質-1、媒質-2、膜 m の屈折率。
+1 2 m
+k, k, k ：媒質-1、媒質-2、膜 m の中での波動ベクトル。
+1 2 m
+q , q , q ：媒質-1、媒質-2、膜 m の中を進む光の光路が法線に対してなす角。
+1 2 m
+t ：媒質-1 側から膜側に透過する光の電場に対する透過係数。
+1m
+t ：膜側から媒質-1 側に透過する光の電場に対する透過係数。
+m1
+r ：媒質-1 側から来て 1/m 界面で反射する光の電場に対する反射係数。
+1m
+r ：膜側から来て m/1 界面で反射する光の電場に対する反射係数。
+m1
+t ：膜側から媒質-2 側に透過する光の電場に対する透過係数。
+m2
+t ：媒質-2 側から膜側に透過する光の電場に対する透過係数。
+2m
+r ：膜側から来て m/2 界面で反射する光の電場に対する反射係数。
+m2
+r ：媒質-2 側から来て 1/m 界面で反射する光の電場に対する反射係数。
+2m
+上向き(-）光：m/2 界面から m/1 界面に向かう光。反射光と同じく、-z 側に進む。
+下向き(+)光：m/1 界面から m/2 界面に向かう光。入射光と同じく、+z 側に進む。
+（反射係数）
+r s = Es/Es = (k - k )/(k + k ) = (ncosq - ncosq )/(ncosq + ncosq )
+12 r i 1z 2z 1z 2z 1 1 2 2 1 1 2 2
+= -sin(q - q )/sin(q + q )
+1 2 1 2
+r p =Ep/Ep = (e k - e k )/(e k + e k ) = (ncosq - ncosq )/(ncosq + ncosq )
+12 r i 1 2z 2 1z 2 1z 1 2z 1 2 2 1 2 1 1 2
+= -tan(q - q )/tan(q + q )
+1 2 1 2
+（透過係数）
+t s = Es/Es = 2k /(k + k ) = 2ncosq /(ncosq + ncosq )
+12 t i 1z 1z 2z 1 1 1 1 2 2
+= 2cosq sinq /sin(q + q )
+1 2 1 2
+t p = Ep/Ep = 2e k cosq /(e k + e k ) = 2ncosq /(ncosq + ncosq )
+12 t i 1 2z 1 2 1z 1 2z 1 1 2 1 1 2
+= 2cosq sinq /sin(q + q )cos(q - q )
+1 2 1 2 1 2
+r s = -r s , r p = -r p
+21 12 21 12
+t s = (ncosq /ncosq )t s , t p = (ncosq /ncosq )t p
+21 2 2 1 1 12 21 2 2 1 1 12
+界面の内向き法線をｚ 軸に、s 偏光の電場の方向をｙ 軸に、光の進行方向が正になるようにｘ 軸を定
+義して、電場の軸方向成分に対する係数を求めると、次のようになる。
+和周波表式 - 1
+
+===== PDF p.2 =====
+E = Epcosq , E = Es , E = -Epsinq
+x,i i 1 y,i ri z,i i 1
+E = Epcosq , E = Es, E = Epsinq
+x,r r 1 y,r r z,r r 1
+E = Epcosq , E = Es, E = -Epsinq
+x,t t 2 y,t t z,t t 2
+上の表式より、下の振幅反射係数および振幅等価係数の表式を得る。
+r x = r p, r y = r s, r z = -r p
+12 12 12 12 12 12
+r x = -r p, r y = -r s, r z = r p
+21 12 21 12 21 12
+t x = (cosq /cosq )t p, t y = t s, t z = (sinq /sinq )t p =(n/n) t p
+12 2 1 12 12 12 12 2 1 12 1 2 12
+t x = (n/n)t p, t y = t s, t z = (cosq /cosq ) (n/n)2t p
+21 2 1 12 12 12 12 2 1 2 1 12
+r = -r = r , r = -r = r , r = -r = -r
+1m,x m1,x 1m,p 1m,y m1,y 1m,s 1m,z m1,z 1m,p
+r = -r = r , r = -r = r , r = -r = -r
+2m,x m2,x 2m,p 2m,y m2,y 2m,s 2m,z m2,z 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+1m,x m 1 1m,p 1m,y 1m,s 1m,z m 1 1m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m1,x 1 m m1,p m1,y m1,s m1,z 1 m m1,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+2m,x m 2 2m,p 2m,y 2m,s 2m,z m 2 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m2,x 2 m m2,p m2,y m2,s m2,z 2 m m2,p
+t t = 1 + r r = 1 - r 2, t t = 1 + r r = 1 - r 2, (a = x, y, z)
+1m,a m1,a 1m,a m1,a 1m,a 2m,a m2,a 2m,a m2,a 2m,a
+上式は次のような関係式を満足する。
+1 + r x = t x, 1 + r y = t y, 1 + r z = (n/n)2t z （電場に対する境界条件）
+12 12 12 12 12 2 1 12
+1 + r sr s = 1 - (r s)2 = t s t s, 1 + r pr p = 1 - (r p)2 = t pt p
+12 21 12 12 21 12 21 12 12 21
+因みに、光の強度はE2 ncosq に比例するので、r 2ncosq + t 2ncosq = ncosq となり、光の強度は保
+12 1 1 12 2 2 1 1
+存される。
+L係数、電場振幅
+E = (cid:229) L PSF
+SF, a b a b b
+共通因子である 4p iw /c（屈折率の代わりに波数ベクトルを使うときには 4p iw 2/c2）を省略する。
+SF SF
+L係数の表記法；L ： 分極シート m' が i 層とj 層に挟まれているときに、分極の a 成分 (a = x, y,
+i/j,s(p), a
+z) が作る光の s 偏光成分又は p 偏光成分の間の係数（x、y、z 成分ではないことに注意）。上向き (-) 光、
+上向き (+) 光の区別を上付き -、+ で示す。
+媒質１と積層膜 m の間の分極シート m' からの光生成に対しては、
+L- = cosq /(n cosq + n cosq )
+1/m,p,x m,SF 1,SF m,SF m,SF 1,SF
+L- = 1/(n cosq + n cosq )
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L- = (n /n )sinq /(n cosq + n cosq )
+1/m,p,z m,SF m',SF m',SF 1,SF m,SF m,SF 1,SF
+和周波表式 - 2
+
+===== PDF p.3 =====
+= (n /n )2sinq /(n cosq + n cosq )
+m,SF m',SF m,SF 1,SF m,SF m,SF 1,SF
+L+ = cosq /(n cosq + n cosq )
+1/m,p,x 1,SF 1,SF m,SF m,SF 1,SF
+L+ = 1/(n cosq + n cosq )
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L+ = -(n /n )sinq /(n cosq + n cosq )
+1/m,p,z 1,SF m',SF m',SF 1,SF m,SF m,SF 1,SF
+= -(n /n )2sinq /(n cosq + n cosq )
+1,SF m',SF 1,SF 1,SF m,SF m,SF 1,SF
+媒質２と積層膜 m の間の分極シート m'' からの光生成に対しては、
+L- = cosq /(n cosq + n cosq )
+2/m,p,x 2,SF 2,SF m,SF m,SF 2,SF
+L- = 1/(n cosq + n cosq )
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L- = (n /n )sinq /(n cosq + n cosq )
+2/m,p,z 2,SF m",SF m",SF 2,SF m,SF m,SF 2,SF
+= (n /n )2sinq /(n cosq + n cosq )
+2,SF m",SF 2,SF 2,SF m,SF m,SF 2,SF
+L+ = cosq /(n cosq + n cosq )
+2/m,p,x m,SF 2,SF m,SF m,SF 2,SF
+L+ = 1/(n cosq + n cosq )
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L+ = -(n /n )sinq /(n cosq + n cosq )
+2/m,p,z m,SF m'',SF m",SF 2,SF m,SF m,SF 2,SF
+= -(n /n )2sinq /(n cosq + n cosq )
+m,SF m'',SF m,SF 2,SF m,SF m,SF 2,SF
+積層膜内部の分極シートからの光生成に対しては、
+L- = L+ = cosq /(2n cosq )
+m/m,p,x m/m,p,x m,SF m,SF m,SF
+L- = L+ = 1/(2n cosq )
+m/m,s,y m/m,s,y m,SF m,SF
+L- = -L+ = sinq /(2n cosq )
+m/m,p,z m/m,p,z m,SF m,SF m,SF
+よって、各部位からの SFG 光の電場振幅は次のように表される。
+P(0) に由来するもの：（P(0- ) は媒質１側の電場による分極,、P(0+ ) は膜側の電場による分極）
+E- (z = 0-) = L- P(0-) + L- P(0-)
+1,p 1/m,p,x x 1/m,p,z z
+E- (z = 0-) = L- P(0-)
+1,s 1/m,s,y y
+E+ (z = 0+) = L+ P(0+) + L+ P(0+)
+m,p 1/m,p,x x 1/m,p,z z
+E+ (z = 0+) = L+ P(00+)
+m,s 1/m,s,y y
+P(h ) に由来するもの：（P(h + ) は媒質２側の電場による分極,、P(h - ) は膜側の電場による分極）
+m m m
+E- (z = h -) = L- P(h -) + L- P(h -)
+m,p m 2/m,p,x x m 2/m,p,z z m
+E- (z = h -) = L- P(h -)
+m,s m 2/m,s,y y m
+E+ (z = h +) = L+ P(h +) + L+ P(h +)
+2,p m 2/m,p,x x m 2/m,p,z z m
+E+ (z = h +) = L+ P(h +)
+2,s m 2/m,s,y y m
+P(z) に由来するもの：
+E- (z) = L- P(z) + L- P(z)
+m,p m/m,p,x x m/m,p,z z
+E- (z) = L- P(z)
+m,s m/m,s,y y
+和周波表式 - 3
+
+===== PDF p.4 =====
+E+ (z) = L+ P(z) + L+ P(z)
+m,p m/m,p,x x m/m,p,z z
+E+ (z) = L+ P(z)
+m,s m/m,s,y y
+1/m 界面の外側 (x = -2nh tanq , z = 0- ) からの SFG
+m m,SF
+反射 SFG
+E 1p (0 - )=(cid:229) bg E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r , , g g ) r m (1 2, + ir,g r e m 2 2 i , b ir m ,g ,ir e h m 2 ) ib m,ir h m)
+· (1+r m2,SF,p e2ib m,SF h m)L- 1/m,px c xbg +(1- r m2,SF,p e2ib m,SF h m)L- 1/m,pz c zb g (1a)
+(1+r r e2ib m,SF h m)
+1m,SF,p m2,SF,p
+E 1s (0 - )=(cid:229) bg E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r ,g ,g r ) m (1 2, + ir,g r e m 2 2 i ,i b r m ,g ,ir e h m 2i ) b m,ir h m)
+(1+r e2ib m,SF h m)
+· m2,SF,s L - c (1b)
+(1+r r e2ib m,SF h m) 1/m,sy ybg
+1m,SF,s m2,SF,s
+透過 SFG
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r ,g ,g r ) m (1 2, + ir,g r e m 2 2 i ,i b r m ,g ,ir e h m 2i ) b m,ir h m)
+t t eib m,SF h m
+· 1m,SF,p m2,SF,p [c L + +c L + ] (2a)
+1+r r e2ib m,SF h m xbg m/1,px zbg m/1,pz
+1m,SF,p m2,SF,p
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r , , g g ) r m (1 2, + ir,g r e m 2 2 i , b ir m ,g ,ir e h m 2 ) ib m,ir h m)
+t t eib m,SF h m
+· 1m,SF,s m2,SF,s c L + (2b)
+1+r r e2ib m,SF h m yb g m/1,sy
+1m,SF,s m2,SF,s
+(cid:160)
+表面が薄膜として完成しているときの薄膜（屈折率 m' ）を形成する分子からの SFG は、内部反射を
+(cid:160) 考慮する必要がある。
+反射 SFG
+(cid:160) E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ', r v m is, ' b m ( ,v 1 is, + b r + m' ( m r , m vi ' s m ,b ,v ) is ( , 1 b + + r r m 1m 2, ' v ,v i i s s ,b ,b e ) 2 r i m b m 2 , , v v i i s s h , m b ) e2ib m,vis h m
+(cid:160) t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+· (1+r 1m',SF,p r m'm,SF,p )[(1+r m2,SF,p e2ib m,SF h m)c xbg L- 1/m,px +(1- r m2,SF,p e2ib m,SF h m)c zbg L- 1/m,pz ] (3a)
+(cid:160) 1+r r +r (r +r )e2ib m,SF h m
+1m',SF,p m'm,SF,p m2,SF,p 1m',SF,p m'm,SF,p
+(cid:160)
+和周波表式 - 4
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.5 =====
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ',v r i m s,b 'm, ( v 1 is, + b + r m ( 'm r , m vi 'm s,b ,vi ) s ( ,b 1+ + r r m 1m 2, ' v ,v i i s s , , b b e ) 2 r i m b 2 m, , v v i i s s h , m b ) e2ib m,vis h m
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+(1+r r )(1+r e2ib m,SF h m)
+· 1m'SF,s m'mSF,s m2SF,s c L - (3b)
+1+r r +r (r +r )e2ib m,SF h m yb g 1/m,sy
+1m',SF,s m'mSF,s m2,SF,s 1m'SF,s m'mSF,s
+透過 SFG
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ',v r i m s,b 'm ( ,v 1 is, + b + r m ( 'm r , m vi ' s m ,b ,vi ) s ( , 1 b + + r r 1 m m 2 ' , , v v i i s s , , b b e ) 2 r i m b m 2 , , v v i i s s h , m b ) e2ib m,vis h m
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+t (1+r r )eib m,SF h m
+· m2,SF.p 1m',SF,p m'm,SF,p )(L + c +L + c ) (4a)
+1+r r +r (r +r )e2ib m,SF h m 1/m,px xbg 1/m,pz zb g
+1m',SF,p m'm,SF,p m2,SF,p mm',SF,p m'1,SF,p
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ', r vi m s, ' b m, ( v 1 is,b + + r m ( 'm r , m vi ' s m ,b ,vi ) s ( , 1 b + + r r m 1m 2, ' v ,v i i s s ,b ,b e ) 2 r i m b m 2 , ,v v i is s h , m b ) e2ib m,vis h m
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+t (1+r r )eib m,SF h m
+· m2,SF.s 1m',SF,s m'm,SF,s )L + c (4b)
+1+r r +r (r +r )e2ib m,SF h m 1/m,sy ybg
+1m',SF,s m'm,SF,s m2,SF,s mm',SF,s m'1,SF,s
+(cid:160)
+1/m 界面の内側 (x = -2nh tanq , z = 0+ ) からの SFG
+m m,SF
+(cid:160)
+反射 SFG
+(cid:160) E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is ,i ,b r,g r m (1 2,v + is,b r e m2 2i ,v b i m s , ,b vis e h m 2i ) b (1 m,vi + s h m r ) 1 ( m 1 ,ir + ,g r r m m2 2, , i i r r , ,g g e e 2 2 i i b b m m, ,i i r r h h m m ) )
+· [(1+r m2,SF,p e2ib m,SF h m)L- 1/m,px c xbg +(1- r m2,SF,p e2ib m,SF h m)L- 1/m,pz c zbg ] (5a)
+(cid:160) 1+r r e2ib m,SF h m
+1m,SF,p m2,SF,p
+(cid:160) E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is , , i b r,g r m (1 2,v + is,b r e m 2 2, i v b i m s, , b vis e h m 2 ) ib ( m 1 ,v + is h m r ) 1m (1 ,ir + ,g r r m m2 2, , i i r r , ,g g e e 2 2 i ib b m m, ,i i r r h h m m) )
+(cid:160)
+·
+(1+r
+m2,SF,s
+e2ib
+m,SF
+h m)L-
+1/m,sy
+c
+ybg (5b)
+1+r r e2ib m,SF h m
+1m,SF,s m2,SF,s
+透過 SFG
+(cid:160) E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is ,i ,b r,g r m (1 2,v + is,b r m e 2 2 , i v b i m s, , b vis e h m 2i ) b (1 m,vi + s h m r ) 1m (1 ,ir + ,g r r m m 2 2 , , i i r r , ,g g e e 2 2i ib b m m , ,i i r r h h m m) )
+(cid:160) t eib m,SF h m
+· m2,SF,p (L + c +L + c ) (6a)
+1+r r e2ib m,SF h m 1/m,px xbg 1/m,pz zbg
+1m,SF,p m2,SF,p
+(cid:160)
+和周波表式 - 5
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.6 =====
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is , , i b r,g r m (1 2,v + is,b r e m 2 2 i ,v b i m s , ,b vis e h m 2 ) ib ( m 1 ,vi + s h m r ) 1 ( m 1 ,ir + ,g r r m m 2 2 , , i i r r , ,g g e e 2 2i ib b m m , ,i i r r h h m m) )
+t eib m,SF h m
+· m2,SF,s L + c (6b)
+1+r r e2ib m,SF h m 1/m,sy ybg
+1m,SF,s m2,SF,s
+m/2 界面の外側 (x = -(2n + 1)h tanq , z = h +) からの SFG
+m m,SF m
+反射 SFG
+E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1m t ,v 1 i m s,b ,vi r s, m b 2 t ,w m v 2 is ,v ,b is e ,b 2 t 1 ib m m , , i v r is , h g m t ) m (1 2,i + r,g r e 1 i m (b ,ir m, ,g ir + r m b m 2 ,v ,i i r s , ) g h e m 2ib m,ir h m)
+t eib m,SF h m
+· m1,p [L - c +L - c ] (7a)
+1+r r 2e2ib m,SF h m 2/m,px xb g 2/m,pz zb g
+1m.p m2,p
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1m t ,v 1 i m s,b ,vi r s m ,b 2 t ,w m v 2 is ,v ,b is, e b 2 t i 1 b m m, ,i v r is ,g h m t ) m (1 2,i + r,g r e 1m i(b ,ir m , , g ir + r m b m 2 , , v ir is ) ,g h e m 2ib m,ir h m)
+t eib m,SF h m
+· m1,s L - c (7b)
+1+r r 2e2ib m,SF h m 2/m,sy ybg
+1m.s m2,s
+透過 SFG
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1m t ,v 1 i m s,b ,vi r s m ,b 2 t ,w m v 2 is ,v ,b is e ,b 2 t i 1 b m m, ,i v r is , h g m t ) m (1 2,i + r,g r e 1 i m (b ,ir m , , g ir + r m b m 2 , , v ir is , ) g h e m 2ib m,ir h m)
+(cid:160) · (1- r 1m,SF,p e2ib m,SF h m)L+ 2/m,px c xbg +(1+r 1m,SF,p e2ib m,SF h m)L+ 2/m,pz c zb g (8a)
+1+r r e2ib m,SF h m
+1m,SF,p m2,SF,p
+(cid:160) E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g (1+r 1m t , 1 vi m s, , b vi r s m ,b 2 t ,w m v 2 is ,v ,b is, e b 2 t i 1 b m m, , v i i r s h ,g m t ) m (1 2,i + r,g r e 1m i(b ,ir m ,g ,ir r + m b m 2 , , v ir is ) ,g h m e2ib m,ir h m)
+· (1- r 1m,SF,s e2ib m,SF h m)L+ 2/m,sy c ybg (8b)
+1+r r e2ib m,SF h m
+1m,SF,s m2,SF,s
+(cid:160) SFG を出す界面が屈折率 m'' の薄膜の時には、
+反射 SFG
+(cid:160) E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t r 1m m" ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m ( ,v 1 is, + b ( r r m m " m 2 " ,v ,v is is ,b ,b )e + ib r m m ,vi " s 2 h , m vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(cid:160) (1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+t eib m,SF h m(1+r r )
+· m1,SF,p mm",SF,p m"2,SF,p [L - c +L - c ] (9a)
+(cid:160) 1+r r +r (r +r )e2ib m,SF h m 2/m,px xbg 2/m,pz zb g
+mm",SF,p m"2,SF,p 1m,SF,p mm",SF,p m"2,SF,p
+(cid:160)
+和周波表式 - 6
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.7 =====
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t 1 r m m " ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m, ( v 1 is, + b ( r r m m " m 2, " v ,v is is ,b ,b )e + ib r m m ,vi " s h 2 m ,vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+t eib m,SF h m(1+r r )
+· m1,SF,s mm",SF,s m"2,SF,s L - c (9b)
+1+r r +r (r +r )e2ib m,SF h m 2/m,sy ybg
+mm",SF,s m"2,SF,s 1m,SF,s mm",SF,s m"2,SF,s
+透過 SFG
+E 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t 1 r m m " ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m, ( v 1 is, + b ( r r m m " m 2, " v ,v is is ,b ,b )e + ib r m m ,vi " s h 2 m ,vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+· (1+r mm",SF,p r m"2,SF,p )[(1- r 1m,SF,p e2ib m,SF h m)L+ 2/m,px c xb g +(1+r 1m,SF,p e2ib m,SF h m)L+ 2/m,pz c zb g ] (10a)
+1+r r +r (r +r )e2ib m,SF h m
+mm",SF,p m"2,SF,p 1m,SF,p mm",SF,p m"2,SF,p
+E 2s (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t r 1m m" ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m ( ,v 1 is, + b ( r r m m " m 2 " ,v ,v is is ,b ,b )e + ib r m m ,vi " s 2 h , m vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+· (1+r mm",SF,s r m"2,SF,s )(1- r 1m,SF,s e2ib m,SF h m)L+ 2/m,sy c yb g (10b)
+1+r r +r (r +r )e2ib m,SF h m
+mm",SF,s m"2,SF,s 1m,SF,s mm",SF,s m"2,SF,s
+(cid:160)
+m/2 界面の内側 (x = -(2n + 1)h tanq , z = h - ) からの反射 SFG
+m m,SF m
+(cid:160)
+反射 SFG
+(cid:160) E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1 t 1 + m,v r i 1 sb m, t v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b e r m 2 2 ib ,v m i ,v s is ,b h m ) ) (1 (1 + + r m r 1 2 m ,ir ,ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m ib ,vi m s , ) ir h h m m)
+t eib m,SF h m
+· m1,SF,p (L - c +L - c ) (11a)
+(cid:160) 1+r r e2ib m,SF h m 2/m,px xbg 2/m,pz zbg
+1m,SF,p m2,SF,p
+(cid:160) E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1 t 1 + m,v r i 1 sb m t ,v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b e r m 2i 2 b ,v m i , s vi , s b h ) m ( ) 1 (1 + + r m r 1 2 m ,i , r ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m i , b vi m s , ) ir h h m m)
+(cid:160) t eib m,SF h m
+· m1,SF,s L - c (11b)
+1+r r e2ib m,SF h m 2/m,sy ybg
+1m,SF,s m2,SF,s
+透過 SFG
+(cid:160) E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g e (1 t 1 + m,v r i 1 sb m t ,v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b r e m 2i 2 b ,v m i ,v s is ,b h m )( ) 1 (1 + + r m r 1 2 m ,i , r ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m i , b v m is , ) ir h h m m)
+(cid:160)
+·
+(1+r
+m1,SF,p
+e2ib
+m,SF
+h m)L+
+2/m,px
+c
+xbg
++(- 1+r
+m1,SF,p
+e2ib
+m,SF
+h m)L+
+2/m,pz
+c
+zb g (12a)
+1+r r e2ib m,SF h m
+1mSF,p m2,SF,p
+(cid:160)
+和周波表式 - 7
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.8 =====
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g e (1 t 1 + m,v r i 1 sb m t ,v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b e r m 2i 2 b ,v m i , s vi , s b h m ) ) (1 (1 + + r m r 1 2 m ,ir ,ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m ib ,vi m s , ) ir h h m m)
+·
+(1+r
+m1,SF,s
+e2ib
+m,SF
+h m)L+
+2/m,sy
+c
+yb g (12b)
+1+r r e2ib m,SF h m
+1mSF,s m2,SF,s
+膜バルク [0 < z < h , A : x = -2nh tanq - ztanq , B : x = -(2n + 1)h tanq +
+m n = 0, 1, 2 m m,SF m,SF n = -1, 0, 1, 2 m m,SF
+ztanq ] からの SFG
+m,SF
+反射 SFG
+E - 1p (0 - )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t t
+· m1,SF,p1m,vis,b 1m,ir,g
+(1+r r e2ib m,SF h m)(1+r r e2ib m,ir h m)(1+r r e2ib m,vis h m)
+1m,SF,p m2,SF,p 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+1
+· {
+b - b - b
+m,SF m,vis m,ir
+· {c xbg L- 1/m,px [r m2,vis,b r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m)
++r (ei(b m,SF +b m,vis +b m,ir)hm - e2ib m,SFhm)]
+m2,SF,p
++c zbg L- 1/m,pz [r m2,vis,b r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m)
+- r (ei(b m,SF +b m,vis +b m,ir)hm - e2ib m,SFhm)]}
+m2,SF,p
+1
++
+(cid:160) b - b +b
+m,SF m,vis m,ir
+· {c xbg L- 1/m,px [r m2,vis,b (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m)
+(cid:160) +r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,ir)hm)]
+m2,SF,p m2,ir,g
++c zbg L- 1/m,pz [r m2,vis,b (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m)
+- r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,ir)hm)]}
+m2,SF,p m2,ir,g
+1
++
+b +b - b
+m,SF m,vis m,ir
+· {c xbg L- m/m,px [r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m)
++r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,vis)hm)]
+m2,SF,p m2,vis,b
+(cid:160) +c zbg L- m/m,pz [r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m)
+- r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,vis)hm)]}
+m2,SF,p m2,vis,b
+(cid:160)
+1
++
+b +b +b
+m,SF m,vis m,ir
+(cid:160) · {c xbg L- m/m,px [(ei(b m,SF +b m,vis +b m,ir )h m - 1)
++r r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)]
+m2,SF,p m2,vis,b m2,ir,g
+(cid:160) +c zbg L- m/m,pz [(ei(b m,SF +b m,vis +b m,ir )h m - 1)
+(13a)
+- r r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)]}
+m2,SF,p m2,vis,b m2,ir,g
+(cid:160)
+和周波表式 - 8
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.9 =====
+E - 1s (0 - )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t t
+· m1,SF,s 1m,vis,b 1m,ir,g
+(1+r r e2ib m,SF h m)(1+r r e2ib m,ir h m)(1+r r e2ib m,vis h m)
+1m,SF,s m2,SF,s 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+1
+· {
+b - b - b
+m,SF m,vis m,ir
+· {c ybg L - 1/m,sy [r m2,vis,b r m2,ir,g (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)
++r (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,SF h m)]
+m2,SF,s
+1
++
+b - b +b
+m,SF m,vis m,ir
+· {c ybg L- 1/m,sy [r m2,vis,b (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m)
++r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,ir)hm)]
+m2,SF,s m2,ir,g
+1
++
+b +b - b
+m,SF m,vis m,ir
+· {c ybg L- m/m,sy [r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m)
++r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,vis)hm)]
+m2,SF,s m2,vis,b
+1
++
+b +b +b
+m,SF m,vis m,ir
+· {c ybg L- m/m,sy [(ei(b m,SF +b m,vis +b m,ir )h m - 1)
+(13b)
++r r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)]
+m2,SF,s m2,vis,b m2,ir,g
+(cid:160)
+透過 SFG
+(cid:160) E + 2p (h m + )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t eib m,SF h m
+· 1m,vis,b 1m,ir,g
+(cid:160) (1+r r e2ib m,SF h m)(1+r r e2ib m,vis h m)(1+r r e2ib m,ir h m)
+1m,SF,p m2,SF,p 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+[ei(- b m,SF +b m,vis +b m,ir )h m - 1]+r r r [e2i(b m,vis +b m,ir )h m - ei(b m,SF +b m,vis +b m,ir )h m]
+· {L + c [ m1,SF,p m2,vis,b m2ir,g
+(cid:160) 2/m,px xb g b - b - b
+m,SF m,vis m,ir
+r [ei(- b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m]+r r [e2ib m,vis h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,ir,g m1,SF,p m2,vis,b
+(cid:160) b - b +b
+m,SF m,vis m,ir
+r [ei(-b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m]+r r [e2ib m,ir h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m1,SF,p m2,ir,g
+(cid:160) b +b - b
+m,SF m,vis m,ir
+r r [ei(- b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m]+r [1- ei(b m,SF +b m,vis +b m,ir )h m]
+(cid:160) + m2,vis,b m2,ir,g b +b +b m1,SF,p ]
+m,SF m,vis m,ir
+[ei(- b m,SF +b m,vis +b m,ir )h m - 1]- r r r [e2i(b m,vis +b m,ir )h m - ei(b m,SF +b m,vis +b m,ir )h m]
++L + c [ m1,SF,p m2,vis,b m2ir,g
+(cid:160) 2/m,pz zbg b - b - b
+m,SF m,vis m,ir
+r [ei(- b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m]- r r [e2ib m,vis h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,ir,g m1,SF,p m2,vis,b
+(cid:160) b - b +b
+m,SF m,vis m,ir
+(cid:160)
+和周波表式 - 9
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.10 =====
+r [ei(-b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m]- r r [e2ib m,ir h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m1,SF,p m2,ir,g
+b +b - b
+m,SF m,vis m,ir
+r r [ei(- b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m]- r [1- ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m2,ir,g m1,SF,p ]} (14a)
+b +b +b
+m,SF m,vis m,ir
+E + 2s (h m + )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t eib m,SF h m
+· 1m,vis,b 1m,ir,g
+(1+r r e2ib m,SF h m)(1+r r e2ib m,vis h m)(1+r r e2ib m,ir h m)
+1m,SF,s m2,SF,s 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+[ei(- b m,SF +b m,vis +b m,ir )h m - 1]+r r r [e2i(b m,vis +b m,ir )h m - ei(b m,SF +b m,vis +b m,ir )h m]
+· L + c { m1,SF,s m2,vis,b m2ir,g
+2/m,sy yb g b - b - b
+m,SF m,vis m,ir
+r [ei(- b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m]+r r [e2ib m,vis h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,ir,g m1,SF,s m2,vis,b
+b - b +b
+m,SF m,vis m,ir
+r [ei(-b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m]+r r [e2ib m,ir h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m1,SF,s m2,ir,g
+b +b - b
+m,SF m,vis m,ir
+r r [ei(- b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m]+r [1- ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m2,ir,g m1,SF,s } (14b)
+b +b +b
+m,SF m,vis m,ir
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+和周波表式 - 10

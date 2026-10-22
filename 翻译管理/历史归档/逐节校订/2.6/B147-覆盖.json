@@ -1,0 +1,23 @@
+{
+  "batch": "B147",
+  "date": "2026-10-20",
+  "pages": [
+    1,
+    2
+  ],
+  "tags": [
+    "1.1",
+    "1.2",
+    "1.3a",
+    "1.3b",
+    "1.3c",
+    "1.4a",
+    "1.4b",
+    "1.4c",
+    "1.5a",
+    "1.5b"
+  ],
+  "source_sha256": "329e6cc656b6e143555bac82f6320e9dd051ee782f93151a1c743159f76f2f35",
+  "source_corrections_adopted": false,
+  "unreviewed_tail_unchanged": true
+}

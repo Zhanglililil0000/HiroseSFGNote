@@ -1,0 +1,19 @@
+{
+  "batch": "B165",
+  "date": "2026-10-20",
+  "pages": [
+    3,
+    4
+  ],
+  "units": "2.1引言、源分类(a)、1/m′界面1侧完整跨页式2.1",
+  "tags": [
+    "2.1"
+  ],
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "unresolved": [
+    "Q097"
+  ],
+  "source_corrections_adopted": false,
+  "unchanged_tail": "1/m′界面m′侧及以后逐字保持"
+}

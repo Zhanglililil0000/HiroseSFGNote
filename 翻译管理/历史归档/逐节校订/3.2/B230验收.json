@@ -1,0 +1,15 @@
+{
+  "batch": "B230",
+  "date": "2026-10-20",
+  "pages": [2],
+  "scope": "2.1相位定义、多重反射单元、四矩阵与Z",
+  "source_images_visually_checked": true,
+  "math_fragments_this_batch": 29,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "four_determinants_equal": true,
+  "unresolved_source_questions": ["Q113"],
+  "source_formula_corrections_adopted": false,
+  "next": "B231：m′层E+源式2.1—2.2，核矩阵乘法顺序及源坐标"
+}

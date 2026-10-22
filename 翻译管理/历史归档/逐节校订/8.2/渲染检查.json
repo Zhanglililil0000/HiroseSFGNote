@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-22",
+  "math": 42,
+  "results": [
+    {
+      "batch": "B649",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "batch": "B650",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        }
+      ]
+    }
+  ]
+}

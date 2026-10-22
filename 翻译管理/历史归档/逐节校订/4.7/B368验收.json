@@ -1,0 +1,276 @@
+{
+  "batch": "B368",
+  "date": "2026-10-21",
+  "pages": [
+    4
+  ],
+  "scope": "第3部分反对称伸缩振动完整表(3a-2)",
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "original_table_label": "3a-2",
+  "rows": 27,
+  "angle_columns": [
+    "\\chi=0^\\circ/180^\\circ",
+    "\\chi=90^\\circ",
+    "\\chi=-90^\\circ"
+  ],
+  "cells": 81,
+  "zero_cells": 75,
+  "nonzero_cells": 6,
+  "components": [
+    {
+      "polarization": "ppp",
+      "indices": "XXX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "XZZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "XZX",
+      "values": [
+        "\\beta_{caa}\\cos\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "XXZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZXZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZZX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZXX",
+      "values": [
+        "\\beta_{caa}\\cos\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZZZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YXX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YZZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YZX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YXZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ssp",
+      "indices": "YYX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ssp",
+      "indices": "YYZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "XYX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "XYZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "ZYZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "ZYX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "sps",
+      "indices": "YXY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "sps",
+      "indices": "YZY",
+      "values": [
+        "0",
+        "\\beta_{caa}\\cos\\tau",
+        "\\beta_{caa}\\cos\\tau"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "XXY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "XZY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "ZZY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "ZXY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pss",
+      "indices": "XYY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pss",
+      "indices": "ZYY",
+      "values": [
+        "0",
+        "\\beta_{caa}\\cos\\tau",
+        "\\beta_{caa}\\cos\\tau"
+      ]
+    },
+    {
+      "polarization": "sss",
+      "indices": "YYY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "status": "本批逐格译校与参考排版验收完成",
+  "render": {
+    "batch": "B368",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "3fa5e84fc3fad6949ce5aa04d6f03a69342fcec2047d4d0b0ff05df1dcfc69df",
+  "scope_limit": "原表覆盖、转录及排版核验，不等于验证原文公式；共享列±对应关系未确认。"
+}

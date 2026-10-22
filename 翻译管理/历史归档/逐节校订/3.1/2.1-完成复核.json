@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-20",
+  "section": "3.1内2.1",
+  "status": "小节页面对照、译校与分批排版完成",
+  "pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "batches": "B165—B174",
+  "unique_numbered_equations": 21,
+  "source_formula_corrections_adopted": false,
+  "unresolved": "Q097—Q101；Q096属前段L定义",
+  "next": "B175 / 2.2引言与式2.18",
+  "later_text_unchanged": true,
+  "continuous_preview_math_fragments_including_opening_section1": 88,
+  "syntax_errors": 0,
+  "display_overflows": 0
+}

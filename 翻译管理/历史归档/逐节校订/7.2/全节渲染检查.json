@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-22",
+  "math": 67,
+  "scrollWidth": 1100,
+  "height": 4940,
+  "overs": [],
+  "images": [
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.2/p1-%E7%A4%BA%E6%84%8F%E5%9B%BE.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.2/p2-%E5%BC%8FA4ef.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.2/p3-%E5%BC%8FA8.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.2/p3-%E5%BC%8FA9.png",
+      "loaded": true
+    }
+  ],
+  "headings": [
+    {
+      "text": "波矢、场方向与基本关系",
+      "y": 256
+    },
+    {
+      "text": "将边界条件写成场分量",
+      "y": 2122
+    },
+    {
+      "text": "解出两侧辐射振幅",
+      "y": 3693
+    }
+  ],
+  "screenshots": 5
+}

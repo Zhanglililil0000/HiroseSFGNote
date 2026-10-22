@@ -1,0 +1,21 @@
+{
+  "batch": "B378",
+  "pages": [
+    13,
+    14
+  ],
+  "scope": "第5部分及5a",
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批原页对照、译校与参考排版完成",
+  "render": {
+    "batch": "B378",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "570697aef3153023d50ad19823c70a3bc220fa5b722f7a949186dd80dea3fda0",
+  "validation_limit": "保留原式疑点；未声称已完成独立物理验证。"
+}

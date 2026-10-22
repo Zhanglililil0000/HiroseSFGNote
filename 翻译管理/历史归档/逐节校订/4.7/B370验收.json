@@ -1,0 +1,244 @@
+{
+  "batch": "B370",
+  "pages": [
+    6
+  ],
+  "tables": [
+    {
+      "label": "3a-3",
+      "rows": [
+        {
+          "polarization": "ppp",
+          "indices": "XXX",
+          "values": [
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "XZZ",
+          "values": [
+            "\\pm(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+            "\\pm(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "XZX",
+          "values": [
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "XXZ",
+          "values": [
+            "(1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + (\\beta_{bbc} + \\beta_{aac})]\\sin\\tau",
+            "(1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + (\\beta_{aac} + \\beta_{ccc})]\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZXZ",
+          "values": [
+            "\\pm(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+            "\\pm(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZZX",
+          "values": [
+            "-(\\pm)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\sin\\tau",
+            "-(\\pm)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZXX",
+          "values": [
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZZZ",
+          "values": [
+            "-[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - \\beta_{bbc}]\\cos\\tau",
+            "-[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - \\beta_{bbc}]\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YXX",
+          "values": [
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YZZ",
+          "values": [
+            "(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+            "(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YZX",
+          "values": [
+            "\\pm(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "-\\pm(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YXZ",
+          "values": [
+            "\\pm(1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - (\\beta_{aac} - \\beta_{ccc})]\\cos\\tau",
+            "-(\\pm 1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - (\\beta_{aac} - \\beta_{ccc})]\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "ssp",
+          "indices": "YYX",
+          "values": [
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "ssp",
+          "indices": "YYZ",
+          "values": [
+            "(1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + (\\beta_{aac} + \\beta_{ccc})]\\cos\\tau",
+            "(1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + (\\beta_{aac} + \\beta_{ccc})]\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "XYX",
+          "values": [
+            "(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "-(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "XYZ",
+          "values": [
+            "(\\pm 1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - (\\beta_{aac} - \\beta_{ccc})]\\cos\\tau",
+            "-(\\pm 1/2)[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - (\\beta_{aac} - \\beta_{ccc})]\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "ZYZ",
+          "values": [
+            "(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+            "-(\\sqrt{2}/2)(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "ZYX",
+          "values": [
+            "\\pm(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "-(\\pm 1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "sps",
+          "indices": "YXY",
+          "values": [
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "sps",
+          "indices": "YZY",
+          "values": [
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "XXY",
+          "values": [
+            "(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "-(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "XZY",
+          "values": [
+            "-(\\pm 1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "(\\pm 1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "ZZY",
+          "values": [
+            "-(\\sqrt{2}/2)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + \\beta_{ccc}]\\sin\\tau",
+            "(\\sqrt{2}/2)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + \\beta_{ccc}]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "ZXY",
+          "values": [
+            "-(\\pm 1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "(\\pm 1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "pss",
+          "indices": "XYY",
+          "values": [
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "\\pm(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        },
+        {
+          "polarization": "pss",
+          "indices": "ZYY",
+          "values": [
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+            "-(1/2)(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+          ]
+        },
+        {
+          "polarization": "sss",
+          "indices": "YYY",
+          "values": [
+            "(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau",
+            "-(\\sqrt{2}/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau"
+          ]
+        }
+      ],
+      "angle_cells": 54,
+      "none_polarizations": []
+    }
+  ],
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批原页对照、译校与参考排版完成",
+  "render": {
+    "batch": "B370",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "b783205fdf79a1aa8228fe0be70a928fd2676028e7de1524289de76203c73dff",
+  "validation_limit": "保留原式疑点；未声称已完成独立物理验证。"
+}

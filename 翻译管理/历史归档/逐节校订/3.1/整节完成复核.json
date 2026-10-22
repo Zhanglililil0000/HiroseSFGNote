@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-20",
+  "section": "3.1",
+  "source_pages": 51,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "unique_numbered_equations": 102,
+  "math_fragments": 475,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "source_formula_corrections_adopted": false,
+  "unresolved_source_questions": [
+    "Q096—Q107",
+    "Q110—Q112"
+  ],
+  "next": "B228：3.2，先核对原文结构、局部约定与跨节引用"
+}

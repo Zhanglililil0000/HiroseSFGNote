@@ -1,0 +1,13 @@
+{
+  "batch": "B304",
+  "date": "2026-10-21",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "scope": "4b自由内部旋转反对称及面外模式各27分量",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

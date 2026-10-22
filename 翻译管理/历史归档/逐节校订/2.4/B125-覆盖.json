@@ -1,0 +1,22 @@
+{
+  "batch": "B125",
+  "date": "2026-10-19",
+  "source_pages": [
+    2,
+    3
+  ],
+  "source_sha256": "3f6eeee4f3418c4a89181b0c0142b95aee1adda31fb6e94a7c100fd000f58be2",
+  "units": [
+    "响应映射式",
+    "公共因子及波矢形式",
+    "L记号与s/p输出区别",
+    "方向原称及Q041注",
+    "1/m六系数及两个z分量等价式"
+  ],
+  "numbered_equations": 0,
+  "coefficient_count": 6,
+  "z_equalities_complete": true,
+  "unreviewed_tail_unchanged": true,
+  "previous_prefix_unchanged": "准备工作正文逐字相同；页首状态与阅读导引按本批更新",
+  "source_corrections_adopted": false
+}

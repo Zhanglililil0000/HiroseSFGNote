@@ -1,0 +1,22 @@
+{
+  "batch": "B352",
+  "date": "2026-10-21",
+  "scope": "附录D：简并面外模式",
+  "pages": [
+    47,
+    48,
+    49
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "38c38e15a9c8109507f388ee6b36451e853c4b643b5487fdfd276fe647af8a86",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B352",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

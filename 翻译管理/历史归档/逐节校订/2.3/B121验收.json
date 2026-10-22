@@ -1,0 +1,14 @@
+{
+  "batch": "B121",
+  "pages": [
+    9,
+    10
+  ],
+  "labels": [],
+  "images": [],
+  "page_compared": true,
+  "math_syntax_passed": true,
+  "render_overflows": [],
+  "all_images_loaded": true,
+  "source_formula_correction_adopted": false
+}

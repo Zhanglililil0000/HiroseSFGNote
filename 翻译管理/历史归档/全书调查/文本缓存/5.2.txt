@@ -1,0 +1,1466 @@
+===== PDF p.1 =====
+主な点群のキャラクターテーブルと基底
+1次元テンソルをV、2次元テンソルをD、3次元テンソルをY、4次元テンソルをWで表し、分子固
+定座標系を (a, b, c）系とする。ラマン散乱やレーリー散乱に対する散乱テンソルはDに属し、SHG、SFG
+の感受率テンソルはYに、CARS, CSRS, THG といった４波混合の感受率テンソルはWに属する。
+対称種ごとにキャラクターテーブル、球対称群におけるテンソルの基底が属する既約表現の分類表を
+示し、最後にゼロでない値を持つテンソル成分の一覧を示す。
+ここでいうゼロでない値を持つ成分とは、（光吸収やラマン散乱のような）分子の励起を伴わない
+散乱過程、即ちレイリー散乱、SFG、SHG、CARS、4波混合等を与える感受率テンソルの成分である。
+全対称表現に属する基底だけが値を持ち、それ以外の表現に属する基底はゼロであるという条件から、
+別ファイル「基底テンソル」を参照して（逆変換をすることで）デカルト座標でのノンゼロ成分とその
+間の関係を見出すことが出来る。
+ラマンテンソルについては、2次元テンソルDの成分が属する既約表現と同じ対称の振動モードが、
+そのテンソル成分によってラマン散乱を生起するという条件が成り立つ。ラマン散乱のノンゼロ成分の
+探し方については、Wテンソルの成分のうちのしかるべき形をしたもの（同じDテンソル成分の直積、
+下付き文字の並び方がabba の形をしたもの）を選ぶとき、その時のD がラマンテンソルのノンゼロ成
+ab
+分であるというやり方も可能である。
+目次
+（下の目次で*印を付けた対称性をもつ系はSFG活性である。）
+(page point group) (page point group)
+2 —— C*, C, C* 12 —— D
+s i 2 4h
+3 —— C , * C * 13 —— D
+2v 2h 6h
+4 —— D, D 14 —— C*,C*
+2 2h 3 4
+5 —— C *, D* 15 —— C*,S*
+3v 3 6 4
+6 —— C *, C * 16 —— S ,C *
+5v 4v 6 3h
+7 —— D*, D * 17 —— C , C
+4 2d 4h 6h
+8 —— C *, D* 18 —— T *, T
+6v 6 d h
+9 —— D *, D 19 —— T*, O
+3d 4d
+10 —— D , D 20 —— O
+5d 6d h
+11 —— D *, D 21 —— C *
+3h 5h ¥ v
+22 —— D
+¥ h
+キャラクタテーブル - 1
+
+===== PDF p.2 =====
+C E s
+s xy
+A' +1 +1 T, T R x2, y2, z2, xy
+x y z
+A" +1 -1 T R , R xz, yz
+z x y
+C HN
+s 3
+A' V , V , D(0) , D(1) , D(2) , D(2) , D(2) , Y(1) , Y(1) , Y(2) , Y(2) , Y(3) , Y(3) , Y(3) , Y(3)
+1b 1a 0 0 0 2b 2a 1b 1a 1b 1a 1b 1a 3b 3a
+W(0) , W(1) , W(2) , W(2) , W(2) , W(3) , W(3) , W(3) , W(4) , W(4) , W(4) , W(4) , W(4)
+0 0 0 2b 2a 0 2b 2a 0 2b 2a 4b 4a
+A" V, D(1) , D(1) , D(2) , D(2) , Y(0) , Y(1) , Y(2) , Y(3) , Y(2) , Y(2) , Y(3) , Y(3)
+0 1b 1a 1b 1a 0 0 0 0 2b 2a 2b 2a
+W(1) , W(1) , W(2) , W(2) , W(3) , W(3) , W(3) , W(3) , W(4) , W(4) , W(4) , W(4)
+1b 1a 1b 1a 1b 1a 3b 3a 1b 1a 3b 3a
+b , b , b , b , b , b , b , b , b , b , b , b , b , b , b , b ,
+aaa bbb acc bcc abb aab cac cca cbc ccb bab bba aba baa aaa aaa
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g ,
+aaaa bbbb cccc aabb bbcc ccaa bbaa ccbb aacc abba bccb caab baab cbbc acca abab baba bcbc cbcb caca acac
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g
+aaab bbab ccab abaa abbb abcc aaba bbba ccba baaa babb bacc accb cabc bcca cbac acbc cacb bcac cbcac caac bbba
+C E I
+i
+A +1 +1 R , R , R all components
+g x y z
+A +1 -1 T, T, T
+u x y z
+C trans-CFH-CFH without internal rotation
+i 2 2
+A D(0) , D(1) , D(1) , D(1) , D(2) , D(2) , D(2) , D(2) , D(2) , W(0) , W(1) , W(1) , W(1) ,
+g 0 0 1b 1a 0 1b 1a 2b 2a 0 0 1b 1a
+W(2) ,W(2) , W(2) , W(2) , W(2) , W(3) , W(3) , W(3) , W(3) , W(3) , W(3) , W(3) ,
+0 1b 1a 2b 2a 0 1b 1a 2b 2a 3b 3a
+W(4) , W(4) , W(4) , W(4) , W(4) , W(4) , W(4) , W(4) , W(4)
+0 1b 1a 2b 2a 3b 3a 4b 4a
+A V , V , V, Y(0) , Y(1) , Y(1) , Y(1) , Y(2) , Y(2) , Y(2) , Y(2) , Y(2) ,
+u 1b 1a 0 0 0 1b 1a 0 1b 1a 2b 2a
+Y(3) , Y(3) , Y(3) , Y(3) , Y(3) , Y(3) , Y(3) ,
+0 1b 1a 2b 2a 3b 3a
+(すべての g ')
+C E C
+2 2z
+A +1 +1 T R x2, y2, z2, xy
+z z
+B +1 -1 T, T R , R xz, yz
+x y x y
+C HO, HS (Two HOO/HSS planes are perpendicular.)
+2 2 2 2 2
+A V , D(0) , D(1) , D(2) , D(2) , D(2) , Y(0) , Y(1) , Y(2) , Y(2) , Y(2) , Y(3) , Y(3) , Y(3) ,
+1a 0 1a 0 1b 2b 0 1a 0 1b 2b 1a 2a 3a
+W(0) , W(1) , W(2) , W(2) , W(2) , W(3) , W(3) , W(3) , W(4) , W(4) , W(4) , W(4) , W(4)
+0 1a 0 1b 2b 1a 2a 3a 0 1b 2b 3b 4b
+B V , V, D(1) , D(1) , D(2) , D(2) , Y(1) , Y(1) , Y(2) , Y(2) , Y(3) , Y(3) , Y(3) , Y(3)
+1b 0 0 1b 1a 2a 0 1b 1a 2a 0 1b 2b 3b
+W(1) , W(1) , W(2) , W(2) , W(3) , W(3) , W(3) , W(3) , W(4) , W(4) , W(4) , W(4)
+0 1b 1a 2a 0 1b 2b 3b 1a 2a 3a 4a
+b , b , b , b , b , b , b , b , b , b , b , b , b ,
+bbb baa aab aba bcc ccb cbc abc bac bca cba cab acb
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g ,
+aaaa bbbb cccc aabb bbcc ccaa bbaa ccbb aacc abba bccb caac baab cbbc acca abab baba bcbc cbcb caca acac
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g
+aaca bbca ccca caaa cabb cacc aaac bbac ccac acaa acbb accc cbba bcab abbc bacb cbab bcba abcb babc
+キャラクタテーブル - 2
+
+===== PDF p.3 =====
+C E C s (yz) s (xz)
+2v 2z v v
+A +1 +1 +1 +1 T x2, y2, z2
+1 z
+A +1 +1 -1 -1 R xy
+2 z
+B +1 -1 +1 -1 T R yz
+1 y x
+B +1 -1 -1 +1 T R xz
+2 x y
+C HO,
+2v 2
+A V , D(0) , D(2) , D(2) , Y(1) , Y(2) , Y(3) , Y(3) , W(0) , W(2) , W(2) , W(3) , W(4) , W(4) , W(4)
+1 1a 0 0 2b 1a 1b 1a 3a 0 0 2b 2a 0 2b 4b
+A D(1) , D(2) , Y(0) , Y(2) , Y(2) , Y(3) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+2 1a 1b 0 0 2b 2a 1a 1b 1a 3a 1b 3b
+B V, D(1) , D(2) , Y(1) , Y(2) , Y(3) , Y(3) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+1 0 1b 1a 0 2a 0 2b 1b 1a 1b 3b 1a 3a
+B V , D(1) , D(2) , Y(1) , Y(2) , Y(3) , Y(3) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+2 1b 0 2a 1b 1a 1b 3b 0 2a 0 2b 2a 4a
+b , b , b , b , b , b , b
+bbb baa bcc aab ccb aba cbc
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g
+aaaa bbbb cccc aabb bbcc ccaa bbaa ccbb aacc abba bccb caac baab cbbc acca abab baba bcbc cbcb caca acac
+C E C s (xy) I
+2h 2z h
+A +1 +1 +1 +1 R x2, y2, z2, xy
+g z
+A +1 +1 -1 -1 T
+u z
+B +1 -1 -1 +1 R , R xz, yz
+g x y
+B +1 -1 +1 -1 T, T
+u x y
+C trans-dichloroethylene without internal rotation
+2h
+A D(0) , D(1) , D(2) , D(2) , D(2) , W(0) , W(1) , W(2) , W(2) , W(2) , W(3) , W(3) , W(3) , W(4) , W(4) , W(4) ,
+g 0 0 0 2a 2b 0 0 0 2a 2b 0 2b 2a 0 2b 2a
+W(4) , W(4)
+4b 4a
+A V, Y(0) , Y(1) , Y(2) , Y(2) , Y(2) , Y(3) , Y(3) , Y(3)
+u 0 0 0 0 2b 2a 0 2b 2a
+B D(1) , D(1) , D(2) , D(2) , W(1) , W(1) , W(2) , W(2) , W(3) , W(3) , W(3) , W(3) , W(4) , W(4) , W(4) ,
+g 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a 1b 1a 3b
+W(4)
+3a
+B V , V , Y(1) , Y(1) , Y(2) , Y(2) , Y(3) , Y(3) , Y(3) , Y(3)
+u 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g ,
+aaaa bbbb cccc aabb bbcc ccaa bbaa ccbb aacc abba bccb caac baab cbbc acca abab baba bcbc cbcb caca acac
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g
+aaab bbab ccab abaa abbb abcc aaba bbba ccba baaa babb bacc accb cabc bcca cbac acbc cacb bcac cbca
+キャラクタテーブル - 3
+
+===== PDF p.4 =====
+D E C C C
+2 2z 2y 2x
+A +1 +1 +1 +1 x2, y2, z2
+B +1 +1 -1 -1 T R xy
+1 z z
+B +1 -1 +1 -1 T R xz
+2 y y
+B +1 -1 -1 +1 T R yz
+3 x x
+D
+2
+A D(0) , D(2) , D(2) , Y(0) , Y(2) , Y(2) , Y(3) , W(0) , W(2) , W(2) , W(3) , W(4) , W(4) , W(4)
+0 0 2b 0 0 2b 2a 0 0 2b 2a 0 2b 4b
+B V, D(1) , D(2) , Y(1) , Y(2) , Y(3) , Y(3) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+1 0 0 2a 0 2a 0 2b 0 2a 0 2b 2a 4a
+B V , D(1) , D(2) , Y(1) , Y(2) , Y(3) , Y(3) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+2 1a 1a 1b 1a 1b 1a 3a 1a 1b 1a 3a 1b 3b
+B V , D(1) , D(2) , Y(1) , Y(2) , Y(3) , Y(3) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+3 1b 1b 1a 1b 1a 1b 3b 1b 1a 1b 3b 1a 3a
+b , b b , b , b , b
+abc bca cab cba cab acb
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g
+aaaa bbbb cccc aabb bbcc ccaa bbaa ccbb aacc abba bccb caac baab cbbc acca abab baba bcbc cbcb caca acac
+D E C C C I s s s
+2h 2z 2y 2x xy xz yz
+A +1 +1 +1 +1 +1 +1 +1 +1 x2, y2, z2
+g
+A +1 +1 +1 +1 -1 -1 -1 -1
+u
+B +1 +1 -1 -1 +1 +1 -1 -1 R xy
+1g z
+B +1 +1 -1 -1 -1 -1 +1 +1 T
+1u z
+B +1 -1 +1 -1 +1 -1 +1 -1 R xz
+2g y
+B +1 -1 +1 -1 -1 +1 -1 +1 T
+2u y
+B +1 -1 -1 +1 +1 -1 -1 +1 R yz
+3g x
+B +1 -1 -1 +1 -1 +1 +1 -1 T
+3u x
+D ethylene without internal rotation
+2h
+A D(0) , D(2) , D(2) , W(0) , W(2) , W(2) , W(3) , W(4) , W(4) , W(4)
+g 0 0 2b 0 0 2b 2a 0 2b 4b
+A Y(0) , Y(2) , Y(2) , Y(3)
+u 0 0 2b 2a
+B D(1) , D(2) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+1g 1b 1a 1b 1a 1b 3b 1a 3a
+B V , Y(1) , Y(2) , Y(3) , Y(3)
+1u 1b 1b 1a 1b 3b
+B D(1) , D(2) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+2g 1a 1b 1a 1b 1a 3a 1b 3b
+B V , Y(1) , Y(2) , Y(3) , Y(3)
+2u 1a 1a 1b 1a 3a
+B D(1) , D(2) , W(1) , W(2) , W(3) , W(3) , W(4) , W(4)
+3g 0 2a 0 2a 0 2b 2a 4a
+B V, Y(1) , Y(2) , Y(3) , Y(3)
+3u 0 0 2a 0 2b
+g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g , g
+aaaa bbbb cccc aabb bbcc ccaa bbaa ccbb aacc abba bccb caac baab cbbc acca abab baba bcbc cbcb caca acac
+キャラクタテーブル - 4
+
+===== PDF p.5 =====
+C E 2C 3s
+3v 3z v
+A +1 +1 +1 T x2+y2, z2
+1 z
+A +1 +1 -1 R
+2 z
+E +2 -1 0 (T, T) (R , R ) (x2–y2, xy); (xz, yz)
+x y x y
+C CHX
+3v 3
+A V, D(0) , D(2) , Y(1) , Y(3) , Y(3) , W(0) , W(2) , W(3) , W(4) , W(4)
+1 0 0 0 0 0 3b 0 0 3a 0 3b
+A D(1) , Y(0) , Y(2) , Y(3) , W(1) , W(3) , W(3) , W(4)
+2 0 0 0 3a 0 0 3b 3a
+E (V ,V ), (D(1) , D(1) ), (D(2) , D(2) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(2) , Y(2) ),
+1b 1a 1b 1a 1b 1a 2b 2a 1b 1a 1b 1a 2b 2a
+(Y(3) , Y(3) ), (Y(3) , Y(3) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(2) , W(2) ), (W(3) , W(3) ),
+1b 1a 2b 2a 1b 1a 1b 1a 2b 2a 1b 1a
+(W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) ), (W(4) , W(4) )
+2b 2a 1b 1a 2b 2a 4b 4a
+b , b = b , b = b , b = b , b = -b = -b = -b ,
+ccc aac bbc aca bcb caa cbb aaa abb bba bab
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g ,
+abba baab acca bccb caac cbbc
+g = -g , g = -g = -g = -g , g = -g = -g = -g , g = -g = -g = -g ,
+aaca bbcb caaa cabb cbab cbba aaac bbac abbc babc acaa acbb bcab bcba
+D E 2C 3 C
+3 3z 2
+A +1 +1 +1 x2+y2, z2
+1
+A +1 +1 -1 T R
+2 z z
+E +2 -1 0 (T, T) (R , R ) (x2–y2, xy); (xz, yz)
+x y x y
+D
+3
+A D(0) , D(2) , Y(0) , Y(2) , Y(3) , W(0) , W(2) , W(3) , W(4) , W(4)
+1 0 0 0 0 3b 0 0 3b 0 3a
+A V, D(1) , Y(1) , Y(3) , Y(3) , W(1) , W(3) , W(3) , W(4)
+2 0 0 0 0 3a 0 0 3a 3b
+E (V ,V ), (D(1) , D(1) ), (D(2) , D(2) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(2) , Y(2) ),
+1b 1a 1b 1a 1b 1a 2b 2a 1b 1a 1b 1a 2b 2a
+(Y(3) , Y(3) ), (Y(3) , Y(3) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(2) , W(2) ), (W(3) , W(3) ),
+1b 1a 2b 2a 1b 1a 1b 1a 2b 2a 1b 1a
+(W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) ), (W(4) , W(4) )
+2b 2a 1b 1a 2b 2a 4b 4a
+b = -b = -b = -b ,
+aaa abb bba bab
+-g = g = g = g , -g = g = g = g , -g = g = g = g , -g = g = g = g ,
+bbbc aabc baac abac bcbb bcaa acba acab bbcb aacb abca baca cbbb cbaa caab caba
+キャラクタテーブル - 5
+
+===== PDF p.6 =====
+C E 2C 2C 2 5s
+5v 5z 5 v
+A +1 +1 +1 +1 T x2+y2, z2
+1 z
+A +1 +1 +1 -1 R
+2 z
+E +2 2cos72˚ 2cos144˚ 0 (T, T) (R , R ) (xz, yz)
+1 x y x y
+E +2 2cos144˚ 2cos72˚ 0 (x2–y2, xy)
+2
+C
+5v
+A V, D(0) , D(2) , Y(1) , Y(3) , W(0) , W(2) , W(4)
+1 0 0 0 0 0 0 0 0
+A D(1) , Y(0) , Y(2) , W(1) , W(3)
+2 0 0 0 0 0
+E (V ,V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(1) , W(1) ),
+1 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+(W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 4b 4a
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) ), (W(2) , W(2) ), (W(3) , W(3) ),
+2 2b 2a 2b 2a 2b 2a 3b 3a 2b 2a 2b 2a
+(W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+3b 3a 2b 2a 3b 3a
+b , b = b , b = b , b = b
+ccc aac bbc aca bcb caa cbb
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+C E 2C C 2” C " 2s 2s
+4v 4z 4 2 v d
+A +1 +1 +1 +1 +1 T x2+y2, z2
+1 z
+A +1 +1 +1 -1 -1 R
+2 z
+B +1 -1 +1 +1 -1 x2–y2
+1
+B +1 -1 +1 -1 +1 xy
+2
+E +2 0 -2 0 0 (T, T) (R , R ) (xz, yz)
+x y x y
+C
+4v
+A V, D(0) , D(2) , Y(1) , Y(3) , W(0) , W(2) , W(4) , W(4)
+1 0 0 0 0 0 0 0 0 4b
+A D(1) , Y(0) , Y(2) , W(1) , W(3) , W(4)
+2 0 0 0 0 0 4a
+B D(2) , Y(2) , Y(3) , W(2) , W(3)
+1 2b 2a 2b 2b 2a, W(4)2b
+B2 D(2) Y(2) , Y(3) , W(2) , W(3) , W(4)
+2a, 2b 2a 2a 2b 2a
+E (V V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) ),
+1b, 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+(W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 3b 3a 1b 1a 3b 3a
+b , b = b , b = b , b = b
+ccc aac bbc aca bcb caa cbb
+g , g = g , g = g , g = g = g = g , g = g , g = g , g = g = g = g ,
+cccc aaaa bbbb aabb bbaa aacc bbcc ccaa ccbb abba baab abab baba acca bccb caac cbbc
+g = g = g = g
+acac bcbc caca cbcb
+キャラクタテーブル - 6
+
+===== PDF p.7 =====
+D E 2C C 2” C " 2C 2C '
+4 4z 4 2 2 2
+A +1 +1 +1 +1 +1 x2+y2, z2
+1
+A +1 +1 +1 -1 -1 T R
+2 z z
+B +1 -1 +1 +1 -1 x2–y2
+1
+B +1 -1 +1 -1 +1 xy
+2
+E +2 0 -2 0 0 (T, T) (R , R ) (xz, yz)
+x y x y
+D
+4
+A D(0) , D(2) , Y(0) , Y(2) , W(0) , W(2) , W(4) , W(4)
+1 0 0 0 0 0 0 0 4b
+A V, D(1) , Y(1) , Y(3) , W(1) , W(3) , W(4)
+2 0 0 0 0 0 0 4a
+B D(2) , Y(2) , Y(3) , W(2) , W(3) , W(4)
+1 2b 2b 2a 2b 2a 2b
+B D(2) , Y(2) , Y(3) , W(2) , W(3) , W(4)
+2 2a 2a 2b 2a 2b 2a
+E (V ,V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) ),
+1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+(W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), ((W(3) , W(3) ), W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 3b 3a 1b 1a 3b 3a
+b = -b , b = -b , b = -b
+abc bac bca acb cab cba
+g , g = g , g = g , g = g = g = g , g = g , g = g , g = g = g = g ,
+cccc aaaa bbbb aabb bbaa aacc bbcc ccaa ccbb abba baab abab baba acca bccb caac cbbc
+g = g = g = g
+acac bcbc caca cbcb
+D E 2S S 2” C " 2C 2s
+2d 4z 4 2 2 d
+A +1 +1 +1 +1 +1 x2+y2, z2
+1
+A +1 +1 +1 -1 -1 R
+2 z
+B +1 -1 +1 +1 -1 x2–y2
+1
+B +1 -1 +1 -1 +1 T xy
+2 z
+E +2 0 -2 0 0 (T, T) (R , R ) (xz, yz)
+x y x y
+D
+2d
+A D(0) , D(2) , Y(2) , Y(3) , W(0) , W(2) , W(4) , W(4)
+1 0 0 2a 2b 0 0 0 4b
+A D(1) , Y(2) , Y(3) , W(1) , W(3) , W(4)
+2 0 2b 2a 0 0 4a
+B D(2) , Y(0) , Y(2) , W(2) , W(3) , W(4)
+1 2a 0 0 2a 2b 2a
+B V, D(2) , Y(1) , Y(3) , W(2) , W(3) , W(4)
+2 0 2b 0 0 2b 2a 2b
+E (V ,V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) ),
+1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+(W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), ((W(3) , W(3) ), W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 3b 3a 1b 1a 3b 3a
+b = -b , b = -b , b = -b
+aac bbc aca bcb caa cbb
+g , g = g , g = g = g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aacc bbcc ccaa ccbb aabb bbaa abba baab abab baba bcbc acac caca cbcb
+g = g , g = g
+bccb acca caac cbbc
+キャラクタテーブル - 7
+
+===== PDF p.8 =====
+C E 2C 2C 2” 2C C 3” C " 3s 3s
+6v 6z 6 3 6 2 v d
+A +1 +1 +1 +1 +1 +1 T x2+y2, z2
+1 z
+A +1 +1 +1 +1 -1 -1 R
+2 z
+B +1 -1 +1 -1 +1 -1
+1
+B +1 -1 +1 -1 -1 +1
+2
+E +2 +1 -1 -2 0 0 (T, T) (R , R ) (xz, yz)
+1 x y x y
+E +2 -1 -1 +2 0 0 (x2–y2, xy)
+2
+C
+6v
+A V, D(0) , D(2) , Y(1) , Y(3) , W(0) , W(2) , W(4)
+1 0 0 0 0 0 0 0 0
+A D(1) , Y(0) , Y(2) , W(1) , W(3)
+2 0 0 0 0 0
+B Y(3) , W(3) , W(4)
+1 3b 3a 3b
+B Y(3) , W(3) , W(4)
+2 3a 3b 3a
+E (V ,V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ),
+1 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+(W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 1b 1a
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ),
+2 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a
+(W(4) , W(4) )
+4b 4a
+b , b = b , b = b , b = b
+ccc aac bbc aca bcb caa cbb
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+D E 2C 2C 2” 2C C 3” C " 3C 3C '
+6 6z 6 3 6 2 2 2
+A +1 +1 +1 +1 +1 +1 x2+y2, z2
+1
+A +1 +1 +1 +1 -1 -1 T R
+2 z z
+B +1 -1 +1 -1 +1 -1
+1
+B +1 -1 +1 -1 -1 +1
+2
+E +2 +1 -1 -2 0 0 (T, T) (R , R ) (xz, yz)
+1 x y x y
+E +2 -1 -1 +2 0 0 (x2–y2, xy)
+2
+D
+6
+A D(0) , D(2) , Y(0) , Y(2) , W(0) , W(2) , W(4)
+1 0 0 0 0 0 0 0
+A V, D(1) , Y(1) , Y(3) , W(1) , W(3)
+2 0 0 0 0 0 0
+B Y(3) , W(3) , W(4)
+1 3a 3a 3b
+B Y(3) , W(3) , W(4)
+2 3b 3b 3a
+E (V ,V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ),
+1 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+(W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 1b 1a
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ),
+2 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a
+(W(4) , W(4) )
+4b 4a
+b = -b , b = -b , b = -b
+abc bac bca acb cab cba
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 8
+
+===== PDF p.9 =====
+D E 2S 2S 2” 2C I 3C 3s
+3d 6z 6 3z 2 d
+A +1 +1 +1 +1 +1 +1 x2+y2, z2
+1g
+A +1 -1 +1 -1 +1 -1
+1u
+A +1 +1 +1 +1 -1 -1 R
+2g z
+A +1 -1 +1 -1 -1 +1 T
+2u z
+E +2 -1 -1 +2 0 0 (R , R ) (xz, yz); (x2–y2, xy)
+g x y
+E +2 +1 -1 -2 0 0 (T, T)
+u x y
+D
+3d
+A D(0) , D(2) , W(0) , W(2) , W(3) , W(4) , W(4)
+1g 0 0 0 0 3a 0 3b
+A Y(0) , Y(2) , Y(3)
+1u 0 0 3a
+A D(1) , W(1) , W(3) , W(3) , W(4)
+2g 0 0 0 3b 3a
+A V, Y(1) , Y(3) Y(3)
+2u 0 0 0 3b
+E (D(1) , D(1) ), (D(2) , D(2) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(2) , W(2) ),
+g 1b 1a 1b 1a 2b 2a 1b 1a 1b 1a 2b 2a
+(W(3) , W(3) ), (W(3) , W(3) ), (W(4) , W(4) )(W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 2b 2a 1b 1a 2b 2a 4b 4a
+E (V ,V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) )
+u 1b 1a 1b 1a 1b 1a 2b 2a 1b 1a 2b 2a
+b , b = b , b = b , b = b , b = -b = -b = -b ,
+ccc aac bbc aca bcb caa cbb aaa abb bba bab
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g ,
+abba baab acca bccb caac cbbc
+g = -g , g = -g = -g = -g , g = -g = -g = -g , g = -g = -g = -g
+aaca bbcb caaa cabb cbab cbba aaac bbac abbc babc acaa acbb bcab bcba
+D E 2S 2S 2” 2C 2S 3 S 4” C " 4C 4s
+4d 8z 8 4 8 8 2 2 d
+A +1 +1 +1 +1 +1 +1 +1 x2+y2, z2
+1
+A +1 +1 +1 +1 +1 -1 -1 R
+2 z
+B +1 -1 +1 -1 +1 +1 -1
+1
+B +1 -1 +1 -1 +1 -1 +1 T
+2 z
+E +2 +(cid:214) 2 0 -(cid:214) 2 -2 0 0 (T, T)
+1 x y
+E +2 0 -2 0 +2 0 0 (x2–y2, xy)
+2
+E +2 -(cid:214) 2 0 +(cid:214) 2 -2 0 0 (R , R ) (xz, yz)
+3 x y
+D
+4d
+A D(0) , D(2) , W(0) , W(2) , W(4)
+1 0 0 0 0 0
+A D(1) , W(1) , W(3)
+2 0 0 0
+B Y(0) , Y(2) , W(4)
+1 0 0 4b
+B V, Y(1) , Y(3) , W(4)
+2 0 0 0 4a
+E (V ,V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(3) , W(3) ), (W(4) , W(4) )
+1 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a 3b 3a
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) )
+2 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a
+E (D(1) , D(1) ), (D(2) , D(2) ), (Y(3) , Y(3) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ),
+3 1b 1a 1b 1a 3b 3a 1b 1a 1b 1a 1b 1a
+(W(4) , W(4) )
+1b 1a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 9
+
+===== PDF p.10 =====
+D E 2C 2C 2 I 5C 5s 2S 3 2S
+5d 5 5 2 d 10 10
+A +1 +1 +1 +1 +1 +1 +1 +1 x2+y2, z2
+1g
+A +1 +1 +1 -1 +1 -1 -1 -1
+1u
+A +1 +1 +1 +1 -1 -1 +1 +1 R
+2g z
+A +1 +1 +1 -1 -1 +1 -1 -1 T
+2u z
+E +2 +2cos72• +2cos144• +2 0 0 +2cos72• +2cos144• (R , R ) (xz, yz)
+1g x y
+E +2 +2cos72• +2cos144• -2 0 0 -2cos72• -2cos144• (T, T)
+1u x y
+E +2 +2cos144• +2cos72• +2 0 0 +2cos144• +2cos72• (x2–y2, xy)
+2g
+E +2 +2cos144• +2cos72• -2 0 0 -2cos144• -2cos72•
+2u
+D
+5d
+A D(0) , D(2) , W(0) , W(2) , W(4)
+1g 0 0 0 0 0
+A Y(0) , Y(2)
+1u 0 0
+A D(1) , W(1) , W(3)
+2g 0 0 0
+A V, Y(1) , Y(3)
+2u 0 0 0
+E (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ),
+1g 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+(W(4) , W(4) )
+4b 4a
+E (V ,V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) )
+1u 1b 1a 1b 1a 1b 1a 1b 1a
+E (D(2) , D(2) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+2g 2b 2a 2b 2a 2b 2a 3b 3a 2b 2a 3b 3a
+E (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) )
+2u 2b 2a 2b 2a 3b 3a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+D E 2S 2C 2S 2C 2S 5 C 6C ' 6s
+6d 12z 6 4 3 12 2 2 d
+A +1 +1 +1 +1 +1 +1 +1 +1 +1 x2+y2, z2
+1
+A +1 +1 +1 +1 +1 +1 +1 -1 -1 R
+2 z
+B +1 -1 +1 -1 +1 -1 +1 +1 -1
+1
+B +1 -1 +1 -1 +1 -1 +1 -1 +1 T
+2 z
+E +2 +(cid:214) 3 +1 0 -1 -(cid:214) 3 -2 0 0 (T, T)
+1 x y
+E +2 +1 -1 -2 -1 +1 +2 0 0 (x2–y2, xy)
+2
+E +2 0 -2 0 +2 0 -2 0 0
+3
+E +2 -1 -1 +2 -1 -1 +2 0 0
+4
+E +2 -(cid:214) 3 +1 0 -1 +(cid:214) 3 -2 0 0 (R , R ) (xz, yz)
+5 x y
+D
+6d
+A D(0) , D(2) , W(0) , W(2) , W(4)
+1 0 0 0 0 0
+A D(1) , W(1) , W(3)
+2 0 0 0
+B Y(0) , Y(2)
+1 0 0
+B V, Y(1) , Y(3)
+2 0 0 0
+E (V ,V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ),
+1 1b 1a 1b 1a 1b 1a 1b 1a
+E (D(2) , D(2) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) )
+2 2b 2a 2b 2a 2b 2a 2b 2a
+E (Y(3) , Y(3) ), (W(3) , W(3) ), (W(4) , W(4) )
+3 3b 3a 3b 3a 3b 3a
+E (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(4) , W(4) )
+4 2b 2a 2b 2a 4b 4a
+E (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), W(4) , W(4) )
+5 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 10
+
+===== PDF p.11 =====
+D E 2C 3C s 2S 3s
+3h 3z 2 h 3z v
+A' +1 +1 +1 +1 +1 +1 x2+y2, z2
+1
+A" +1 -1 +1 -1 -1 -1
+1
+A' +1 +1 -1 +1 +1 -1 R
+2 z
+A" +1 +1 -1 -1 -1 +1 T
+2 z
+E' +2 -1 0 +2 -1 0 (T, T) (x2–y2, xy)
+x y
+E" +2 -1 0 -2 +1 0 (R , R ) (xz, yz);
+x y
+D
+3h
+A' D(0) , D(2) , Y(3) , W(0) , W(2) , W(4)
+1 0 0 3b 0 0 0
+A" Y(0) , Y(2) , , W(3) , W(4)
+1 0 0 3b 3a
+A' D(1) , , Y(3) , W(1) , W(3)
+2 0 3a 0 0
+A" V, Y(1) , Y(3) W(3) , W(4)
+2 0 0 0 3a 3b
+E' (V ,V ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(2) , W(2) ),
+1b 1a 2b 2a 1b 1a 1b 1a 1b 1a 2b 2a
+(W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+2b 2a 2b 2a 4b 4a
+E" (D(1) , D(1) ), (D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(1) , W(1) ), (W(2) , W(2) ),
+1b 1a 1b 1a 2b 2a 2b 2a 1b 1a 1b 1a
+(W(3) , W(3) ), (W(4) , W(4) )
+1b 1a 1b 1a
+b = -b = -b = -b ,
+aaa abb bba bab
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g ,
+abba baab acca bccb caac cbbc
+D E 2C 2C 2 s 5C 5s 2S 2S 3
+5h 5z 5z h 2 v 5 5
+A' +1 +1 +1 +1 +1 +1 +1 +1 x2+y2, z2
+1
+A" +1 +1 +1 -1 +1 -1 -1 -1
+1
+A' +1 +1 +1 +1 -1 -1 +1 +1 R
+2 z
+A" +1 +1 +1 -1 -1 +1 -1 -1 T
+2 z
+E' +2 +2cos72• +2cos144• +2 0 0 +2cos72• +2cos144• (T, T)
+1 x y
+E" +2 +2cos72• +2cos144• -2 0 0 -2cos72• -2cos144• (R , R ) (xz, yz)
+1 x y
+E' +2 +2cos144• +2cos72• +2 0 0 +2cos144• +2cos72• (x2–y2, xy)
+2
+E" +2 +2cos144• +2cos72• -2 0 0 -2cos144• -2cos72•
+2
+D
+5h
+A' D(0) , D(2) , W(0) , W(2) , W(4)
+1 0 0 0 0 0
+A" Y(0) , Y(2)
+1 0 0
+A' D(1) , W(1) , W(3)
+2 0 0 0
+A" V, Y(1) , Y(3)
+2 0 0 0
+E' (V ,V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(4) , W(4) )
+1 1b 1a 1b 1a 1b 1a 1b 1a 4b 4a
+E" (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) )
+1 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+E' (D(2) , D(2) ), (Y(3) , Y(3) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) )
+2 2b 2a 3b 3a 2b 2a 2b 2a 2b 2a
+E" (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(3) , W(3) ), (W(4) , W(4) )
+2 2b 2a 2b 2a 3b 3a 3b 3a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 11
+
+===== PDF p.12 =====
+D E 2C C 2” C " 2C 2C ' s 2s 2s 2S S ” I
+4h 4z 4z 2 2 2 h v d 4z 2
+A +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 x2+y2, z2
+1g
+A +1 +1 +1 +1 +1 -1 -1 -1 -1 -1
+1u
+A +1 +1 +1 -1 -1 +1 -1 -1 +1 +1 R
+2g z
+A +1 +1 +1 -1 -1 -1 +1 +1 -1 -1 T
+2u z
+B +1 -1 +1 +1 -1 +1 +1 -1 -1 +1 x2–y2
+1g
+B +1 -1 +1 +1 -1 -1 -1 +1 +1 -1
+1u
+B +1 -1 +1 -1 +1 +1 -1 +1 -1 +1 xy
+2g
+B +1 -1 +1 -1 +1 -1 +1 -1 +1 -1
+2u
+E +2 0 -2 0 0 -2 0 0 0 +2 (R , R ) (xz, yz)
+g x y
+E +2 0 -2 0 0 +2 0 0 0 -2 (T, T)
+u x y
+D
+4h
+A D(0) , D(2) , W(0) , W(2) , W(4) , W(4)
+1g 0 0 0 0 0 4b
+A Y(0) , Y(2)
+1u 0 0
+A D(1) , W(1) , W(3) , W(4)
+2g 0 0 0 4a
+A V, Y(1) , Y(3)
+2u 0 0 0
+B D(2) , W(2) , W(3) , W(4)
+1g 2b 2b 2a 2b
+B Y(2) , Y(3)
+1u 2b 2a
+B D(2) , W(2) , W(3) , W(4)
+2g 2a 2a 2b 2a
+B Y(2) , Y(3)
+2u 2a 2b
+E (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(3) , W(3) ),
+g 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+(W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 3b 3a
+E (V ,V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) )
+u 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 12
+
+===== PDF p.13 =====
+D E 2C 2C 2 C 3 3C 3C ' s 3s 3s 2S 2S S 3
+6h 6z 6 6 2 2 h v d 6 3 6
+” 2C ” C " ” I
+3 2
+A +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 x2+y2, z2
+1g
+A +1 +1 +1 +1 +1 +1 -1 -1 -1 -1 -1 -1
+1u
+A +1 +1 +1 +1 -1 -1 +1 -1 -1 +1 +1 +1 R
+2g z
+A +1 +1 +1 +1 -1 -1 -1 +1 +1 -1 -1 -1 T
+2u z
+B +1 -1 +1 -1 +1 -1 -1 -1 +1 +1 -1 +1
+1g
+B +1 -1 +1 -1 +1 -1 +1 +1 -1 -1 +1 -1
+1u
+B +1 -1 +1 -1 -1 +1 -1 +1 -1 +1 -1 +1
+2g
+B +1 -1 +1 -1 -1 +1 +1 -1 +1 -1 +1 -1
+2u
+E +2 +1 -1 -2 0 0 -2 0 0 -1 +1 +2 (R , R ) (xz, yz)
+1g x y
+E +2 +1 -1 -2 0 0 +2 0 0 +1 -1 -2 (T, T)
+1u x y
+E +2 -1 -1 +2 0 0 +2 0 0 -1 -1 +2 (x2–y2, xy)
+2g
+E +2 -1 -1 +2 0 0 -2 0 0 +1 +1 -2
+2u
+D
+6h
+A D(0) , D(2) , W(0) , W(2) , W(4)
+1g 0 0 0 0 0
+A Y(0) , Y(2)
+1u 0 0
+A D(1) , W(1) , W(3)
+2g 0 0 0
+A V, Y(1) , Y(3)
+2u 0 0 0
+B W(3) , W(4)
+1g 3a 3b
+B Y(3)
+1u 3a
+B W(3) , W(4)
+2g 3b 3a
+B Y(3)
+2u 3b
+E (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) )
+1g 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+E (V ,V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) )
+1u 1b 1a 1b 1a 1b 1a 1b 1a
+E (D(2) , D(2) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) ),
+2g 2b 2a 2b 2a 2b 2a 2b 2a 4b 4a
+E (Y(2) , Y(2) ), (Y(3) , Y(3) )
+2u 2b 2a 2b 2a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 13
+
+===== PDF p.14 =====
+C E 2C
+3 3z
+A +1 +1 T R x2+y2, z2
+z z
+E +2 -1 (T, T) (R , R ) (x2–y2, xy); (xz, yz)
+x y x y
+C
+3
+A V, D(0) , D(1) , D(2) , Y(0) , Y(1) , Y(2) , Y(3) , Y(3) , Y(3) , W(0) , W(1) , W(2) , W(3) , W(3) , W(3) ,
+0 0 0 0 0 0 0 0 3a 3b 0 0 0 0 3a 3b
+W(4) , W(4) , W(4)
+0 3a 3b
+E (V , V ), (D(1) , D(1) ), (D(2) , D(2) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(2) , Y(2) ),
+1b 1a 1b 1a 1b 1a 2b 2a 1b 1a 1b 1a 2b 2a
+(Y(3) , Y(3) ), (Y(3) , Y(3) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(2) , Y(2) ), (W(3) , W(3) ),
+1b 1a 2b 2a 1b 1a 1b 1a 2b 2a 1b 1a
+(W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) ), (W(4) , W(4) )
+2b 2a 1b 1a 2b 2a 4b 4a
+b , b = b , b = b , b = b , b = b = b = -b , b = b = b = -b ,
+ccc aac bbc caa cbb aca bcb abb bba bab aaa baa aab aba bbb
+b = -b , b = -b , b = -b ,
+abc bac bca acb cab cba
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g ,
+acac bcbc caca cbcb
+g = g = g = -g , g = g = g = -g , g = g = g = -g , g = g = g = -g ,
+bcaa acba acab bcbb aabc baac abac bbbc bcaa acba acab bcbb aacb abca baca bbcb
+g = g = g = -g , g = g = g = -g , g = g = g = -g , g = -g , g = -g ,
+bbca bacb abcb aaca cabb cbab cbba caaa bbac abbc babc aaac aaab bbba aaba bbab
+g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g
+abaa baaa baaa abbb ccab ccba abcc bacc accb bcca cabc cbac acbc bcac cacb cbca
+C E 2C C 2” C
+4 4z 4 2
+A +1 +1 +1 T R x2+y2, z2
+z z
+B +1 -1 +1 x2–y2, xy
+E +2 0 -2 (T, T) (R , R ) (xz, yz)
+x y x y
+C
+4
+A V, D(0) , D(1) , D(2) , Y(0) , Y(1) , Y(2) , Y(3) , W(0) , W(1) , W(2) , W(3) , W(4) , W(4) , W(4)
+0 0 0 0 0 0 0 0 0 0 0 0 0 4a 4b
+B D(2) , D(2) , Y(2) , Y(2) , Y(3) , Y(3) , W(2) , W(2) , W(3) , W(3) , W(4) , W(4)
+2b 2a 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a
+E (V , V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) ),
+1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+(W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 3b 3a 1b 1a 3b 3a
+b , b = b , b = b , b = b ,
+ccc aac bbc caa cbb aca bcb
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g ,
+acac bcbc caca cbcb
+g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g ,
+aaab bbba aaba bbab abaa babb baaa abbb ccab ccba abcc bacc accb bcca cabc cbac
+g = -g , g = -g
+acbc bcac cacb cbca
+キャラクタテーブル - 14
+
+===== PDF p.15 =====
+C E 2C 2C 2” 2C C 3” C "
+6 6z 6 3 6 2
+A +1 +1 +1 +1 T R x2+y2, z2
+z z
+B +1 -1 +1 -1
+E +2 +1 -1 -2 (T, T) (R , R ) (xz, yz)
+1 x y x y
+E +2 -1 -1 +2 (x2–y2, xy)
+2
+C
+6
+A V, D(0) , D(1) , D(2) , Y(0) , Y(1) , Y(2) , Y(3) , W(0) , W(1) , W(2) , W(3) , W(4)
+0 0 0 0 0 0 0 0 0 0 0 0 0
+B Y(3) , Y(3) , W(3) , W(3) , W(4) , W(4)
+3b 3a 3b 3a 3b 3a
+E (V , V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(1) , W(1) ),
+1 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+(W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) )
+1b 1a 1b 1a 1b 1a
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ),
+2 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a
+(W(4) , W(4) )
+4b 4a
+b , b = b , b = b , b = b ,
+ccc aac bbc caa cbb aca bcb
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g , g = -g ,
+acac bcbc caca cbcb aaab bbba
+g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g ,
+aaba bbab abaa babb baaa abbb ccab ccba abcc bacc accb bcca cabc cbac acbc bcac
+g = -g
+cacb cbca
+S E 2S S 2” S
+4 4z 4 2
+A +1 +1 +1 R x2+y2, z2
+z
+B +1 -1 +1 T x –y2, xy
+z
+E +2 0 -2 (T, T) (R , R ) (xz, yz)
+x y x y
+S
+4
+A D(0) , D(1) , D(2) , Y(2) , Y(2) , Y(3) , Y(3) , W(0) , W(1) , W(2) , W(3) , W(4) , W(4) , W(4)
+0 0 0 2b 2a 2b 2a 0 0 0 0 0 4b 4a
+B V, D(2) , D(2) , Y(0) , Y(1) , Y(2) , Y(3) , W(2) , W(2) , W(3) , W(3) , W(4) , W(4) ,
+0 2b 2a 0 0 0 0 2b 2a 2b 2a 2b 2a
+E (V , V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) ),
+1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+(W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 1b 1a 1b 1a 3b 3a 1b 1a 3b 3a
+b = -b , b = -b , -b = b , b = b , b = b , b = b ,
+aac bbc caa cbb aca bcb abc bac bca acb cab cba
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g ,
+acac bcbc caca cbcb
+g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g ,
+aaab bbba aaba bbab abaa babb baaa abbb ccab ccba abcc bacc accb bcca cabc cbac
+g = -g , g = -g
+acbc bcac cacb cbca
+キャラクタテーブル - 15
+
+===== PDF p.16 =====
+S E 2S 2S 2” 2C S 3” S
+6 6z 6 3 6 2
+A +1 +1 +1 +1 R x2+y2, z2
+g z
+A +1 -1 +1 -1 T
+g z
+E +2 -1 -1 +2 (R , R ) (xz, yz), (x2–y2, xy)
+g x y
+E +2 +1 -1 -2 (T, T)
+u x y
+S
+6
+A D(0) , D(1) , D(2) , W(0) , W(1) , W(2) , W(3) , W(3) , W(3) , W(4) , W(4) , W(4)
+g 0 0 0 0 0 0 0 3b 3a 0 3b 3a
+A V, Y(0) , Y(1) , Y(2) , Y(3) , Y(3) , Y(3)
+u 0 0 0 0 0 3b 3a
+E (D(1) , D(1) ), (D(2) , D(2) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(2) , W(2) ),
+g 1b 1a 1b 1a 2b 2a 1b 1a 1b 1a 2b 2a
+(W(3) , W(3) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 2b 2a 1b 1a 2b 2a 4b 4a
+E (V , V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) )
+u 1b 1a 1b 1a 1b 1a 2b 2a 1b 1a 2b 2a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g ,
+acac bcbc caca cbcb
+g = g = g = -g , g = g = g = -g , g = g = g = -g , g = g = g = -g ,
+bcaa acba acab bcbb aabc baac abac bbbc bcaa acba acab bcbb aacb abca baca bbcb
+g = g = g = -g , g = g = g = -g , g = g = g = -g , g = -g , g = -g , g =
+bbca bacb abcb aaca cabb cbab cbba caaa bbac abbc babc aaac aaab bbba aaba bbab abaa
+-g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g
+baaa baaa abbb ccab ccba abcc bacc accb bcca cabc cbac acbc bcac cacb cbca
+C E 2C s 2S
+3h 3z h 6
+A' +1 +1 +1 +1 R x2+y2, z2
+z
+A" +1 +1 -1 -1 T
+z
+E' +2 -1 +2 -1 (T, T) (x2–y2, xy)
+x y
+E" +2 -1 -2 +1 (R , R ) (xz, yz)
+x y
+C
+3h
+A' D(0) , D(1) , D(2) , Y(3) , Y(3) , W(0) , W(1) , W(2) , W(3) , W(4)
+0 0 0 3b 3a 0 0 0 0 0
+A" V, Y(0) , Y(1) , Y(2) , Y(3) , W(3) , W(3) , W(4) , W(4)
+0 0 0 0 0 3b 3a 3b 3a
+E' (V , V ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(2) , W(2) ), (W(3) , W(3) ),
+1b 1a 2b 2a 1b 1a 1b 1a 1b 1a 2b 2a 2b 2a
+(W(4) , W(4) ), (W(4) , W(4) )
+2b 2a 4b 4a
+E" (D(1) , D(1) ), (D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(1) , W(1) ), (W(2) , W(2) ),
+1b 1a 1b 1a 2b 2a 2b 2a 1b 1a 1b 1a
+(W(3) , W(3) ), (W(4) , W(4) )
+1b 1a 1b 1a
+b = -b = -b = -b , b = -b = -b = -b
+aaa abb bba bab bbb baab aab aba
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g ,
+acac bcbc caca cbcb
+g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g =
+aaab bbba aaba bbab abaa babb baaa abbb ccab ccba abcc bacc accb bcca cabc cbac acbc
+-g , g = -g
+bcac cacb cbca
+キャラクタテーブル - 16
+
+===== PDF p.17 =====
+C E 2C C 2” C " s 2S S ” I
+4h 4z 4z 2 h 4z 2
+A +1 +1 +1 +1 +1 +1 R x2+y2, z2
+g z
+A +1 +1 +1 -1 -1 -1 T
+u z
+B +1 -1 +1 +1 -1 +1 x2–y2, xy
+g
+B +1 -1 +1 -1 +1 -1
+u
+E +2 0 - 2 -2 0 +2 (R , R ) (xz, yz)
+g x y
+E +2 0 - 2 +2 0 -2 (T, T)
+u x y
+C
+4h
+A D(0) , D(1) , D(2) , W(0) , W(1) , W(2) , W(3) , W(4) , W(4) , W(4)
+g 0 0 0 0 0 0 0 0 4b 4a
+A V, Y(0) , Y(1) , Y(2) , Y(3)
+u 0 0 0 0 0
+B D(2) , D(2) , W(2) , W(2) , W(3) , W(3) , W(4) , W(4) ,
+g 2b 2a 2b 2a 2b 2a 2b 2a
+B Y(2) , Y(2) , Y(3) , Y(3)
+u 2b 2a 2b 2a
+E (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(3) , W(3) ),
+g 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+(W(4) , W(4) ), (W(4) , W(4) )
+1b 1a 3b 3a
+E (V , V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) )
+u 1b 1a 1b 1a 1b 1a 1b 1a 3b 3a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g ,
+acac bcbc caca cbcb
+g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g ,
+aaab bbba aaba bbab abaa babb baaa abbb ccab ccba abcc bacc accb bcca cabc cbac
+g = -g , g = -g
+acbc bcac cacb cbca
+C E 2C 2C 2” 2C C 3” C " s 2S 2S S 3” I
+6h 6z 6 3 6 2 h 6 3 6
+A +1 +1 +1 +1 +1 +1 +1 +1 R x2+y2, z2
+g z
+A +1 +1 +1 +1 -1 -1 -1 -1 T
+u z
+B +1 -1 +1 -1 -1 +1 -1 +1
+g
+B +1 -1 +1 -1 +1 -1 +1 -1
+u
+E +2 +1 -1 -2 -2 -1 +1 +2 (R , R ) (xz, yz)
+1g x y
+E +2 +1 -1 -2 +2 +1 -1 -2 (T, T)
+1u x y
+E +2 -1 -1 +2 +2 -1 -1 +2 (x2–y2, xy)
+2g
+E +2 -1 -1 +2 -2 +1 +1 -2
+2u
+C
+6h
+A D(0) , D(1) , D(2) , W(0) , W(1) , W(2) , W(3) , W(4)
+g 0 0 0 0 0 0 0 0
+A V, Y(0) , Y(1) , Y(2) , Y(3)
+u 0 0 0 0 0
+B W(3) , W(3) , W(4) , W(4)
+g 3b 3a 3b 3a
+B Y(3) , Y(3)
+u 3b 3a
+E (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) )
+1g 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+E (V , V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) )
+1u 1b 1a 1b 1a 1b 1a 1b 1a
+E (D(2) , D(2) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ), (W(4) , W(4) )
+2g 2b 2a 2b 2a 2b 2a 2b 2a 4b 4a
+E (Y(2) , Y(2) ), (Y(3) , Y(3) )
+2u 2b 2a 2b 2a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb aabb bbaa abba baab abab baba aacc bbcc ccaa ccbb acca bccb caac cbbc
+g = g , g = g ,
+acac bcbc caca cbcb
+g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g , g = -g ,
+aaab bbba aaba bbab abaa babb baaa abbb ccab ccba abcc bacc accb bcca cabc cbac
+g = -g , g = -g
+acbc bcac cacb cbca
+キャラクタテーブル - 17
+
+===== PDF p.18 =====
+T E 8C 6s 6S 3S 2 = 3C
+d 3 d 4 4 2
+A +1 +1 +1 +1 +1 x2+y2+z2
+1
+A +1 +1 -1 -1 +1
+2
+E +2 -1 0 0 +2 (x2+y2-2z2, x2–y2)
+F +3 0 -1 +1 -1 (R , R , R )
+1 x y z
+F +3 0 +1 -1 -1 (T, T, T) (xy, xz, yz)
+2 x y z
+T
+d
+A D(0) , Y(3) , W(0)
+1 0 2b 0
+A Y(0) , W(3)
+2 0 2b
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (W(2) , W(2) )
+0 2a 0 2a 0 2a
+F (D(1) , D(1) , D(1) ), (Y(2) , Y(2) ,Y(2) ), (W(1) , W(1) , W(1) )
+1 1b 1a 0 2b 1b 1a 1b 1a 0
+F (V , V , V), (D(2) , D(2) , D(2) ), (Y(1) , Y(1) ,Y(1) ), (W(2) , W(2) , W(2) )
+2 1b 1a 0 2b 1b 1a 1b 1a 0 2b 1b 1a
+[Y(3) , Y(3) , Y(3) , Y(3) , Y(3) , Y(3) ], [W(3) , W(3) , W(3) , W(3) , W(3) , W(3) ], [W(4) , W(4) , W(4) , W(4) , W(4) ,
+0 1b 1a 2a 3b 3a 0 1b 1a 2a 3b 3a 1b 1a 2b 3b 3a
+W(4) ]: distributed over F + F , [W(4) , W(4) , W(4) ]: distributed over A + E.
+4a 1 2 0 2a 4b 1
+(without consideration of the above "distributed terms,)
+b = b = b = -b = -b = -b
+aac caa aca bbc cbb cbc
+g = g = g , g = g = g = g = g = g , g = g = g = g = g = g ,
+aaaa bbbb cccc aabb bbaa aacc bbcc ccaa ccbb abba baab acca bccb caac cbbc
+g = g = g = g = g = g
+abab baba acac bcbc caca cbcb
+T E 8C 3C " I 8S 3s
+h 3 2 6 h
+A +1 +1 +1 +1 +1 +1 x2+y2+z2
+g
+A +1 +1 +1 -1 -1 -1
+u
+E +2 -1 +2 +2 -1 +2 (x2+y2-2z2, x2–y2)
+g
+E +2 -1 +2 -2 +1 -2 (T, T, T) (R , R , R )
+u x y z x y z
+F +3 0 -1 +3 0 -1 (xy, xz, yz)
+g
+F +3 0 -1 -3 0 +1
+u
+T
+h
+A D(0) , W(0) , W(3)
+g 0 0 2b
+A Y(0) , Y(3)
+u 0 2b
+E (D(2) , D(2) ), (W(2) , W(2) )
+g 2a 0 2a 0
+E (Y(2) , Y(2) )
+u 2a 0
+F (D(1) , D(1) , D(1) ), (D(2) , D(2) , D(2) ), (W(1) , W(1) , W(1) ), (W(2) , W(2) ,W(2) )
+g 1b 1a 0 2b 1b 1a 1b 1a 0 2b 1b 1a
+F (V , V , V), (Y(1) , Y(1) , Y(1) ), (Y(2) , Y(2) , Y(2) )
+u 1b 1a 0 1b 1a 0 2b 1b 1a
+[Y(3) , Y(3) , Y(3) , Y(3) , Y(3) , Y(3) ]: distributed over 2F , [W(3) , W(3) , W(3) , W(3) , W(3) , W(3) ], [W(4) ,
+0 1b 1a 2a 3b 3a u 0 1b 1a 2a 3b 3a 1b
+W(4) , W(4) , W(4) , W(4) , W(4) ]: distributed over 2F , [W(4) , W(4) , W(4) ]: distributed over A + E.
+1a 2b 3b 3a 4a g 0 2a 4b g g
+(without consideration of the above "distributed terms,)
+g = g = g , g = g = g = g = g = g , g = g = g = g = g = g ,
+aaaa bbbb cccc aabb bbaa aacc bbcc ccaa ccbb abba baab acca bccb caac cbbc
+g = g = g = g = g = g , g = g , g = g , g = g , g = g ,
+abab baba acac bcbc caca cbcb aaab bbba bbab aaba abaa babb abbb baaa
+g = g = -g = -g , g = g = -g = -g , g = g = -g = -g ,
+ccab ccba abcc bacc accb bcca cabc cbac acbc bcac cacb cbca
+キャラクタテーブル - 18
+
+===== PDF p.19 =====
+T E 8C 3C
+3 2
+A +1 +1 +1 x2+y2+z2
+E +2 -1 +2 (x2+y2-2z2, x2–y2)
+F +3 0 -1 (T, T, T) (R , R , R ) (xy, xz, yz)
+x y z x y z
+T
+A D(0) , Y(0) , Y(3) , W(0) , W(3)
+0 0 2b 0 2b
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (W(2) , W(2) )
+2a 0 2a 0 2a 0
+F (V , V , V), (D(1) , D(1) , D(1) ), (D(2) , D(2) , D(2) ), (Y(1) , Y(1) , Y(1) ), (Y(2) , Y(2) , Y(2) ),
+1b 1a 0 1b 1a 0 2b 1b 1a 1b 1a 0 2b 1b 1a
+(W(1) , W(1) , W(1) ), (W(2) , W(2) ,W(2) )
+1b 1a 0 2b 1b 1a
+[Y(3) , Y(3) , Y(3) , Y(3) , Y(3) , Y(3) ], [W(3) , W(3) , W(3) , W(3) , W(3) , W(3) ], [W(4) , W(4) , W(4) , W(4) , W(4) ,
+0 1b 1a 2a 3b 3a 0 1b 1a 2a 3b 3a 1b 1a 2b 3b 3a
+W(4) ]: distributed over 2F, [W(4) , W(4) , W(4) ]: distributed over A + E.
+4a 0 2a 4b
+(without consideration of the above "distributed terms,)
+b = b = b = -b = -b = -b , b = b = b = -b = -b = -b
+aac caa aca bbc cbb bcb abc bca cab bac acb cba
+g = g = g , g = g = g = g = g = g , g = g = g = g = g = g ,
+aaaa bbbb cccc aabb bbaa aacc bbcc ccaa ccbb abba baab acca bccb caac cbbc
+g = g = g = g = g = g , g = g , g = g , g = g , g = g ,
+abab baba acac bcbc caca cbcb aaab bbba bbab aaba abaa babb abbb baaa
+g = g = -g = -g , g = g = -g = -g , g = g = -g = -g
+ccab ccba abcc bacc accb bcca cabc cbac acbc bcac cacb cbca
+O E 8C 6 C 6C 3C 2” 3C "
+3 2 4 4 2
+A +1 +1 +1 +1 +1 x2+y2+z2
+1
+A +1 +1 -1 -1 +1
+2
+E +2 -1 0 0 +2 (x2+y2-2z2, x2–y2)
+F +3 0 -1 +1 -1 (T, T, T) (R , R , R )
+1 x y z x y z
+F +3 0 +1 -1 -1 (xy, xz, yz)
+2
+O
+A D(0) , Y(0) , W(0)
+1 0 0 0
+A Y(3) , W(3)
+2 2b 2b
+E (D(2) , D(2) ), (Y(2) , Y(2) ), (W(2) , W(2) )
+2a 0 2a 0 2a 0
+F (V , V , V), (D(1) , D(1) , D(1) ), (Y(1) , Y(1) , Y(1) ), (W(1) , W(1) , W(1) )
+1 1b 1a 0 1b 1a 0 1b 1a 0 1b 1a 0
+F (D(2) , D(2) , D(2) ), (Y(2) , Y(2) , Y(2) ), (W(2) , W(2) , W(2) )
+2 2b 1b 1a 2b 1b 1a 2b 1b 1a
+[Y(3) , Y(3) , Y(3) , Y(3) , Y(3) , Y(3) ], [W(3) , W(3) , W(3) , W(3) , W(3) , W(3) ], [W(4) , W(4) , W(4) , W(4) , W(4) ,
+0 1b 1a 2a 3b 3a 0 1b 1a 2a 3b 3a 1b 1a 2b 3b 3a
+W(4) ]: distributed over F + F , [W(4) , W(4) , W(4) ]: distributed over A + E.
+4a 1 2 0 2a 4b 1
+(without consideration of the above "distributed terms,)
+b = b = b = -b = -b = -b
+abc bca cab bac acb cba
+g = g = g , g = g = g = g = g = g , g = g = g = g = g = g ,
+aaaa bbbb cccc aabb bbaa aacc bbcc ccaa ccbb abba baab acca bccb caac cbbc
+g = g = g = g = g = g
+abab baba acac bcbc caca cbcb
+キャラクタテーブル - 19
+
+===== PDF p.20 =====
+O E 8C 6C 6C 3C 2 S 6S 8S 3s 6s
+h 3 2 4 4 2 4 6 h d
+” 3C " ” I
+2
+A +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 x2+y2+z2
+1g
+A +1 +1 +1 +1 +1 -1 -1 -1 -1 -1
+1u
+A +1 +1 -1 -1 +1 -1 +1 +1 +1 -1
+2g
+A +1 +1 -1 -1 +1 -1 +1 -1 -1 +1
+2u
+E +2 -1 0 0 +2 +2 0 -1 +2 0 (x2+y2-2z2, x2–y2)
+g
+E +2 -1 0 0 +2 -2 0 +1 -2 0
+u
+F +3 0 -1 +1 -1 +3 +1 0 -1 -1 (R , R , R )
+1g x y z
+F +3 0 -1 +1 -1 -3 -1 0 +1 +1 (T, T, T)
+1u x y z
+F +3 0 +1 -1 -1 +3 -1 0 -1 +1 (xy, xz, yz)
+2g
+F +3 0 +1 -1 -1 -3 +1 0 +1 -1
+2u
+O
+h
+A D(0) , W(0)
+1g 0 0
+A Y(0)
+1u 0
+A W(3)
+2g 2b
+A Y(3)
+2u 2b
+E (D(2) , D(2) ), (W(2) , W(2) )
+g 2a 0 2a 0
+E (Y(2) , Y(2) )
+u 2a 0
+F (D(1) , D(1) , D(1) ), (W(1) , W(1) , W(1) )
+1g 1b 1a 0 1b 1a 0
+F (V , V , V), (Y(1) , Y(1) , Y(1) )
+1u 1b 1a 0 1b 1a 0
+F (D(2) , D(2) , D(2) ), (W(2) , W(2) , W(2) )
+2g 2b 1b 1a 2b 1b 1a
+F (Y(2) , Y(2) , Y(2) )
+2u 2b 1b 1a
+[Y(3) , Y(3) , Y(3) , Y(3) , Y(3) , Y(3) ]: distributed over F + F , [W(3) , W(3) , W(3) , W(3) , W(3) , W(3) ], [W(4) ,
+0 1b 1a 2a 3b 3a 1u 2u 0 1b 1a 2a 3b 3a 1b
+W(4) , W(4) , W(4) , W(4) , W(4) ]: distributed over F + F , [W(4) , W(4) , W(4) ]: distributed over A + E.
+1a 2b 3b 3a 4a 1g 2g 0 2a 4b 1g g
+(without consideration of the above "distributed terms,)
+g = g = g , g = g = g = g = g = g , g = g = g = g = g = g ,
+aaaa bbbb cccc aabb bbaa aacc bbcc ccaa ccbb abba baab acca bccb caac cbbc
+g = g = g = g = g = g
+abab baba acac bcbc caca cbcb
+キャラクタテーブル - 20
+
+===== PDF p.21 =====
+C
+¥ v
+E 2C
+¥
+f 2C
+¥
+2f 2C
+¥
+3f ¥ s
+v
+S + +1 +1 +1 +1 … +1 T x2+y2, z2
+z
+S - +1 +1 +1 +1 … -1 R z
++2 2cosf 2cos2f 2cos3f … 0 (T, T) (R , R ) (xz, yz)
+P
++2 2cos2f 2cos4f 2cos6f … 0
+x y x y
+(x2–y2, xy)
+D
++2 2cos3f 2cos6f 2cos9f … 0
+F
+… … … … … …
+...
+C
+¥ v
+S + V, D(0) , D(2) , Y(1) , Y(3) , W(0) , W(2) , W(4)
+0 0 0 0 0 0 0 0
+S - D(1) , Y(0 , Y(2) , W(1) , W(3)
+0 )0 0 0 0
+P (V , V ), (D(1) , D(1) ), (D(2) , D(2) ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (W(1) , W(1) ),
+1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+(W(2) , W(2) ), (W (3) , W(3) ), (W (4) , W(4) ),
+1b 1a 1b 1a 1b 1a
+(D(2) , D(2) ), (Y(2) , Y(2) ), (Y(3) , Y(3) ), (Y(3) , Y(3) ), (W(1) , W(1) ), (W(2) , W(2) ),
+D 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a 2b 2a
+(W(3) , W(3) ), (W(4) , W(4) )
+2b 2a 2b 2a
+F (Y(3) , Y(3) ), (W(3) , W(3) ), (W(4) , W(4) )
+3b 3a 3b 3a 3b 3a
+G (W(4) , W(4) )
+4b 4a
+b , b = b , b = b , b = b
+ccc aac bbc aca bcb caa cbb
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 21
+
+===== PDF p.22 =====
+D
+¥ h
+E 2C
+¥
+f 2C
+¥
+2f 2C
+¥
+3f … s
+h
+¥ C
+2
+¥ s
+v
+2S
+¥
+f 2S
+¥
+2f S
+2
+S + +1 +1 +1 +1 … +1 +1 +1 +1 +1 … +1 x2+y2, z2
+g
+S + +1 +1 +1 +1 … -1 -1 +1 -1 -1 … -1 T z
+u +1 +1 +1 +1 … +1 -1 -1 +1 +1 … +1 R
+S
+g
+-
++1 +1 +1 +1 … - 1 +1 -1 -1 -1 … -1
+z
+S - +2 +2cosf +2cos2f +2cos3f … -2 0 0 -2cosf -2cos2f … +2 (R , R ) (xz, yz)
+u x y
+P +2 +2cosf +2cos2f +2cos3f … +2 0 0 +2cosf +2cos2f … -2 (T x , T y )
+g (x2–y2, xy)
+P +2 +2cos2f +2cos4f +2cos6f … +2 0 0 -2cos2f -2cos4f … +2
+u
+D +2 +2cos2f +2cos4f +2cos6f … -2 0 0 +2cos2f +2cos4f … -2
+g
+D +2 +2cos3f +2cos6f +2cos9f … -2 0 0 -2cos3f -2cos6f … +2
+u
+F +2 +2cos3f +2cos6f +2cos9f … +2 0 0 +2cos3f +2cos6f … -2
+g
+F … … … … … … … … … … …
+u
+G
+ｇ
+G
+u
+D
+¥ h
+S + D(0) , D(2) , W(0) , W(2) , W(4)
+g 0 0 0 0 0
+S + V, Y(1) , Y(3)
+u 0 0 0
+S - D(1) , W(1) , W(3)
+g 0 0 0
+S - Y(0) , Y(2)
+u 0 0
+P (D(1) , D(1) ), (D(2) , D(2) ), (W(1) , W(1) ), (W(2) , W(2) ), (W(3) , W(3) ), (W(4) , W(4) ),
+g 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a 1b 1a
+P (V , V ), (Y(1) , Y(1) ), (Y(2) , Y(2) ), (Y(3) , Y(3) )
+u 1b 1a 1b 1a 1b 1a 1b 1a
+D (D(2) , D(2) ), (W(2) , W(2 ), (W(3) , W(3) ), (W(4) , W(4) )
+g 2b 2a 2b 2a 2b 2a 2b 2a
+D (Y(2) ,Y(2) ), (Y(3) ,Y(3) )
+u 2b 2a 2b 2a
+F (W(3) ,W(3) ), (W(4) ,W(4) )
+g 3b 3a 3b 3a
+F (Y(3) ,Y(3) )
+u 3b 3a
+G
+ｇ
+G (W(4) ,W(4) )
+u 4b 4a
+g , g = g , g = g , g = g , g = g , g = g , g = g , g = g ,
+cccc aaaa bbbb abab baba aabb bbaa acac bcbc caca cbcb aacc bbcc ccaa ccbb
+g = g , g = g , g = g
+abba baab acca bccb caac cbbc
+キャラクタテーブル - 22

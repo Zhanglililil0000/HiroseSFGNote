@@ -1,0 +1,17 @@
+{
+  "batch": "B163",
+  "date": "2026-10-20",
+  "pages": [
+    1,
+    2
+  ],
+  "units": "跨页原目录39项、引言、反射/透射系数9组无编号式",
+  "numbered_equations": 0,
+  "unnumbered_display_groups": 9,
+  "toc_entries": 39,
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "source_corrections_adopted": false,
+  "unchanged_tail": "L系数段起与修订前逐字相同",
+  "tags": []
+}

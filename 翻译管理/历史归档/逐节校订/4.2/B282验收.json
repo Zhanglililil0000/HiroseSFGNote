@@ -1,0 +1,22 @@
+{
+  "batch": "B282",
+  "date": "2026-10-21",
+  "pages": [
+    6,
+    7
+  ],
+  "scope": "4a简并振动公式组1，按偏振组合逐项对照",
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校与参考排版验收完成",
+  "render": {
+    "batch": "B282",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "57d373144d2b03d63bcf4f012281be494df7c863bd7d6c7f5cd48bd7e67cd910",
+  "scope_limit": "确认原文覆盖及转录；不将原文疑点视为理论已验证。"
+}

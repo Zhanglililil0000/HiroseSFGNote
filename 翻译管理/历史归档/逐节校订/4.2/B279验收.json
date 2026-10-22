@@ -1,0 +1,22 @@
+{
+  "batch": "B279",
+  "date": "2026-10-21",
+  "pages": [
+    3,
+    4
+  ],
+  "scope": "第3部分CH键坐标、三角函数表、11个分子张量分量及模式归属",
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校与参考排版验收完成",
+  "render": {
+    "batch": "B279",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "0272c5d5e287a5580f665b548c26afb27b3cf2981ae14001db202009637a56d5",
+  "scope_limit": "确认原文覆盖及转录；不将原文疑点视为理论已验证。"
+}

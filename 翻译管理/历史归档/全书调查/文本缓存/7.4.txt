@@ -1,0 +1,95 @@
+===== PDF p.1 =====
+付録 C：(20)式の拡張（屈折率による式と多重反射の取り込み）
+下図に示すように、関連する光の反射率r や透過率t を「もと」と「結果」を下付きにして表す。反
+射率の下付きは、考えている光がある側の媒質と反射する境界面を作る相手側の媒質の順に示し、透
+過率の下付きは、入射側の媒質と透過側の媒質を順に示す。
+tmi rmi
+rim
+rmj
+tmj
+tim
+Em'p r
+Emp t Emp r
+Eip i Eip r E jp
+Em'p t
+多重反射を考慮して、膜界面の両側の電場について進行方向を区別して得られる式は、次のように
+なる。
+Er = [r + t r t + t (r 2r + r 3r 2 + …)t ] Ei
+i im im mjmi im mj mi mj mi mi i
+E t = [1 + r r + (r r )2 + …]t Ei
+m mj mi mj mi im i
+E r = [1 + r r + (r r )2 + …]t r Ei
+m mj mi mj mi im mj i
+Et = [1 + r r + (r r )2 + …]t t Ei
+j mj mi mj mi immj i
+r = -r 、 r 2 + t 2 = 1の関係を使い、さらに厚み方向での光路さも考慮するときには、b = (2p /l )ndcosq
+im mi im im 0 m
+として、下式が得られる。
+r +r e2i b
+Er =Ei im mj
+i i 1+r r e2i b
+im mj
+b
+t t ei
+Er =Ei im mj
+i i 1+r r e2i b
+im mj
+Heinz 付録C - 1
+(cid:160)
+(cid:160)
+
+===== PDF p.2 =====
+t t
+eib
+E t =Ei im , E t =Ei im
+m i 1+r r e2i b m' i 1+r r e2i b
+im mj im mj
+b b
+t r e2i t r ei
+E r =Ei im mj , E r =Ei im mj
+m i 1+r r e2i b m' i 1+r r e2i b
+im mj im mj
+さて、反射率と透過率は下で与えれれる。
+（s 偏光）
+r = (k - k )/(k + k ), r = (k - k )/(k + k )
+im iz mz iz mz mj mz jz mz jz
+t = 2k /(k + k ), t = 2k /(k + k )
+im iz iz mz mj mz mz jz
+t = 2k /(k + k ), t = 2k /(k + k )
+mi mz iz mz jm jz mz jz
+（p偏光）
+r = (e k - e k )/(e k + e k ) = (kcosq - k cosq )/(k cosq + kcosq )
+im i mz m iz m iz i mz i m m i m i i m
+r = (e k - e k )/(e k + e k )
+mj j mz m jz j mz m jz
+t = 2e k cosq /(e k + e k ) = 2kcosq /(2k cosq + kcosq )
+im i m i m iz i mz i i m i i m
+t = 2e kcosq /(e k + e k )
+mj m i m j mz m jz
+t = 2e kcosq /(e k + e k ) = 2k cosq /(k cosq + kcosq )
+mi m i m m iz i mz m m m i i m
+r = 2e k /(e k + e k )
+jm m jz j mz m jz
+(cid:160)
+(B2) 式より得られる関係式は、次のように表すことが出来る。
+(cid:160) k +k k (k +k ) t
+E t =E t mz jz =E i iz mz jz =E i im
+my jy 2k iy (k +k ) iy 1+r r
+mz mz jz im mj
+k - k k (k - k ) t r
+E r =E t mz jz =E i iz mz jz =E i im mj
+my jy 2k iy (k +k ) iy 1+r r
+mz mz jz im mj
+(B4) 式より得られる関係式は、次のように表すことが出来る。
+k cosq +k cosq e cosq (k cosq +k cosq ) t
+E t =E t m j j m =E i i i m j j m =E i im
+mp jp 2k cosq ip k (e k +e k ) ip 1+r r
+m m mz j iz i jz im mj
+k cosq - k cosq e cosq (k cosq - k cosq ) t r
+E r =E t m j j m =E i i i m j j m =E i im mj
+mp jp 2k cosq ip k (e k +e k ) ip 1+r r
+m m mz j iz i jz im mj
+これらの式は、多重反射を考慮した式で膜厚をゼロにしたときの極限と一致する。
+Heinz 付録C - 2
+(cid:160)
+(cid:160)

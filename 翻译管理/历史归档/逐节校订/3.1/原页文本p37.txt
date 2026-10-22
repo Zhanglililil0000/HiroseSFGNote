@@ -1,0 +1,165 @@
+2 層膜の SFG - 37
+€ 
+−(rm'm,SF ,p + r1m',SF,pe
+2 iβ m',SFhm'
+)
+e
+i( βm, SF−βm, vis+β m, ir )hm −1
+βm,SF − βm,vis + βm,ir
+]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m',is +β m, ir )hm
+[(1 + r1m',SF,p
+rm'm,SF,pe
+2iβ m', SFhm'
+)
+e
+i( −β m,SF −β m,vis −β m,ir )hm −1
+β m,SF + β m,vis + βm,ir
+€ 
+−(rm'm,SF ,p + r1m',SF,pe
+2 iβ m',SFhm'
+)
+e
+i( βm, SF−βm, vis−βm,ir ) hm − 1
+βm,SF − βm,vis − βm,ir
+]}L
++
+m/2 ,pz χ zαβ } (nm" = nm) (2.46a)
+€ 
+E
++
+2,s (h m' + h m
++
+) = E
+0
+vis ,α E
+0
+ir,β e
+i( βm',vis +βm ', ir )hm'
+e
+iβ m,SFhm
+αβ
+∑ (1 + r1m',SF,s
+rm'm,SF ,se
+2iβ m', SFhm'
+)
+€ 
+×
+t
+1 m',vis,α
+t m'm,vis,α
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+t m'm,ir,β
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×{[(1 + r1m',SF,s
+rm'm,SF,se
+2iβ m', SFhm'
+)
+e
+i(−β m,SF +βm, vis+β m, ir )hm −1
+βm,SF − βm,vis − βm,ir
+€ 
++(rm'm,SF,s + r1m',SF,se
+2iβm ', SFhm'
+)
+e
+i(β m,SF +βm, vis+β m, ir )hm −1
+βm,SF + βm,vis + βm,ir
+]
+€ 
++rm2,ir,β e
+2iβm,ir hm
+[(1+ r1m',SF,s
+rm'm,SF,se
+2iβm ', SFhm'
+)
+e
+i( −β m, SF+β m,vis −β m,ir )hm −1
+β m,SF − βm,vis + βm,ir
+€ 
++(rm'm,SF,s + r1m',SF,se
+2iβm ', SFhm'
+)
+e
+i(β m,SF +βm, vis−βm,ir ) hm − 1
+βm,SF + βm,vis − βm,ir
+]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+[(1 + r1m',SF,s
+rm'm,SF ,se
+2iβ m', SFhm'
+)
+e
+i( −β m,SF −β m,vis +βm, ir) hm − 1
+βm,SF + βm,vis − βm,ir
+€ 
++(rm'm,SF,s + r1m',SF,se
+2iβm ', SFhm'
+)
+e
+i(β m,SF −β m,vis +βm,ir ) hm − 1
+βm,SF − βm,vis + βm,ir
+]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m',is +β m, ir )hm
+[(1 + r1m',SF,s
+rm'm,SF ,se
+2iβ m', SFhm'
+)
+e
+i( −β m,SF −β m,vis −β m,ir )hm −1
+β m,SF + β m,vis + βm,ir
+€ 
++(rm'm,SF,s + r1m',SF,se
+2iβm ', SFhm'
+)
+e
+i(β m,SF −β m,vis −β m, ir )hm −1
+βm,SF − βm,vis − βm,ir
+]}L
++
+m/2,syχ yαβ
+(2.46b)
+3. 三層系 (1/m'/m/m"/2) からの SFG
+始めに記したように、この系からの SFG 電場を求めるためにはテンソルの等比級数の和が必要になる。
+よって、最後の表式に至る作業は現在の私の力では不可能である。しかし、分極までは求めることが出来る
+ので、それを記しておく。
+但し、３つの層のうちのどれかがその厚みを無視できる場合には、２節で求めた結果に対して (1) 分極の表
+式を下で示すものと置き換え、(2) その層の外側界面が関係する反射係数と透過係数を下のように置き換え
+ることによって、必要な表式が得られる。
+２つの層 m/ m' の間に厚みが無視できる m" 層が挟まって m/m"/m' 系になっているときには、下の置
+き換えをする。

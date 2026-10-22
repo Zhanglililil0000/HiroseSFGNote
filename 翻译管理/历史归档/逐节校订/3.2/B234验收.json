@@ -1,0 +1,16 @@
+{
+  "batch": "B234",
+  "date": "2026-10-20",
+  "pages": [3, 4],
+  "tags": ["2.7", "2.8"],
+  "source_images_visually_checked": true,
+  "all_three_equality_stages_preserved": true,
+  "math_fragments_this_batch": 10,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "unresolved_source_questions": ["Q113", "Q116"],
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "next": "B235：2.2详论引言、路径分类与式2.9—2.10"
+}

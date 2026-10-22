@@ -1,0 +1,134 @@
+{
+  "batch": "B373",
+  "pages": [
+    9
+  ],
+  "tables": [
+    {
+      "label": "3a-5",
+      "equations": [
+        {
+          "indices": "XXX",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - \\beta_{bbc}]\\sin\\tau\\sin^3\\chi - \\beta_{aac}\\sin\\tau\\sin\\chi\\cos^2\\chi"
+        },
+        {
+          "indices": "XZZ",
+          "expression": "(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau\\sin\\chi"
+        },
+        {
+          "indices": "XZX",
+          "expression": "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\sin^2\\chi"
+        },
+        {
+          "indices": "XXZ",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\cos\\tau\\sin^2\\chi + \\beta_{aac}\\cos\\tau\\cos^2\\chi"
+        },
+        {
+          "indices": "ZXZ",
+          "expression": "(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau\\sin\\chi"
+        },
+        {
+          "indices": "ZZX",
+          "expression": "-[(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau + \\beta_{ccc}\\sin\\tau]\\sin\\chi"
+        },
+        {
+          "indices": "ZXX",
+          "expression": "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\sin^2\\chi"
+        },
+        {
+          "indices": "ZZZ",
+          "expression": "-[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - \\beta_{bbc}]\\cos\\tau"
+        },
+        {
+          "indices": "YXX",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau\\sin^2\\chi\\cos\\chi"
+        },
+        {
+          "indices": "YZZ",
+          "expression": "(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau\\cos\\chi"
+        },
+        {
+          "indices": "YZX",
+          "expression": "(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "YXZ",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - (\\beta_{aac} - \\beta_{ccc})]\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "YYX",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau\\sin\\chi\\cos^2\\chi - \\beta_{aac}\\sin\\tau\\sin\\chi"
+        },
+        {
+          "indices": "YYZ",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\cos\\tau\\sin^2\\chi + \\beta_{aac}\\cos\\tau\\cos^2\\chi"
+        },
+        {
+          "indices": "XYX",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau\\sin^2\\chi\\cos\\chi"
+        },
+        {
+          "indices": "XYZ",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - (\\beta_{aac} - \\beta_{ccc})]\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "ZYZ",
+          "expression": "(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau\\cos\\chi"
+        },
+        {
+          "indices": "ZYX",
+          "expression": "(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "YXY",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau\\sin\\chi\\cos^2\\chi"
+        },
+        {
+          "indices": "YZY",
+          "expression": "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\cos^2\\chi"
+        },
+        {
+          "indices": "XXY",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau\\sin^2\\chi\\cos\\chi - \\beta_{aac}\\sin\\tau\\cos\\chi"
+        },
+        {
+          "indices": "XZY",
+          "expression": "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "ZZY",
+          "expression": "-[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + \\beta_{ccc}]\\sin\\tau\\cos\\chi"
+        },
+        {
+          "indices": "ZXY",
+          "expression": "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "XYY",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + (\\beta_{aac} - \\beta_{bbc})]\\sin\\tau\\sin\\chi\\cos^2\\chi"
+        },
+        {
+          "indices": "ZYY",
+          "expression": "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau\\cos^2\\chi"
+        },
+        {
+          "indices": "YYY",
+          "expression": "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - \\beta_{bbc}]\\sin\\tau\\cos^3\\chi - \\beta_{aac}\\sin\\tau\\sin^2\\chi\\cos\\chi"
+        }
+      ]
+    }
+  ],
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批原页对照、译校与参考排版完成",
+  "render": {
+    "batch": "B373",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "af1fb400734132af1d5ece887f3c2dbeeec34b7f3e13cf60d14627fffa8e097e",
+  "validation_limit": "保留原式疑点；未声称已完成独立物理验证。"
+}

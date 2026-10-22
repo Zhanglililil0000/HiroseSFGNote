@@ -1,0 +1,702 @@
+{
+  "batch": "B337",
+  "date": "2026-10-21",
+  "pages": [
+    14,
+    15,
+    16
+  ],
+  "scope": "正文等角非零：简并模式",
+  "source_lines": [
+    "p14l01",
+    "p14l02",
+    "p14l03",
+    "p14l04",
+    "p14l05",
+    "p14l06",
+    "p14l07",
+    "p14l08",
+    "p14l09",
+    "p14l10",
+    "p14l11",
+    "p14l12",
+    "p14l13",
+    "p14l14",
+    "p14l15",
+    "p14l16",
+    "p14l17",
+    "p14l18",
+    "p14l19",
+    "p14l20",
+    "p14l21",
+    "p14l22",
+    "p14l23",
+    "p14l24",
+    "p14l25",
+    "p14l26",
+    "p14l27",
+    "p14l28",
+    "p14l29",
+    "p14l30",
+    "p14l31",
+    "p14l32",
+    "p14l33",
+    "p14l34",
+    "p14l35",
+    "p14l36",
+    "p15l01",
+    "p15l02",
+    "p15l03",
+    "p15l04",
+    "p15l05",
+    "p15l06",
+    "p15l07",
+    "p15l08",
+    "p15l09",
+    "p15l10",
+    "p15l11",
+    "p15l12",
+    "p15l13",
+    "p15l14",
+    "p15l15",
+    "p15l16",
+    "p15l17",
+    "p15l18",
+    "p15l19",
+    "p15l20",
+    "p15l21",
+    "p15l22",
+    "p15l23",
+    "p15l24",
+    "p15l25",
+    "p15l26",
+    "p15l27",
+    "p15l28",
+    "p15l29",
+    "p15l30",
+    "p15l31",
+    "p15l32",
+    "p15l33",
+    "p16l01",
+    "p16l02",
+    "p16l03",
+    "p16l04",
+    "p16l05",
+    "p16l06",
+    "p16l07",
+    "p16l08",
+    "p16l09",
+    "p16l10",
+    "p16l11",
+    "p16l12",
+    "p16l13",
+    "p16l14",
+    "p16l15",
+    "p16l16",
+    "p16l17",
+    "p16l18",
+    "p16l19",
+    "p16l20",
+    "p16l21",
+    "p16l22",
+    "p16l23",
+    "p16l24"
+  ],
+  "formulas": [
+    {
+      "source_lines": [
+        "p14l04"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} + \\beta _{yyz} = -2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1\\pm \\cos 2\\phi _{A}) - \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l05"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} - \\beta _{yyz} = -2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1\\pm \\cos 2\\phi _{A}) + \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l06"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} + \\beta _{yyz} - 2\\beta _{zzz} = -6\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1\\pm \\cos 2\\phi _{A}) - 3\\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l07"
+      ],
+      "latex_lines": [
+        "\\beta _{zxx} = -\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1\\pm \\cos 2\\phi _{A}) + \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l08"
+      ],
+      "latex_lines": [
+        "\\beta _{zyy} = \\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l09"
+      ],
+      "latex_lines": [
+        "\\beta _{xyz} = \\beta _{yxz} = \\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l10"
+      ],
+      "latex_lines": [
+        "\\beta _{yzx} = \\beta _{zyx} = - (\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l13",
+        "p14l14",
+        "p14l15"
+      ],
+      "latex_lines": [
+        "\\chi _{XZX}= (3/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos 2\\phi (\\cos \\theta - \\cos ^{3}\\theta )",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l16",
+        "p14l17",
+        "p14l18"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXX}= (3/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos 2\\phi (\\cos \\theta - \\cos ^{3}\\theta )",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l19",
+        "p14l20",
+        "p14l21",
+        "p14l22"
+      ],
+      "latex_lines": [
+        "\\chi _{XXZ}= -(1/2)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos \\theta",
+        "+ (3/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos 2\\phi (\\cos \\theta - \\cos ^{3}\\theta )",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l23",
+        "p14l24",
+        "p14l25",
+        "p14l26"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZZ} = -(1/2)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos \\theta",
+        "+ (3/2)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos ^{3}\\theta",
+        "- (1/2)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos 2\\phi (\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ [\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l27",
+        "p14l28"
+      ],
+      "latex_lines": [
+        "\\chi _{YZX}= -(1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\sin 2\\phi \\sin ^{2}\\theta",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})]\\sin ^{2}\\theta \\cos 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l29",
+        "p14l30",
+        "p14l31",
+        "p14l32"
+      ],
+      "latex_lines": [
+        "\\chi _{YYZ}= -(1/2)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos \\theta",
+        "+ (3/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos 2\\phi (\\cos \\theta - \\cos ^{3}\\theta )",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l33",
+        "p14l34"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYX}= -(1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\sin 2\\phi \\sin ^{2}\\theta",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})]\\sin ^{2}\\theta \\cos 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p14l35",
+        "p14l36",
+        "p15l01"
+      ],
+      "latex_lines": [
+        "\\chi _{YZY}= (3/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos 2\\phi (\\cos \\theta - \\cos ^{3}\\theta )",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l02",
+        "p15l03"
+      ],
+      "latex_lines": [
+        "\\chi _{XZY}= -(1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\sin 2\\phi \\sin ^{2}\\theta",
+        "+ (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})]\\sin ^{2}\\theta \\cos 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l04",
+        "p15l05"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXY}= -(1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\sin 2\\phi \\sin ^{2}\\theta",
+        "+ (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})]\\sin ^{2}\\theta \\cos 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l06",
+        "p15l07",
+        "p15l08"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYY}= (3/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}\\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/4)[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]\\cos 2\\phi (\\cos \\theta - \\cos ^{3}\\theta )",
+        "- (1/2)[\\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l12",
+        "p15l13",
+        "p15l14"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXX}= -(1/2)[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]",
+        "\\times [\\cos \\theta - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l15",
+        "p15l16",
+        "p15l17"
+      ],
+      "latex_lines": [
+        "\\chi _{XZX}= -(1/2)[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]",
+        "\\times [\\cos \\theta - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l18",
+        "p15l19",
+        "p15l20"
+      ],
+      "latex_lines": [
+        "\\chi _{XXZ}= (1/2)[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]",
+        "\\times (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l21",
+        "p15l22",
+        "p15l23"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZZ} = -[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]",
+        "\\times (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )",
+        "- [(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l24"
+      ],
+      "latex_lines": [
+        "\\chi _{YZX}= (1/4)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l25",
+        "p15l26",
+        "p15l27"
+      ],
+      "latex_lines": [
+        "\\chi _{YYZ}= (1/2)[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]",
+        "\\times (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/2)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l28"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYX}= (1/4)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l29",
+        "p15l30",
+        "p15l31"
+      ],
+      "latex_lines": [
+        "\\chi _{YZY}= -(1/2)[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]",
+        "\\times [\\cos \\theta - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l32"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXY}= -(1/4)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p15l33"
+      ],
+      "latex_lines": [
+        "\\chi _{XZY}= -(1/4)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l01",
+        "p16l02",
+        "p16l03"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYY}= -(1/2)[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})]",
+        "\\times [\\cos \\theta - (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l06",
+        "p16l07"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXX}= (1/2)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})][\\cos \\theta - (1 - \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l08",
+        "p16l09"
+      ],
+      "latex_lines": [
+        "\\chi _{XZX}= (1/2)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})][\\cos \\theta - (1 - \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l10",
+        "p16l11"
+      ],
+      "latex_lines": [
+        "\\chi _{XXZ}= -(1/2)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})](1 - \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/2)[(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l12",
+        "p16l13"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZZ} = [\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})](1 - \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )",
+        "- [(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l14"
+      ],
+      "latex_lines": [
+        "\\chi _{YZX}= (1/4)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l15",
+        "p16l16"
+      ],
+      "latex_lines": [
+        "\\chi _{YYZ}= -(1/2)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})](1 - \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )",
+        "+ (1/2)[(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l17"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYX}= (1/4)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l18",
+        "p16l19"
+      ],
+      "latex_lines": [
+        "\\chi _{YZY}= (1/2)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})][\\cos \\theta - (1 - \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l20"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXY}= -(1/4)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l21"
+      ],
+      "latex_lines": [
+        "\\chi _{XZY}= -(1/4)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})](1 - 3\\cos ^{2}\\theta - \\sin ^{2}\\theta \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p16l22",
+        "p16l23"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYY}= (1/2)[\\beta _{caa}\\cos \\alpha (1 - (\\pm )\\cos 2\\phi _{A}) - \\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A})][\\cos \\theta - (1 - \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta )]",
+        "+ (1/2)[(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}+ \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    }
+  ],
+  "tensor_components": [
+    {
+      "symbol": "beta",
+      "indices": "zxx",
+      "source": "p14l07"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zyy",
+      "source": "p14l08"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xyz",
+      "source": "p14l09"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yzx",
+      "source": "p14l10"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZX",
+      "source": "p14l13"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXX",
+      "source": "p14l16"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXZ",
+      "source": "p14l19"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZZ",
+      "source": "p14l23"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZX",
+      "source": "p14l27"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYZ",
+      "source": "p14l29"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYX",
+      "source": "p14l33"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZY",
+      "source": "p14l35"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZY",
+      "source": "p15l02"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXY",
+      "source": "p15l04"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYY",
+      "source": "p15l06"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXX",
+      "source": "p15l12"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZX",
+      "source": "p15l15"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXZ",
+      "source": "p15l18"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZZ",
+      "source": "p15l21"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZX",
+      "source": "p15l24"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYZ",
+      "source": "p15l25"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYX",
+      "source": "p15l28"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZY",
+      "source": "p15l29"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXY",
+      "source": "p15l32"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZY",
+      "source": "p15l33"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYY",
+      "source": "p16l01"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXX",
+      "source": "p16l06"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZX",
+      "source": "p16l08"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXZ",
+      "source": "p16l10"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZZ",
+      "source": "p16l12"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZX",
+      "source": "p16l14"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYZ",
+      "source": "p16l15"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYX",
+      "source": "p16l17"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZY",
+      "source": "p16l18"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXY",
+      "source": "p16l20"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZY",
+      "source": "p16l21"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYY",
+      "source": "p16l22"
+    }
+  ],
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true
+}

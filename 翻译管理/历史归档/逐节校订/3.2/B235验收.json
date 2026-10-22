@@ -1,0 +1,16 @@
+{
+  "batch": "B235",
+  "date": "2026-10-20",
+  "pages": [4],
+  "tags": ["2.9", "2.10"],
+  "scope": "2.2引言、路径分类及两组共五条路径关系",
+  "source_images_visually_checked": true,
+  "math_fragments_this_batch": 19,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "unresolved_source_questions": ["Q117"],
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "next": "B236：p4—5反转次数递推及矩阵重组"
+}

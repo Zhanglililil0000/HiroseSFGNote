@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-21",
+  "math": 161,
+  "results": [
+    {
+      "batch": "B416",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "batch": "B417",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B418",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B419",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    },
+    {
+      "batch": "B420",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-20",
+  "section": "4.1",
+  "status": "全节译校完成，原文疑点待核",
+  "source_sha256": "ddd8bdf08396ce91fbd9c8dd58f5c25ca86c6b6f7c6b8172db442fc06e25e07e",
+  "translation_sha256": "4cdc1a73bbb9bfa0e4b0b6819df831f4cb9662d691ab756fb2eba3acd0102745",
+  "source_pages": 33,
+  "batches": "B249—B276",
+  "numbered_occurrences": 108,
+  "unique_labels": 107,
+  "source_duplicate_label": "1.9，p6与p8，保留原号",
+  "math_fragments": 853,
+  "math_syntax_errors": 0,
+  "formula_overflows": 0,
+  "assets_loaded": true,
+  "open_source_issues": "Q122—Q137",
+  "source_corrections_adopted": false,
+  "next_batch": "B277，4.2结构与局部约定核验"
+}

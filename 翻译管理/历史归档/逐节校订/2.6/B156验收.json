@@ -1,0 +1,24 @@
+{
+  "batch": "B156",
+  "date": "2026-10-20",
+  "coverage": {
+    "batch": "B156",
+    "date": "2026-10-20",
+    "pages": [
+      6
+    ],
+    "units": "末介质无反向场条件、双介质无编号关系与4.1a/b、4.2a/b",
+    "tags": [
+      "4.1a",
+      "4.2a",
+      "4.1b",
+      "4.2b"
+    ],
+    "source_images_visually_checked": true,
+    "source_formula_corrections_adopted": false
+  },
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false
+}

@@ -1,0 +1,2836 @@
+===== PDF p.1 =====
+積層膜からの和周波発生 (SFG)
+1. 序論
+固体表面上における SFG 活性膜の生成について、その成長を SFG 法によりその観測するとき、膜
+厚が増すにつれて信号強度が単調に増大するのではなく、周期的な振動がオーバーラップすることがわか
+る。しかも、p 偏光の反射率がゼロになるブルスター角で実験を行うと、p 偏光成分には周期的な変化が
+現れない。この振動現象は膜内部での多重反射に由来する干渉効果によるものであるが、可視光および赤
+外光に対する干渉効果（赤外光は吸収も受ける）に加えて膜内部で生成した SFG 光もまた干渉を示すた
+め、信号は複雑な様相を呈する。しかし、この現象は、特定の分子種で SFG 活性な非等方的な膜を形成
+する際の成長速度をモニターしたり、膜の屈折率や吸収係数を求めたりする上でユニークで有用な手法を
+提供する。
+現象を解析するための定式化を行う際に考慮しなければならない事項を挙げてみよう。(a) SFG 光は
+膜の内部（又はその表面）で生成する光であって外部からの入射ではないため、通常用いられる光干渉の
+表式がそのままの形では適用することはできない。(b) 波長によって屈折率と屈折角が異なるために、膜
+の内部での SFG 光、可視光、赤外光の進行方向が違う。また、ある１点で生じる SFG 分極に寄与する
+可視光の電場と赤外光の電場は膜に入射する場所が違っている。さらに、(c) 生成した SFG 光の進行方向
+は可視光、赤外光の進行方向と違っているので、膜内の進行に連れて SFG 光の電場が強まる効果も慎重
+に考えなければならない。
+本稿では、SFG 活性な膜があるときの SFG 光について、(a) 媒質１との界面の媒質側で発生する SFG
+光、(b) 媒質１との界面の膜側で発生する SFG 光、(c) 媒質２との界面の媒質側で発生する SFG 光、(d) 媒
+質２との界面の膜側で発生する SFG 光、(e) 膜内部で発生する SFG 光、のそれぞれについて、シグナル
+強度の挙動を定式化する。すなわち、２つの励起光および SFG 光が示す干渉効果を明らかに出来るよう
+な形で、観測される SFG 電場の表式に膜の厚みを取り入れた形で定式化するのである。
+定式のもとになる事項の多くは古典電磁気学および光学で既に知られているものであり、本稿で導く
+式は、T. Heinz の総説（要点を解読したものを別ファイルに示してある）、ひいては Born & Wolf の教科
+書や Bloembergen & Pershan の論文、Y. R. Shen の教科書に記されているものをしかるべく援用して得ら
+れるものである。また、実地の解析に役立てるために、屈折率と反射率・透過率の間の関係式など、ごく
+基本的な関係式を付録 A に記しておく。「波動はどのように式で表されるか」という点に関するおさら
+いを付録 B に記しておく。
+２種類の媒質がある場合、および２種類の媒質の間に膜が挟まっている場合の光の挙動を、付録 Cに記
+した。膜の数が２つ以上になった場合の取扱いは、Born & Wolf の教科書に記してある行列法が有用であ
+る。別ファイル「Born & Wolf の取扱い」を参照されたい。
+2. 準備
+媒質１（入射側）と媒質２ の間に厚さ h の膜 (m) が挟まっていて、２つの界面はともに平面でし
+m
+かも互いに平行であるとする。座標軸等を次のように定義する。
+膜の和周波 - 1
+
+===== PDF p.2 =====
+原点：光線の入射点に取る。（広がりがある場合にはその中央）
+z 軸：媒質１から媒質２に向けた法線の方向に取る。
+x 軸：界面上でみた光の進行方向に取る。（k ベクトルの界面への射影に沿わせる）
+次のように用語を定義する。
+1/m 界面：媒質１と膜の界面。
+m/2 界面：媒質２と膜の界面。
+n, n, n ：媒質１、媒質２、膜 m の屈折率。
+1 2 m
+k, k, k ：媒質１、媒質２、膜 m の中での波動ベクトル。
+1 2 m
+q , q , q ：媒質１、媒質２、膜 m の中を進む光の光路が法線に対してなす角。
+1 2 m
+t ：媒質１側から膜側に透過する光の電場に対する透過係数。
+1m
+t ：膜側から媒質１側に透過する光の電場に対する透過係数。
+m1
+r ：媒質１側から来て 1/m 界面で反射する光の電場に対する反射係数。
+1m
+r ：膜側から来て m/1 界面で反射する光の電場に対する反射係数。
+m1
+t ：膜側から媒質２側に透過する光の電場に対する透過係数。
+m2
+t ：媒質２側から膜側に透過する光の電場に対する透過係数。
+2m
+r ：膜側から来て m/2 界面で反射する光の電場に対する反射係数。
+m2
+r ：媒質２側から来て 1/m 界面で反射する光の電場に対する反射係数。
+2m
+上向き(-）光：m/2 界面から m/1 界面に向かう光。反射光と同じく、-z 側に進む。
+下向き(+）光：m/1 界面から m/2 界面に向かう光。入射光と同じく、+z 側に進む。
+（透過係数と反射係数の表式は、付録 A に記す。）
+“反射光”には、1/m 界面で反射した光のほかに、膜の内部で多重反射してから 1/m 界面から出てく
+る上向き (-) 光が付け加わる。1/m 界面での境界条件にはこの多重反射光を（膜の両側について）加えた
+ものに適用する。付録 C に記すように、“反射光”の電場振幅（入射光の振幅を 1 として）は下で与え
+られる。
+反射光の電場振幅 = r + t t r (cid:229) (r r )nexp(i2p n 2nh cosq /l )
+1m 1m m1 m2 n = 0~¥ m2 m1 m m m
+= r + t t r exp(i2p n 2h cosq /l )/[1 - r r exp(i2p n 2h cosq /l )]
+1m 1m m1 m2 m m m m2 m1 m m m
+= {r + [-r r + t t ]r exp(i2p n 2h cosq /l )}/[1 - r r exp(i2p n 2h cosq /l )]
+1m 1m m1 1m m1 m2 m m m m2 m1 m m m
+= [r + r exp(i2p n 2h cosq /l )]/[1 - r r exp(i2p n 2h cosq /l )] (2.1)
+1m m2 m m m m2 m1 m m m
+絶対値の２乗が光の強度になるから、反射光には 2n h cosq /l の周期で干渉が現れる。
+m m m
+(1- r 2)(1- r 2)
+反射光の強度 = 1- 1m m2
+1+ r r 2+(r r +r *r *)cos2b h +i(r r - r *r *)sin2b h
+1m m2 1m m2 1m m2 m m 1m m2 1m m2 m m
+(b ” 2p n cosq /l ) (2.2)
+m m m
+膜の和周波 - 2
+(cid:160)
+
+===== PDF p.3 =====
+r とr が実数なら、2n h cosq /l が整数の時に反射光は極大値を取るから、波数掃引をしたときの山
+1m m2 m m m
+の間隔は D n = 1/2 n h cosq になる。しかし、膜に吸収があると r が、媒質２が金属の時には r が複
+m m m 1m 2m
+素数になるので、分母の第２項も効いてくる。
+“透過光”には、膜をすんなり通過した光に加えて、膜の内部で多重反射してから m/2 界面から出て
+くる光が重なる。m/2 界面での境界条件にはこの多重反射光を加えたものに適用する。付録 C に記すよ
+うに、“透過光”の電場振幅（入射光の振幅を 1、位相を e-iw t として）は下で与えられる。
+t t (cid:229) (r r )nexp(i2p n 2h cosq /l )nexp(i2p n h cosq /l )
+1m m2 n = 0~¥ m2 m1 m m m m m m
+= t t exp(i2p n h cosq /l )/[1 - r r exp(i2p n 2h cosq /l )] (2.3)
+1m m2 m m m m2 m1 m m m
+2 2
+t t
+透過光の強度 = 1m m2 (2.4)
+1+ r r 2+(r r +r *r *)cos2b h +i(r r - r *r *)sin2b h
+1m m2 1m m2 1m m2 m m 1m m2 1m m2 m m
+干渉による振れの向きが反射光と逆になり、一方の山頂の位置が他方では谷底になる。
+膜の内部に取った点 (x, z) の光電場
+原点における入射光の電場を Ee-iw t とするときに、別ファイル「膜内の電場」の (4.4式) に記したこ
+0
+とであるが、点 (x, z) における上向き (-) 光の電場E -と 上向き (+) 光の電場 E + は（膜の数が１つの時
+に）次のように表される。膜数が２個あるいは３個のときについては、ファイル「膜内の電場」の４節を
+参照されたい。
+t
+E + =Ee - iw texp[ik (xsinq +zcosq )] 1m,a (2.5)
+a 0 m m m 1+r r e2ib m h m
+1m,a m2,a
+E - =Ee - iw t exp[ik (xsinq - zcosq )] t 1m r m2 e2ib m h m (2.6)
+a 0 m m m 1+r r e2ib m h m
+1m m2
+3. SFG 光の光路
+原点から媒質１中に出て行くSFG 光 (反射 SFG) 及び点 (htanq h ) から媒質２中に出て行くSFG
+m,SF m
+光 (透過 SFG) は、次のような特性を持つ。
+(a) 点 A(z)；x = -[2nh + z]tanq , z = z, n = 0, 1, 2, ···, 0 < z < h で生成した上向き (-) 光
+n m m,SF m
+原点に達するまでの位相の進み：k [2nh + z]/cosq
+(cid:160) m,SF m m,SF
+(h tanq , h ) 点に達するまでの位相の進み：k [(2n + 1)h + z]/cosq
+m m,SF m m,SF m m,SF
+(b) 点 B (z)；x = -[2nh + (2h - z)]tanq , n = (-1), 0, 1, 2, ····, 0 < z < h で生成した上向き (+) 光
+n m m m,SF m
+（n = -1 は透過 SFG にのみ寄与する。）
+原点に達するまでの位相の進み：k [2nh + (2h - z)]/cosq
+m,SF m m m,SF
+(h tanq , h ) 点に達するまでの位相の進み：k [2(n + 1)h - z]/cosq
+m m,SF m m,SF m m,SF
+(B (z) からのものは透過 SFG 光にのみ寄与する。)
+-1
+(c) 点 A'(0-)；x = -2nh tanq , z = 0-,（1/m界面の外側）
+n m m,SF
+膜の和周波 - 3
+(cid:160)
+(cid:160)
+
+===== PDF p.4 =====
+上向き (-) 光：n = 0 が反射 SFG のゼロ次光となる。
+上向き (+) 光：n = 0 の 1/m 界面での反射光は反射 SFG のゼロ次光となる。
+n = 0 の 1/m 界面での透過光は透過 SFG に寄与する。
+n = 1, 2, ··· の 1/m 界面での透過光は反射 SFG と透過 SFG の両方に寄与する。
+(d) 点 A"(0+)；x = -2nh tanq , z = 0+,（1/m 界面の内側）
+n m m,SF
+上向き (-) 光：n = 0 の m/1 界面での透過光は反射 SFG の１次光となる。
+n = 0 の m/1 界面での反射光は透過 SFG の１次光となる。
+n = 1, 2, ··· の m/1 界面での反射光は反射 SFG と透過 SFG の両方に寄与する。
+上向き (+) 光：n = 0 は透過 SFG のゼロ次光となる。
+n = 1, 2, ··· は反射 SFG と透過 SFG の両方に寄与する。
+(e) 点 B '(h -)；x = -(2n + 1)h tanq , z = h -,（m/2 界面の内側）
+n m m m,SF m
+上向き (-) 光：n = 0, 1, 2, ··· が反射 SFG と透過 SFG の両方に寄与する。
+上向き (+) 光：n = -1 の m/2 界面での透過光は透過 SFG のゼロ次光となる。
+n = 0, 1, 2, ··· の m/2 界面での反射光は反射 SFG と透過 SFG の両方に寄与する。
+(f) 点 B "(h +)； x = -(2n + 1)h tanq , z = h +,（m/2 界面の外側）
+n m m m,SF m
+上向き (-) 光：n = -1 の m/2 界面での反射光は透過 SFG のゼロ次光となる。
+n = 0, 1, 2, ··· の m/2 界面での透過光は反射 SFG と透過 SFG の両方に寄与する。
+上向き (+) 光：n = -1 が透過 SFG のゼロ次光となる。
+上で記したことを図示すると下のようになる。
+A' A' A ' x
+2 1 0
+A A A
+2 1 0
+B' B' B' B '
+2 1 0 -1
+z
+図3.1: 膜内部での光の進行
+（膜内部）
+A, A, A, : -————— n 重反射—————— —————— 1/m 透過———反射 SFG
+0 1 2
+————n 重反射————————————— m/2 透過———透過 SFG
+B + ———————— m/2 透過—————————————————————透過 SFG
+-1
+膜の和周波 - 4
+
+===== PDF p.5 =====
+B , B , B , + ———— n 重反射————————————— 1/m 透過———反射 SFG
+0 1 2
+——— n 重反射————————————— m/2 透過———透過 SFG
+（1/m 界面 1 側）
+A' - ———————————————————————————————— 反射 SFG
+0
+A' + ———————1/m 反射————————————— m/2 透過———反射 SFG
+0
+———————1/m 透過—————————————————————反射 SFG
+A', A', A', +———— 1/m 透過—————— 多重反射———1/m 透過———反射 SFG
+1 2 3
+———— m/2 透過—————————————————————透過 SFG
+（1/m 界面 m 側）
+A" - ——————— 1/m 透過———————————————————— 反射 SFG
+0
+A" - ———————1/m 反射—————— m/2 透過——————————透過 SFG
+0
+A", A", A", - ——— 1/m 反射—————— 多重反射———1/m 透過———反射 SFG
+1 2 3
+———m/2 透過—————————————————————透過 SFG
+A" +——————— m/2 透過—————————————————————透過 SFG
+0
+A", A", A", + ——— 多重反射—————— 1/m 透過——————————反射 SFG
+1 2 3
+——— m/2 透過—————————————————————透過 SFG
+（m/2 界面 m 側）
+B ", B ", B ", - ——— 多重反射—————— 1/m 透過 ————————— 反射 SFG
+0 1 2
+——— m/2 透過 ———————————————————— 透過 SFG
+B " + ———————m/2 透過—————————————————————透過 SFG
+-1
+B ", B ", B ", + ——— m/2 反射—————— 多重反射———1/m 透過———反射 SFG
+0 1 2
+——— m/2 透過—————————————————————透過 SFG
+（m/2 界面 2 側）
+B ' - ———————m/2 反射—————————————————————透過 SFG
+-1
+B ', B ', B ', - ———— m/2 透過—————— 多重反射———1/m 透過———反射 SFG
+0 1 2
+————— m/2 透過—————————————————————透過 SFG
+B " + ——————————————————————————————— 反射 SFG
+-1
+4. 光路上の SFG 分極
+膜の両面と膜内部とで分極が生じると考えて、それぞれの点について励起光電場と分極を調べよう。
+4.1. 励起電場
+屈折率の値及び k ベクトルの長さは波長に依存するから、赤外光と可視光では違った値を取る。（赤
+外光については吸収があるので、これらの量は複素数になる。）波長の違いを示すために、第２の下付き
+として ir, vis, SF を用いる。
+なお、電場を表面固定座標系の成分で表すときに、反射係数及び透過係数は下のようになることを使
+って、座標成分を表している。
+膜の和周波 - 5
+
+===== PDF p.6 =====
+r = -r = r , r = -r = r , r = -r = -r
+1m,x m1,x 1m,p 1m,y m1,y 1m,s 1m,z m1,z 1m,p
+r = -r = r , r = -r = r , r = -r = -r
+2m,x m2,x 2m,p 2m,y m2,y 2m,s 2m,z m2,z 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+1m,x m 1 1m,p 1m,y 1m,s 1m,z m 1 1m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m1,x 1 m m1,p m1,y m1,s m1,z 1 m m1,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+2m,x m 2 2m,p 2m,y 2m,s 2m,z m 2 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m2,x 2 m m2,p m2,y m2,s m2,z 2 m m2,p
+t t = 1 + r r = 1 - r 2, t t = 1 + r r = 1 - r 2, (a = x, y, z)
+1m,a m1,a 1m,a m1,a 1m,a 2m,a m2,a 2m,a m2,a 2m,a
+4.1a. 1/2 系の界面外側 (1/2 界面の 1 側) の励起電場
+ガラス表面や金属表面等の表面・界面の媒質１側にまばらに吸着している分子が感じる電場があては
+まる。媒質１と媒質２だけが存在するときの界面の媒質１側における電場は、入射光と反射光のベクトル
+和になる。よって、
+E vis,a (0 - )=E0 vis,a (1+r 12,vis,a ) (4.1)
+E ir,b (0 - )=E0 ir,b (1+r 12,ir,b ) (4.2)
+E vis,a (0 - )E ir,b (0 - )=E0 vis,a E0 ir,b (1+r 12,vis,a )(1+r 12,ir,b ) (4.3)
+但し、a , b = x, y, zで、かつ、r = +r 、r = +r 、r = -r である。
+12,x 12,p 12,y 12,s 12,z 12,p
+4.1b. 1/2 系の界面内側 (1/2 界面の 2 側) の励起電場
+通常の表面の媒質２側あるいは液体界面の内側にまばらに吸着した分子が感じる電場があてはまる。
+界面の内側に存在するのは透過光だけであるから、
+E vis,a (0 + )=E0 vis,a t 12,vis,a (4.4)
+E ir,b (0 + )=E0 ir,b t 12,ir,b (4.5)
+E vis,a (0 + )E ir,b (0 + )=E0 vis,a E0 ir,b t 12,vis,a t 12,ir,b (4.6)
+但し、t = +(cosq /cosq )t 、t = +t 、t = +(sinq /sinq )t である。
+12,x 2 1 12,p 12,y 12,s 12,z 2 1 12,p
+4.1c. 1/m/2 系の 1/m 界面の 1 側（x = -2nh tanq , z = 0-）の励起電場
+m m,SF
+まばらに吸着した分子が感じる電場があてはまる。
+x = -2nh tanq 、z = 0 での入射光と反射光の和に膜内部から出てくる光を加えたものであるから、
+m m,SF
+(1+r )(1+r e2ib m,vis h m)
+E vis,a (0 - )=E0 vis,a 1 1 + m, r vis,a r m2,vi e sr 2 ,a ib m,vis h m exp[- ik m,vis 2nh m tanq m,SF sinq m,vis ] (4.7)
+(cid:160) 1m,vis,a m2,visr,a
+(1+r )(1+r e2ib m,ir h m)
+(cid:160) E ir,b (0 - )=E0 ir,b 1 1 + m, r ir,b r m2,i e r, 2 b ib m,ir h m exp[- ik m,ir 2nh m tanq m,SF sinq m,ir ] (4.8)
+(cid:160) 1m,ir,b m2,ir,b
+(1+r )(1+r e2ib m,vis h m)(1+r )(1+r e2ib m,ir h m)
+E vis,a (0 - )E ir,b (0 - )=E0 vis,a E0 ir,b 1 ( m 1 ,v + is,a r r m2,vis,a e2ib m,vis h m)(1+r 1m,ir,b r e m 2 2, i i b r m ,b ,ir h m)
+1m,vis,a m2,vis,a 1m,ir,b m2,ir,b
+· exp[i2nh tanq (- k sinq - k sinq )] (4.9)
+m m,SF m,ir m,ir m,vis m,vis
+膜の和周波 - 6
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.7 =====
+4.1d. 1/m/2 系の 1/m 界面の m 側（x = -2nh tanq , z = 0+ ) の励起電場
+m m,SF
+アイランド被覆又は 1 ML 被覆層（屈折率 n) の表面直下の分子が感じる電場があてはまる。
+膜内部の電場の式（付録 C）の、上向き (-) 光と下向き (+) 光を加えたものになる。
+十分厚い基板上についた薄膜層
+t (1+r e2ib m,vis h m)
+E vis,a (0 + )=E0 vis,a 1 1 m + ,vis r ,a r m2,vis,a e2ib m,vis h m exp[- ik m,vis 2nh m tanq m,SF sinq m,vis ] (4.10)
+1m,vis,a m2,vis,a
+t (1+r e2ib m,ir h m)
+E ir,b (0 + )=E0 ir,b 1 1 m + ,ir,b r r m2,ir,b e2ib m,ir h m exp[- ik m,ir 2nh m tanq m,SF sinq m,ir ] (4.11)
+1m,ir,b m2,ir,b
+t t (1+r e2ib m,vis h m)(1+r e2ib m,ir h m)
+E vis,a (0 + )E ir,b (0 + )=E0 vis,a E0 ir,b ( 1 1 m + ,vis r ,a 1m,ir,b r e m 2 2 i , b vi m s , ,a vis h m)(1+r r m2,ir,b e2ib m,ir h m)
+1m,vis,a m2,vis,a 1m,ir,b m2,ir,b
+· exp[i2nh tanq (- k sinq - k sinq )] (4.12)
+m m,SF m,ir m,ir m,vis m,vis
+4.1e. 1/m/2 系の m/2 界面の 2 側（x = -(2n + 1)h tanq , z = h+ ）の励起電場
+m m,SF
+分極のもとになるのは、透過してくる下向き (+) 光の電場である。
+t t eib m,vis h m
+E vis,a (h m + )=E0 vis,a 1+ 1m r ,vis,a m r 2,vis,a e2ib m,vis h m exp[- ik m,vis (2n+1)h m tanq m,SF sinq m,vis ] (4.13)
+1m,vis,a m2,vis,a
+t t eib m,ir h m
+E ir,b (h m + )=E0 ir,b 1+ 1m r ,ir,b m r 2,ir,b e2ib m,ir h m exp[- ik m,ir (2n+1)h m tanq m,SF sinq m,ir ] (4.14)
+1m,ir,b m2,ir,b
+t t t t ei(b m,ir +b m,vis )h m
+E vis,a (h m + )E ir,b (h m + )=E0 vis,a E0 ir,b (1+r 1m,vi r s,a m2,vis e ,a 2i 1 b m m, , v i i r s h ,b m) m (1 2, + ir,b r r e2ib m,ir h m)
+1m,vis,a m2,ivis,a 1m,ir,b m2,ir,b
+· exp[i(2n+1)h tanq (- k sinq - k sinq )] (4.15)
+m m,SF m,ir m,ir m,vis m,vis
+4.1f. 1/m/2 系の m/2 界面の m 側（x = -(2n + 1)h tanq , z = h- ）の励起電場
+m m,SF
+上向き (-) 光と下向き (+) 光の和になる。
+(cid:160)
+t (1+r )eib m,vis h m
+(cid:160) E vis,a (h m - )=E0 vis,a 1 1 m + ,vi r s,a r m2,vis,a e2ib m,vis h m exp[- ik m,vis (2n+1)h m tanq m,SF sinq m,vis ] (4.16)
+1m,vis,a m2,vis,a
+t (1+r )eib m,ir h m
+(cid:160) E ir,b (h m - )=E0 ir,b 1 1m + ,ir, r b r m2,ir,b e2ib m,ir h m exp[- ik m,ir (2n+1)h m tanq m,SF sinq m,ir ] (4.17)
+(cid:160) 1m,ir,b m2,ir,b
+t t (1+r )(1+r )ei(b m,ir +b m,vis )h m
+E vis,a (h m - )E ir,b (h m - )=E0 vis,a E0 ir,b (1 1m + ,v r is,a 1m,ir r ,b e2 m ib 2, m v , i v s is ,a h m)(1+r m2,ir,b r e2ib m,ir h m)
+1m,vis,a m2,vis,a 1m,ir,b m2,ir,b
+· exp[i(2n+1)h tanq (- k sinq - k sinq )] (4.18)
+m m,SF m,ir m,ir m,vis m,vis
+4.1g. 1/m/2 系の膜内部 [0 < z < h ] の励起電場
+(cid:160) m
+以下では、k [xsinq + zcosq ] を取るときに h の入り方に注意を払う。
+m m
+(cid:160)
+(cid:160) 膜の和周波 - 7
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.8 =====
+[B : x = -(2(n + 1)h - z)tanq ]: E+ sources
+n = -1, 0, 1, 2 m m,SF
+t
+E vis,a (z)=E0 vis,a 1+r 1 r m,vis,a e2ib m,vis h m exp[- i2(n+1)k m,vis h m tanq m,SF sinq m,vis ]
+1m,vis,a m2,vis,a
+· {exp[izk cosq (1+tanq tanq )]
+m,vis m,vis m,SF m,vis
++r e2ib m,vishm exp[- izk cosq (1- tanq tanq )]} (4.19)
+m2,vis,a m,vis m,vis m,SF m,vis
+t
+E ir,b (z)=E0 ir,b 1+r 1 r m,ir,b e2ib m,ir h m exp[- i2(n+1)k m,ir h m tanq m,SF sinq m,ir ]
+1m,ir,b m2,ir,b
+· {exp[izk cosq (1+tanq tanq )]
+m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[- izk cosq (1- tanq tanq )]} (4.20)
+m2,ir,b m,ir m,ir m,SF m,ir
+t t
+E vis,a (z)E ir,b (z)=E0 vis,a E0 ir,b (1+r r e2i 1 b m m, , v v is i h s m ,a )( 1 1 m, + ir,b r r e2ib m,ir h m)
+1m,vis,a m2,vis,a 1m,ir,b m2,ir,b
+· exp[- i(2n+1)h tanq (k sinq +k sinq )]
+m m,SF m,vis m,vis m,ir m,ir
+· {exp[iz(k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1+tanq tanq )- k cosq (1- tanq tanq ))]
+m2,ir,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm exp[iz(- k cosq (1- tanq tanq )+k cosq (1+tanq tanq ))]
+m2,vis,a m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,a m2,ir,b
+· exp[iz(- k cosq (1- tanq tanq )- k cosq (1- tanq tanq ))]}
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+(4.21)
+[A : x = -(2nh + z)tanq ]: E- sources
+(cid:160) n = 0, 1, 2 m m,SF
+t
+(cid:160) E vis,a (z)=E0 vis,a 1+r 1 r m,vis,a e2ib m,vis h m exp[- i2nk m,vis h m tanq m,SF sinq m,vis ]
+(cid:160)
+1m,vis,a m2,vis,a
+· {exp[izk cosq (1- tanq tanq )]+r e2ib m,vishm exp[- izk cosq (1+tanq tanq )]}
+m,vis m,vis m,SF m,vis m2,vis,a m,vis m,vis m,SF m,vis
+(4.22)
+t
+(cid:160) E ir,b (z)=E0 ir,b 1+r 1 r m,ir,b e2ib m,ir h m exp[- i2nk m,ir h m tanq m,SF sinq m,ir ]
+(cid:160) 1m,ir,b m2,ir,b
+· {exp[izk cosq (1- tanq tanq )]+r e2ib m,irhm exp[- izk cosq (1+tanq tanq )]}
+(cid:160) m,ir m,ir m,SF m,ir m2,ir,b m,ir m,ir m,SF m,ir
+(4.23)
+t t
+E vis,a (z)E ir,b (z)=E0 vis,a E0 ir,b (1+r r e2i 1 b m m, , v v is i h s m ,a )( 1 1 m, + ir,b r r e2ib m,ir h m)
+(cid:160) 1m,vis,a m2,vis,a 1m,ir,b m2,ir,b
+· exp[- i2nh tanq (k sinq +k sinq )]
+(cid:160) m m,SF m,vis m,vis m,ir m,ir
+· {exp[iz(k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+(cid:160) m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1- tanq tanq )- k cosq (1+tanq tanq ))]
+(cid:160) m2,ir,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm exp[iz(- k cosq (1+tanq tanq )+k cosq (1- tanq tanq ))]
+(cid:160) m2,vis,a m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+(cid:160) m2,vis,a m2,ir,b
+· exp[iz(- k cosq (1+tanq tanq )- k cosq (1+tanq tanq ))]}
+(cid:160) m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+膜の和周波 - 8
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.9 =====
+(4.24)
+4.2. SFG 分極
+SFG 分極 P の座標成分 P （a = x, y, z）は、感受率テンソル c を使って下式で表される。但し、
+a a bg
+下付きは左から SFG 光、可視光、赤外光の順に取る。
+P = (cid:229) c E E (4.25)
+a b,g a bg vis,b ir,g
+4.2a. 1/m 界面の外側 (x = -2nh tanq , z = 0- ) における SFG 分極
+m m,SF
+次に、SFG 光が発生する部位を区別して、膜からの SFG 分極を調べてみよう。
+表面に突き出た分子あるいはまばらに分布している分子は、表面の電場そのものによって分極する。よっ
+て、(4.9) 式により、点 (x = -2nh tanq , z = 0- ) の分極は下で与えられる。
+m m,SF
+P a (0 - ,n)= b (cid:229) ,g c a bg E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r ,g ,g ) r m (1 2, + ir,g r e m 2 2 i , b ir m ,g ,ir e h m 2i ) b m,ir h m)
+· exp[i2nh tanq (- k sinq - k sinq )]}
+m m,SF m,ir m,ir m,vis m,vis
+=P (0 - ,n=0)exp[i2nh tanq (- k sinq - k sinq )]} (4.26a)
+a m m,SF m,ir m,ir m,vis m,vis
+しかし、表面が薄膜として完成している場合には、分子が感じる電場は、膜を m' として下のように変形
+される。
+t (1+r )(1+r e2ib m,vis h m)
+E vis,a (h m' )E ir,b (h m' )= E0 vis,a E0 ir,b 1+r 1m', r vis,a + m ( 'm r ,vis,a +r m2,vis,a )r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[- 2inh tanq (k sinq +k sinq )]
+m m,SF m,ir m,ir m,vis m,vis
+よって、
+P a (0 - )= b (cid:229) ,g c a bg E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ',v r i m s,b 'm ( ,v 1 is, + b + r m ( 'm r , m vi ' s m ,b ,vi ) s ( , 1 b + + r r 1 m m 2 ' , , v v i i s s , , b b e ) 2 r i m b m 2 , , v v i i s s h , m b ) e2ib m,vis h m
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+· exp[- 2inh tanq (k sinq +k sinq )]
+m m,SF m,ir m,ir m,vis m,vis
+=P (0 - ,n=0)exp[- 2inh tanq (k sinq +k sinq )] (4.26b)
+a m m,SF m,ir m,ir m,vis m,vis
+(cid:160)
+4.2b. 1/m 界面の内側 (x = -2nhtanq , z = 0+ ) における SFG 分極
+(cid:160) m,SF
+膜の内部あるいは気液界面の液体側にある分子の分極は、(4.13) 式により下式が得られる。
+(cid:160)
+膜の和周波 - 9
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.10 =====
+P a (0 + )= b (cid:229) ,g c a bg E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is , , i b r,g r m (1 2,v + is,b r e m 2 2 i ,v b i m s , ,b vis e h m 2 ) ib ( m 1 ,vi + s h m r ) 1 ( m 1 ,ir + ,g r r m m 2 2 , , i i r r , ,g g e e 2 2i ib b m m , ,i i r r h h m m) )
+· exp[i2nh tanq (- k sinq - k sinq )]
+m m,SF m,ir m,ir m,vis m,vis
+=P (0 + ,n=0)exp[i2nh tanq (- k sinq - k sinq )] (4.27)
+a m m,SF m,ir m,ir m,vis m,vis
+4.2c. m/2 界面の外側 (x = -(2n + 1)h tanq , z = h + ) における SFG 分極
+m m,SF m
+薄膜の裏側に突き出た分子の分極は、(4.15) 式により下式が得られる。
+P a (h m + )= b (cid:229) ,g c ab g E0 vis,b E0 ir,g (1+r 1m t ,v 1 i m s,b ,vi r s, m b 2 t ,w m v 2 is ,v ,b is e ,b 2 t 1 ib m m , , i v r is , h g m t ) m (1 2,i + r,g r e 1 i m (b ,ir m, ,g ir + r m b m 2 ,v ,i i r s , ) g h e m 2ib m,ir h m)
+· exp[i(2n+1)h tanq (- k sinq - k sinq )]
+m m,SF m,ir m,ir m,vis m,vis
+=P (h + ,n=0)exp[2inh tanq (- k sinq - k sinq )] (4.28a)
+a m m m,SF m,ir m,ir m,vis m,vis
+薄膜 m" が分極層になっている場合は、
+P a (h m + )= b (cid:229) ,g c ab g E0 vis,b E0 ir,g (1+r mm",vis,b t r 1m m" ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m ( ,v 1 is, + b ( r r m m " m 2 " ,v ,v is is ,b ,b )e + ib r m m ,vi " s 2 h , m vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+· exp[i(2n+1)h tanq (- k sinq - k sinq )]
+m m,SF m,ir m,ir m,vis m,vis
+=P (h + ,n=0)exp[2inh tanq (- k sinq - k sinq )] (4.28b)
+(cid:160) a m m m,SF m,ir m,ir m,vis m,vis
+(cid:160)
+(1+r )t t eib m',vis h m'
+(cid:160) E vis,a (m')=E0 vis,a (1+r r m2 ) ,vi + s,a r 1m',vis,a (r m'm,vis,a +r )e2ib m',vis h m'
+m'm,vis,a m2,vis,a 1m',vis,a m'm,vis,a m2,vis,a
+4.2d. m/2 界面の内側 (x = -(2n + 1)h tanq , z = h - ) における SFG 分極
+m m,SF m
+薄膜の裏側界面で膜内部にある分子の分極は、(4.18) 式により下式が得られる。
+(cid:160) (cid:160) P a (h m - )= b (cid:229) ,g c a bg E0 vis,b E0 ir,g e (1 t 1 + m,v r i 1 sb m, t v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b e r m 2 2 ib ,v m i ,v s is ,b h m ) ) (1 (1 + + r m r 1 2 m ,ir ,ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m ib ,vi m s , ) ir h h m m)
+· exp[i(2n+1)h tanq (- k sinq - k sinq )]
+(cid:160) m m,SF m,ir m,ir m,vis m,vis
+=P (h - ,n=0)exp[i2nh tanq (- k sinq - k sinq )] (4.29)
+a m m m,SF m,ir m,ir m,vis m,vis
+4.2e. 膜バルク [0 < z < h , A : x = -2nh tanq - ztanq , B : x = -(2n + 1)h tanq +
+m n = 0, 1, 2 m m,SF m,SF n = -1, 0, 1, 2 m m,SF
+ztanq ] における SFG 分極
+(cid:160) m,SF
+(4.21) 式により下式が得られる。
+[B ]: E+ sources
+(cid:160) n
+(cid:160)
+(cid:160)
+膜の和周波 - 10
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.11 =====
+t t
+P a (z)= b (cid:229) ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2 1 ib m m , , v ir i h s m ,b )( 1 1 m + ,ir,g r 1m,ir,g r m2,ir,g e2ib m,vis h m)
+· exp[- 2ih tanq (k sinq +k sinq )]
+m m,SF m,vis m,vis m,ir m,ir
+· {exp[iz(k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1+tanq tanq )- k cosq (1- tanq tanq ))]
+m2,ir,g m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm exp[iz(- k cosq (1- tanq tanq )+k cosq (1+tanq tanq ))]
+m2,vis,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,b m2,ir,g
+· exp[iz(- k cosq (1- tanq tanq )- k cosq (1- tanq tanq ))]}
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+· exp[- i2nh tanq (k sinq +k sinq )]
+m m,SF m,vis m,vis m,ir m,ir
+=P (z,n=0)exp[- i2nh tanq (k sinq +k sinq )] (4.30a)
+a m m,SF m,vis m,vis m,ir m,ir
+(4.24) 式により下式が得られる。
+t t
+P a (z)= b (cid:229) ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2 1 ib m m , , v vi i s s h , m b ) 1 (1 m,i + r,g r 1m,ir,g r m2,ir,g e2ib m,ir h m)
+· {exp[iz(k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1- tanq tanq )- k cosq (1+tanq tanq ))]
+m2,ir,g m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm exp[iz(- k cosq (1+tanq tanq )+k cosq (1- tanq tanq ))]
+m2,vis,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,b m2,ir,g
+· exp[iz(- k cosq (1+tanq tanq )- k cosq (1+tanq tanq ))]}
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+· exp[- i2nh tanq (k sinq +k sinq )]
+(cid:160) m m,SF m,vis m,vis m,ir m,ir
+=P (z,n=0)exp[- i2nh tanq (k sinq +k sinq )] (4.30b)
+(cid:160) a m m,SF m,vis m,vis m,ir m,ir
+(cid:160)
+分極が無限に薄いシート状になっているとしたとして、それからどのような光が出てくるかを T. Heinz
+(cid:160)
+らが示している。以下では、彼らによって示された結果に基づいて考える 。
+(cid:160)
+(cid:160)
+5.1. L係数、電場振幅
+(cid:160)
+L 係数は、分極とそれから生成する光の電場振幅をつなげる係数である。
+(cid:160)
+(cid:160) E =(cid:229) L P SF
+SF,a b a b b
+一般化された Snell の屈折式により、生成する SFG 光は上向き (-) 光と上向き (+) 光の両方になる。
+また、分極の位置によって L 係数の表式が違う。もともと導かれた式は、無限に薄い薄膜 m が分極し、
+(cid:160)
+そこから媒質１と媒質２に出てくる光を考えたものであって、s 偏光と p 偏光の電場振幅と分極の x、y、
+(cid:160)
+z 成分をつなげるものである。ここでは、これを拡張して考える。また、共通因子である 4p iw /c（屈折
+(cid:160) SF
+率の代わりに波数ベクトルを使うときに は4p iw 2/c2 ）を省略する。
+(cid:160) SF
+(cid:160)
+L 係数の表記法：L ： 分極シート m' が i 層と j 層に挟まれているときに、分極の a 成分 (a = x, y,
+(cid:160) i/j,s(p), a
+(cid:160)
+(cid:160) 膜の和周波 - 11
+(cid:160)
+
+===== PDF p.12 =====
+z) とそれが作る光の s 偏光又は p 偏光成分（座標軸成分ではない）の間の係数。上向き (-) 光、上向き (+)
+光の区別を上付き -、+ で示す。
+媒質１と積層膜 m の間の分極シート m' からの光生成に対しては、
+L- = cosq /(n cosq + n cosq ) (5.1a)
+1/m,p,x m,SF 1,SF m,SF m,SF 1,SF
+L- = 1/(n cosq + n cosq ) (5.1b)
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L- = (n /n )sinq /(n cosq + n cosq )
+1/m,p,z m,SF m',SF m',SF 1,SF m,SF m,SF 1,SF
+= (n /n )2sinq /(n cosq + n cosq ) (5.1c)
+m,SF m',SF m,SF 1,SF m,SF m,SF 1,SF
+L+ = cosq /(n cosq + n cosq ) (5.2a)
+1/m,p,x 1,SF 1,SF m,SF m,SF 1,SF
+L+ = 1/(n cosq + n cosq ) (5.2b)
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L+ = -(n /n )sinq /(n cosq + n cosq )
+1/m,p,z 1,SF m',SF m',SF 1,SF m,SF m,SF 1,SF
+= -(n /n )2sinq /(n cosq + n cosq ) (5.2c)
+1,SF m',SF 1,SF 1,SF m,SF m,SF 1,SF
+媒質２と積層膜 m の間の分極シート m'' からの光生成に対しては、
+L- = cosq /(n cosq + n cosq ) (5.3a)
+2/m,p,x 2,SF 2,SF m,SF m,SF 2,SF
+L- = 1/(n cosq + n cosq ) (5.3b)
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L- = (n /n )sinq /(n cosq + n cosq )
+2/m,p,z 2,SF m",SF m",SF 2,SF m,SF m,SF 2,SF
+= (n /n )2sinq /(n cosq + n cosq ) (5.3c)
+2,SF m",SF 2,SF 2,SF m,SF m,SF 2,SF
+L+ = cosq /(n cosq + n cosq ) (5.4a)
+2/m,p,x m,SF 2,SF m,SF m,SF 2,SF
+L+ = 1/(n cosq + n cosq ) (5.4b)
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L+ = -(n /n )sinq /(n cosq + n cosq )
+2/m,p,z m,SF m'',SF m",SF 2,SF m,SF m,SF 2,SF
+= -(n /n )2sinq /(n cosq + n cosq ) (5.4c)
+m,SF m'',SF m,SF 2,SF m,SF m,SF 2,SF
+積層膜内部の分極シートからの光生成に対しては、
+L- = L+ = cosq /(2n cosq ) (5.5a)
+m/m,p,x m/m,p,x m,SF m,SF m,SF
+L- = L+ = 1/(2n cosq ) (5.5b)
+m/m,s,y m/m,s,y m,SF m,SF
+L- = -L+ = sinq /(2n cosq ) (5.5c)
+m/m,p,z m/m,p,z m,SF m,SF m,SF
+よって、各部位からの SFG 光の電場振幅は次のように表される。
+P(0) に由来するもの：（P(0- ) は媒質１側の電場による分極、P(0+ ) は膜側の電場による分極）
+E- (z = 0) = L- P(0) + L- P(0) (5.6a)
+1,p 1/m,p,x x 1/m,p,z z
+E- (z = 0) = L- P(0) (5.6b)
+1,s 1/m,s,y y
+E+ (z = 0) = L+ P(0) + L+ P(0) (5.7a)
+m,p 1/m,p,x x 1/m,p,z z
+E+ (z = 0) = L+ P(0) (5.7b)
+m,s 1/m,s,y y
+膜の和周波 - 12
+
+===== PDF p.13 =====
+P(h ) に由来するもの：（P(h + ) は媒質２側の電場による分極、P(h - ) は膜側の電場による分極）
+m m m
+E- (z = h ) = L- P(h ) + L- P(h ) (5.8a)
+m,p m 2/m,p,x x m 2/m,p,z z m
+E- (z = h ) = L- P(h ) (5.8b)
+m,s m 2/m,s,y y m
+E+ (z = h ) = L+ P(h ) + L+ P(h ) (5.9a)
+2,p m 2/m,p,x x m 2/m,p,z z m
+E+ (z = h ) = L+ P(h ) (5.9b)
+2,s m 2/m,s,y y m
+P(z) に由来するもの：
+E- (z) = L- P(z) + L- P(z) (5.10a)
+m,p m/m,p,x x m/m,p,z z
+E- (z) = L- P(z) (5.10b)
+m,s m/m,s,y y
+E+ (z) = L+ P(z) + L+ P(z) (5.11a)
+m,p m/m,p,x x m/m,p,z z
+E+ (z) = L+ P(z) (5.11b)
+m,s m/m,s,y y
+5.2. 反射SFGの電場
+媒質１側に出てくる SFG 光についてまとめてみよう。
+5.2a. 1/m 界面の外側 (x = -2nh tanq , z = 0- ) からの反射 SFG
+m m,SF
+1/m 界面の外側（媒質１側）の電場によって作られる分極からの反射 SFG の電場には A' 点が寄与
+n
+し、n = 0 に対する E - (z = 0-) 及び E - (z = 0-) と、n = 1, 2, ··· に対する E + (z = 0-) 及び E + (z = 0-) が
+1,p 1,s m,p m,s
+膜内に入って多重反射してから媒質１側に出てくるものが加わったものである。
+発光点から点 (0, 0) に達するまでに膜内部を走る距離は 2nh /cosq 、その間に受ける位相の変化は
+m m,SF
+k 2nh /cosq であるから、(1/cosq = cosq + sinq tanq の関係も使い、反射率と透過率については下付き
+m,SF m m,SF
+の SF を 省略した上で、p 偏光または s 偏光の電場振幅を E、分極の x、y、z 成分を P で表して) 、
+t a
+E - (0-) = E- (z = 0-, n = 0) + r E+ (z = 0-, n = 0)
+1t 1t 1m 1t
++ t t r exp(ik 2h /cosq )(cid:229) (r r )n - 1exp(ik 2nh /cosq )n - 1E+(z = 0-, n)
+1m m1 m2 m,SF m m,SF n = 1 - ¥ m2 m1 m,SF m m,SF 1
+=(L- + r L+ )P(0-, n = 0)
+1/1,ta 1m 1/1,ta a
++ t t r exp(2ik h /cosq )L+ P(0-, n)(cid:229) (r r exp(ik 2h /cosq ))n - 1
+1m m1 m2 m,SF m m,SF 1/1,ta a n = 1 - ¥ m2 m1 m,SF m m,SF
+( t = s or p, a = x, y, or z)
+となる。(4.2) 節で示した分極の表式を見ると、n に依存するのは位相部分だけである。(4.26a) 式を代入
+して位相部分を整理すると、
+Ø ( ) 1 ø
+E - 1t (0 - )=P a (0 - ,n=0) º Œ L - 1/1,ta +r 1m L + 1/1,ta +t m1 r m2 e2ib m h mt 1m L + 1/1,ta 1+r r e2ib m h m ß œ (5.12)
+1m m2
+上では、k sinq - k sinq - k sinq = 0 の関係式を使った整理も行っている。
+m,SF m,SF m,vis m,vis m,ir m,ir
+(5.1) 節を参照すると下式が得られる。
+膜の和周波 - 13
+(cid:160)
+
+===== PDF p.14 =====
+L- + r L+ = L- , t L+ = (cosq /cosq )L-
+1/1,px 1m,p 1/1,px 1/m,px 1m,p 1/1,px 1 m 1/m,px
+L- + r L+ = L- , t L+ = L-
+1/1,sy 1m.s 1/1,sy 1/m,sy 1m,s 1/1,sy 1/m,sy
+L- + r L+ = L- , t L+ = -(n/n )L- (n = n, q = q として）
+1/1,pz 1m.p 1/1,pz 1/m,pz 1m,p 1/1,pz 1 m 1/m,pz m' 1 m' 1
+さらに、
+r + t (cosq /cosq ) = 1, r + t = 1, r - t (n /n) = -1
+1m,p m1,p 1 m 1m,s m1,s 1m,p m1,p m 1
+であるから、表面に突き出た分子あるいはまばらに分布している分子からの SFG 電場は下式で表される。
+E 1p (0 - )=(cid:229) bg E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r , , g g ) r m (1 2, + ir,g r e m 2 2 i , b ir m ,g ,ir e h m 2 ) ib m,ir h m)
+· (1+r m2,SF,p e2ib m,SF h m)L- 1/m,px c xbg +(1- r m2,SF,p e2ib m,SF h m)L- 1/m,pz c zb g (5.13a)
+(1+r r e2ib m,SF h m)
+1m,SF,p m2,SF,p
+E 1s (0 - )=(cid:229) bg E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r ,g ,g r ) m (1 2, + ir,g r e m 2 2 i ,i b r m ,g ,ir e h m 2i ) b m,ir h m)
+(1+r e2ib m,SF h m)
+· m2,SF,s L - c (5.13b)
+(1+r r e2ib m,SF h m) 1/m,sy ybg
+1m,SF,s m2,SF,s
+表面が薄膜として完成しているときの薄膜（屈折率 m' ）を形成する分子からの SFG では、内部反射
+を考慮する必要があり、以下のようにして求められる。
+薄膜に対するL 係数である (4.31)、(4.32) 式を使うと、真空中に出てくる SFG 光の振幅 E- と膜 m 中
+に出てくる SFG 光の振幅 E+ が求められる。このうちで膜内に出ていく光のうちで内部反射を経て真空
+中に戻ってくる成分は、m/m' 界面での反射及び m' 薄膜の透過に際して m' 薄膜内での多重反射を受ける。
+以上のことを考えると、原点 (n = 0) から反射方向に出てくるネットの SFG 光の電場に寄与するものは下
+のように整理される。（膜 m 内部での位相変化は省略して表す。）
+n = 0 からの E-(0) 光
+n = 1 からの E+(0, n = 1) 光のうちでm/2界面で反射して原点に達し、薄膜 m' に入って多重反射後真空側
+に出てきた光：r t [(cid:229) (r r )n]t E+(0, n = 1)
+(cid:160) m2mm' 0 ~ ¥ m'1 m'm m'1
+n = 2 からの E+(0, n = 2) 光は、m/2 界面で２回反射したものが原点に達するが、その間に (a) m/m' 界面
+で１回反射するか、または (b) m' 薄膜に入って多重反射の後に m 層に戻ってくる必要がある。よって、
+(cid:160)
+(a) r r r t [(cid:229) (r r )n]t E+(0, n = 2)、
+m2 mm' m2mm' 0 ~ ¥ m'1 m'm m'1
+(b) r t [(cid:229) (r r )n]r t r t [(cid:229) (r r )n]t E+(0, n = 2) である。
+(cid:160) m2mm' 0 ~ ¥ m'1 m'm m'1m'm m2mm' 0 ~ ¥ m'1 m'm m'1
+これらを合わせると、[r r + r t [(cid:229) (r r )n]r t ]r t [(cid:229) (r r )n]t E+(0, n = 2) となる。
+m2 mm' m2mm' 0 ~ ¥ m'1 m'm m'1m'm m2mm' 0 ~ ¥ m'1 m'm m'1
+n = k からの E+(0, n = k) 光は m/2 界面で k 回反射したものが原点に達するが、その間 1/m 界面側で行
+(cid:160)
+う (k - 1) 回の「反射」の中身は、
+(a) m/m' 界面での反射だけをするものが１組で [(r r )kr t [(cid:229) (r r )n]t E+(0, n = k)、
+m2 mm' m2mm' 0 ~ ¥ m'1 m'm m'1
+(b) 薄膜 m' に１回だけ入り込むものが (k - 1) 組で [(k - 1)(r r )k - 1[(cid:229) (r r )n]r t r t
+m2 mm' 0 ~ ¥ m'1 m'm m'1m'm m2mm'
+膜の和周波 - 14
+
+===== PDF p.15 =====
+· [(cid:229) (r r )n]t E+(0, n = k)、・・・薄膜 m' に h 回入り込むものが C 組で
+0 ~ ¥ m'1 m'm m'1 k h
+C (r r ) k - h{[(cid:229) (r r )n]r t }hr t [(cid:229) (r r )n]t E+(0, n = k)）。但し、C = k!/h!(k - h)!。
+k h m2 mm' 0 ~ ¥ m'1 m'm m'1m'm m2mm' 0 ~ ¥ m'1 m'm m'1 k h
+全部を合わせると（位相も取り入れて）下のようになる。
+{r r + r t [(cid:229) (r r )n]r t }k - 1
+m2 mm' m2mm' 0 ~ ¥ m'1 m'm m'1m'm
+· exp[2ih k (k - 1)/cosq ]r t [(cid:229) (r r )n]t exp[2ih k /cosq ] E+(0, n = k)
+m m m m2mm' 0 ~ ¥ m'1 m'm m'1 m m m
+r t t r r t t
+= {[r r + m2 mm' m'm m'1]e2ih m k m /cosq m}k-1 m2 mm' m'1 e2ih m k m /cosq m
+m2 mm' 1+r r 1+r r
+1m' m'm 1m' m'm
+r (r +r ) r t t
+= [- m2 1m' m'm e2ih m k m /cosq m]k-1 m2 mm' m'1 e2ih m k m /cosq m
+1+r r 1+r r
+1m'm'm 1m' m'm
+ここで、t t = 1 + r r 、r = -r を使って得られる下式を用いた。
+mm'm'm mm' m'm mm' m'm
+r t t r r +r r r +r t t r
+r r + m2mm'm'm m'1 =r mm' mm' m'm1m' m2 mm' m'm m'1
+m2mm' 1+r r m2 1+r r
+1m' m'm 1m'm'm
+r (r +r ) r (r +r )
+= m2 mm' m'1 =- m2 1m' m'm
+1+r r 1+r r
+1m' m'm 1m' m'm
+ネットの SFG 電場は下のようになる。
+E - (0 - )=L - P(0,n=0)
+1 1/m
++L +
+1/m
+(cid:229) P(0,n=k)[- r m
+1
+2 (
++
+r 1m
+r
+' +
+r
+r m'm ) e2ih
+m
+k
+m
+/cosq m]k-1
+1
+r m
++
+2 t
+r
+mm'
+r
+t m'1 e2ih
+m
+k
+m
+/cosq
+m
+k=1 1m' m'm 1m' m'm
+(4.26b) 式により、P (0, n = k) = exp[-2ikh tanq (k sinq + k sinq )]P (0, n = 0) である。また、
+a m m,SF m,vis m,vis m,ir m,ir a
+k sinq + k sinq + k sinq = 0 である。よって、
+mSF m,SF m,vis m,vis m,ir m,ir
+(cid:160) E - 1 (0 - )={L - 1/m +L + 1/m 1 r m + 2 t r mm' r t m'1 e2ib m h m (cid:229) [- r m 1 2 ( + r 1m r ' + r r m'm ) e2ib m h m]n}P(0,n=0)
+1m' m'm n=0 1m' m'm
+(cid:160)
+n
+(cid:229)
+=0
+[- r m
+1
+2 (
++
+r 1m
+r 1
+'
+m
++
+' r m
+r m
+'m
+'m ) e2ib
+m
+h m]n =
+1+r 1m' r m'm +
+1+
+r m
+r
+2
+1
+(
+m
+r 1
+' r
+m
+m
+'
+'m
++r m'm )e2ib m h m
+であるから、
+E - (0 - )= (1+r 1m' r m'm )L - 1/m +[(r 1m' +r m'm )L - 1/m +t mm' t m'1 L + 1/m ]r m2 e2ib m h m P(0,n=0)
+1 1+r r +r (r +r )e2ib m h m
+1m' m'm m2 1m' m'm
+(cid:160) ここで、下の関係式を使う。
+2n cosq (n cosq +n cosq )
+1+r r = m' m' 1 1 m m
+1m',s m'm,s (n cosq +n cosq )(n cosq +n cosq )
+1 1 m' m' m' m' m m
+(cid:160)
+膜の和周波 - 15
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.16 =====
+2n cosq (n cosq +n cosq )
+1+r r = m' m' 1 m m 1
+1m',p m'm,p (n cosq +n cosq )(n cosq +n cosq )
+1 m' m' 1 m' m m m'
+2n cosq (n cosq - n cosq )
+r +r = m' m' 1 1 m m
+1m',s m'm,s (n cosq +n cosq )(n cosq +n cosq )
+1 1 m' m' m' m' m m
+2n cosq (n cosq - n cosq )
+r r + = m' m' 1 m m 1
+1m',p m'm,p (n cosq +n cosq )(n cosq +n cosq )
+1 m' m' 1 m' m m m'
+4n cosq n cosq
+t t = m' m' m m
+1m',s m'm,s (n cosq +n cosq )(n cosq +n cosq )
+1 1 m' m' m' m' m m
+4n cosq n cosq
+t t = m' m' m m
+1m',p m'm,p (n cosq +n cosq )(n cosq +n cosq )
+1 m' m' 1 m' m m m'
+(r + r )L- + t t L+ = (1 + r r )L-
+1m',p m'm,p 1/m,px mm',pm'1p 1/m,px 1m',p m'm,p 1/m,px
+(r + r )L- + t t L+ = (1 + r r )L-
+1m',s m'm,s 1/m,sy mm',sm'1,s 1/m,sy 1m',s m'm,s 1/m,sy
+(r + r )L- + t t L+ = -(1 + r r )L-
+1m',p m'm,p 1/m,pz mm',pm'1,p 1/m,pz 1m',p m'm,p 1/m,pz
+これらより、以下の式が導かれる。
+E - (0 - )= (1+r 1m' r m'm )(1– r m2 e2ib m h m)L - 1/m P(0,n=0)
+1 1+r r +r (r +r )e2ib m h m
+1m'm'm m2 1m' m'm
+(upper sign for P and P components, lower sign for P component)
+x y z
+(cid:160)
+偏光成分に分けて記すと、下式のようになる。
+(cid:160) E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ', r v m is, ' b m ( ,v 1 is, + b r + m' ( m r , m vi ' s m ,b ,v ) is ( , 1 b + + r r m 1m 2, ' v ,v i i s s ,b ,b e ) 2 r i m b m 2 , , v v i i s s h , m b ) e2ib m,vis h m
+(cid:160) · t 1m',ir,g (1+r m'm,ir,g )(1+r m2,ir,g e2ib m,ir h m)
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+(cid:160) · (1+r 1m',SF,p r m'm,SF,p )[(1+r m2,SF,p e2ib m,SF h m)c xbg L- 1/m,px +(1- r m2,SF,p e2ib m,SF h m)c zbg L- 1/m,pz ] (5.14a)
+1+r r +r (r +r )e2ib m,SF h m
+1m',SF,p m'm,SF,p m2,SF,p 1m',SF,p m'm,SF,p
+(cid:160)
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ',v r i m s,b 'm, ( v 1 is, + b + r m ( 'm r , m vi 'm s,b ,vi ) s ( ,b 1+ + r r m 1m 2, ' v ,v i i s s , , b b e ) 2 r i m b 2 m, , v v i i s s h , m b ) e2ib m,vis h m
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+(1+r r )(1+r e2ib m,SF h m)
+· 1m'SF,s m'mSF,s m2SF,s c L - (5.14b)
+1+r r +r (r +r )e2ib m,SF h m yb g 1/m,sy
+1m',SF,s m'mSF,s m2,SF,s 1m'SF,s m'mSF,s
+5.2b. 1/m 界面の内側 (x = -2nh tanq , z = 0+ ) からの反射 SFG
+(cid:160) m m,SF
+1/m 界面の内側（膜側）の電場によって作られる分極からの反射 SFG の電場には A" 点が寄与し、
+n
+膜の和周波 - 16
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.17 =====
+n = 0 に対する E- (z = 0)、E- (z = 0) と、n = 1, 2, ··· に対する E- (z = 0) と E- (z = 0) 及び E+ (z = 0) と
+1,p 1,s m,p m,s m,p
+E+ (z = 0) が膜内で多重反射してから媒質１側に出てくるものとがある。
+m,s
+発光点から点 (0, 0) に達するまでに膜内部を走る距離は 2nh /cosq 、その間に受ける位相の変化は
+m m,SF
+k 2nh /cosq であるから、
+m,SF m m,SF
+E- (0-) = t E- (z = 0+, n = 0)
+1 m1,SF １
++ t (cid:229) (r r )n - 1exp[ik 2nh /cosq ]r [E+ (z = 0+, n) + r E- (z = 0+, n)]
+m1,SF n = 1 - ¥ m2,SF m1,SF m,SF m m,SF m2,SF m m1 m
+= t { (cid:229) (r r e2ih m k m /cosq m)nE - (0 + ,n)+r e2ih m k m /cosq m (cid:229) (r r e2ih m k m /cosq m)n-1E + (0 + ,n)}
+m1 m2m1 m2 m2m1
+n=0 n=1
+= t m1 [L - m/m P(0 + ,n=0)+r m2 e2ih m k m /cosq m(L + m/m +r m1 L - m/m ) (cid:229) (r m2 r m1 e2ih m k m /cosq m)n-1P(0 + ,n)
+n=1
+となる。(4.27) 式を参照して、下式が得られる。
+E 1 - (0 - )=t m1 [L - m/m +r m2 e2ib m h m(L + m/m +r m1 L - m/m )]P(0 + ,n=0) (cid:229) (r m2 r m1 e2ib m h m)n-1
+n=1
+=t P(0 + ,n=0) L - m/m +r m2 e2ib m h mL + m/m
+m1 1+r r e2ib m h m
+1m m2
+ここで、t L- = L- 、t L- = L- 、t L- = L- 、t L+ = L- 、t L+ = L- 、
+m1,p m/m,px 1/m,px m1,s m/m,sy 1/m,sy m1,p m/m,pz 1/m,pz m1,p m/m,px 1/m,px m1,s m/m,sy 1/m,sy
+t L+ = -L- の関係を使うと、
+m1,p m/m,pz 1/m,pz
+E - (0 - )=P(0 + ,n=0) (1– r m2 )e2ib m h mL - 1/m
+1 1+r r e2ib m h m
+1m m2
+(upper sign for P and P components, lower sign for P component)
+x y z
+(4.27) 式により、偏光成分ごとの表式として下式が得られる。
+(cid:160) E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is ,i ,b r,g r m (1 2,v + is,b r e m2 2i ,v b i m s , ,b vis e h m 2i ) b (1 m,vi + s h m r ) 1 ( m 1 ,ir + ,g r r m m2 2, , i i r r , ,g g e e 2 2 i i b b m m, ,i i r r h h m m ) )
+· [(1+r m2,SF,p e2ib m,SF h m)L- 1/m,px c xbg +(1- r m2,SF,p e2ib m,SF h m)L- 1/m,pz c zbg ] (5.15a)
+(cid:160) 1+r r e2ib m,SF h m
+1m,SF,p m2,SF,p
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is , , i b r,g r m (1 2,v + is,b r e m 2 2, i v b i m s, , b vis e h m 2 ) ib ( m 1 ,v + is h m r ) 1m (1 ,ir + ,g r r m m2 2, , i i r r , ,g g e e 2 2 i ib b m m, ,i i r r h h m m) )
+·
+(1+r
+m2,SF,s
+e2ib
+m,SF
+h m)L-
+1/m,sy
+c
+ybg (5.15b)
+(cid:160) 1+r r e2ib m,SF h m
+1m,SF,s m2,SF,s
+5.2c. m/2 界面の外側 (x = -(2n + 1)h tanq , z = h + ) からの反射 FG
+(cid:160) m m,SF m
+m/2 界面の外側（媒質２側）の電場によって作られる分極から出てくる反射 SFG の電場には B ' 点
+n
+が寄与し、n = 0, 1, 2, ··· に対する E - (z = h +) 及び E- (z = h +) が膜内に入って多重反射してから媒質１
+m,p m m,s m
+膜の和周波 - 17
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.18 =====
+側に出てくるものである。
+発光点から点 (0, 0) に達するまでに膜内部を走る距離は (2n + 1)h /cosq 、その間に受ける位相の変化
+m m,SF
+は k (2n + 1)h /cosq であるから、
+m,SF m m,SF
+E- (0-) = t t (cid:229) (r r )nexp[ik (2n + 1)h /cosq ]E- (z = h +)
+1 2m,SFm1,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF 2 m
+= t t exp(ik h /cosq )(cid:229) [r r exp(ik 2h /cosq )]nL- P(h +,n)
+2m,SFm1,SF m,SF m m,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF 2/2 m
+となる。関係式 t L- = L- 、t L- = L- 、t L- = L- と (4.28) 式により、
+2m,p 2/2,px m/2,px 2m,s 2/2,sy m/2,sy 2m,p 2/2,pz m/2,pz
+P (h + ,n)=P (h + ,n=0)exp[i(2n+1)h tanq (- k sinq - k sinq )]
+a m a m m m,SF m,ir m,ir m,vis m,vis
+よって、
+E - (0 - )= t 2m t m1 eib m h m L - P(h + ,n=0)
+1 1+r r 2e2ib m h m 2/2 m
+1m m2
+E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1m t ,v 1 i m s,b ,vi r s, m b 2 t ,w m v 2 is ,v ,b is e ,b 2 t 1 ib m m , , i v r is , h g m t ) m (1 2,i + r,g r e 1 i m (b ,ir m, ,g ir + r m b m 2 ,v ,i i r s , ) g h e m 2ib m,ir h m)
+t eib m,SF h m
+· m1,p [L - c +L - c ] (5.16a)
+1+r r 2e2ib m,SF h m 2/m,px xb g 2/m,pz zb g
+1m.p m2,p
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1m t ,v 1 i m s,b ,vi r s m ,b 2 t ,w m v 2 is ,v ,b is, e b 2 t i 1 b m m, ,i v r is ,g h m t ) m (1 2,i + r,g r e 1m i(b ,ir m , , g ir + r m b m 2 , , v ir is ) ,g h e m 2ib m,ir h m)
+t eib m,SF h m
+· m1,s L - c (5.16b)
+1+r r 2e2ib m,SF h m 2/m,sy ybg
+1m.s m2,s
+SFG を出す界面が屈折率 n'' の薄膜 m'' の時には、m 側に出てくる光だけについて、5.2a で行ったと
+同様な考察を行う。
+n = 0 t exp(ih k /cosq )
+m1 m m m
+n = 1 [r r + r t (cid:229) (r r )nr t ]exp(2ih k /cosq )t exp(ih k /cosq )
+(cid:160) m1 mm" m1mm" m"2 m"m m"2m"m m m m m1 m m m
+n = k {[r r + r t (cid:229) (r r )nr t ]exp(2ih k /cosq )}kt exp(ih k /cosq )
+m1 mm" m1mm" m"2 m"m m"2m"m m m m m1 m m m
+t t r
+=t eih m k m /cosq mr [r + mm" m"m m"2]ke2ikh m k m /cosq m
+(cid:160) m1 m1 mm" 1+r r
+mm" m"2
+r +r 2r +(1- r 2)r
+=t eih m k m /cosq mr [ mm" mm" m"2 mm" m"2]ke2ikh m k m /cosq m
+m1 m1 1+r r
+mm" m"2
+(cid:160)
+r (r +r )e2ihmkm/cosq m
+=t eihmkm/cosq m[ m1 mm" m"2 ]k
+m1 1+r r
+mm" m"2
+(cid:160)
+よって、
+(cid:160)
+(cid:160) 膜の和周波 - 18
+(cid:160)
+
+===== PDF p.19 =====
+E 1 - (0 - )=L - 2/m t m1 eih m k m /cosq m (cid:229) [ r m1 (r mm 1 " + + r r m"2 ) r e2ih m k m /cosq m ]nP(h m + ,n)
+n=0 mm" m"2
+(4.28b) 式により、
+1
+E 1 - (0 - )=L - 2/m t m1 eib m h m[ r (r +r )e2ib m h m ]P(h m + ,n=0)
+1+ 1m mm" m"2
+1+r r
+mm" m"2
+1+r r
+=L - 2/m t m1 eib m h m[ 1+r r +r m (r m" m"2 +r )e2ib m h m ]P(h m + ,n=0)
+mm" m"2 1m mm" m"2
+偏光別に記すと、
+E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t r 1m m" ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m ( ,v 1 is, + b ( r r m m " m 2 " ,v ,v is is ,b ,b )e + ib r m m ,vi " s 2 h , m vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+t eib m,SF h m(1+r r )
+· m1,SF,p mm",SF,p m"2,SF,p [L - c +L - c ] (5.17a)
+1+r r +r (r +r )e2ib m,SF h m 2/m,px xbg 2/m,pz zb g
+mm",SF,p m"2,SF,p 1m,SF,p mm",SF,p m"2,SF,p
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t 1 r m m " ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m, ( v 1 is, + b ( r r m m " m 2, " v ,v is is ,b ,b )e + ib r m m ,vi " s h 2 m ,vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+(cid:160) mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+t eib m,SF h m(1+r r )
+· m1,SF,s mm",SF,s m"2,SF,s L - c (5.17b)
+1+r r +r (r +r )e2ib m,SF h m 2/m,sy ybg
+mm",SF,s m"2,SF,s 1m,SF,s mm",SF,s m"2,SF,s
+(cid:160) 5.2d. m/2 界面の内側 (x = -(2n + 1)h m tanq m,SF , z = h m - ) からの反射 SFG
+m/2 界面の内側（膜側）の電場によって作られる分極からの反射 SFG の電場には B " 点が寄与し、
+n
+(cid:160) n = 0, 1, 2, ··· に対する E- m,p (z = h m -) 及び E- m,s (z = h m -) が膜内で多重反射してから媒質１側に出てくる。
+発光点から点 (0, 0) に達するまでに膜内部を走る距離は (2n + 1)h /cosq 、その間に受ける位相の変化
+m m,SF
+は k (2n + 1)h /cosq であるから、
+m,SF m m,SF
+(cid:160)
+E- (0-) = t (1 + r )(cid:229) (r r )nexp[ik (2n + 1)h /cosq ]E- (z = h -, n)
+1 m1,SF m2 n = 0 - ¥ m2,SF m1,SF m,SF m m,SF m m
+(cid:160)
+となる。(4.29) 式により、
+(cid:160) E - 1 (0 - )=t m1 eib m h m[ (cid:229) (r m2 r m1 e2ib m h m)n](L - m/m +r m2 L + m/m )P(h m - ,n=0)
+n=0
+= t m1 eib m h m (L - +r L + )P(h - ,n=0)
+1+r r e2ib m h m m/m m2 m/m m
+(cid:160) 1m m2
+ここで、
+(cid:160)
+膜の和周波 - 19
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.20 =====
+cosq 2n cosq
+L - +r L + = m m 2 =L -
+m/m,px m2,p m/m,px 2n cosq n cosq +n cosq 2/m,px
+m m 2 m m 2
+1 2n cosq
+L - +r L + = m m =L -
+m/m,sy m2,s m/m,sy 2n cosq n cosq +n cosq 2/m,sy
+m m 2 2 m m
+sinq 2n cosq
+L - +r L + = m 2 m =L -
+m/m,pz m2,p m/m,pz 2n cosq n cosq +n cosq 2/m,pz
+m m 2 m m 2
+であるから、偏光別に記すと、
+E - 1p (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1 t 1 + m,v r i 1 sb m, t v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b e r m 2 2 ib ,v m i ,v s is ,b h m ) ) (1 (1 + + r m r 1 2 m ,ir ,ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m ib ,vi m s , ) ir h h m m)
+t eib m,SF h m
+· m1,SF,p (L - c +L - c ) (5.18a)
+1+r r e2ib m,SF h m 2/m,px xbg 2/m,pz zbg
+1m,SF,p m2,SF,p
+E - 1s (0 - )= b (cid:229) ,g E0 vis,b E0 ir,g (1 t 1 + m,v r i 1 sb m t ,v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b e r m 2i 2 b ,v m i , s vi , s b h ) m ( ) 1 (1 + + r m r 1 2 m ,i , r ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m i , b vi m s , ) ir h h m m)
+t eib m,SF h m
+· m1,SF,s L - c (5.18b)
+1+r r e2ib m,SF h m 2/m,sy ybg
+1m,SF,s m2,SF,s
+5.2e. 膜バルク [0 < z < h , A : x = -2nh tanq - ztanq , B : x = -(2n + 1)h tanq +
+m n = 0, 1, 2 m m,SF m,SF n = -1, 0, 1, 2 m m,SF
+ztanq ] からの反射 FG
+m,SF
+膜の内側の電場によって作られる分極からの反射 SFG の電場には A 点の上向き (-) 光と B 点の
+(cid:160) n n
+下向き (+) 光が寄与し、n = 0, 1, 2, ···に対する E- (A ) 及び E- (A ) が膜内で多重反射してから媒質１側
+m,p n m,s n
+に出てくるもの、及び、n = 0, 1, 2, ··· に対する E+ (B ) 及び E+ (B ) が膜内で多重反射してから媒質１
+(cid:160) m,p n m,s n
+側に出てくるものが加わったものである。
+発光点から点 (0, 0) に達するまでに膜内部を走る距離は、A点の上向き (-) 光が (2nh + z)/cosq 、そ
+(cid:160) n m m,SF
+の間に受ける位相の変化は k (2nh + z)/cosq であり、B 点の下向き (+) 光が [2(n + 1)h - z]/cosq 、
+m,SF m m,SF n m m,SF
+その間に受ける位相の変化は k [2(n + 1)h - z]/cosq であるから、
+m,SF m m,SF
+E- (0-) = t (cid:229) (r r )n{exp[ik (2nh + z)/cosq ]E- (A (z))
+(cid:160) 1 m1,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF m n
++ r exp[ik (2(n + 1)h - z)/cosq ]E+ (B (z))}
+m2,SF m,SF m m,SF m n
+(cid:160)
+となる。(4.30a) 式と (4.30b) 式により、
+P (z,B )=P (z,B )exp[- 2inh tanq (k sinq +k sinq )]
+(cid:160) a n a n=0 m m,SF m,vis m,vis m,ir m,ir
+P (z,A )=P (z,A )exp[- 2inh tanq (k sinq +k sinq )]
+a n a n=0 m m,SF m,vis m,vis m,ir m,ir
+(cid:160)
+であるから、
+E - (0 - )=[t m1 L - m/m eik m z/cosq mP(z,A n=0 )+t m1 r m2 eik m h m /cosq mL + m/m e - ik m z/cosq mP(z,B n=0 )] (cid:229) (r m2 r m1 e2ib m h m)n
+n=0
+膜の和周波 - 20
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.21 =====
+となる。さらに、
+t t
+P a (z,A n=0 )=(cid:229) b ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2 1 ib m m , , v vi i s s h , m b ) 1 (1 m,i + r,g r 1m,ir,g r m2,ir,g e2ib m,ir h m)
+· {exp[iz(k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1- tanq tanq )- k cosq (1+tanq tanq ))]
+m2,ir,g m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm exp[iz(- k cosq (1+tanq tanq )+k cosq (1- tanq tanq ))]
+m2,vis,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,b m2,ir,g
+· exp[iz(- k cosq (1+tanq tanq )- k cosq (1+tanq tanq ))]}
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+t t
+P a (z,B n=0 )= b (cid:229) ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2i 1 b m m, ,v ir i h s m ,b )( 1 1 m + ,ir,g r 1m,ir,g r m2,ir,g e2ib m,vis h m)
+· exp[- 2ih tanq (k sinq +k sinq )]
+m m,SF m,vis m,vis m,ir m,ir
+· {exp[iz(k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1+tanq tanq )- k cosq (1- tanq tanq ))]
+m2,ir,g m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm exp[iz(- k cosq (1- tanq tanq )+k cosq (1+tanq tanq ))]
+m2,vis,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,b m2,ir,g
+· exp[iz(- k cosq (1- tanq tanq )- k cosq (1- tanq tanq ))]}
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+であるから、
+t t
+(cid:160) P a *” b (cid:229) ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2i 1 b m m, ,v vi i s h s, m b ) 1 (1 m,i + r,g r 1m,ir,g r m2,ir,g e2ib m,ir h m)
+(cid:160)
+と置くと、
+(cid:160)
+(cid:160) E - 1 (0 - )=t m1,SF [ (cid:229) (r m2,SF r m1,SF e2ib m,SFhm)n]P* a
+n=0
+(cid:160)
+(cid:160)
+· {L-
+m/m
+[ei(b
+m,SF
++b
+m,vis
++b
+m,ir
+)z +r
+m2,ir
+e2ib
+m,ir
+h mei(b
+m,SF
++b
+m,vis
+-b
+m,ir
+)z
++r e2ib m,vishmei(b m,SF - b m,vis +b m,ir)z +r e2ib m,vishmr e2ib m,irhmei(b m,SF - b m,vis - b m,ir)z]
+m2,vis m2,vis m2,ir
++r
+m2,SF
+e2ib
+m,SF
+h mL+
+m/m
+[ei(- b
+m,SF
++b
+m,vis
++b
+m,ir
+)z +r
+m2,ir
+e2ib
+m,ir
+h mei(- b
+m,SF
++b
+m,vis
+-b
+m,ir
+)z
++r e2ib m,vishmei(- b m,SF -b m,vis +b m,ir)z +r e2ib m,vishmr e2ib m,irhmei(- b m,SF -b m,vis -b m,ir)z]}
+(cid:160) m2,vis m2,vis m2,ir
+t
+(cid:160) =
+1+r r
+m1,SF
+e2ib m,SF h m
+P*
+a
+(cid:160) 1m,SF m2,SF
+(cid:160)
+· [eib m,SFzL -
+m/m
++r
+m2,SF
+e2ib m,SFhme - ib m,SFzL +
+m/m
+]
+· [ei(b
+m,vis
++b
+m,ir
+)z +r e2ib
+m,ir
+h mei(b
+m,vis
+- b
+m,ir
+)z
+(cid:160) m2,ir
++r e2ib m,vishmei(- b m,vis +b m,ir)z +r e2ib m,vishmr e2ib m,irhmei(- b m,vis -b m,ir)z]
+(cid:160) m2,vis m2,vis m2,ir
+(cid:160)
+を得る。SFG 電場が積み重なっていくから、z の値についてゼロから h の間で積分することになるが、
+m
+膜の和周波 - 21
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.22 =====
+この積分は光の進行方向に沿ってなされなければならない。即ち、L- がかかる項については h からゼ
+m/m m
+ロまで、L+ がかかる項についてはゼロから h まで（互いに逆の方向に）積分する。
+m/m m
+公式 (cid:242) ei(a+bz)dz =
+- iei(a+bz)
++C により、
+b
+i t
+E - 1 (0 - )= d 1+r r m1,SF e2ib m,SF h m P* a
+1m,SF m2,SF
+· {L - [ ei(b m,SF +b m,vis +b m,ir )h m - 1 +r e2ib m,irhm ei(b m,SF +b m,vis - b m,ir )h m - 1
+m/m b +b +b m2,ir b +b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
++r e2ib m,vis h m ei(b m,SF - b m,vis +b m,ir)hm - 1 +r e2ib m,vis h mr e2ib m,ir h m ei(b m,SF -b m,vis -b m,ir)hm - 1 ]
+m2,vis b - b +b m2,vis m2,ir b - b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
++r e2ib m,SFhmL + [ ei(- b m,SF +b m,vis +b m,ir )h m - 1 +r e2ib m,irhm ei(-b m,SF +b m,vis - b m,ir )h m - 1
+m2,SF m/m b - b - b m2,ir b - b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
++r e2ib m,vis h m ei(- b m,SF -b m,vis +b m,ir)hm - 1 +r e2ib m,vis h mr e2ib m,ir h m ei(- b m,SF -b m,vis - b m,ir)hm - 1 ]}
+m2,vis - b +b - b m2,vis m2,ir b +b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+i t
+=
+d 1+r r
+m1,SF
+e2ib m,SF h m
+P*
+a
+1m,SF m2,SF
+1
+· {
+b - b - b
+m,SF m,vis m,ir
+· [L- m/m r m2,vis r m2,ir (ei(b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m)
++r m2,SF L + m/m (ei(b m,SF +b m,vis +b m,ir)hm - e2ib m,SFhm)]
+1
++
+b - b +b
+(cid:160) m,SF m,vis m,ir
+· [L- m/m r m2,vis (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m)
+(cid:160) +r m2,SF L + m/m r m2,ir (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,ir)hm)]
+1
++
+b +b - b
+m,SF m,vis m,ir
+· [L- m/m r m2,ir (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m)
+(cid:160) +r m2,SF L + m/m r m2,vis (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,vis)hm)]
+1
++
+b +b +b
+m,SF m,vis m,ir
+· [L- m/m (ei(b m,SF +b m,vis +b m,ir )h m - 1)
+(cid:160) +r m2,SF L+ m/m r m2,vis r m2,ir (ei(b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m)]
+上で入った因子 1/d は、ここで用いている感受率が面感受率であるのに対して通常の感受率は体積感受率
+(cid:160)
+であり、上で行った積分は後者を前提にしていることによる。分極シートの間隔を d として、因子 1/d を
+付けることによってディメンションを調節した。
+(cid:160)
+(cid:160)
+膜の和周波 - 22
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.23 =====
+t L- = L- , t L- = L- ,
+m1,p m/m,px 1/m,px m1,s m/m,sy 1/m,sy
+t L- = L- 、t L+ = L- ,
+m1,p m/m,pz 1/m,pz m1,p m/m,px 1/m,px
+t L+ = L- , t L+ = -L-
+m1,s m/m,sy 1/m,sy m1,p m/m,pz 1/m,pz
+の関係を使ってさらに整理することも可能である。偏光成分ごとに記すと、
+E - 1p (0 - )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t t
+· m1,SF,p1m,vis,b 1m,ir,g
+(1+r r e2ib m,SF h m)(1+r r e2ib m,ir h m)(1+r r e2ib m,vis h m)
+1m,SF,p m2,SF,p 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+1
+· {
+b - b - b
+m,SF m,vis m,ir
+· {c xbg L- 1/m,px [r m2,vis,b r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m)
++r (ei(b m,SF +b m,vis +b m,ir)hm - e2ib m,SFhm)]
+m2,SF,p
++c zbg L- 1/m,pz [r m2,vis,b r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m)
+- r (ei(b m,SF +b m,vis +b m,ir)hm - e2ib m,SFhm)]}
+m2,SF,p
+1
++
+b - b +b
+m,SF m,vis m,ir
+· {c xbg L- 1/m,px [r m2,vis,b (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m)
++r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,ir)hm)]
+m2,SF,p m2,ir,g
++c zbg L- 1/m,pz [r m2,vis,b (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m)
+- r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,ir)hm)]}
+m2,SF,p m2,ir,g
+1
++
+b +b - b
+m,SF m,vis m,ir
+· {c xbg L- m/m,px [r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m)
++r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,vis)hm)]
+(cid:160) m2,SF,p m2,vis,b
++c zbg L- m/m,pz [r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m)
+- r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,vis)hm)]}
+(cid:160) m2,SF,p m2,vis,b
+1
++
+b +b +b
+(cid:160) m,SF m,vis m,ir
+· {c xbg L- m/m,px [(ei(b m,SF +b m,vis +b m,ir )h m - 1)
++r r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)]
+(cid:160) m2,SF,p m2,vis,b m2,ir,g
++c zbg L- m/m,pz [(ei(b m,SF +b m,vis +b m,ir )h m - 1)
+(5.19a)
+- r r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)]}
+(cid:160) m2,SF,p m2,vis,b m2,ir,g
+(cid:160) E - 1s (0 - )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t t
+(cid:160) · m1,SF,s 1m,vis,b 1m,ir,g
+(1+r r e2ib m,SF h m)(1+r r e2ib m,ir h m)(1+r r e2ib m,vis h m)
+1m,SF,s m2,SF,s 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+(cid:160)
+膜の和周波 - 23
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.24 =====
+1
+· {
+b - b - b
+m,SF m,vis m,ir
+· {c ybg L - 1/m,sy [r m2,vis,b r m2,ir,g (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)
++r (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,SF h m)]
+m2,SF,s
+1
++
+b - b +b
+m,SF m,vis m,ir
+· {c ybg L- 1/m,sy [r m2,vis,b (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m)
++r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,ir)hm)]
+m2,SF,s m2,ir,g
+1
++
+b +b - b
+m,SF m,vis m,ir
+· {c ybg L- m/m,sy [r m2,ir,g (ei(b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m)
++r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,SF +b m,vis)hm)]
+m2,SF,s m2,vis,b
+1
++
+b +b +b
+m,SF m,vis m,ir
+· {c ybg L- m/m,sy [(ei(b m,SF +b m,vis +b m,ir )h m - 1)
+(5.19b)
++r r r (ei(b m,SF +b m,vis +b m,ir)hm - e2i(b m,vis +b m,ir)hm)]
+m2,SF,s m2,vis,b m2,ir,g
+5.2f. ネットの反射 SFG 電場
+実際に観測される SFG 光の電場は、すべての部分からの SFG 光を光路に沿って足し合わせたもので
+ある。従って、上で示した表式について和を取ると、その「和の２乗」が SFG 光の強度になる。
+(cid:160)
+5.3. 透過 SFG の電場
+(cid:160)
+透過 SFG を考えるに当たっては、上で記した反射 SFG で考慮したものに加えて、x = 0 ~ h tanq の
+m m,SF
+範囲（及び m/2 界面外側）からの寄与も取り入れなければならない。
+(cid:160)
+前節の考察では、赤外光と可視光の位相が SFG 光の出口で揃うようにした。しかし、透過 SFG では、
+位相を裏面でそろえる必要がある。そのためには、4.1 節の赤外光と可視光の電場に位相因子
+(cid:160)
+exp(-ih tanq k sinq ) と exp(-ih tanq k sinq ) を付け加えればよい。また、4.2 節で記した分極
+m m,SF m,ir m,ir m m,SF m,vis m,vis
+の位相因子には、exp[-ih tanq (k sinq + k sinq )] を追加する。
+(cid:160) m m,SF m,ir m,ir m,vis m,vis
+5.3a. 1/m 界面の外側 (x = -2nh tanq , z = 0- ) からの透過 SFG
+(cid:160) m m,SF
+1/m 界面の外側（媒質１側）の電場によって作られる分極からの透過 SFG の電場には A' 点が寄与
+n
+し、n = 0, 1, 2, ··· に対する E+ (z = 0-) 及び E+ (z = 0-) が膜内に入って多重反射してから媒質２側に出て
+(cid:160) m,p m,s
+くるものより成る。
+発光点から点 (h tanq , h) に達するまでに膜内部を走る距離は (2n + 1)h /cosq 、その間に受ける位
+m m,SF m m,SF
+(cid:160)
+相の変化は k (2n + 1)h /cosq であるから、
+m,SF m m,SF
+E+(h +) = t t (cid:229) (r r )nexp[ik (2n + 1)h /cosq ]E+ (z = 0-,n)
+2 m 1m,SFm2,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF m
+膜の和周波 - 24
+
+===== PDF p.25 =====
+となる。(4.26a) 式および位相因子により、
+E+(h +) = t t (cid:229) (r r )nexp[ik (2n + 1)h /cosq ]L+ P+(0-,n = 0)
+2 m 1m,SFm2,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF 1/1
+t t eib m,SF h m
+= 1m,SF m2,SF L + P(0 - ,n=0)
+1+r r e2ib m,SF h m 1/1
+1m,SF m2,SF
+ここで、
+t L+ = L+ , t L+ = L+ , t L+ = L+ (n = n として）
+1m,p 1/1,px m/1,px 1m,s 1/1,sy m/1,sy 1m,p 1/1,pz m/1,pz m' 1
+であるから、偏光成分ごとの表式が下式のようになる。
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r ,g ,g r ) m (1 2, + ir,g r e m 2 2 i ,i b r m ,g ,ir e h m 2i ) b m,ir h m)
+t t eib m,SF h m
+· 1m,SF,p m2,SF,p [c L + +c L + ] (5.20a)
+1+r r e2ib m,SF h m xbg m/1,px zbg m/1,pz
+1m,SF,p m2,SF,p
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g (1+r 1 ( m 1 ,v + is,b r 1 ) m (1 ,vis + ,b r r m m 2 2 , , v v i i s s , , b b e e 2 2 i i b b m m , , v v i i s s h h m m ) ) ( ( 1 1 + + r r 1 1 m m , , i i r r , , g g ) r m (1 2, + ir,g r e m 2 2 i , b ir m ,g ,ir e h m 2 ) ib m,ir h m)
+t t eib m,SF h m
+· 1m,SF,s m2,SF,s c L + (5.20b)
+1+r r e2ib m,SF h m yb g m/1,sy
+1m,SF,s m2,SF,s
+発光層が薄膜 m' のときには、次のように考察する。
+n = 0 からの寄与：t exp(ih k /cosq )
+m2 m m m
+n = 1 からの寄与：t exp(ih k /cosq ){r r + r t r [(cid:229) (r r )nt ]}exp(2ih k /cosq )
+(cid:160) m2 m m m m2 mm' m2mm' m'1 n m'1 m'm m'm m m m
+n = k からの寄与：t exp(ih k /cosq ){r r + r t r [(cid:229) (r r )nt ]}kexp(2ikh k /cosq )
+m2 m m m m2 mm' m2mm' m'1 n m'1 m'm m'm m m m
+r (r +r )
+=t eik m h m /cosq m[ m2 mm' m'1 e2ik m h m /cosq m]k
+m2 1+r1m'rm'm
+(4.26b) 式および位相因子により、
+E + 2 (h m + )=t m2 eib m h m (cid:229) [ r m 1 2 ( + r m r m' + r r m'1 ) e2ib m h m]kL + 1/m P(0,n=0)
+k=0 1m' m'm
+(cid:160)
+1
+=t m2 eib m h m r (r +r ) L + 1/m P(0,n=0)
+(cid:160) 1+ m 1 2 + m r m' r m'1 e2ib mhm
+1m' m'm
+(cid:160) = t m2 (1+r 1m' r m'm )eib m h m L + P(0,n=0)
+1+r r +r (r +r )e2ib m h m 1/m
+1m' m'm m2 mm' m'1
+偏光成分ごとに記すと、
+(cid:160)
+膜の和周波 - 25
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.26 =====
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g 1+r 1m',v t i 1 s m ,b ',v r i m s,b 'm ( ,v 1 is, + b + r m ( 'm r , m vi ' s m ,b ,vi ) s ( , 1 b + + r r 1 m m 2 ' , , v v i i s s , , b b e ) 2 r i m b m 2 , , v v i i s s h , m b ) e2ib m,vis h m
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+t (1+r r )eib m,SF h m
+· m2,SF.p 1m',SF,p m'm,SF,p )(L + c +L + c ) (5.21a)
+1+r r +r (r +r )e2ib m,SF h m 1/m,px xbg 1/m,pz zb g
+1m',SF,p m'm,SF,p m2,SF,p mm',SF,p m'1,SF,p
+E 2s (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t r 1m m" ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m ( ,v 1 is, + b ( r r m m " m 2 " ,v ,v is is ,b ,b )e + ib r m m ,vi " s 2 h , m vis,b )e2ib m,vis h m
+t (1+r )(1+r e2ib m,ir h m)
+· 1m',ir,g m'm,ir,g m2,ir,g
+1+r r +(r +r )r e2ib m,ir h m
+1m',ir,g m'm,ir,g m'm,ir,g 1m',ir,g m2,ir,g
+t (1+r r )eib m,SF h m
+· m2,SF.s 1m',SF,s m'm,SF,s )L + c (5.21b)
+1+r r +r (r +r )e2ib m,SF h m 1/m,sy ybg
+1m',SF,s m'm,SF,s m2,SF,s mm',SF,s m'1,SF,s
+5.3b. 1/m 界面の内側 (x = -2nh tanq , z = 0+ ) からの透過 SFG
+m m,SF
+1/m 界面の内側（膜側）の電場によって作られる分極からの透過 SFG の電場には A" 点が寄与し、
+n
+n = 0, 1, 2, ··· に対する E+ (z = 0+) 及び r E- (z = 0+) が膜内で多重反射してから媒質２側に出てくるもの
+m m1 m
+から成る。
+発光点から点 (h tanq , h) に達するまでに膜内部を走る距離は (2n + 1)h /cosq 、その間に受ける位
+m m,SF m m,SF
+相の変化は k (2n + 1)h /cosq であるから、
+(cid:160) m,SF m m,SF
+E+(h +) = t (cid:229) (r r )nexp[ik (2n + 1)h /cosq ][E+ (z = 0+,n) + r E- (z = 0+,n)]
+(cid:160) 2 m m2,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF m m1 m
+となる。(4.27) 式および位相因子により、
+(cid:160)
+E+(h +) = t (cid:229) (r r )nexp[ik (2n + 1)h /cosq ][L+ + r L- ]P+(0-,n = 0)
+2 m m2,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF m/m m1 m/m
+t eib m,SF h m
+(cid:160) = m2,SF (L + +r L - )P(0 - ,n=0)
+1+r r e2ib m,SF h m m/m m1 m/m
+1m,SF m2,SF
+t eib m,SF h m
+(cid:160) = m2,SF L + P(0 - ,n=0)
+1+r r e2ib m,SF h m 1/m
+1m,SF m2,SF
+(cid:160)
+上では、
+L+ + r L- = L+ 、L+ + r L- = L+ 、L+ + r L- = L+
+m/m,px m1,p m/m,px 1/m,px m/m,sy m1,s m/m,sy 1/m,sy m/m,pz m1,p m/m,pz 1/m,pz
+(m' = m) を使った。これより、偏光成分ごとの表式が下式のように得られる。
+膜の和周波 - 26
+(cid:160)
+(cid:160)
+
+===== PDF p.27 =====
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is ,i ,b r,g r m (1 2,v + is,b r m e 2 2 , i v b i m s, , b vis e h m 2i ) b (1 m,vi + s h m r ) 1m (1 ,ir + ,g r r m m 2 2 , , i i r r , ,g g e e 2 2i ib b m m , ,i i r r h h m m) )
+t eib m,SF h m
+· m2,SF,p (L + c +L + c ) (5.22a)
+1+r r e2ib m,SF h m 1/m,px xbg 1/m,pz zbg
+1m,SF,p m2,SF,p
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g t ( 1 1 m + ,vis r ,b 1m t 1 ,v m is , , i b r,g r m (1 2,v + is,b r e m 2 2 i ,v b i m s , ,b vis e h m 2 ) ib ( m 1 ,vi + s h m r ) 1 ( m 1 ,ir + ,g r r m m 2 2 , , i i r r , ,g g e e 2 2i ib b m m , ,i i r r h h m m) )
+t eib m,SF h m
+· m2,SF,s L + c (5.22b)
+1+r r e2ib m,SF h m 1/m,sy ybg
+1m,SF,s m2,SF,s
+5.3c. m/2 界面の外側 (x = -(2n + 1)h tanq , z = h + ) からの透過 SFG
+m m,SF m
+m/2 界面の外側（媒質２側）の電場によって作られる分極からの反射SFGの電場には B ' 点が寄与し、
+n
+n = -1 に対する E+ (z = h +) 及び E+ (z = h +) と、n = 0, 1, 2, ··· に対する E- (z = h +) 及び E- (z = h +)
+2,p m 2,s m m,p m m,s m
+が膜内に入って多重反射してから媒質２側に出てくるものがある。
+発光点から点 (h tanq , h ) に達するまでに膜内部を走る距離は 2(n + 1)h /cosq 、その間に受ける位
+m m,SF m m m,SF
+相の変化は k 2(n + 1)h /cosq であるから、
+m,SF m m,SF
+E+(h +) = E+(z = h +, n = -1) + r E- (z = h +, n = -1)
+2 m 2 m 2m,SF 2 m
++ t (cid:229) r (r r )nexp(ik 2(n + 1)h /cosq )t E- (z = h +, n)
+2m,SF n = 0 - ¥ m1,SF m2,SF m1,SF m,SF m m,SF m2,SF 2 m
+となる。(4.28) 式および位相因子により、
+(cid:160)
+E+(h +) = (L+ + r L- )P(z = h +, n = -1)
+(cid:160) 2 m 2/2 2m,SF 2/2 m
++ t (cid:229) r (r r )nexp(ik 2(n + 1)h /cosq )t L- P(z = h +, n = 0)
+2m,SF n = 0 - ¥ m1,SF m2,SF m1,SF m,SF m m,SF m2,SF 2/2 m
+(cid:160) =P(h
+m
++ ,n=- 1)[(L +
+2/2
++r
+2m
+L -
+2/2
+)+t
+m2
+t
+2m
+r
+m1
+e2ib m,SFhm (cid:229) (r
+m2
+r
+m1
+e2ib m,SFhm)nL -
+2/2
+]
+n=0
+(cid:160) =P(h + ,n=- 1)[L + +L - (r + t m2 t 2m r m1 e2ib m,SFhm )]
+m 2/2 2/2 2m 1+r r e2ib m,SF h m
+1m m2
+r +(r r r +(1+r r )(- r ))e2ib m,SFhm
+=P(h + ,n=- 1)[L + +L - 2m 1m m2 2m m2 2m 1m )]
+m 2/2 2/2 1+r r e2ib m,SF h m
+1m m2
+L + +r L - - r (r L + +L - )e2ib m,SFhm
+=P(h + ,n=- 1) 2/2 2m 2/2 1m 2m 2/2 2/2
+m 1+r r e2ib m,SF h m
+1m m2
+L+ + r L- = L+ , L+ + r L- = L+ , L+ + r L- = L+ (m" = 2),
+2/2,px 2m,p 2/2,px 2/m,px 2/2,sy 2m,s 2/2,sy 2/m,sy 2/2,pz 2m,p 2/2,pz 2/m,pz
+r L+ + L- = L+ , r L+ + L- = L+ , r L+ + L- = -L+ (m" = 2)、
+2m,p 2/2,px 2/2,px 2/m,px 2m,s 2/2,sy 2/2,sy 2/m,sy 2m,p 2/2,pz 2/2,pz 2/m,pz
+であるから、
+(1mr e2ib m,SFhm)L +
+E + (h + )=P(h + ,n=- 1) 1m 2/m
+2 m m 1+r r e2ib m,SF h m
+1m m2
+膜の和周波 - 27
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.28 =====
+(upper for P and P components and lower for P component)
+x y z
+となり、偏光成分ごとの式は下式になる。
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r 1m t ,v 1 i m s,b ,vi r s m ,b 2 t ,w m v 2 is ,v ,b is e ,b 2 t i 1 b m m, ,i v r is , h g m t ) m (1 2,i + r,g r e 1 i m (b ,ir m , , g ir + r m b m 2 , , v ir is , ) g h e m 2ib m,ir h m)
+· (1- r 1m,SF,p e2ib m,SF h m)L+ 2/m,px c xbg +(1+r 1m,SF,p e2ib m,SF h m)L+ 2/m,pz c zb g (5.23a)
+1+r r e2ib m,SF h m
+1m,SF,p m2,SF,p
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g (1+r 1m t , 1 vi m s, , b vi r s m ,b 2 t ,w m v 2 is ,v ,b is, e b 2 t i 1 b m m, , v i i r s h ,g m t ) m (1 2,i + r,g r e 1m i(b ,ir m ,g ,ir r + m b m 2 , , v ir is ) ,g h m e2ib m,ir h m)
+· (1- r 1m,SF,s e2ib m,SF h m)L+ 2/m,sy c ybg (5.23b)
+1+r r e2ib m,SF h m
+1m,SF,s m2,SF,s
+5.3d. m/2 界面の内側 (x = -(2n + 1)h tanq , z = h - ) からの透過 SFG
+m m,SF m
+m/2 界面の内側（膜側）の電場によって作られる分極からの透過 SFG の電場には B " 点が寄与し、
+n
+n = -1 に対する E+ (z = h -) および E+ (z = h -) と、n = 0, 1, 2, ··· に対する E- (z = h -) 及び E- (z = h -)
+2,p m 2,s m m,p m m,s m
+が膜内で多重反射してから媒質２側に出てくるものから成る。
+発光点から点 (h tanq , h +) に達するまでに膜内部を走る距離は 2(n + 1)h /cosq 、その間に受ける
+m m,SF m m m,SF
+位相の変化は k 2(n + 1)h /cosq であるから、
+m,SF m m,SF
+E+(h +) = t E+(z = h -, n = -1)
+2 m m2,SF 2 m
++ t (cid:229) (r r )nexp(ik 2(n + 1)h /cosq )r [E- (z = h -, n) + r E+ (z = h -, n)]
+m2,SF n = 0 - ¥ m2,SF m1,SF m,SF m m,SF m1,SF m m m2,SF m m
+(cid:160)
+となる。(4.29) 式および位相因子により、
+(cid:160)
+E+(h +) = t L+ P(z = h -, n = -1)
+2 m m2,SF m/m m
++ (cid:229) r (r r )nexp(ik 2(n + 1)h /cosq )t [L- + r L+ ]P(z = h -, n = 0)
+n = 0 - ¥ m1,SF m2,SF m1,SF m,SF m m,SF m2,SF m/m m2,SF m/m m
+(cid:160) =P(h m - ,n=- 1)t m2 (L + m/m +r m1 e2ib m,SFhmL - m/m ) (cid:229) (r m2 r m1 e2ib m,SFhm)n
+n=0
+1
+(cid:160) =P(h
+m
++ ,n=- 1)(L +
+m/m
++r
+m1
+e2ib m,SFhmL -
+m/m
+)
+1+r r e2ib m,SF h m
+1m m2
+t L+ = L+ , t L+ = L+ , t L+ = -L+ (m" = m)
+m2,p m/m,px 2/m,px m2,s m/m,sy 2/m,sy m2,p m/m,pz 2/m,pz
+t L- = L+ , t L- = L+ , t L- = L+ (m" = m)
+m2,p m/m,px 2/m,px m2,s m/m,sy 2/m,sy m2,p m/m,pz 2/m,pz
+であるから、
+(– 1+r e2ib m,SFhm)
+E + (h + )=P(h + ,n=- 1)L + m1
+2 m m 2/m 1+r r e2ib m,SF h m
+1m m2
+膜の和周波 - 28
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.29 =====
+偏光成分ごとに記すと、
+E + 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g e (1 t 1 + m,v r i 1 sb m t ,v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b r e m 2i 2 b ,v m i ,v s is ,b h m )( ) 1 (1 + + r m r 1 2 m ,i , r ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m i , b v m is , ) ir h h m m)
+·
+(1+r
+m1,SF,p
+e2ib
+m,SF
+h m)L+
+2/m,px
+c
+xbg
++(- 1+r
+m1,SF,p
+e2ib
+m,SF
+h m)L+
+2/m,pz
+c
+zb g (5.24a)
+1+r r e2ib m,SF h m
+1mSF,p m2,SF,p
+E + 2s (h m + )=(cid:229) b ,g E0 vis,b E0 ir,g e (1 t 1 + m,v r i 1 sb m t ,v 1 is m ,b ,ir r ,g m2 (1 ,vis + ,b e r m 2i 2 b ,v m i , s vi , s b h m ) ) (1 (1 + + r m r 1 2 m ,ir ,ir ,g ,g ) r e m i( 2 b ,ir m, ,g ir + e b 2 m ib ,vi m s , ) ir h h m m)
+·
+(1+r
+m1,SF,s
+e2ib
+m,SF
+h m)L+
+2/m,sy
+c
+yb g (5.24b)
+1+r r e2ib m,SF h m
+1mSF,s m2,SF,s
+裏面の SFG 分極が薄膜 (m") によるときには、前で行ったと同じ考察を進める。
+n = -1 からの寄与：E+(h , n = -1)
+2 m
+n = 0 からの寄与：E-(h , n = 0)exp(2ik h /cosq )r t [(cid:229) (r r )n]t
+m m m m m1mm" n = 0 m"2 m"m m"2
+n = 1 からの寄与：E-(h , n = 1)exp(2ik h /cosq )r {r + t [r (cid:229) (r r )n]t }r exp(2ik h /cosq )
+m m m m m1 mm" mm" m"2 n = 0 m"m m"2 m"m m1 m m m
+· t [(cid:229) (r r )n]t
+mm" n m"2 m"m m"2
+n = k からの寄与：E-(h , n = k)exp(2ik h /cosq )r {r + t [r (cid:229) (r r )n]t }kr kexp(2ikk h /cosq )
+m m m m m1 mm" mm" m"2 n = 0 m"m m"2 m"m m1 m m m
+· t [(cid:229) (r r )n]t
+mm" n m"2 m"m m"2
+t t r t t
+=E- (h ,n=k)e2ikmhm/cosq mr {[r + mm" m"m m"2]r }ke2ikkmhm/cosq m mm" m"2
+m m1 mm" 1+r r m1 1+r r
+(cid:160) mm" m"2 mm" m"2
+r +r t t
+=E- (h ,n=k)e2ikmhm/cosq mr [ mm" m"2 r ]ke2ikkmhm/cosq m mm" m"2
+m m1 1+r r m1 1+r r
+mm" m"2 mm" m"2
+(cid:160)
+（但し、位相因子は n = -1 による SFG 光を基準にしている。(4.28b) 式および位相因子により、
+E + (h + )=P(h ,n=- 1)L +
+(cid:160) m m 2/m
++P a (h m ,n=- 1)L - 2/m e2ib m h mr m11+ t m r m" t m r "2 (cid:229) [ 1 r m + m" r +r r m"2 r m1 e2ib m h m]n
+(cid:160) mm" m"2 n=0 mm" m"2
+t t 1+r r
+=P a (h m ,n=- 1){L + 2/m +L - 2/m e2ib m h mr m11+ m r m" m r "2 1+r r +r m ( m r " m"2 +r )e2ib m h m }
+mm" m"2 mm" m"2 1m mm" m"2
+r t t
+=P a (h m ,n=- 1){L + 2/m +L - 2/m e2ib m h m 1+r r + m r 1 m ( m r " m"2 +r )e2ib m h m }
+mm" m"2 1m mm" m"2
+=P (h ,n=- 1) (1+r mm" r m"2 )L + 2/m +r 1m [(r mm" +r m"2 )L + 2/m - t mm" t m"2 (r mm" +r m"2 )L - 2/m ]e2ib m h m
+a m 1+r r +r (r +r )e2ib m h m
+mm" m"2 1m mm" m"2
+(cid:160) 膜の和周波 - 29
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.30 =====
+2n cosq (n cosq +n cosq )
+1+r r = m" m" m m 2 2
+mm",s m"2,s (n cosq +n cosq )(n cosq +n cosq )
+m m m" m" m" m" 2 2
+2n cosq (n cosq - n cosq )
+r +r = m" m" m m 2 2
+mm",s m"2,s (n cosq +n cosq )(n cosq +n cosq )
+m m m" m" m" m" 2 2
+4n cosq n cosq
+t t = m" m" m m
+mm",s m"2,s (n cosq +n cosq )(n cosq +n cosq )
+m m m" m" m" m" 2 2
+2n cosq (n cosq +n cosq )
+1+r r = m" m" m 2 2 m
+mm",p m"2,p (n cosq +n cosq )(n cosq +n cosq )
+m m" m" m m" 2 2 m"
+2n cosq (n cosq - n cosq )
+r +r = m" m" m 2 2 m
+mm",p m"2,p (n cosq +n cosq )(n cosq +n cosq )
+m m" m" m m" 2 2 m"
+4n cosq n cosq
+t t = m" m" m m
+mm",p m"2,p (n cosq +n cosq )(n cosq +n cosq )
+m m" m" m m" 2 2 m"
+L- = (cosq /cosq )L+ , L- = L+ , L- = -(n/n )L+
+2/m,px 2 m 2/m,px 2/m,sy 2/m,sy 2/m,pz 2 m 2/m,pz
+であるから、
+E + (h + )=P (h ,n=- 1) (1+r mm" r m"2 )(1mr 1m e2ib m h m) L +
+m a m 1+r
+mm"
+r
+m"2
++r
+1m
+(r
+mm"
++r
+m"2
+)e2ib m h m 2/m
+(upper sign for P and P components, lower sign for P component)
+x y z
+よって、偏光成分ごとの表式は、下式のようになる。
+E 2p (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t 1 r m m " ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m, ( v 1 is, + b ( r r m m " m 2, " v ,v is is ,b ,b )e + ib r m m ,vi " s h 2 m ,vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+· 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+(cid:160) · (1+r mm",SF,p r m"2,SF,p )[(1- r 1m,SF,p e2ib m,SF h m)L+ 2/m,px c xb g +(1+r 1m,SF,p e2ib m,SF h m)L+ 2/m,pz c zb g ] (5.25a)
+1+r r +r (r +r )e2ib m,SF h m
+mm",SF,p m"2,SF,p 1m,SF,p mm",SF,p m"2,SF,p
+E 2s (h m + )= b (cid:229) ,g E0 vis,b E0 ir,g (1+r mm",vis,b t r 1m m" ,v 2 i , s v , i b s, t b m ) m + ",vi r s 1 ,b m ( ,v 1 is, + b ( r r m m " m 2 " ,v ,v is is ,b ,b )e + ib r m m ,vi " s 2 h , m vis,b )e2ib m,vis h m
+t t (1+r )eib m,ir h m
+(cid:160) · 1m,ir,g mm",ir,g m"2,ir,g
+(1+r r )+r (r +r )e2ib m,ir h m
+mm",ir,g m"2,ir,g 1m,ir,g mm",ir,g m"2,ir,g
+· (1+r mm",SF,s r m"2,SF,s )(1- r 1m,SF,s e2ib m,SF h m)L+ 2/m,sy c yb g (5.25b)
+1+r r +r (r +r )e2ib m,SF h m
+mm",SF,s m"2,SF,s 1m,SF,s mm",SF,s m"2,SF,s
+5.3e. 膜バルク [0 < z < h , A : x = -2nh tanq - ztanq , B : x = -(2n + 1)h tanq +
+m n = 0, 1, 2 m m,SF m,SF n = -1, 0, 1, 2 m m,SF
+ztanq ] からの透過 SFG
+(cid:160) m,SF
+膜の内側の電場によって作られる分極からの反射 SFG の電場には A 点の上向き (-) 光と B 点の
+n n
+下向き (+) 光が寄与し、n = 0, 1, 2, ··· に対する E- (A ) 及び E- (A ) が膜内で多重反射してから媒質２
+m,p n m,s n
+側に出てくるもの、及び、n = -1, 0, 1, 2, ··· に対する E+ (B ) 及び E+ (B ) が膜内で多重反射してから媒
+m,p n m,s n
+(cid:160)
+膜の和周波 - 30
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.31 =====
+質２側に出てくるものが加わったものである。
+発光点から点 (h tanq , h ) に達するまでに膜内部を走る距離は、A 点の上向き (-) 光が [(2n + 1)h +
+m m,SF m n m
+z]/cosq 、その間に受ける位相の変化は k [(2n + 1)h + z]/cosq であり、B 点の下向き (+) 光が [(2n
+m,SF m,SF m m,SF n
++ 3)h - z]/cosq 、その間に受ける位相の変化は k [(2n + 3)h - z]/cosq であるから、
+m m,SF m,SF m m,SF
+E+(h +) = t {E+ (B (z))exp[ik (h - z)/cosq ]
+2 m m2 m -1 m m m
++ (cid:229) (r r )n{r exp[ik [(2n + 1)h + z]/cosq ]E- (A (z))
+n = 0 - ¥ m2 m1 m1 m m m m n
++ r r exp[ik [(2n + 3)h - z]/cosq ]E+ (B (z))}}
+m2 m1 m m m m n
+= t L+ exp[ik (h - z)/cosq ]{P(z,B )
+m2 2/m m m m n = -1
++ r r exp(2ik h /cosq )(cid:229) (r r )nexp(2ink h /cosq )P(z, B )}
+m2 m1 m m m n = 0 - ¥ m2 m1 m m m n
++ t r L- exp[ik (h + z)/cosq ](cid:229) (r r )nexp(2ink h /cosq )P(z, A)
+m2 m1 2/m m m m n = 0 - ¥ m2 m1 m m m n
+上式で、位相部分の基準は出射点に取っている。(4.30a) 式と (4.30b)式 および位相因子により、
+P (z,B )=P (z,B )exp[- i(2n+1)h tanq (k sinq +k sinq )]
+a n a n=0 m m,SF m,vis m,vis m,ir m,ir
+P (z,A )=P (z,A )exp[- i(2n+1)h tanq (k sinq +k sinq )]
+a n a n=0 m m,SF m,vis m,vis m,ir m,ir
+であるから、
+E + (h m + )=t m2 L + m/m P(z,B n=0 )eik m (h m -z)[1+r m2 r m1 e2ik m h m /cosq m (cid:229) (r m2 r m1 e2ib m h m)n]
+n=0
++t m2 r m1 L - m/m P(z,A n=0 )eik m (h m +z) (cid:229) (r m2 r m1 e2ib m h m)n
+n=0
+となる。さらに、
+t t
+P a (z,A n=0 )=(cid:229) b ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2 1 ib m m , , v vi i s s h , m b ) 1 (1 m,i + r,g r 1m,ir,g r m2,ir,g e2ib m,ir h m)
+· {exp[iz(k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1- tanq tanq )- k cosq (1+tanq tanq ))]
+m2,ir,g m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm exp[iz(- k cosq (1+tanq tanq )+k cosq (1- tanq tanq ))]
+m2,vis,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,b m2,ir,g
+· exp[iz(- k cosq (1+tanq tanq )- k cosq (1+tanq tanq ))]}
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+t t
+(cid:160) (cid:160) P a (z,B n=0 )= b (cid:229) ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2i 1 b m m, ,v ir i h s m ,b )( 1 1 m + ,ir,g r 1m,ir,g r m2,ir,g e2ib m,vis h m)
+· exp[- 2ih tanq (k sinq +k sinq )]
+m m,SF m,vis m,vis m,ir m,ir
+· {exp[iz(k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz(k cosq (1+tanq tanq )- k cosq (1- tanq tanq ))]
+m2,ir,g m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+(cid:160)
+膜の和周波 - 31
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.32 =====
++r e2ib m,vishm exp[iz(- k cosq (1- tanq tanq )+k cosq (1+tanq tanq ))]
+m2,vis,b m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,b m2,ir,g
+· exp[iz(- k cosq (1- tanq tanq )- k cosq (1- tanq tanq ))]}
+m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+であるから、
+t t
+P a *” b (cid:229) ,g c a bg E0 vis,b E0 ir,g (1+r 1m,vis,b r m2,vis,b e2i 1 b m m, ,v vi i s h s, m b ) 1 (1 m,i + r,g r 1m,ir,g r m2,ir,g e2ib m,ir h m)
+と置くと、下式が導かれる。
+E + (h
+m
++ )=P*{t
+m2,SF
+L +
+m/m
+eib m,SFhm[1+r
+m2,SF
+r
+m1,SF
+e2ib m,SFhm (cid:229) (r
+m2,SF
+r
+m1,SF
+e2ib m,SFhm)n]
+n=0
+· [ei(-b m,SF +b m,vis +b m,ir)z +r e2ib m,irhmei(-b m,SF +b m,vis - b m,ir)z
+m2,ir,g
++r e2ib m,vishmei(-b m,SF -b m,vis +b m,ir)z +r r e2i(b m,vis +b m,ir)hmei(-b m,SF -b m,vis -b m,ir)z]
+m2,vis,b m2,vis,b m2,ir,g
++t
+m2,SF
+r
+m1,SF
+L -
+m/m
+P(z,A
+n=0
+)eib m,SFhm (cid:229) (r
+m2,SF
+r
+m1,SF
+e2ib m,SFhm)n
+n=0
+· [ei(b m,SF +b m,vis +b m,ir)z +r e2ib m,irhmei(b m,SF +b m,vis - b m,ir)z
+m2,ir,g
++r e2ib m,vishmei(b m,SF -b m,vis +b m,ir)z +r r e2i(b m,vis +b m,ir)hmei(b m,SF - b m,vis - b m,ir)z]}
+m2,vis,b m2,vis,b m2,ir,g
+1
+=P* 1+r r e2ib m,SF h m {t m2,SF L + m/m eib m,SFhm[ei(- b m,SF +b m,vis +b m,ir)z +r m2,ir,g e2ib m,irhmei(- b m,SF +b m,vis - b m,ir)z
+1m,SF m2,SF
+(cid:160)
++r e2ib m,vishmei(-b m,SF -b m,vis +b m,ir)z +r r e2i(b m,vis +b m,ir)hmei(-b m,SF -b m,vis -b m,ir)z]
+(cid:160) m2,vis,b m2,vis,b m2,ir,g
+(cid:160) +t m2,SF r m1,SF L - m/m eib m,SFhm[ei(b m,SF +b m,vis +b m,ir)z +r m2,ir,g e2ib m,irhmei(b m,SF +b m,vis - b m,ir)z
++r e2ib m,vishmei(b m,SF -b m,vis +b m,ir)z +r r e2i(b m,vis +b m,ir)hmei(b m,SF - b m,vis - b m,ir)z]}
+m2,vis,b m2,vis,b m2,ir,g
+SFG 電場が積み重なっていくから、z の値がゼロから h の間で積分することになるが、この積分は光
+m
+の進行方向に沿ってなされなければならない。即ち、L+ がかかる項については h からゼロまで、L- が
+(cid:160) m/m m m/m
+かかる項についてはゼロから h まで（互いに逆の方向に）積分する。
+m
+公式 (cid:242) ei(a+bz)dz =
+- iei(a+bz)
++C により、
+b
+(cid:160) i t
+E + 2 (h m + )= d 1+r r m2,SF e2ib m,SF h m P* a
+1m,SF m2,SF
+(cid:160)
+ei(-b m,SF +b m,vis +b m,ir)hm - 1 ei(- b m,SF +b m,vis - b m,ir)hm - 1
+(cid:160) · {L +
+m/m
+eib m,SFhm[
+b - b - b
++r
+m2,ir,g
+e2ib m,irhm
+b - b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160) ei(-b m,SF -b m,vis +b m,ir)hm - 1 ei(- b m,SF - b m,vis - b m,ir)hm - 1
++r e2ib m,vishm +r r e2i(b m,vis +b m,ir)hm ]
+m2,vis,b b +b - b m2,vis,b m2,ir,g b +b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160)
+1- ei(b m,SF +b m,vis +b m,ir)hm 1- ei(b m,SF +b m,vis -b m,ir)hm
+(cid:160) +r
+m1,SF
+L -
+m/m
+eib m,SFhm[
+b +b +b
++r
+m2,ir,g
+e2ib m,irhm
+b +b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160)
+(cid:160)
+(cid:160) 膜の和周波 - 32
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.33 =====
+1- ei(b m,SF -b m,vis +b m,ir)hm 1- ei(b m,SF -b m,vis -b m,ir)hm
++r e2ib m,vishm +r r e2i(b m,vis +b m,ir)hm ]}
+m2,vis,b b - b +b m2,vis,b m2,ir,g b - b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+上で入った因子 1/d は、ここで用いている感受率が面感受率であるのに対して通常の感受率は体積感受率
+であり、上で行った積分は後者を前提にしていることによる。分極シートの間隔を d として、因子 1/d を
+付けることによってディメンションを調節した。
+t L+ = L+ , t L+ = L+ ,
+m2,p m/m,px 2m,px m2,s m/m,sy 2/m,sy
+t L+ = L+ , t L- = L+ ,
+m2,p m/m,pz 2/m,pz m2,p m/m,px 2/m,px
+t L- = L+ , t L- = -L+ (m" = m)
+m2,s m/m,sy 2/m,sy m2,p m/m,pz 2/m,pz
+の関係を使ってさらに整理することも可能である。
++
+i L
+E + 2 (h m + )= d 1+r r 2/m e2ib m,SF h m P* a
+1m,SF m2,SF
+ei(- b m,SF +b m,vis +b m,ir)hm - 1 ei(-b m,SF +b m,vis - b m,ir)hm - 1
+· {eib m,SFhm[ +r e2ib m,irhm
+b - b - b m2,ir,g b - b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+ei(-b m,SF -b m,vis +b m,ir)hm - 1 ei(- b m,SF - b m,vis - b m,ir)hm - 1
++r e2ib m,vishm +r r e2i(b m,vis +b m,ir)hm ]
+m2,vis,b b +b - b m2,vis,b m2,ir,g b +b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+1- ei(b m,SF +b m,vis +b m,ir)hm 1- ei(b m,SF +b m,vis - b m,ir)hm
+– r eib m,SFhm[ +r e2ib m,irhm
+m1,SF b +b +b m2,ir,g b +b - b
+(cid:160) m,SF m,vis m,ir m,SF m,vis m,ir
+1- ei(b m,SF -b m,vis +b m,ir)hm 1- ei(b m,SF -b m,vis -b m,ir)hm
++r e2ib m,vishm +r r e2i(b m,vis +b m,ir)hm ]}
+m2,vis,b b - b +b m2,vis,b m2,ir,g b - b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(upper sign for P and P components, lower sign for P component)
+x y z
+i L + eib m,SFhm
+=
+d 1+r
+2/m
+r e2ib m,SF h m
+P*
+a
+1m,SF m2,SF
+[ei(- b m,SF +b m,vis +b m,ir )h m - 1]– r r r [e2i(b m,vis +b m,ir )h m - ei(b m,SF +b m,vis +b m,ir )h m]
+· { m1,SF m2,vis,b m2ir,g
+b - b - b
+m,SF m,vis m,ir
+r [ei(- b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m]– r r [e2ib m,vis h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,ir,g m1,SF m2,vis,b
+b - b +b
+m,SF m,vis m,ir
+r [ei(-b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m]– r r [e2ib m,ir h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m1,SF m2,ir,g
+b +b - b
+(cid:160) m,SF m,vis m,ir
+r r [ei(- b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m]– r [1- ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m2,ir,g m1,SF }
+b +b +b
+(cid:160) m,SF m,vis m,ir
+よって、偏光成分ごとの表式は下式のようになる。
+(cid:160)
+(cid:160)
+膜の和周波 - 33
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.34 =====
+E + 2p (h m + )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t eib m,SF h m
+· 1m,vis,b 1m,ir,g
+(1+r r e2ib m,SF h m)(1+r r e2ib m,vis h m)(1+r r e2ib m,ir h m)
+1m,SF,p m2,SF,p 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+[ei(- b m,SF +b m,vis +b m,ir )h m - 1]+r r r [e2i(b m,vis +b m,ir )h m - ei(b m,SF +b m,vis +b m,ir )h m]
+· {L + c [ m1,SF,p m2,vis,b m2ir,g
+2/m,px xb g b - b - b
+m,SF m,vis m,ir
+r [ei(- b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m]+r r [e2ib m,vis h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,ir,g m1,SF,p m2,vis,b
+b - b +b
+m,SF m,vis m,ir
+r [ei(-b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m]+r r [e2ib m,ir h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m1,SF,p m2,ir,g
+b +b - b
+m,SF m,vis m,ir
+r r [ei(- b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m]+r [1- ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m2,ir,g m1,SF,p ]
+b +b +b
+m,SF m,vis m,ir
+[ei(- b m,SF +b m,vis +b m,ir )h m - 1]- r r r [e2i(b m,vis +b m,ir )h m - ei(b m,SF +b m,vis +b m,ir )h m]
++L + c [ m1,SF,p m2,vis,b m2ir,g
+2/m,pz zbg b - b - b
+m,SF m,vis m,ir
+r [ei(- b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m]- r r [e2ib m,vis h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,ir,g m1,SF,p m2,vis,b
+b - b +b
+m,SF m,vis m,ir
+r [ei(-b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m]- r r [e2ib m,ir h m - ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m1,SF,p m2,ir,g
+b +b - b
+m,SF m,vis m,ir
+r r [ei(- b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m]- r [1- ei(b m,SF +b m,vis +b m,ir )h m]
++ m2,vis,b m2,ir,g m1,SF,p ]} (5.26a)
+b +b +b
+(cid:160) m,SF m,vis m,ir
+(cid:160) E + 2s (h m + )= d i (cid:229) E0 vis,b E0 ir,g
+b ,g
+t t eib m,SF h m
+(cid:160) · 1m,vis,b 1m,ir,g
+(1+r r e2ib m,SF h m)(1+r r e2ib m,vis h m)(1+r r e2ib m,ir h m)
+1m,SF,s m2,SF,s 1m,vis,b m2,vis,b 1m,ir,g m2,ir,g
+[ei(- b m,SF +b m,vis +b m,ir )h m - 1]+r r r [e2i(b m,vis +b m,ir )h m - ei(b m,SF +b m,vis +b m,ir )h m]
+(cid:160) · L + c { m1,SF,s m2,vis,b m2ir,g
+2/m,sy yb g b - b - b
+m,SF m,vis m,ir
+r [ei(- b m,SF +b m,vis +b m,ir )h m - e2ib m,ir h m]+r r [e2ib m,vis h m - ei(b m,SF +b m,vis +b m,ir )h m]
+(cid:160) + m2,ir,g m1,SF,s m2,vis,b
+b - b +b
+m,SF m,vis m,ir
+r [ei(-b m,SF +b m,vis +b m,ir )h m - e2ib m,vis h m]+r r [e2ib m,ir h m - ei(b m,SF +b m,vis +b m,ir )h m]
+(cid:160) + m2,vis,b m1,SF,s m2,ir,g
+b +b - b
+m,SF m,vis m,ir
+r r [ei(- b m,SF +b m,vis +b m,ir )h m - e2i(b m,vis +b m,ir )h m]+r [1- ei(b m,SF +b m,vis +b m,ir )h m]
+(cid:160) + m2,vis,b m2,ir,g m1,SF,s } (5.26b)
+b +b +b
+m,SF m,vis m,ir
+(cid:160)
+5.4. ネットの透過 SFG 電場
+、実際に観測される SFG 光の電場は、SFG 光を生成するすべての部位からの寄与を光路に沿って足
+(cid:160)
+し合わせたものである。従って、上で示した表式について和を取り、その「電場の和の２乗」が SFG 光
+(cid:160)
+膜の和周波 - 34
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.35 =====
+の強度である。
+付録 A．線形光学の主な関係式
+周波数 w の平面波が時刻 t、位置 r で持つ電場ベクトル E (r, t) は、指数関数を使って下式で表され
+w
+る。
+E (r, t) = E 0exp[i(w t - k·r)] + c. c. (A.1)
+w w
+上式で、k は波動ベクトル、c. c. は直前の項の複素共役を表す。exp(±ia ) = cosa ± i sina により上式は実
+数になる。(A.1) 式は、単一の周波数で振動する平面波に対して、マクスウェル方程式に出てくる微分演
+算子 (cid:209) を波動ベクトル k で置き換えられることを使って導かれる。波長を l 、屈折率を n、誘電率を e
+とするとき、次の関係式が成り立つ。
+k = 2p /l = 2n p /l , c = w /k, e = c2k2/w 2, n = ck/w . (A.2)
+0 0
+（下付きの 0 は真空中における値を示す。）
+吸収を持つ媒質では、次の表式が使われる。
+e = 1 + 4p c , c = c ' + ic ",
+n = n(1 + ik ), n2(1 - k 2) = m + 4p m c ', n2k = 2p m c " (A.3)
+(k : attenuation index, extinction index)
+金属に対しては、いくつか異なる屈折率の表示方式がある。たとえば、Born & Wolf の教科書では
+n(1 + ik )、APS のハンドブックでは n - ik と表す。このように、虚数部の符号に２つの取り方があるので
+ある。いずれにしろ、金属表面に複素屈折率を与えれば、Snell の法則を適用することができる。
+Snell の法則を使うときに定義される屈折率 n と屈折角 q を複素数にして、下のような定義が Born &
+2 2
+Wolf の教科書には示されている。下付き1、2 が付いたものは入射側と透過側の値を示す。
+金属表面の屈折率を下のように置き、空気の屈折率を 1 とする；
+n = n(1 + ik ) = n + i nk (A.4)
+2 2 2 2 2 2
+ncosq = u + iv (A.5)
+2 2 2 2
+但し、u と v は下式で定義される実数 ( uv £ 0 ) である。
+2 2 2 2
+(cid:230) 1(cid:246) (cid:236) [ ] [ ] (cid:252)
+u 2=(cid:231) (cid:247) (cid:237) n 2(1- k 2)- n2sin2q 2 + n 2(1- k 2)- n2sin2q 2 2+4n 2k 2(cid:253) (A.6a)
+2 Ł 2 ł (cid:238) 2 2 1 1 2 2 1 1 2 2 (cid:254)
+(cid:230) 1(cid:246) (cid:236) [ ] [ ] (cid:252)
+v 2 =(cid:231) (cid:247) (cid:237) - n 2(1- k 2)- n2sin2q 2 + n 2(1- k 2)- n2sin2q 2 2+4n 2k 2(cid:253) (A.6b)
+2 Ł 2 ł (cid:238) 2 2 1 1 2 2 1 1 2 2 (cid:254)
+膜の和周波 - 35
+(cid:160)
+(cid:160)
+
+===== PDF p.36 =====
+反射と屈折
+界面における光の反射と屈折を考えるときは、屈折角に対して Snell の法則、反射率・透過率に対し
+て Fresnel の係数を用いる。これらはいずれも界面での境界条件から導かれる。即ち、
+k、E、H ベクトルの面内成分は、界面の両側で等しい。
+D ( = e E)、B ( = m H) ベクトルの法線成分は、界面の両側で等しい。
+この時に、入射側界面の光については入射光と反射光のベクトルのベクトル和を、透過側界面の光につい
+ては透過光のベクトルだけを取る。また、薄膜などで反対面からの反射光が入射光に重畳する場合には、
+それからの寄与（即ち膜内で多重反射している光の電場）も加えたものに対して境界条件を適用する。
+[反射係数・透過係数]
+別ファイル「フレネル係数など」で示すように、入射光を s 偏光と p 偏光の２種類に分けて考え、
+入射光の振幅 Ei、Ei に対する反射光および透過光の振幅（Er、Er、Et、Et）の相対比（振幅反射係数、
+s p s p s p
+透過係数）を求めると、次のようになる。（電場振幅の下付き文字は偏光方向を表し、上付き文字は入射
+光 (i)、反射光 (r)、透過光 (t) の区別を表す。振幅反射率および透過率では偏光方向を上付きで表してお
+り、下付きは左側が光が入る側の媒質、右側が透過する側の媒質を表す。）
+（反射係数）
+r s = Es/Es = (k - k )/(k + k ) = (ncosq - ncosq )/(ncosq + ncosq )
+12 r i 1z 2z 1z 2z 1 1 2 2 1 1 2 2
+= -sin(q - q )/sin(q + q )
+1 2 1 2
+r p = Ep/Ep = (e k - e k )/(e k + e k ) = (ncosq - ncosq )/(ncosq + ncosq )
+12 r i 1 2z 2 1z 2 1z 1 2z 1 2 2 1 2 1 1 2
+= -tan(q - q )/tan(q + q ) (A.7)
+1 2 1 2
+（透過係数）
+t s = Es/Es = 2k /(k + k ) = 2ncosq /(ncosq + ncosq )
+12 t i 1z 1z 2z 1 1 1 1 2 2
+= 2cosq sinq /sin(q + q )
+1 2 1 2
+t p = Ep/Ep = 2e k cosq /(e k + e k ) = 2ncosq /(ncosq + ncosq )
+12 t i 1 2z 1 2 1z 1 2z 1 1 2 1 1 2
+= 2cosq sinq /sin(q + q )cos(q - q ) (A.8)
+1 2 1 2 1 2
+（本稿では、r p の符号が Born & Wolf の教科書の出ている式と逆になっている。これは、入射角がブリ
+12
+ュスター角以下のときの電場の面内成分—x, y成分—に対する符号が同じになるようしたためである。）
+e と k を使った表式は、吸収がある媒質や金属表面での反射を扱うときに有用である。
+逆向きに媒質２から媒質１へと進む光に対しては下式が成り立つ。
+r s = -r s , r p = -r p (A.9a)
+21 12 21 12
+t s = (ncosq /ncosq )t s , t p = (ncosq /ncosq )t p (A.9b)
+21 2 2 1 1 12 21 2 2 1 1 12
+膜の和周波 - 36
+
+===== PDF p.37 =====
+界面の内向き法線をｚ軸に、s-偏光の電場の方向にｙ軸を、光の進行方向が正になるようにｘ軸を定義し
+て、電場の軸方向成分に対する係数を求めると次のようになる。
+E = Epcosq , E = Es , E = -Epsinq
+x,i i 1 y,i ri z,i i 1
+E = Epcosq , E = Es, E = Epsinq
+x,r r 1 y,r r z,r r 1
+E = Epcosq , E = Es, E = -Epsinq
+x,t t 2 y,t t z,t t 2
+これより下を得る。
+r x = r p, r y = r s, r z = -r p , (A.10a)
+12 12 12 12 12 12
+r x = -r p, r y = -r s, r z = r p , (A.10b)
+21 12 21 12 21 12
+t x = (cosq /cosq )t p, t y = t s, t z = (sinq /sinq )t p =(n/n) t p (A.11a)
+12 2 1 12 12 12 12 2 1 12 1 2 12
+t x = (n/n)t p, t y = t s, t z = (cosq /cosq ) (n/n)2t p (A.11b)
+21 2 1 12 12 12 12 2 1 2 1 12
+上式は次の関係式を満足する。
+1 + r x = t x, 1 + r y = t y, 1 + r z = (n/n)2t z （電場に対する境界条件）
+12 12 12 12 12 2 1 12
+1 + r sr s = 1 - (r s)2 = t s t s, 1 + r pr p = 1 - (r p)2 = t pt p (A.12)
+12 21 12 12 21 12 21 12 12 21
+因みに、光の強度は n E2cosq に比例するので、ncosq r 2 + ncosq t 2 = ncosq となり、光の強度は保存
+1 1 12 2 2 12 1 1
+される。
+付録 B . 波動のおさらい
+波動は、山／谷のうねりが時間につれて一定の方向に動いて行く運動であるから、空間と時間の両方
+の関数である。山の位置、谷の位置が一平面の上にあるときを平面波、球面上にある時を球面波という。
+(a) ある瞬間に進行方向に沿って取った断面は、サイン曲線になっている。変位は、
+cos(2p z/l ) = cos(kz), l ：波長、 k = 2p /l ： 波数ベクトル、
+を使って表される。
+(b) 一点に立って時間経過を見てやると、時間に対してもサイン関数になっており、
+cos(2p t/T) = cos(w t) = cos(2p n t), T：周期、w ：角周波数、 n = 2p w ： 周波数、
+を使って表される。
+上で示した二つの関数は偶関数である。よって、時間と座標の符号は意味を持たない。時間と空間の両方
+を取り入れた表式を作ってみよう。
+単純に cos(kz)cos(w t) としたのでは、時間とともに山の位置が動いてゆく事実が表現されない。これを
+表現するには、サイン関数の括弧内に空間と時間の両方が入る必要がある。即ち、時間と空間の関係（進
+膜の和周波 - 37
+
+===== PDF p.38 =====
+行方向）を指定するためには次のような式が必要である。
+cos(kz + w t), cos(kz - w t)
+cos(kz + w t) では、kz + w t が一定（例えば 2p ）となっている位置（すなわち定位相点）が、時間につれて z
+が小さくなる方向に動く。一方、cos(kz - w t) では kz - w t が一定な位置は時間につれて z が大きくなる
+方向に動く。波頭の移動速度はともに w /k である。ちなみに、cos(kz)cos(w t) = (1/2)[ cos(kz - w t) + cos(kz + w t)]
+であるから、cos(kz)cos(w t) は定在波を表す。
+波の進行方向に座標軸を取る場合には、cos(kz - w t) を使うのが順当である。光について言えば、その電
+場を次のように表す。
+E(w , z) = E(w )cos(kz - w t) 又は E(w )cos(w t - kz)
+0 0
+（どちらかに決めたら一貫する必要がある。ここでは前者を取る。）
+E(w , z) = E(w )cos(kz - w t) (B.1)
+0
+しばしば、指数関数 eia は次のように三角関数と関係づけられる事を利用して関数変換が行われる。
+eia = cosa + isina , e -ia = cosa - isina 、であるから、
+cosa = (eia + e -ia )/2, sina = -i(eia - e -ia )/2 (B.2)
+（表現法—１）
+E(w )cos(kz - w t) = (1/2)[exp(ikz - iw t) + c.c.]、c.c. は直前にある項の複素共役を表す。
+0
+（表現法—２）
+E(w )cos(kz - w t) = Re[exp(ikz - iw t)]
+0
+eia の実数部と虚数部を表すものとして、Re(eia ) と Im(eia ) の表記が使われる。
+指数関数を使う場合には、次のどちらかを｢約束事｣にする。
+(1) 指数関数 Aexp(ia ) において、観測量にする段階で (1/2)[Aexp(ia ) + A*exp(-ia )] に置き換えて、絶対値
+の２乗はその複素共役との積にする。
+(2) 指数関数 Aexp(ia ) において、観測量にする段階では実数部分だけを採用する。観測量は必ず実数であ
+り、多くの場合に２乗を使って表現する。
+付録 C. 波の伝播
+平面波を想定して、必要な場合を除いて入射光の振幅を1と置いて考えよう。z軸を波の進行方向に取
+る。
+膜の和周波 - 38
+
+===== PDF p.39 =====
+cos(kz - w t) (C.1)
+単一かつ均一な媒質
+｢波が (z , t ) にある｣とは、時空点 (z , t ) で位相が kz - w t = 0 となっていることを意味するものとす
+0 0 0 0 0 0
+る。点 z = z - D z において時刻 t にある波の位相は -kD z である。また、この波の波頭が時刻 t = t + D t に
+0 0 0
+到達する位置は、kz - w t = 0 であるから z = z + (w /k)D t である。光路に沿って波源が存在するときには、
+0
+z - D z にある波源で時刻 t - D z/(w /k) に生成した光が伝播して、時空点 (z , t ) に達したときにそこで生成
+0 0 0 0
+する光とぴったり重なる（位相が同じになる）。時空点 (z - D z, t - D t) における位相は、-kD z + w D t である。
+0 0
+二つの媒質より成る系
+界面は平面であるとする。媒質１側から媒質２との界面に光が入射するものとして、座標軸等を次のよ
+うに定義する。
+原点：光線の入射点に取る。（広がりがある場合にはその中央）
+z 軸：媒質１から媒質２に向けた界面の法線。
+x 軸：界面上でみた光の進行方向にとる。（k ベクトルの界面への射影に合わせる）
+入射角、q ：入射光線が外向き法線（-z 方向）となす角 (0 < q < p /2)。
+i i
+反射角、q ：反射光線が外向き法線（-z 方向）となす角 (0 < q < p /2)。
+r r
+屈折角、q ：透過光線が内向き法線（ z 方向）となす角 (0 < q < p /2)。
+t t
+屈折率を n と n、波動ベクトルの長さを k と k とする。(k = nw /c)。
+1 2 1 2
+Snell の法則により、q = q = q 、q = q とするときには、nsinq = nsinq （ksinq = ksinq ）である。
+i r 1 t 2 1 1 2 2 1 1 2 2
+平面波では、進行方向に垂直な面内にあるすべての点が光電場が同じ位相を取る。進行方向での等位相面
+の間隔が波長で、l = 2p /k = 2p c/w nである。（下図参照）
+原点における電場が Ee-iwt と表される光を考える。
+0
+媒質２内の点 (x,z) を通る光を追跡してみよう。
+(1) この光が界面に入射する位置は (x - ztanq , 0) である。
+2
+(1a) 同じ時刻 t では、原点に入射する光より (x - ztanq )sinq だけ先に進んでいるので、入射点での位相
+2 1
+は原点を通る光より k(x - ztanq )sinq だけ進んでいる。
+1 2 1
+(1b) 逆に、原点と同じ位相は t より (x - ztanq )sinq /(w /k) 後に通過する。
+2 1 1
+(2) 媒質２の内部に入ってから (x, z) 点までの距離は z/cosq である。
+2
+(2a) 界面に入射した時の位相に比べると (x,z) 点の位相は kz/cosq だけ進んでいる。
+2 2
+(2b) 界面に入射してから (x, z) 点に達するまでの経過時間は w z/kcosq である。
+2 2
+(2c) (1a) と Snell の法則をあわせると、原点を通る光の位相 (-w t) に対して、位相が k(xsinq + zcosq ) だ
+2 2 2
+け進んでいる。
+膜の和周波 - 39
+
+===== PDF p.40 =====
+媒質１側の点 (x,-z)、z > 0 を通る反射光を追跡してみよう。
+(3) この光が界面に入射する位置は (x - ztanq , 0) である。
+1
+(3a) 同じ時刻 t では、原点に入射する光より (x - ztanq )sinq だけ先に進んでいるので、入射点での位相
+2 1
+は原点を通る光より k(x - ztanq )sinq だけ進んでいる。
+1 1 1
+(3b) 逆に、原点と同じ位相は t より (x - ztanq )sinq /(w /k) 後に通過する。
+1 1 1
+(4) 反射してからの伝播距離は z/cosq である。
+1
+(4a) 界面で反射した時の位相に比べると、(x, z) 点の位相は kz/cosq だけ進んでいる。
+1 1
+(4b) 界面に入射してから (x, z) 点に達するまでの経過時間は w z/kcosq である。
+1 1
+(4c) (3a)とあわせると、原点を通る光の位相 (-w t) に対して、位相が k(xsinq + zcosq ) だけ進んでいる。
+1 1 1
+媒質-1
+q
+1
+x
+q
+2
+媒質-2
+二つの媒質の間に膜がはさまっている系
+媒質１（入射側、1 と標記する）と媒質２の間に厚さ h の膜 (m) が挟まっている。
+m
+２つの界面はともに平面でしかも互いに平行であるとする。
+原点及び座標軸は上と同じに定義する。
+定義：
+1/m 界面：媒質１と膜の界面で、媒質１側に注目するとき。
+m/1 界面：媒質１と膜の界面で、膜側に注目するとき。
+2/m 界面：媒質２と膜の界面で、媒質２側に注目するとき。
+膜の和周波 - 40
+
+===== PDF p.41 =====
+m/2 界面：媒質２と膜の界面で、膜側に注目するとき。
+n, n, n ：媒質１、媒質２、膜の屈折率
+1 2 m
+k, k, k ：媒質１、媒質２、膜の中での波動ベクトル
+1 2 m
+q , q , q ：媒質１、媒質２、膜の中を進む光の光路が法線に対してなす角
+1 2 m
+t ：媒質１側から膜側に透過する光の電場に対する透過係数。
+1m
+t ：膜側から媒質１側に透過する光の電場に対する透過係数。
+m1
+t ：膜側から媒質２側に透過する光の電場に対する透過係数。
+m2
+r ：媒質１側から来て 1/m 界面で反射する光の電場に対する反射係数。
+1m
+r ：膜側から来て m/1 界面で反射する光の電場に対する反射係数。
+m1
+r ：膜側から来て m/2 界面で反射する光の電場に対する反射係数。
+m2
+上向き (-) 光：m/2 界面から m/1 界面に向かう光
+下向き (+) 光：m/1 界面から m/2 界面に向かう光
+（透過係数と反射係数の表式は、付録 B に記した。）
+入射光が膜内部の点 P に作る電場（下図で、d = h である）
+m
+媒質-1
+q
+1
+P d
+q
+m
+媒質-2
+q
+z
+2
+原点で反射される光に寄与する多重反射光がたどる膜内部の光路（下図で、d = h である）
+m
+膜の和周波 - 41
+
+===== PDF p.42 =====
+媒質-1
+q
+1
+A A A
+3 2 1
+d
+B B
+2 1 q
+m
+媒質-2
+q
+z
+2
+“反射光”は、1/m 界面で反射した光のほかに、一旦膜内部に入って多重反射してから m/1 界面から出
+てくる上向き (-) 光が付け加わる。1/m 界面での境界条件には、この多重反射光を（膜の両側で）加えた
+ものに適用する。
+原点における反射光に含まれる多重反射光の属性は、下の通りである。
+入射点の座標：( -2 h tanq , 0), n = 1, 2, ···.
+m m
+入射点での光路差：-2nh tanq sinq （原点に入る光との位相差：-2nh ktanq sinq ）
+m m 1 m 1 m 1
+原点に達するまでの膜内部での光路長：2nh /cosq 、（位相の進み：2nh k /cosq ）
+m m m m m
+反射光とのネットの位相差：2nh k cosq = 2p nn h cosq /l (ksinq = k sinq を使った)
+m m m m m m 1 1 m m
+（n : 膜の屈折率、l : 波長）
+m
+膜内に入ってから外部に出てくるまでに行う透過と反射：t t r (r r )n - 1
+1m m1 m2 m2 m1
+“反射光”の電場振幅（入射光の振幅を 1 として）は、下式で与えられる。
+r + t t r (cid:229) (r r )n - 1exp(i2p n2n h cosq /l )
+1m 1m m1 m2 n = 1 ~ ¥ m2 m1 m m m
+= r + t t r exp(i2p n 2h cosq /l )/[1 - r r exp(i2p n 2h cosq /l )]
+1m 1m m1 m2 m m m m2 m1 m m m m
+={r + [-r r + t t ]r exp(i2p n 2h cosq /l )}/[1 - r r exp(i2p n 2h cosq /l )]
+1m 1m m1 1m m1 m2 m m m m m2 m1 m m m
+=[r + r exp(i2p n 2h cosq /l )]/[1 - r r exp(i2p n 2h cosq /l )] (C.2)
+1m m2 m m m m2 m1 m m m
+（絶対値の２乗が光の強度になるので、2n h cosq /l の周期で干渉による強度変化が現れる。）
+m m m
+（波数掃引をしたときの縞の間隔は、D n = 1/2n h cosq となる。）
+m m m
+膜内部の点 P において入射光が作る電場（下図で、d = h である）
+m
+膜の和周波 - 42
+
+===== PDF p.43 =====
+媒質-1
+q
+1
+P d
+q
+m
+媒質-2
+q
+z
+2
+原点で反射される光に寄与する加重反射光がたどる膜内部の光路（下図で、d = h である）
+m
+媒質-1
+q
+1
+A A A
+3 2 1
+d
+B B
+2 1 q
+m
+媒質-2
+q
+z
+2
+“透過光”は、膜をすんなり通過する光の他に、一旦膜内部に入って多重反射した上で m/2 界面から出て
+くる光が付け加わる。2/m 界面での境界条件にはこの多重反射光を加えたものに対して適用する。
+点 (h tanq , h ) における透過光に含まれる多重反射光の属性は、下の通りである。
+m m m
+入射点の座標：(-2nh tanq , 0), n = 0, 1, 2, ···.（n = 0 は透過光である。）
+m m
+入射点での光路差：-2nh tanq sinq （原点に入る光との位相差：-2nh ktanq sinq ）
+m m 1 m 1 m 1
+点(h tanq , h )に達するまでの膜内部での光路長：(2n + 1)h /cosq 、
+m m m m m
+（位相の進み：(2n + 1)h k /cosq ）
+m m m
+透過光とのネットの位相差：2nh k cosq = 2p nn h cosq /l (ksinq = k sinq を使った)
+m m m m m m 1 1 m m
+膜内に入ってから出てくるまでに行う透過と反射：t t (r r )n
+1m m2 m2 m1
+“透過光”の電場（入射光の振幅と位相をそれぞれ 1 と e-iw t として）は、下式で与えられる。
+[t t + t t (cid:229) (r r )nexp(in 2p n2h cosq /l )]exp(i2p n h cosq /l )
+1m m2 1m m2 n = 1 ~ ¥ m2 m1 m m m m m m
+膜の和周波 - 43
+
+===== PDF p.44 =====
+= t t exp(i2p n h cosq /l )/[1 - r r exp(i2p n 2h cosq /l )] (C.3)
+1m m2 m m m m2 m1 m m m
+（絶対値の２乗が光の強度になるので、2n h cosq /l の周期で干渉が起こる。）
+m m m
+（波数掃引をしたときの干渉縞の間隔は、D n = 1/2n h cosq となる。）
+m m m
+（反射光の山は透過光の谷になる。）
+“内部光”について
+この用語を、膜の内部に取った点 P における光に対して定義する。膜の内部には下向き (+) 光と上向き (-)
+光の両方が存在する。
+まず、膜内部の任意の点 (x, z)、 0+ < z < h - における 下向き (+) 光と上向き (-) 光について考えよう。
+m
+下向き (+) 光；
+入射する位置：[x - (2nh + z)tanq , 0]、n = 0, 1, 2, ···
+m m
+入射光と原点に入る光との入射点での光路差：[x - (2nh + z)tanq ]sinq 、
+m m 1
+位相差は：k[x - (2nh + z)tanq ]sinq = k [x - (2nh + z)tanq ]sinq
+1 m m 1 m m m m
+入射してからの光路長：(2nh + z)/cosq 、位相の進み：k (2nh + z)/cosq
+m m m m m
+原点に入射する光とのネットの位相差：k [xsinq + (2nh + z)cosq ]
+m m m m
+ネットの電場：t exp[-iw t + ik (xsinq + zcosq )]/[1 - (r r )exp(ik 2h cosq )]
+1m m m m m2 m1 m m m
+m/2 界面から出射する位置：[x + (h - z)tanq , 0]
+m m
+出射点までの距離：(h - z)/cosq 、位相の進み：k (h - z)/cosq
+m m m m m
+上向き (-) 光；
+入射する位置：[x - (2nh - z)tanq , 0]、n = 1, 2, ···.
+m m
+入射光と原点に入る光との入射点での光路差：[x - (2nh - z)tanq ]sinq 、
+m m 1
+位相差は：k[x - (2nh - z)tanq ]sinq = k [x - (2nh - z)tanq ]sinq
+1 m m 1 m m m m
+入射してからの光路長：(2nh - z)/cosq 、位相の進み：k (2nh - z)/cosq
+m m m m m
+原点に入射する光とのネットの位相差：k [xsinq + (2nh - z)cosq ]
+m m m m
+ネットの電場：t r exp[-iw t + ik (xsinq + (2h - z)cosq )]/[1 - (r r )exp(ik 2h cosq )]
+1m m2 m m m m m2 m1 m m m
+m/2 界面から出射する位置：[x + (h + z)tanq , 0]
+m m
+出射点までの距離：(h + z)/cosq 、位相の進み：k (h + z)/cosq
+m m m m m
+次に、原点から媒質１側に出ていく光（m/1 界面で反射すると (h tanq , h ) から媒質２側に出ていく光に
+m m m
+なる）の光路の座標を求めてみよう。深さ z における光路上の点を考え、 上向き(-)光を A、A、A、 ···
+0 1 2
+と表し、下向き (+) 光をB 、B 、B 、···（透過光を考えるときには n = -1 が加わる）と表すとき、それぞ
+0 1 2
+れの点の x 座標は次のようになる。
+A： x = -[2nh + z]tanq 、n = 0, 1, 2, ···.
+n m m
+原点に達するまでの位相の進み：k [2nh + z]/cosq
+m m m
+(h tanq , h ) 点に達するまでの位相の進み：k [(2n + 1)h + z]/cosq
+m m m m m m
+入射光があるとして
+膜の和周波 - 44
+
+===== PDF p.45 =====
+上向き (-) 光の電場：t r exp[-iw t + ik (xsinq + (2h - z)cosq )]/[1 - (r r )exp(ik 2h cosq )]
+1m m2 m m m m m2 m1 m m m
+下向き (+) 光の電場：t exp[-iw t + ik (xsinq + zcosq )]/[1 - (r r )exp(ik 2h cosq )]
+1m m m m m2 m1 m m m
+B ：x = -[2(n + 1)h - z]tanq 、n = (-1), 0, 1, 2, ···.
+n m m
+原点に達するまでの位相の進み：k [2(n + 1)h - z]/cosq
+m m m
+(h tanq , h ) 点に達するまでの位相の進み：k [2(n + 1)h - z]/cosq
+m m m m m m
+入射光があるとして
+上向き (-) 光の電場：t r exp[-iw t + ik (xsinq + (2h - z)cosq )]/[1 - (r r )exp(ik 2h cosq )]
+1m m2 m m m m m2 m1 m m m
+下向き (+) 光の電場：t exp[-iw t + ik (xsinq + zcosq )]/[1 - (r r )exp(ik 2h cosq )]
+1m m m m m2 m1 m m m
+付録 D: 媒質に挟まれた分極シートの L 係数
+本文の (4.29) ~ (4.32) 式は、分極シートから発生した SFG 光が（無限に薄い）シート内で多重反射し
+てから両側の媒質中に出てくるときの電場を分極と関係付ける係数である。シート内部での L 係数である
+(4.33) ~ (4.36) 式をもとにして,このことを証明しておこう。なお、媒質１または媒質２の厚みが有限でそ
+の内部の多重反射が問題になるようなときには、下で示す考え方は不十分で、(4.29) ~ (4.32) 式は厳密には
+使えない。
+媒質１と媒質２の間に挟まれた分極シート m について考える。媒質１側に出てくる SFG 光は上向
+き (-) 光であるが、膜内部で多重反射してから出てくる成分も考慮すると、下のように表される。
+(s 偏光：P に由来する)
+y
+1 r
+E- = [L - P +L + P m2,s ]t
+SF,s m/m,y y1- r r m/m,y y 1- r r m1,s
+m1,s m2,s m1,s m2,s
+P (n cosq +n cosq )(n cosq +n cosq ) 2n cosq
+= y 1 1 m m 2 2 m m m m
+2n cosq 2n cosq (n cosq +n cosq ) (n cosq +n cosq )
+m m m m 1 1 2 2 2 2 m m
+2n cosq
+· m m
+(n cosq +n cosq )
+1 1 m m
+P
+= y =L - P
+(n cosq +n cosq ) 1/2,y y
+1 1 2 2
+(p 偏光：P に由来する成分)
+x
+1 r
+E- (from P) = [L - P +L + P m2,p ]t
+SF,p x m/m,x x1- r r m/m,x x 1- r r m1,p
+m1,p m2,p m1,p m2,p
+cosq (n cosq +n cosq )(n cosq +n cosq ) 2n cosq
+= m P 1 m m 1 2 m m 2 m m
+2n cosq x 2n cosq (n cosq +n cosq ) (n cosq +n cosq )
+m m m m 1 2 2 1 1 m m 1
+2n cosq
+· m 2
+(n cosq +n cosq )
+2 m m 2
+膜の和周波 - 45
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.46 =====
+cosq
+= 2 P =L - P
+(n cosq +n cosq ) x 1/2,x x
+1 2 2 1
+(p 偏光：P に由来する成分)
+z
+1 r
+E- (from P) = [L - P - L + P m2,p ]t
+SF,p z m/m,z z1- r r m/m,z z1- r r m1,p
+m1,p m2,p m1,p m2,p
+sinq (n cosq +n cosq )(n cosq +n cosq ) 2n cosq
+= m P 1 m m 1 2 m m 2 m m
+2n cosq z 2n cosq (n cosq +n cosq ) (n cosq +n cosq )
+m m m m 1 2 2 1 1 m m 1
+2n cosq
+· 2 m
+(n cosq +n cosq )
+2 m m 2
+(n /n )sinq (n /n )2sinq
+= 2 m m P = 2 m 2 P =L - P
+(n cosq +n cosq ) z (n cosq +n cosq ) z 1/2,z z
+1 2 2 1 1 2 2 1
+一方、媒質２側に出てくる SFG 光は下向き (+) 光であるが、膜内部で多重反射してから出てくる成
+分も考慮すると、下のように表される。
+(s 偏光：P に由来する)
+y
+r 1
+E+ = [L - P m1,s +L + P ]t
+SF,s m/m,y y1- r r m/m,y y 1- r r m2,s
+m1,s m2,s m1,s m2,s
+(cid:160) = P y (n 1 cosq 1 +n m cosq m )(n 2 cosq 2 +n m cosq m ) 2n m cosq m
+2n cosq 2n cosq (n cosq +n cosq ) (n cosq +n cosq )
+m m m m 1 1 2 2 2 2 m m
+2n cosq
+· m m
+(n cosq +n cosq )
+1 1 m m
+P
+(cid:160) = y =L + P
+(n cosq +n cosq ) 1/2,y y
+1 1 2 2
+(cid:160)
+(p 偏光：P に由来する成分)
+x
+(cid:160) E+ (from P) = [L - P r m1,p +L + P 1 ]t
+SF,p x m/m,x x1- r r m/m,x x 1- r r m2,p
+m1,p m2,p m1,p m2,p
+(cid:160) = cosq m P (n 1 cosq m +n m cosq 1 )(n 2 cosq m +n m cosq 2 ) 2n m cosq 1
+2n cosq x 2n cosq (n cosq +n cosq ) (n cosq +n cosq )
+m m m m 1 2 2 1 1 m m 1
+2n cosq
+· m m
+(n cosq +n cosq )
+2 m m 2
+cosq
+= 1 P =L + P
+(n cosq +n cosq ) x 1/2,x x
+1 2 2 1
+(p 偏光：P に由来する成分)
+(cid:160) z
+(cid:160) 膜の和周波 - 46
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.47 =====
+r 1
+E+ (from P) = [L - P m1,p +L + P ]t
+SF,p z m/m,z z1- r r m/m,z z 1- r r m2,p
+m1,p m2,p m1,p m2,p
+- sinq (n cosq +n cosq )(n cosq +n cosq ) 2n cosq
+= m P 1 m m 1 2 m m 2 1 m
+2n cosq z 2n cosq (n cosq +n cosq ) (n cosq +n cosq )
+m m m m 1 2 2 1 1 m m 1
+2n cosq
+· m m
+(n cosq +n cosq )
+2 m m 2
+- (n /n )sinq - (n /n )2sinq
+= 1 m m P = 1 m 1 P =L + P
+(n cosq +n cosq ) z (n cosq +n cosq ) z 1/2,z z
+1 2 2 1 1 2 2 1
+q.e.d.
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+膜の和周波 - 47

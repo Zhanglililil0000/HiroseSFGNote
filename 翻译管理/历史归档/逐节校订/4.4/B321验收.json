@@ -1,0 +1,22 @@
+{
+  "batch": "B321",
+  "date": "2026-10-21",
+  "pages": [
+    8,
+    9
+  ],
+  "scope": "第6部分全部7个编号式，保留6.3的混用上标",
+  "source_sha256": "1666fe24701663a09a661d5f4e0c910daa6c8d7bb1d3c180805c3c73debccf69",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B321",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "207aaf3ac0e812ad82b09f829ef61f36a44198b1fc8bd5a22fd20e9c7da0b0fa",
+  "scope_limit": "确认原文覆盖、翻译转录与参考排版；原文理论疑点未因此得到验证。"
+}

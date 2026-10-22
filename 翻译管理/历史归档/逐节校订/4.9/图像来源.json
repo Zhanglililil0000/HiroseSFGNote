@@ -1,0 +1,12 @@
+{
+  "pdf": "日语原版\\Chapter4\\chap4-9.pdf",
+  "page": 1,
+  "pdf_image_objects": [
+    "IMcpdf0.png"
+  ],
+  "asset": "中文版本\\assets\\4.7-p1-diamond-models.png",
+  "pixel_identical_to_own_pdf_image": true,
+  "width": 827,
+  "height": 295,
+  "asset_sha256": "731df2e7210698cbb5aa2ad0ee0d173b0ddcb94ecbdac6b9f4d6ef0cc249e9d4"
+}

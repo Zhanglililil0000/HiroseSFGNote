@@ -1,0 +1,20 @@
+{
+  "batch": "B237",
+  "date": "2026-10-20",
+  "pages": [
+    5,
+    6
+  ],
+  "tags": [
+    "2.12"
+  ],
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "figure_panels": 7,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "math_fragments_this_batch": 14,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "acceptance_scope": "原页对照、完整性、术语与排版；原文疑点未决，不代表已完成理论证明"
+}

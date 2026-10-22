@@ -1,0 +1,28 @@
+{
+  "batch": "B679",
+  "source_sections": 39,
+  "chapters": 8,
+  "source_PDF_pages": 717,
+  "all_39_section_sources_unchanged": true,
+  "preface_before_chars": 17825,
+  "preface_after_chars": 18065,
+  "all_39_section_descriptions_present": true,
+  "batch_status_and_repeated_prompts_removed": true,
+  "original_attribution_message_and_copyright_retained": true,
+  "visible_text_before_chars": 8876,
+  "visible_text_after_chars": 5861,
+  "reader_guide_contains_no_batch_or_question_ids": true,
+  "reader_structure_validated": true,
+  "merged_HTML_rebuilt": true,
+  "visual_review": "序言全页人工检查通过：表格、39节导读、来源与版权均显示完整",
+  "reading_package_batch": "B679",
+  "reading_package_integrity_passed": true,
+  "body_translation_changes": false,
+  "reading_package_browser_validation": {
+    "passed": true,
+    "pages": 12,
+    "image_references": 327,
+    "failed_requests": 0
+  },
+  "visual_evidence": "B679阅读包显示/序言全页.png"
+}

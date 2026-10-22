@@ -1,0 +1,441 @@
+{
+  "batch": "B382",
+  "scope": "CH₂基团及平面HCCH基团（C₂ᵥ对称），反对称伸缩振动",
+  "pages": [
+    18,
+    19
+  ],
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "equations": [
+    {
+      "indices": "XXX",
+      "polarization": "ppp",
+      "lines": [
+        "-(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(3\\cos \\chi  + \\cos 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi  - \\cos 3\\chi )(1 - \\cos 2\\phi )]",
+        "- 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          241.2
+        ],
+        [
+          18,
+          258.2
+        ]
+      ]
+    },
+    {
+      "indices": "XZZ",
+      "polarization": null,
+      "lines": [
+        "(1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi (1 + \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          275.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZXZ",
+      "polarization": null,
+      "lines": [
+        "(1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi (1 + \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          292.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZZX",
+      "polarization": null,
+      "lines": [
+        "\\beta_{caa}[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi (1 + \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\varpi]"
+      ],
+      "locations": [
+        [
+          18,
+          308.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZXX",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi )]",
+        "+ (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          325.2
+        ],
+        [
+          18,
+          342.2
+        ]
+      ]
+    },
+    {
+      "indices": "XZX",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi )]",
+        "+ (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          359.2
+        ],
+        [
+          18,
+          375.2
+        ]
+      ]
+    },
+    {
+      "indices": "XXZ",
+      "polarization": null,
+      "lines": [
+        "-(1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi ) - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          392.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZZZ",
+      "polarization": null,
+      "lines": [
+        "\\beta_{caa}(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )"
+      ],
+      "locations": [
+        [
+          18,
+          409.2
+        ]
+      ]
+    },
+    {
+      "indices": "YXX",
+      "polarization": "spp",
+      "lines": [
+        "(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi  - \\sin 3\\chi )(1 - \\cos 2\\phi )]",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          442.2
+        ],
+        [
+          18,
+          459.2
+        ]
+      ]
+    },
+    {
+      "indices": "YZZ",
+      "polarization": null,
+      "lines": [
+        "-(1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi (1 + \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          476.2
+        ]
+      ]
+    },
+    {
+      "indices": "YZX",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [ - \\sin ^{2}\\theta  + (1 -",
+        "3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          493.2
+        ],
+        [
+          18,
+          509.2
+        ]
+      ]
+    },
+    {
+      "indices": "YXZ",
+      "polarization": null,
+      "lines": [
+        "(1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi (1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          526.2
+        ]
+      ]
+    },
+    {
+      "indices": "YYX",
+      "polarization": "ssp",
+      "lines": [
+        "(1/4)\\beta_{caa}\\{[-(\\sin \\theta  - \\sin ^{3}\\theta )(1 + \\cos 2\\phi ) + \\sin \\theta (1 - \\cos 2\\phi )](\\cos \\chi  - \\cos 3\\chi )",
+        "+ 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          560.2
+        ],
+        [
+          18,
+          576.2
+        ]
+      ]
+    },
+    {
+      "indices": "YYZ",
+      "polarization": null,
+      "lines": [
+        "-(1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          593.2
+        ]
+      ]
+    },
+    {
+      "indices": "XYX",
+      "polarization": "psp",
+      "lines": [
+        "(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi  - \\sin 3\\chi )(1 - \\cos 2\\phi )]",
+        "+ 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          627.2
+        ],
+        [
+          18,
+          643.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZYZ",
+      "polarization": null,
+      "lines": [
+        "-(1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi (1 + \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          660.2
+        ]
+      ]
+    },
+    {
+      "indices": "XYZ",
+      "polarization": null,
+      "lines": [
+        "(1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi (1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          18,
+          677.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZYX",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [-\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          694.2
+        ]
+      ]
+    },
+    {
+      "indices": "YXY",
+      "polarization": "sps",
+      "lines": [
+        "-((1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi  + \\cos 3\\chi )(1 - \\cos 2\\phi )]",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          18,
+          727.2
+        ],
+        [
+          18,
+          744.2
+        ]
+      ]
+    },
+    {
+      "indices": "YZY",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[\\cos \\theta (1 - \\cos 2\\chi \\cos 2\\phi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 + \\cos 2\\phi )]",
+        "- (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          19,
+          74.2
+        ],
+        [
+          19,
+          91.2
+        ]
+      ]
+    },
+    {
+      "indices": "XXY",
+      "polarization": "pps",
+      "lines": [
+        "(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(1 + \\cos 2\\phi ) - \\sin \\theta (1 - \\cos 2\\phi )](\\sin \\chi  + \\sin 3\\chi )",
+        "+ 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          19,
+          124.2
+        ],
+        [
+          19,
+          141.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZZY",
+      "polarization": null,
+      "lines": [
+        "-\\beta_{caa}[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi (1 + \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+      ],
+      "locations": [
+        [
+          19,
+          158.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZXY",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          19,
+          174.2
+        ]
+      ]
+    },
+    {
+      "indices": "XZY",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          19,
+          191.2
+        ]
+      ]
+    },
+    {
+      "indices": "XYY",
+      "polarization": "pss",
+      "lines": [
+        "-(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi  + \\cos 3\\chi )(1 - \\cos 2\\phi )]",
+        "+ 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          19,
+          225.2
+        ],
+        [
+          19,
+          241.2
+        ]
+      ]
+    },
+    {
+      "indices": "ZYY",
+      "polarization": null,
+      "lines": [
+        "(1/4)\\beta_{caa}\\{2[\\cos \\theta (1 - \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 + \\cos 2\\phi )]",
+        "- (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          19,
+          258.2
+        ],
+        [
+          19,
+          275.2
+        ]
+      ]
+    },
+    {
+      "indices": "YYY",
+      "polarization": "sss",
+      "lines": [
+        "(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(3\\sin \\chi  - \\sin 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi  + \\sin 3\\chi )(1 - \\cos 2\\phi )]",
+        "+ 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi \\}"
+      ],
+      "locations": [
+        [
+          19,
+          292.2
+        ],
+        [
+          19,
+          308.2
+        ]
+      ]
+    }
+  ],
+  "single_component_equalities": 27,
+  "source_corrections_adopted": false,
+  "extraction_method": "PDF字形横纵坐标识别上/下标，逐原页视觉核对；跨页续行按同一左式归组",
+  "status": "本批原页对照、译校与参考排版完成",
+  "render": {
+    "batch": "B382",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "817d9b10e5357a0561ca37f7e21c3b055e3400266d47825a9118699cceac8321",
+  "validation_limit": "保留原式疑点；未声称已完成独立物理验证。"
+}

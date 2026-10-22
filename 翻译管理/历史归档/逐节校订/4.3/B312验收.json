@@ -1,0 +1,21 @@
+{
+  "batch": "B312",
+  "date": "2026-10-21",
+  "pages": [
+    25
+  ],
+  "scope": "第6部分全部7个编号式6.1—6.5c，独立对照本节p25",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B312",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "87c62b71a03eed70d63136349d0cb7ee76228e258c7a0ffce4bf50e1936503be",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

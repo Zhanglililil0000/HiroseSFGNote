@@ -1,0 +1,20 @@
+{
+  "batch": "B131",
+  "date": "2026-10-20",
+  "source_pages": [
+    7,
+    8
+  ],
+  "source_sha256": "3f6eeee4f3418c4a89181b0c0142b95aee1adda31fb6e94a7c100fd000f58be2",
+  "content": "背界面内侧反射/透射，12b跨页",
+  "equation_tags": [
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "source_page_images_visually_checked": true,
+  "render_screenshot_visually_checked": true,
+  "adopted_source_corrections": false,
+  "new_named_formula_abbreviations": false
+}

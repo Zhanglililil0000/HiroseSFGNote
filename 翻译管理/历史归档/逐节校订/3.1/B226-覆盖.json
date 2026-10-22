@@ -1,0 +1,16 @@
+{
+  "batch": "B226",
+  "date": "2026-10-20",
+  "pages": [
+    50,
+    51
+  ],
+  "units": "三层系和频极化3.33—3.34",
+  "tags": [
+    "3.33",
+    "3.34"
+  ],
+  "source_formula_corrections_adopted": false,
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f"
+}

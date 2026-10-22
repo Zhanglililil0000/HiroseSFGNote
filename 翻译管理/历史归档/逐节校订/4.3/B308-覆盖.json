@@ -1,0 +1,13 @@
+{
+  "batch": "B308",
+  "date": "2026-10-21",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "scope": "5a随机面内平均与三种模式全部表项、无信号项",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

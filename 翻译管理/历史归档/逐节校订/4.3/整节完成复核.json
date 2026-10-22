@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-21",
+  "section": "4.3",
+  "status": "全节译校完成，原文疑点待核",
+  "source_pages": 26,
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "translation_sha256": "2921bfc8a98b858788a886ace253f6d1d95f13d62cda2a72cafb3f93930c02f8",
+  "batches": "B295—B313",
+  "numbered_equations": 30,
+  "tensor_table_component_occurrences": 356,
+  "math_fragments": 899,
+  "math_syntax_errors": 0,
+  "formula_overflows": 0,
+  "open_source_issues": "Q146—Q159",
+  "source_formula_corrections_adopted": false,
+  "next_batch": "B314，4.4原题、结构及CH局部约定核验"
+}

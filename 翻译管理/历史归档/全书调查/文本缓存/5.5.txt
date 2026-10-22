@@ -1,0 +1,386 @@
+===== PDF p.1 =====
+座標変換におけるテンソル成分の変換行列
+座標変換におけるテンソル成分の変換関係は、次元数によらず階数によって定義される変換行列で整理することができる。位置ベクトルの変換行列をDとし
+てそれを示そう。Dの行列式を （ = |D|）とするとき、鏡映や回映といったpseudo rotationに対しては  = -1 である。 が問題になる基底は、対称操作に含
+まれるpseudo rotationに依存する。（別ファイル「テンソルの基底」で * 印を付けてある。）
+T = T(0) + T(1) + T(2) + T(3) + T(4) + … と表し、変換後のテンソル成分を T' とする。
+点群（原点は移動しない対称操作から作られる群）では、すべての対称操作は座標回転または座標回転と反転の積として定義することができる。座標系の回
+転と鏡映操作にについて、xy面での鏡映はx軸まわりの180˚ 回転（R ()と表す）に続けて反転を行うことで表され、この180˚ 回転とオイラー角の間には下の
+
+ような対応関係がある。（2回目の回転を y 軸まわりに行うとして）
+R ():  = 0、 = 、 = 
+x
+同様にして、xy 面に垂直で x軸と  の角をなす面での鏡映は、xy面上のx軸との角が  の軸のまわりでの180˚ 回転（R ()）と反転の積に対応する。この
+
+とき、
+R ():  = 0、 = 、 =  - 
+
+
+である。このように、鏡映及び回映操作は回転と反転の積である。反転はすべての座標の符号を逆転する。例えば、xy 面での鏡映には R()、xz 面での鏡映に
+z
+は R ()に、yz 面での鏡映には R () がそれぞれ対応する。C 対称の C 、 、 は、それぞれ R ()、R()、R() に対応付けられる。C の 2C と 3 は、
+y x 2v 2,b ab bc b c a 3v 3 v
+それぞれ R(2/3）とR ()である。このようにして、すべての点群及びより一般化した置換反転群の対称操作は回転操作と対応付けることが出来る。従って、
+z y
+以下に示す変換行列は使いでのあるものである。
+本稿で示す変換行列はユニタリー行列になっている。よって転置行列が逆行列に等しいので、逆変換に利用できる。
+変換行列(基底) - 1
+
+===== PDF p.2 =====
+座標ベクトル（テンソルとして扱うときには1次元テンソルの1階成分である）の変換に対する変換行列を上で示したようにDとするときに、座標の2乗積
+が作る2次元テンソルの1階成分（角運動量ベクトル）に対する変換行列Dは下のようになる。
+D = 
+D D - D D D D - D D  D D - D D 
+Yy Zz Yz Zy Yz Zx Yx Zz Yx Zy Yy Zx
+D D - D D  D D - D D  D D - D D 
+Zy Xz Zz Xy Zz Xx Zx Xz Zx Xy Zy Xx
+D D - D D  D D - D D  D D - D D 
+Xy Yz Xz Yy Xz Yx Xx Yz Xx Yy Xy Yx
+
+この行列要素は行列Dの行列要素を 倍したものであることが、次のようにしてわかる。（1）Dの転置行列とDの積を作ってみると、対角要素が 、非対角要
+素がゼロとなることがわかるであろう。即ち、D の転置行列は D の逆行列に定数倍したものである。（2）行列の教科書で言えば D は D の余因子行列の (j,i)
+i,j
+成分になっているが、余因子行列はDの逆行列に行列式を掛けたものである。よって行列DはDの逆行列の転置行列になっている。
+変換行列Dはユニタリー行列で、転置行列は逆行列に等しい。したがってDはDを 倍したものである。
+ゼロ階テンソルの変換係数は、偶数次元のときには1になり、成分はスカラー量である。しかし、奇数次元の場合には（Dによる変換とDのDによる変換の
+重ね合わせになるので）倍になり、対称操作によっては –1倍となる擬スカラーになる。（全対称ではなくなる）
+2次元テンソル以上での変換については、これらを1次元テンソルの積み上げとして作る操作から変換性を導くことが出来る。
+以下に示す変換行列は、この様な考察によって整理したものである。
+変換行列(基底) - 2
+
+===== PDF p.3 =====
+（0階テンソル）
+T'(0) = T(0) .
+0 0
+（3次元、5次元、7次元…テンソルでは  倍になる。但し、 = |D| ）
+（1階テンソル）
+ T(1) T(1)  T(1) 
+1b 1a 0
+T'(1) D  D   D 
+1b Xx Xy Xz
+T'(1)   D   D   D 
+1a Yx Yy Yz
+ T'(1)   D   D   D 
+0 Zx Zy Zz
+（2次元、4次元、6次元…テンソルでは  倍になる。）
+（2階テンソル）
+T(2) T(2) T(2) T(2) T(2)
+2b 2a 1b 1a 0
+T'(2) (/2)(D 2 + D 2 - D 2 - D 2) (D D - D D ) (D D - D D ) (D D - D D ) (√3/2)(D 2 - D 2)
+2b Xx Yy Xy Yx Xx Xy Yx Yy Xz Xx Yz Yx Xy Xz Yy Yz Xz Yz
+T'(2) (D D - D D ) (D D + D D ) (D D + D D ) (D D + D D ) √3D D
+2a Xx Yx Xy Yy Xx Yy Xy Yx Xz Yx Xx Yz Xy Yz Xz Yy Xz Yz
+T'(2) (D D - D D ) (D D + D D ) (D D + D D ) (D D + D D ) √3D D
+1b Zx Xx Zy Xy Zx Xy Zy Xx Zz Xx Zx Xz Zy Xz Zz Xy Xz Zz
+T'(2) (D D - D D ) (D D + D D ) (D D + D D ) (D D + D D ) √3D D
+1a Yx Zx Yy Zy Yx Zy Yy Zx Yz Zx Yx Zz Yy Zz Yz Zy Yz Zz
+T'(2) (√3/2)(D 2 - D 2) √3D D √3D D √3D D (/2)(3D 2 - 1)
+0 Zx Zy Zx Zy Zx Zz Zy Zz Zz
+（3次元、5次元、7次元…テンソルでは 倍になる。）
+変換行列(基底) - 3
+
+===== PDF p.4 =====
+3、4階テンソルの変換行列を簡略化する都合上、上で示したT(2) に対する変換行列を次のように略記する。
+T(2) T(2) T(2) T(2) T(2)
+2b 2a 1b 1a 0
+T'(2) (XX/xx) (XX/xy) (XX/zx) (XX/yz) (XX/zz)
+2b
+T'(2) (XY/xx) (XY/xy) (XY/zx) (XY/yz) (XY/zz)
+2a
+T'(2) (ZX/xx) (ZX/xy) (ZX/zx) (ZX/yz) (ZX/zz)
+1b
+T'(2) (YZ/xx) (YZ/xy) (YZ/zx) (YZ/yz) (YZ/zz)
+1a
+T'(2) (ZZ/xx) (ZZ/xy) (ZZ/zx) (ZZ/yz) (ZZ/zz)
+0
+（3階テンソル-1）（4次元、6次元…テンソルでは 倍になる）
+T(3) T(3) T(3) T(3)
+3b 3a 2b 2a
+T'(3) 3b (/4){D Xx [1 - 5D Zz 2 + 8(XX/xx)+2(D Xz 2 - D Yz 2) (/4){D Xy [1 - 5D Zz 2 - 8(XX/xx) + 2(D Xz 2 - D Yz 2) (√6/2)[D Xz (XX/xx) - D Yz (XY/xx)] -(√6/2)[D Xz (XX/xy) - D Yz (XY/xy)]
++ 2(D 2 - D 2)] +6D D D } - 2(D 2D 2)] + 6D D D }
+Zx Zy Xz Zx Zz Zx Zy Xz Zy Zz
+T'(3) 3a (/4){D Yx [1 - 5D Zz 2 - 8(XX/xx) - 2(D Xz 2 - D Yz 2) (/4){D Yy [1-5D Zz 2 + 8(XX/xx) - 2(D Xz 2 - D Yz 2) -(√6/2)[D Xz (XY/xx) + D Yz (XX/xx)] (√6/2)[D Xz (XY/xy) + D Yz (XX/xy)]
++ 2(D 2-D 2)] + 6D D D } - 2(D 2-D 2)] + 6D D D }
+Zx Zy Yz Zx Zz Zx Zy Yz Zy Zz
+T'(3) 2b (√6/2) [D Zx (XX/xx) - D Zy (XX/xxy)] -(√6/2)[D Zx (XX/xy) + D Zy (XX/xx)] D Zz [(XX/xx) - (D Xz 2-D Yz 2)] [D Zz (XX/xy) + 2D Xz (Zx/xy)
+- 2D (XX/yz) + 2D D D ]
+Zy Zx Zy Zz
+T'(3)
+2a (√6/2)[-D Zx (XY/xx) + D Zy (XY/xy)] (√6/2)D Zx (XY/xy) + D Zy (XY/xx)] Zz (XY/xx) + 2D Zx (XY/zx) [D Xz (YZ/xy) + D Yz (ZX/xy)
++ 2D D D ] + D (XY/xy)]
+Xz Yz Zz Zz
+T'(3) 1b -(√15/4){D Xx [1 - D Zz 2 + 2(D Zx 2 - D Zy 2)] (√15/4){D Xy [1 - D Zz 2 + 2(D Zx 2 - D Zy 2)] -(√10/4)[D Xz (D Zx 2 - D Zy 2) (√10/2)[D Xz D Zy D Zx + D Zz (ZX/xy)]
++ 2D D D } - 2D D D } + 2D (ZX/xx)]
+Xz Zx Zz Xz Zy Zz Zz
+T'(3) 1a -(√15/4){D Yx [1 - D Zz 2 + 2(D Zx 2 - D Zy 2)] -(√15/4){D Yy [1 - D Zz 2 - 2(D Zx 2 - D Zy 2)] -(√10/4)[D Yz (D Zx 2 - D Zy 2) (√10/2)[D Yz D Zx D Zy + D Zz (YZ/xy)}
++2D D D } + 2D D D } + 2D (YZ/xx)]
+Yz Zx Zz Yz Zy Zz Zz
+T'(3) 0 -(√10/4)[D Zx [1 - D Zz 2 - 2(D Zx 2 - D Zy 2)] -(√10/4){D Zy [1 - D Zz 2 + 2(D Zx 2 - D Zy 2)] (√15/2)[D Zz (D Zx 2 - D Zy 2)] -(√15)D Zx D Zy D Zz
+変換行列(基底) - 4
+
+===== PDF p.5 =====
+（3階テンソル-2）（4次元、6次元…テンソルでは  倍になる）
+T(3) T(3) T(3)
+1b 1a 0
+T'(3) 3b -(√15/4){D Xx [1 - D Zz 2 + 2(D Xz 2 - D Yz 2)] -(√15/4){D Xy [1 - D Zz 2 + 2(D Xz 2 - D Yz 2)] -(√10/4) D Xz [1 - D Zz 2 - 2(D Xz 2 - D Yz 2)]
++ 2D D D } + 2D D D }
+Xz Zx Zz Xz Zy Zz
+T'(3) 3a -(√15/4){D Yx [1 - D Zz 2 - 2(D Xz 2 - D Yz 2)] -(√15/4){D Yy [1 - D Zz 2 - 2(D Xz 2 - D Yz 2)] -(√10/4) D Yz [1 - D Zz 2 + 2(D Xz 2 - D Yz 2)]
++ 2D D D } + 2D D D }
+Yz Zx Zz Yz Zy Zz
+T'(3) 2b -(√10/4)[D Zx (D Xz 2 - D Yz 2) + 2D Zz (XX/zx)] -(√10/4)[D Zy (D Xz 2 - D Yz 2) + 2D Zz (XX/yz)] (√15/2)D Zz (D Xz 2 - D Yz 2)
+T'(3)
+2a (√10/2)[D Xz D Yz D Zx + D Zz (XY/zx)} (√10/2)[D Xz D Yz D Zy + D Zz (XY/yz)] -(√15)D Xz D Yz D Zz
+T'(3) 1b -(/4)[D Xx (1 - 5D Zz 2) - 10D Xz D Zx D Zz } -(/4)[D Xy (1 - 5D Zz 2) - 10D Xz D Zy D Zz }] (√6/4)D Xz (1 - 5D Zz 2)
+T'(3) 1a -(/4)[D Yx (1 - 5D Zz 2) - 10D Yz D Zx D Zz } -(/4)[D Yy (1 - 5D Zz 2) - 10D Yz D Zy D Zz ] (√6/4) D Yz (1 - 5D Zz 2)
+T'(3) 0 (√6/4)D Zx (1 - 5D Zz 2) (√6/4)D Zy (1 - 5D Zz 2) -(/2)D Zz (3 - 5D Zz 2)
+
+変換行列(基底) - 5
+
+===== PDF p.6 =====
+（4階テンソル-1）（5次元、7次元、9次元…テンソルでは 倍になる）
+T(4) T(4) T(4) T(4)
+4b 4a 3b 3a
+T'(4) 4b (1/8){1 + 6D Zz 2 + D Zz 4 - 8(XX/xy) 2 (1/2){D Zx D Zy (D Zx 2 - D Zy 2) (√2/4){2(XX/zx)[(D Xz 2 - D Yz 2) + 4(XX/xx)] (√2/4){2(XX/yz)[(D Xz 2 - D Yz 2) - 4(XX/xx)]
+- 8(XY/xx) 2} - 4(XX/xy)(XX/xx)} + D D [5 - D 2 - 2(D 2 - D 2)]} + D D [5 - D 2 + 2(D 2 - D 2)]}
+Zx Zz Zz Zx Zy Zy Zz Zz Zx Zy
+T'(4) 4a (1/2){D Xz D Yz (D Xz 2 - D Yz 2) -(1/2){D Zz 2(1 + D Zz 2) (√2/4){(XY/zx)[(D Xz 2 - D Yz 2) - 8(XX/xx)] (√2/4){(XY/yz)[(D Xz 2 - D Yz 2)
+- 4(XX/xx)(XY/xx)} - 4(XY/xy)(XX/xx)} - 6D D (XX/zx) + 8(XX/xx)]-6D D (XX/yz)
+Xz Yz Xz Yz
+- 2D [1 + D 2 - (D 2 - D 2)]} + 2D [1 + D 2 + (D 2 - D 2)]}
+Zy Zz Zx Zy Zx Zz Zx Zy
+T'(4) 3b (√2/4){2(XZ/xx)[ (D Zx 2 - D Zy 2) (√2/4){(ZX/xy)[(D Zx 2 - D Zy 2) (1/4){(ZX/zx)[11 + 2D Zz 2 + 16(XX/xx) (1/4){(ZX/yz)[11 + 2D Zz 2 - 16(XX/xx)
++ 4(XX/xx)] - 8(XX/xx)] - 6D D (ZX/xx) + 4(D 2 - D 2) + 4(D 2 - D 2)] + 4(D 2 - D 2) - 4(D 2 - D 2)]
+Zx Zy Xz Yz Zx Zy Xz Yz Zx Zy
++ D D [5 - D 2 - 2(D 2 - D 2)]} - 2D [1 + D 2 - (D 2 - D 2)]} + D [8 - 25D 2 - 8(XX/xx) - D [8 - 25D 2 + 8(XX/xx)
+Xz Zz Zz Xz Yz Yz Zz Xz Yz Yy Zz Yx Zz
++ 10(D 2 - D 2) + 10(D 2 - D 2)]} + 10(D 2 - D 2) - 10(D 2 - D 2)]}
+Xz Yz Zx Zy Xz Yz Zx Zy
+T'(4) 3a (√2/4){2(Yz/xx)[(D Zx 2 - D Zy 2) (√2/4){(YZ/xy)[(D Zx 2 - D Zy 2) (1/4){(YZ/zx)[11 + 2D Zz 2 - 16(XX/xx) (1/4){(YZ/yz)[11 + 2D Zz 2 + 16(XX/xx)
+- 4(XX/xx)] + 8(XX/xx)] - 6D D (YZ/xx) - 4(D 2 - D 2) + 4(D 2 - D 2)] -4(D 2 - D 2) - 4(D 2 - D 2)]
+Zx Zy Xz Yz Zx Zy Xz Yz Zx Zy
++ D D [5 - D 2 + 2(D 2 - D 2)]} + 2D [1 + D 2 + (D 2 - D 2)]} - D [8 - 25D 2 + 8(XX/xx) + D [8 - 25D 2 - 8(XX/xx)
+Yz Zz Zz Xz Yz Xz Zz Xz Yz Xy Zz Xx Zz
+- 10(D 2 - D 2) + 10(D 2 - D 2)]} - 10(D 2 - D 2) - 10(D 2 - D 2)]}
+Xz Yz Zx Zy Xz Yz Zx Zy
+T'(4) 2b (√7/2){2D Zx D Zy (XX/xy) (√7/2){2D Zx D Zy (XX/xx) -(√14/4){(XX/zx)[1 + D Zz 2 + 2(D Zx 2 - D Zy 2)] -(√14/4){(XX/yz)[1 + D Zz 2 - 2(D Zx 2 - D Zy 2)]
+- (D 2 - D 2)(XX/xx)} + (D 2 - D 2)(XX/xy)} + D D [4(XX/xx) + (D 2 - D 2)]} - D D [4(XX/xx) - (D 2 - D 2)]}
+Zx Zy Zx Zy Zx Zy Xz Yz Zy Zz Xz Yz
+T'(4) 2a (√7/2){D Xz D Yz (1 + D Zz 2) (√7/2){2D Zx D Zy (XY/xx) -(√14/4){(XY/zx)[1 + D Zz 2 + 2(D Zx 2 - D Zy 2)] -(√14/4){(XY/yz)[1 + D Zz 2 - 2(D Zx 2 - D Zy 2)]
+- 2(D 2 - D 2)(XY/xx)} + (D 2 - D 2)(XY/xy)} + D D [4(XY/xx) + 2D D ]} - D D [4(XY/xx) - 2D D ]}
+Zx Zy Zx Zy Zx Zz Xz Yz Zy Zz Xz Yz
+T'(4) 1b (√14/4){D Xz D Zz (1 - D Zz 2) -(√14/4){(ZX/xy)(D Zx 2 - D Zy 2) -(√7/4){(ZX/zx)[1 - D Zz 2 - 2(D Zx 2 - D Zy 2)] -(√7/4){(ZX/yz)[1 - D Zz 2 + 2(D Zx 2 - D Zy 2)]
++ 2(D 2 - D 2)(ZX/xx)} + 2(D D (ZX/xx)} - D D [4(ZX/xx) + 2D D ]} + D D [4(ZX/xx) - 2D D ]}
+Zx Zy ZX Zy Zx Zz Xz Zz Zy Zz Xz Zz
+T'(4) 1a (√14/4){D Yz D Zz (1 - D Zz 2) -(√14/4){(YZ/xy)(D Zx 2 - D Zy 2) -(√7/4){(YZ/zx)[1 - D Zz 2 - 2(D Zx 2 - D Zy 2)] -(√7/4){(YZ/yz)[1 - D Zz 2 + 2(D Zx 2 - D Zy 2)]
++ 2(D 2 - D 2)(YZ/xx)} + 2(D D (YZ/xx)} - D D [4(YZ/xx) + 2D D ]} + D D [4(YZ/xx) - 2D D ]}
+Zx Zy ZX Zy Zx Zz Yz Zz Zy Zz Yz Zz
+T'(4) 0 - (√35/8)[(1 - D Zz 2)2 - 8D Zx 2D Zy 2] (√35/2)D Zx D Zy (D Zx 2 - D Zy 2) (√70/4)D Zx D Zz [1 - D Zz 2 - 2(D Zx 2 - D Zy 2)] (√70/4)D Zy D Zz [1 - D Zz 2 + 2(D Zx 2 - D Zy 2)]
+変換行列(基底) - 6
+
+===== PDF p.7 =====
+（4階テンソル-2）（5次元、7次元、9次元…テンソルでは 倍になる）
+T(4) T(4) T(4) T(4) T(4)
+2b 2a 1b 1a 0
+T'(4) 4b (√7/2){2D Xz D Yz (XY/xx) (√7/2){D Zx D Zy (1 + D Zz 2) (√14/4){(XX/zx)(D Xz 2 - D Yz 2) (√14/4){((XX/yz)(D Xz 2 - D Yz 2) -(√35/8)[(1 - D Zz 2)2
+- (D 2-D 2)(XX/xx)} - 2(D 2 - D 2)(XX/xy)} - 2D D (XY/zx)} - 2D D (XY/yz)} - 8D 2D 2]
+Xz Yz Xz Yz Xz Yz Xz Yz Xz Yz
+T'(4) 4a (√7/2){2D Xz D Yz (XX/xx) (√7/2){2D Xz D Yz (XX/xy) (√14/4){(XY/zx)(D Xz 2 - D Yz 2) -(√14/4){((XY/yz)(D Xz 2 - D Yz 2) (√35/2)D Xz D Yz (D Xz 2 - D Yz 2)
++ (D 2 - D 2)(XY/xx)} + (D 2 - D 2)(XY/xy)} + 2D D (XX/zx)} + 2D D (XX/yz)}
+Xz Yz Xz Yz Xz Yz Xz Yz
+T'(4) 3b -(√14/4){(XZ/xx)[1 + D Zz 2 -(√14/4){(ZX/xy)[1 + D Zz 2 -(√7/4){(ZX/zx)[1 - D Zz 2 -(√7/4){(ZX/yz)[1 - D Zz 2 (√70/4)D Xz D Zz [1 - D Zz 2
++ 2(D 2 - D 2)] + 2(D 2 - D 2)] - 2(D 2 - D 2)] - 2(D 2 - D 2)] - 2(D 2 - D 2)]
+Xz Yz Xz Yz Xz Yz Xz Yz Xz Yz
++ D D [4(XX/xx) + (D 2 - D 2)]} + D D [4(XX/xy) + 2(D 2 - D 2)]} - D D [4(XX/zx) + 2D D ]} - D D [4(XX/yz) + 2D D ]}
+Xz Zz Zx Zy Xz Zz Zx Zy Xz Zz Zx Zz Xz Zz Zy Zz
+T'(4) 3a -(√14/4){(Yz/xx)[1 + D Zz 2 -(√14/4){(YZ/xy)[1 + D Zz 2 -(√7/4){(YZ/zx)[1 - D Zz 2 -(√7/4){(YZ/yz)[1 - D Zz 2 (√70/4)D Yz D Zz [1-D Zz 2
+- 2(D 2 - D 2)] - 2(D 2 - D 2)] + 2(D 2 - D 2)] + 2(D 2 - D 2)] +2(D 2-D 2)]
+Xz Yz Xz Yz Xz Yz Xz Yz Xz Yz
+- D D [4(XX/xx) - (D 2 - D 2)]} - D D [4(XX/xy) - 2D D ]} + D D [4(XX/zx) - 2D D ]} + D D [4(XX/yz) - 2D D ]}
+Yz Zz Zx Zy Yz Zz Zx Zy Yz Zz Zx Zz Yz Zz Zy Zz
+T'(4) 2b (1/4){7(D Zx 2 - D Zy 2)(D Xz 2 - D Yz 2) (1/2){7D Zx D Zy (D Xz 2 - D Yz 2) (√2/4){(1 - 7D Zz 2)(XX/zx) (√2/4){(1 - 7D Zz 2)(XX/yz) -(√5/4)(1 - 7D Zz 2)(D Xz 2 - D Yz 2)
++ 2(7D 2 - 5)(XX/xx)} - (5 - 7D 2)(XX/xy)} - 7D D (D 2–D 2)} - 7D D (D 2 - D 2)}
+Zz Zz Zx Zz Xz Yz Zy Zz Xz Yz
+T'(4) 2a (1/2){7D Xz D Yz (D Zx 2 - D Zy 2) (1/2){14D Xz D Yz D Zx D Zy (√2/4){(1 - 7D Zz 2)(XY/zx) (√2/4){(1 - 7D Zz 2)(XY/yz) -(√5/2)(1 - 7D Zz 2)D Xz D Yz
+- (5-7D 2)(XY/xx)} - (5 - 7D 2)(XY/xy)} - 14D D D D } - 14D D D D }
+Zz Zz Xz Yz Zx Zz Xz Yz Zy Zz
+T'(4) 1b (√2/4){(1 - 7D Zz 2)(ZX/xx) (√2/4){(1-7D Zz 2)(ZX/xy) -(1/4){(3 - 7D Zz 2)(ZX/zx) -(1/4){(3 - 7D Zz 2)(ZX/yz) (√10/4)(3-7D Zz 2)D Xz D Zz
+- 7D D (D 2 - D 2)} - 14D D D D } - 14D D D 2} - 14D D D 2}
+Xz Zz Zx Zy Xz Zx Zy Zz Xz Zx Zz Xz Zy Zz
+T'(4) 1a (√2/4){(1 - 7D Zz 2)(YZ/xx) (√2/4){(1 - 7D Zz 2)(YZ/xy) (1/4){(3 - 7D Zz 2)(YZ/zx) -(1/4){(3 - 7D Zz 2)(YZ/yz) (√10/4)(3 - 7D Zz 2)D Yz D Zz
+- 7D D (D 2 - D 2)} - 14D D D D } - 14D D D 2} - 14D D D 2}
+Yz Zz Zx Zy Yz Zx Zy Zz Yz Zx Zz Yz Zy Zz
+T'(4) 0 -(√5/4)(1 - 7D Zz 2)(D Zx 2 - D Zy 2) -(√5/2)(1 - 7D Zz 2)D Zx D Zy (√10/4)(3 - 7D Zz 2)D Zx D Zz (√10/4)(3 - 7D Zz 2)D Zy D Zz (1/8)(3 - 30 D Zz 2 + 35 D Zz 4)
+(AB/cd) = D D + D D , (AB/xx) = D D - D D , (XX/ab) = D D - D D , (XX/xx) = (1/2)(D 2 + D 2 - D 2 - D 2)
+Ac Bd Ad Bc Ax Bx Ay By Xa Xb Ya Yb Xx Yy Xy Yx
+変換行列(基底) - 7
+
+===== PDF p.8 =====
+座標回転（オイラー角で表したとき）における変換行列: D = R () R () R ()
+Z y z
+（１階テンソル）
+ T(1) T(1)  T(1) 
+1b 1a 0
+T'(1) cos coscos- sinsin cos sincos+ sincos -cossin
+1b
+T'(1)  -sin coscos- cossin -sin sincos+ coscos sinsin
+1a
+ T'(1)  cossin  sinsin cos
+0
+
+（2階テンソル）
+T(2) T(2) T(2) T(2) T(2)
+2b 2a 1b 1a 0
+T'(2) 2b (1/4){cos2cos2(cos2+ 3) (1/4){cos2sin2(cos2+ 3)  -(1/2){cos2cossin2 -(1/2){cos2sinsin2 -(√3/4){cos2 (cos2- 1)}
+- 4sin2sin2cos +4sin2cos2cos - 2sin2sinsin + 2sin2cossin
+T'(2)
+2a -(1/4){sin2cos2(cos2+ 3) -(1/4){sin2sin2(cos2+ 3) (1/2){sin2cossin2 (1/2){sin2sinsin2 +(√3/4){sin2 (cos2- 1)}
++4cos2sin2cos - 4cos2cos2cos + 2cos2sinsin - 2cos2cossin
+T'(2) 1b (1/2){coscos2sin2 (1/2){cossin2sin2 coscoscos2 cossincos2 -(√3/2)cossin2
+- 2sinsin2sin + 2sincos2sin - sinsincos + sincoscos
+T'(2)
+1a -(1/2){sincos2sin2 -(1/2){sinsin2sin2 -sincoscos2 -sinsincos2 (√3/2)sinsin2
++ 2cossin2sin - 2coscos2sin - cossincos + coscoscos
+T'(2)
+0 -(√3/4){cos2 (cos2- 1)} -(√3/4){sin2 (cos2- 1)} (√3/2)cossin2 (√3/2)sinsin2 (1/4)(3 cos2+ 1)
+変換行列(基底) - 8
+
+===== PDF p.9 =====
+（3階テンソル-1/2）
+T(3) T(3) T(3) T(3)
+3b 3a 2b 2a
+T'(3)
+3b (1/16){cos3cos3(cos3+ 15cos) -(1/16){cos3sin3(cos3+ 15cos) -(√6/16){cos3cos2(sin3+ 5sin) (√6/16){cos3sin2(sin3+ 5sin)
+- sin3sin3(6cos2+ 10)} + sin3cos3(6cos2+ 10)} - sin3sin2(4sin2)} + sin3cos2(4sin2)}
+T'(3)
+3a (1/16){sin3cos3(cos3+ 15cos) -(1/16){sin3sin3(cos3+ 15cos) -(√6/16){sin3cos2(sin3+ 5sin) (√6/16){sin3sin2(sin3+ 5sin)
++ cos3sin3(6cos2+ 10)} -cos3cos3(6cos2+ 10)} + cos3sin2(4sin2)} - cos3cos2(4sin2)}
+T'(3)
+2b (√6/16){cos2cos3(sin3+ 5sin) -(√6/16){cos2sin3(sin3+ 5sin) (1/8){cos2cos2(3cos3+ 5cos) -(1/8){cos2sin2(3cos3+ 5cos)
+- sin2sin3(4sin2)} + sin2cos3(4sin2)} - sin2sin2(8cos2)} + sin2cos2(8cos2)}
+T'(3)
+2a (√6/16){sin2cos3(sin3+ 5sin) -(√6/16){sin2sin3(sin3+ 5sin) (1/8){sin2cos2(3cos3+ 5cos) -(1/8){sin2sin2(3cos3+ 5cos)
++ cos2sin3(4sin2)} - cos2cos3(4sin2)} + cos2sin2(8cos2)} - cos2cos2(8cos2)}
+T'(3)
+1b (√15/16){coscos3(cos3- cos) -(√15/16){cossin3(cos3- cos) -(√10/16){coscos2(3sin3 -sin) (√10/16){cossin2(3sin3 - sin)
+- sinsin3(2cos2- 2)} + sincos3(2cos2- 2)} - sinsin2(4sin2)} + sincos2(4sin2)}
+T'(3)
+1a -(√15/16){sincos3(cos3- cos) (√15/16){sinsin3(cos3- cos) (√10/16){sincos2(3sin3 -sin) -(√10/16){sinsin2(3sin3 - sin)
++ cossin3(2cos2- 2)} - coscos3(2cos2- 2)} + cossin2(4sin2)} - coscos2(4sin2)}
+T'(3)
+0 -(√10/16)cos3(sin3- 3sin) (√10/16)sin3(sin3- 3sin) -(√15/8)cos2(cos3 - cos) (√15/8)sin2(cos3 - cos)
+変換行列(基底) - 9
+
+===== PDF p.10 =====
+（3階テンソル-2/2）
+T(3) T(3) T(3)
+1b 1a 0
+T'(3)
+3b (√15/16){cos3cos(cos3- cos) (√15/16){cos3sin(cos3- cos) (√10/16)cos3(sin3- 3sin)
+- sin3sin(2cos2- 2)} + sin3cos(2cos2- 2)}
+T'(3)
+3a (√15/16){sin3cos(cos3- cos) (√15/16){sin3sin(cos3- cos) (√10/16)sin3(sin3- 3sin)
++ cos3sin(2cos2- 2)} - cos3cos(2cos2- 2)}
+T'(3)
+2b (√10/16){cos2cos(3sin3 - sin) (√10/16){cos2sin(3sin3 -sin) -(√15/8){cos2(cos3 - cos)}
+- sin2sin(4sin2)} + sin2cos(4sin2)}
+T'(3)
+2a (√10/16){sin2cos(3sin3 - sin) +(√10/16){sin2sin(3sin3 - sin) -(√15/8){sin2(cos3 - cos)}
++ cos2sin(4sin2)} - cos2cos(4sin2)}
+T'(3)
+1b (1/16){coscos(15cos3+ cos) (1/16){cossin(15cos3+ cos) (√6/16)cos(5sin3 + sin)
+- sinsin(10cos2+ 6)} + sincos(10cos2+ 6)}
+T'(3)
+1a -(1/16){sincos(15cos3+ cos) -(1/16){sinsin(15cos3+ cos) -(√6/16)sin(5sin3 + sin)
++ cossin(10cos2+ 6)} - coscos(10cos2+ 6)}
+T'(3)
+0 -(√6/16)cos(5sin3 + sin) -(√6/16)sin(5sin3 + sin) (1/8)(5cos3 + 3cos)
+変換行列(基底) - 10
+
+===== PDF p.11 =====
+（4階テンソル-1/3）
+T(4) T(4) T(4) T(4)
+4b 4a 3b 3a
+T'(4)
+4b (1/64){cos4cos4(cos4 + 28cos2+ 35) -(1/64){cos4sin4(cos4 + 28cos2 -(√2/32){cos4cos3(sin4+ 14sin2) (√2/32){cos4sin3(sin4+ 14sin2)
+- sin4sin4(8cos3+ 56cos + 35) + sin4cos4(8cos3+ 56cos - sin4sin3(6sin3 + 14sin)} + sin4cos3(6sin3 + 14sin)}
+T'(4)
+4a (1/64){sin4cos4(cos4 + 28cos2+ 35) -(1/64){sin4sin4(cos4 + 28cos2 -(√2/32){sin4cos3(sin4+ 14sin2) (√2/32){sin4sin3(sin4+ 14sin2)
++ cos4sin4(8cos3+ 56cos + 35) - cos4cos4(8cos3+ 56cos + cos4sin3(6sin3 + 14sin)} - cos4cos3(6sin3 + 14sin)}
+T'(4)
+3b (√2/32){cos3cos4(sin4+ 14sin2) -(√2/32){cos3sin4(sin4+ 14sin2) (1/16){cos3cos3(2cos4+ 14cos2) -(1/16){cos3sin3(2cos4+ 14cos2)
+- sin3sin4(6sin3 + 14sin)} + sin3cos4(6sin3 + 14sin)} - sin3sin3(9cos3+ 7cos)} + sin3cos3(9cos3+ 7cos)}
+T'(4)
+3a (√2/32){sin3cos4(sin4+ 14sin2) -(√2/32){sin3sin4(sin4+ 14sin2) (1/16){sin3cos3(2cos4+ 14cos2) -(1/16){sin3sin3(2cos4+ 14cos2)
++ cos3sin4(6sin3 + 14sin)} - cos3cos4(6sin3 + 14sin)} + cos3sin3(9cos3+ 7cos)} - cos3cos3(9cos3+ 7cos)}
+T'(4)
+2b (√7/32){cos2cos4(cos4+ 4cos2-) -(√7/32){cos2sin4(cos4+ 4cos2 -(√14/16){cos2cos3(sin4+ 2sin2) (√14/16){cos2sin3(sin4+ 2sin2)
+- sin2sin4(4cos3 - 4cos)} -) + sin2cos4(4cos3 - 4cos)} - sin2sin3(3sin3 - sin)} + sin2cos3(3sin3 - sin)}
+T'(4)
+2a -(√7/32){sin2 cos4(cos4+ 4cos2-) (√7/32){sin2sin4(cos4+ 4cos2 (√14/16){sin2cos3(sin4+ 2sin2) -(√14/16){sin2sin3(sin4+ 2sin2)
+ + cos2sin4(4cos3 - 4cos)} -) - cos2cos4(4cos3 - 4cos)} + cos2sin3(3sin3 - sin)} - cos2cos3(3sin3 - sin)}
+T'(4)
+1b -(√14/32){coscos4(sin4 - 2sin2) (√14/32){cos sin4(sin4 - 2sin2) -(√7/16){ coscos3(2cos4- 2cos2) (√7/16){ cossin3(2cos4- 2cos2)
+- sinsin4(2sin3 - 6sin)} + sincos4(2sin3 - 6sin)} - sinsin3(3cos3 - 3cos)} + sincos3(3cos3 - 3cos)}
+T'(4)
+1a (√14/32){sincos4(sin4 - 2sin2) -(√14/32){sinsin4(sin4 - 2sin2) (√7/16){ sincos3(2cos4- 2cos2) -(√7/16){ sinsin3(2cos4- 2cos2)
++ cossin4(2sin3 - 6sin)} - coscos4(2sin3 - 6sin)} + cossin3(3cos3 - 3cos)} +coscos3(3cos3 - 3cos)}
+T'(4)
+0 (√35/64)cos4(cos4 - 4cos2 + 3) (√35/64)sin4(cos4 - 4cos2 + 3) (√70/32)cos3(sin4 - 2sin2) -(√70/32)sin3(sin4 - 2sin2)
+変換行列(基底) - 11
+
+===== PDF p.12 =====
+（4階テンソル-2/3）
+T(4) T(4) T(4) T(4)
+2b 2a 1b 1a
+T'(4)
+4b (√7/32){cos4cos2(cos4+ 4cos2 (√7/32){cos4sin2(cos4+ 4cos2 (√14/32){cos4cos(sin4 - 2sin2) (√14/32){cos4sin(sin4 - 2sin2)
+ - ) - sin4sin2(4cos3 - 4cos)} - ) + sin4cos2(4cos3 - 4cos)} - sin4sin(2sin3 - 6sin)} + sin4cos(2sin3 - 6sin)}
+T'(4)
+4a (√7/32){sin4cos2(cos4+ 4cos2 (√7/32){sin4sin2(cos4+ 4cos2 -(√14/32){sin4cos(sin4 - 2sin2) (√14/32){sin4sin(sin4 - 2sin2)
+ - ) + cos4sin2(4cos3 - 4cos)}  - ) - cos4cos2(4cos3 - 4cos)} + cos4sin(2sin3 - 6sin)} - cos4cos(2sin3 - 6sin)}
+T'(4)
+3b (√14/16){cos3cos2(sin4+ 2sin2) (√14/16){cos3sin2(sin4+ 2sin2) -(√7/16){cos3 cos(2cos4 - 2cos2) -(√7/16){cos3sin(2cos4 - 2cos2)
+- sin3sin2(3sin3 - sin)} + sin3cos2(3sin3 - sin)} - sin3sin(3cos3 - 3cos)} + sin3cos(3cos3 - 3cos)}
+T'(4)
+3a (√14/16){sin3cos2(sin4 + 2sin2) (√14/16){sin3sin2(sin4+ 2sin2) -(√7/16){sin3cos(2cos4 - 2cos2) -(√7/16){sin3sin(2cos4 - 2cos2)
++ cos3sin2(3sin3 - sin)} - cos3cos2(3sin3 - sin)} + cos3sin(3cos3 - 3cos)} + cos3cos(3cos3 - 3cos)}
+T'(4)
+2b (1/16){cos2cos2(7cos4+ 4cos2 (1/16){cos2sin2(7cos4+ 4cos2 (√2/16){cos2cos(7sin4 - 2sin2) (√2/16){cos2sin(7sin4 - 2sin2)
+) - sin2sin2(14cos3 + 2cos)} ) + sin2cos2(14cos3 + 2cos)} - sin2sin(7sin3 + 3sin)} + sin2cos(7sin3 + 3sin)}
+T'(4)
+2a -(1/16){sin2cos2(7cos4+ 4cos2 -(1/16){sin2 sin2(7cos4+ 4cos2 -(√2/16){sin2cos(7sin4 - 2sin2) -(√2/16){sin2sin(7sin4 - 2sin2)
+) + cos2sin2(14cos3 + 2cos)} ) – cos2cos2(14cos3 + 2cos)} + cos2sin(7sin3 + 3sin)} - cos2cos(7sin3 + 3sin)}
+T'(4)
+1b -(√2/16){coscos2(7sin4 - 2sin2) -(√2/16){cossin2(7sin4 - 2sin2) (1/16){cos cos(14cos4+ 2cos2) (1/16){cossin(14cos4+ 2cos2)
+- sinsin2(7sin3 + 3sin)} + sincos2(7sin3 + 3sin)} - sinsin(7cos3 + 9cos)} + sincos(7cos3 + 9cos)}
+T'(4)
+1a (√2/16){sincos2(7sin4 - 2sin2) (√2/16){sinsin2(7sin4 - 2sin2) -(1/16){sincos(14cos4+ 2cos2) -(1/16){sinsin(14cos4+ 2cos2)
++ cossin2(7sin3 + 3sin)} - coscos2(7sin3 + 3sin)} + cossin(7cos3 + 9cos)} - coscos(7cos3 + 9cos)}
+T'(4)
+0 -(√5/32)cos2(7cos4 - 4cos2 - 3) -(√5/32)sin2(7cos4 - 4cos2 - 3) - (√10/32)cos(7sin4 + 2sin2) -(√10/32)sin(7sin4 + 2sin2)
+変換行列(基底) - 12
+
+===== PDF p.13 =====
+（4階テンソル-3/3）
+T(4)
+0
+T'(4)
+4b (√35/64)cos4(cos4 - 4cos2 + 3)
+T'(4)
+4a -(√35/64)sin4(cos4 - 4cos2 + 3)
+T'(4)
+3b -(√70/32)cos3(sin4 - 2sin2)
+T'(4)
+3a -(√70/32)sin3(sin4 - 2sin2)
+T'(4)
+2b -(√5/32)cos2(7cos4 - 4cos2 - 3)
+T'(4)
+2a (√5/32)sin2(7cos4 - 4cos2 - 3)
+T'(4)
+1b (√10/32)cos(7sin4 + 2sin2)
+T'(4)
+1a -(√10/32)sin(7sin4 + 2sin2)
+T'(4)
+0 (1/64)(35cos4 + 20 cos2 + 9)
+変換行列(基底) - 13

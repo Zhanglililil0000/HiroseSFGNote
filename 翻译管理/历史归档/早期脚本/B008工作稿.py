@@ -1,0 +1,67 @@
+from pathlib import Path
+import shutil,re
+r=Path('HiroseSFGNote').resolve();p=r/'中文版本/第一章 SFG快速入门/1.1 红外-可见光和频振动光谱（SFG）入门.md';o=r/'翻译管理/校订记录/1.1';s=p.read_text(encoding='utf-8');assert not (o/'B008-修订前.md').exists();shutil.copy2(p,o/'B008-修订前.md')
+a=s.index('**（三阶极化－1：双波长光引起的四波混合）**');b=s.index('\\tag{12}',a);c=s.index('$$',b)+2;(o/'式12-旧译候选.txt').write_text(s[a:c]+'\n',encoding='utf-8')
+draft=r'''# B008：式（12）分组核对工作稿
+
+> **状态：仅定义、总系数和第1主组已对照。整式（12）未完成，不作为正式译文。**
+>
+> 底本为1.1 PDF p5—7；本批实际核对p5三阶标题、定义及第1组，后两页只定位结构。下面的 $T_1$ 是译者工作标识，原文没有这个符号，不属于原公式新增定义。
+
+## 定义及总系数
+
+原文标题为“三阶极化－1：双波长光引起的四波混合”。定义为
+
+$$
+\chi^{(3)}_{ijkl}(\omega=2\omega_1+\omega_2)
+=\frac{P_i^{(3)}(\omega=2\omega_1+\omega_2)}{E_j(\omega_1)E_k(\omega_1)E_l(\omega_2)}.
+$$
+
+整体公共系数为 $-Ne^4/\hbar^3$，求和指标为 $g,n,n',n''$。这只是整式开头的结构记录，不代表其他主组已经核验；本稿不另加原文没有写出的占据因子。
+
+## 第1主组（PDF p5）
+
+此工作标识所代表的内容，不包含上面的总系数与求和：
+
+$$
+\begin{aligned}
+T_1={}&\frac{(r_l)_{ng}}{\omega_2-\omega_{ng}+i\Gamma_{ng}}
+\left[
+\begin{aligned}
+&\frac{(r_j)_{n'n}}{\omega_1+\omega_2-\omega_{n'g}+i\Gamma_{n'g}}
+\left[
+\frac{(r_i)_{gn''}(r_k)_{n''n'}}{2\omega_1+\omega_2-\omega_{n''g}+i\Gamma_{n''g}}
+-\frac{(r_k)_{gn''}(r_i)_{n''n'}}{2\omega_1+\omega_2-\omega_{n'n''}+i\Gamma_{n'n''}}
+\right]\\[8pt]
+&+\frac{(r_k)_{n'n}}{\omega_1+\omega_2-\omega_{n'g}+i\Gamma_{n'g}}
+\left[
+\frac{(r_i)_{gn''}(r_j)_{n''n'}}{2\omega_1+\omega_2-\omega_{n''g}+i\Gamma_{n''g}}
+-\frac{(r_j)_{gn''}(r_i)_{n''n'}}{2\omega_1+\omega_2-\omega_{n'n''}+i\Gamma_{n'n''}}
+\right]\\[8pt]
+&+\frac{(r_j)_{gn''}}{\omega_1+\omega_2-\omega_{nn''}+i\Gamma_{nn''}}
+\left[
+\frac{(r_k)_{n''n'}(r_i)_{n'n}}{2\omega_1+\omega_2-\omega_{nn'}+i\Gamma_{nn'}}
+-\frac{(r_i)_{n''n'}(r_k)_{n'n}}{2\omega_1+\omega_2-\omega_{n'n''}+i\Gamma_{n'n''}}
+\right]\\[8pt]
+&+\frac{(r_k)_{gn''}}{\omega_1+\omega_2-\omega_{nn''}+i\Gamma_{nn''}}
+\left[
+\frac{(r_j)_{n''n'}(r_i)_{n'n}}{2\omega_1+\omega_2-\omega_{nn'}+i\Gamma_{nn'}}
+-\frac{(r_i)_{n''n'}(r_j)_{n'n}}{2\omega_1+\omega_2-\omega_{n'n''}+i\Gamma_{n'n''}}
+\right]
+\end{aligned}
+\right].
+\end{aligned}
+$$
+
+四个子项在外方括号内相加，每个内方括号为前一分式减后一分式。所有13个分母中的阻尼项均为 $+i\Gamma$。本批对照未发现旧译第1主组的实质符号差异。
+
+## 后续核对计划
+
+- B009：PDF p6第2、3、4主组（12个子项），逐项核对后加入工作稿。
+- B010：p6末第5组、p7首第6组，再合并检查总系数、求和和整式括号；通过后统一替换正文式（12），按实际进展调整批次。
+- 式（13）尚未处理。此工作稿不进入已核验完整公式语料，正文的旧式（12）暂保持原样。
+'''
+(o/'B008-式12工作稿.md').write_text(draft,encoding='utf-8')
+notice='\n> **式（12）工作进度：** B008已核对定义及第1主组，分组工作稿保存在翻译管理中；正文式（12）尚未整体校订，不计为完成。\n'
+assert '式（12）工作进度' not in s;p.write_text(s[:a]+notice+'\n'+s[a:],encoding='utf-8')
+print('B008 working draft created; formal eq12 and remainder unchanged; explicit partial status added.')

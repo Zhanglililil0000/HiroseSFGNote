@@ -1,0 +1,22 @@
+{
+  "batch": "B120",
+  "pages": [
+    6,
+    9
+  ],
+  "labels": [
+    "C.2",
+    "C.3"
+  ],
+  "images": [
+    "../assets/ch02/s03/ch02-s03-fig02.png",
+    "../assets/ch02/s03/ch02-s03-fig03.png",
+    "../assets/ch02/s03/ch02-s03-fig04.png",
+    "../assets/ch02/s03/ch02-s03-fig05.png"
+  ],
+  "page_compared": true,
+  "math_syntax_passed": true,
+  "render_overflows": [],
+  "all_images_loaded": true,
+  "source_formula_correction_adopted": false
+}

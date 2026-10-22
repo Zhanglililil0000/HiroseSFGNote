@@ -1,0 +1,11 @@
+{
+  "batch": "B679",
+  "files": 447,
+  "local_dependencies": 2260,
+  "missing_dependencies": [],
+  "39_source_sections_byte_identical": true,
+  "owned_unchanged_stale_generated_files_removed": [],
+  "zip_bytes": 40349249,
+  "zip_sha256": "22d89d910085007ff661e80391bf05e335a5b06fa1b238ac58ad158285ccb03c",
+  "zip_integrity_passed": true
+}

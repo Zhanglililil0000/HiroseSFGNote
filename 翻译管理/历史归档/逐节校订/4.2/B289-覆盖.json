@@ -1,0 +1,12 @@
+{
+  "batch": "B289",
+  "date": "2026-10-21",
+  "pages": [
+    13,
+    14
+  ],
+  "scope": "5a面内随机平均与全对称/简并两张分量表",
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

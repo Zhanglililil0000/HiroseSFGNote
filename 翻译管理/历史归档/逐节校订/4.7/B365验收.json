@@ -1,0 +1,27 @@
+{
+  "batch": "B365",
+  "date": "2026-10-21",
+  "pages": [
+    1,
+    2
+  ],
+  "scope": "原题、局部导读、原结构图及完整第1部分绪论",
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "independent_figures": 1,
+  "status": "本批覆盖、译校与参考排版验收完成",
+  "render": {
+    "batch": "B365",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": [
+      {
+        "loaded": true
+      }
+    ]
+  },
+  "translation_sha256": "d7409f509112894f88717100ba0ac49e5171ab17608f98d44f925064ceaa1c4c",
+  "scope_limit": "第1、2部分及原图；第3部分起未核，不作整节验收。"
+}

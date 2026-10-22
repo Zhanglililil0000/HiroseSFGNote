@@ -1,0 +1,28 @@
+{
+  "batch": "B385",
+  "source_sha256": "cfc4caf877fc58737bfa36560a8804c007d4a98af48700132b2e76b78dba6774",
+  "source_lines_and_locations": [],
+  "source_corrections_adopted": false,
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "tensor_left_sides": [],
+  "source_images_visually_checked": true,
+  "translation_sha256": "b4e7eae04abf99d82f8f54ec281bff274cb302b130b97a9b10de4f9a70581d90",
+  "status": "本批原页对照、译校、覆盖与参考排版验收完成",
+  "date": "2026-10-21",
+  "render": {
+    "batch": "B385",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": [
+      {
+        "loaded": true
+      }
+    ]
+  },
+  "validation_limit": "数学语法和版式通过不等于原稿公式已完成独立物理证明。"
+}

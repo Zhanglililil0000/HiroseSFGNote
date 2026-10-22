@@ -1,0 +1,663 @@
+{
+  "batch": "B405",
+  "source_sha256": "e7c54d9f08011b72a5fb257ad3863540de889e65644548e1cef440b667d3171f",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          6,
+          157.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXX} = [(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  - \\beta_{bbc}]\\sin \\tau \\sin ^{3}\\chi  - \\beta_{aac}\\sin \\tau \\sin \\chi \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          174.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZZ} = (\\beta_{bbc} - \\beta_{ccc})\\sin \\tau \\cos ^{2}\\tau \\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          190.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXZ} = (\\beta_{bbc} - \\beta_{ccc})\\sin \\tau \\cos ^{2}\\tau \\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          207.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZX} = -[(\\beta_{bbc} - \\beta_{ccc})\\sin \\tau \\cos ^{2}\\tau  + \\beta_{ccc}\\sin \\tau ]\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          224.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXX} = -(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\sin ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          240.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZX} = -(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\sin ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          257.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXZ} = [(\\beta_{bbc} - \\beta_{ccc})\\cos ^{2}\\tau  + \\beta_{ccc}]\\cos \\tau \\sin ^{2}\\chi  + \\beta_{aac}\\cos \\tau \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          274.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZZ} = -[(\\beta_{bbc} - \\beta_{ccc})\\cos ^{2}\\tau  - \\beta_{bbc}]\\cos \\tau"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          290.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXX} = (1/4)[(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  + (\\beta_{aac} - \\beta_{bbc})]\\sin \\tau \\sin ^{2}\\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          307.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZZ} = (\\beta_{bbc} - \\beta_{ccc})\\sin \\tau \\cos ^{2}\\tau \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          324.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZX} = (\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          340.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXZ} = [(\\beta_{bbc} - \\beta_{ccc})\\cos ^{2}\\tau  - (\\beta_{aac} - \\beta_{ccc})]\\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          357.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYX} = [(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  + (\\beta_{aac} - \\beta_{bbc})]\\sin \\tau \\sin \\chi \\cos ^{2}\\chi  - \\beta_{aac}\\sin \\tau \\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          374.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYZ} = [(\\beta_{bbc} - \\beta_{ccc})\\cos ^{2}\\tau  + \\beta_{ccc}]\\cos \\tau \\sin ^{2}\\chi  + \\beta_{aac}\\cos \\tau \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          390.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYX} = [(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  + (\\beta_{aac} - \\beta_{bbc})]\\sin \\tau \\sin ^{2}\\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          407.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYZ} = (\\beta_{bbc} - \\beta_{ccc})\\sin \\tau \\cos ^{2}\\tau \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          424.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYZ} = [(\\beta_{bbc} - \\beta_{ccc})\\cos ^{2}\\tau  - (\\beta_{aac} - \\beta_{bbc})]\\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          440.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYX} = (\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          457.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXY} = [(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  + (\\beta_{aac} - \\beta_{bbc})]\\sin \\tau \\sin \\chi \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          473.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZY} = -(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          490.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXY} = [(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  + (\\beta_{aac} - \\beta_{bbc})]\\sin \\tau \\sin ^{2}\\chi \\cos \\chi  - \\beta_{aac}\\sin \\tau \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          507.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZY} = -[(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  + \\beta_{ccc}]\\sin \\tau \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          523.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXY} = -(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          540.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZY} = -(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          557.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYY} = [(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  + (\\beta_{aac} - \\beta_{bbc})]\\sin \\tau \\sin \\chi \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          573.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYY} = -(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau \\cos \\tau \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          590.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYY} = [(\\beta_{bbc} - \\beta_{ccc})\\sin ^{2}\\tau  - \\beta_{bbc})]\\sin \\tau \\cos ^{3}\\chi  - \\beta_{aac}\\sin \\tau \\sin ^{2}\\chi \\cos \\chi (6c-1)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          640.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXX} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          657.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          673.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          690.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZX} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          707.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXX} = \\beta_{caa}\\cos \\tau \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          723.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZX} = \\beta_{caa}\\cos \\tau \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          740.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          757.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          91.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXX} = 2\\beta_{caa}\\sin \\tau \\sin ^{2}\\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          107.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          124.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZX} = -\\beta_{caa}\\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          140.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          157.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYX} = 2\\beta_{caa}\\sin \\tau \\sin \\chi \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          174.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          190.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYX} = 2\\beta_{caa}\\sin \\tau \\sin ^{2}\\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          207.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          224.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYZ} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          240.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYX} = -\\beta_{caa}\\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          257.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXY} = 2\\beta_{caa}\\sin \\tau \\sin \\chi \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          274.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZY} = \\beta_{caa}\\cos \\tau \\sin ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          290.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXY} = 2\\beta_{caa}\\sin \\tau \\sin ^{2}\\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          307.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZY} = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          324.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXY} = -\\beta_{caa}\\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          340.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZY} = -\\beta_{caa}\\cos \\tau \\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          357.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYY} = 2\\beta_{caa}\\sin \\tau \\sin \\chi \\cos ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          374.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYY} = \\beta_{caa}\\cos \\tau \\sin ^{2}\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          390.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYY} = -2\\beta_{caa}\\sin \\tau \\sin ^{2}\\chi \\cos \\chi (6c-2)"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "pages": [
+    6,
+    7
+  ],
+  "tensor_left_sides": [
+    "XXX",
+    "XZZ",
+    "ZXZ",
+    "ZZX",
+    "ZXX",
+    "XZX",
+    "XXZ",
+    "ZZZ",
+    "YXX",
+    "YZZ",
+    "YZX",
+    "YXZ",
+    "YYX",
+    "YYZ",
+    "XYX",
+    "ZYZ",
+    "XYZ",
+    "ZYX",
+    "YXY",
+    "YZY",
+    "XXY",
+    "ZZY",
+    "ZXY",
+    "XZY",
+    "XYY",
+    "ZYY",
+    "YYY",
+    "XXX",
+    "XZZ",
+    "ZXZ",
+    "ZZX",
+    "ZXX",
+    "XZX",
+    "XXZ",
+    "ZZZ",
+    "YXX",
+    "YZZ",
+    "YZX",
+    "YXZ",
+    "YYX",
+    "YYZ",
+    "XYX",
+    "ZYZ",
+    "XYZ",
+    "ZYX",
+    "YXY",
+    "YZY",
+    "XXY",
+    "ZZY",
+    "ZXY",
+    "XZY",
+    "XYY",
+    "ZYY",
+    "YYY"
+  ],
+  "source_images_visually_checked": true,
+  "translation_sha256": "391c4c603f97c40079929fb1036963a8f3f9613bfaf2d524b78fc460eab37cad"
+}

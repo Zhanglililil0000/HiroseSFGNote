@@ -1,0 +1,17 @@
+{
+  "batch": "B135",
+  "date": "2026-10-20",
+  "pages": [
+    1,
+    2
+  ],
+  "equation_tags": [
+    "2.1",
+    "2.3"
+  ],
+  "source_p2_visually_checked": true,
+  "reflection_chain_rows": 4,
+  "transmission_chain_complete": true,
+  "unreviewed_tail_unchanged": true,
+  "source_corrections_adopted": false
+}

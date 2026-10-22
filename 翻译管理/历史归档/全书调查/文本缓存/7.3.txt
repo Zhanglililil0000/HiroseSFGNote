@@ -1,0 +1,146 @@
+===== PDF p.1 =====
+付録 B：(20)式の導出
+バルクは等方的であるとするから、膜内部の電場も波動ベクトルに垂直である。入射側には入射光
+と反射光があり、透過側には透過光しかない。入射側では、入射等と反射光を上付きi とrで区別して、
+電場をEi, Er、磁場をHi, Hrと表す。透過光については電場をEt、磁場をHtと表すが、膜の内部では
+i i i i i i
+透過光と反射光の両方があるので、電場をE i, E r、磁場をH i, H rと表す。（但し、膜の内部では多
+m m m m
+重反射もあり得るので、入射側から透過側に向かう光に上付きt を付け、反対に入射側に戻る光に上付
+きrを付けると表現する方が厳密である。）
+さて、それぞれの光に対して H = (c/w )k · E であり、また、k = 0選んでいるから、下の関係が成
+y
+り立つ。
+H = -(c/w )kE
+x z y
+H = (c/w )(kE - kE)
+y z x x z
+H = (c/w )kE (B1)
+z x y
+光路及び電場ベクトルを下図のように取ることにする。
+ki r E ip r x E jp t
+E
+mp
+r kj
+q
+Emp t j
+q i q m
+z
+q
+i
+Eip i
+ki t
+e e e
+i m j
+s 偏光とp偏光に分けて線形光学における界面での連続条件をあてはめると、以下の結果が得られる。
+［s 偏光］
+E： E i + E r = E t + E r = E t (B2a)
+y iy iy my my jy
+H： k(E i + E r) = k(E t + E r) = kE t (B2b)
+z x iy iy x my my x jy
+H： k (E i - E r) = k (E t - E r) = k E t (B2c)
+x iz iy iy mz my my jz jy
+（但し、k i = -k r = k とした。）
+iz iz iz
+Heinz 付録B - 1
+
+===== PDF p.2 =====
+(B2a) 式と (B2b) 式は等価である。(B2a) 式と (B2c) 式より下を得る。
+E t = E t + E r = [2k /(k + k )]E i (B3a)
+jy my my iz iz jz iy
+E r = [(k - k )/( k + k )]E i (B3b)
+jy iz jz iz jz iy
+［p偏光］
+E： E i + E r = E t + E r = E t (B4a)
+x ix ix mx mx jx
+E： e (E i + E r) = e ’(E t + E r) = e E t (B4b)
+z i iz iz mz mz j jz
+H： k (E i - E r) - k(E i + E r) = k (E t - E r) - k(E t + E r)
+y iz ix ix x iz iz mz mx mx x mz mz
+= k E t - kE t (B4c)
+jz jx x jz
+(B4c) 式は (B4a) 式と (B4b )式から導くことが出来るので、(B4a) 式と (B4b) 式だけから必要な関係
+式を得ることが出来る。上の解を求めるに当たって、下の関係式を (B4a) 式と (B4b) 式に代入してE
+x
+とE をE で表す。
+z p
+E i = E icosq , E r = E rcosq
+mx mp m mx mp m
+E i = E icosq , E r = E rcosq
+ix ip i ix ip i
+E t = E tcosq ,
+jx jp j
+E i = -E isinq , E r = +E rsinq
+mz mp m mz mp m
+E i = -E isinq , E r = +E rsinq
+iz ip i iz ip i
+E t = -E tsinq ,
+jz jp j
+また、
+k = ksinq = k sinq = ksinq
+x i i m m j j
+k = kcosq , k = k cosq , k = kcosq
+iz i i mz m m jz j j
+k=(w /c) e
+である。まず、下の関係が導かれる。
+2e k cosq
+E t = i j i E i
+jp e k +e k ip
+j iz i jz
+(B5)
+e k - e k
+E r = i jz j iz E i
+ip e k +e k ip
+j iz i jz
+よって、
+2e k
+E t = i jz (E icosq )
+jx e k +e k ip i
+j iz i jz
+2e k sinq cosq 2e k sinq cosq
+E t =- i j j i E i =- i i i i E i
+jz e k +e k ip e k +e k ip
+j iz i jz j iz i jz
+(B6)
+2e k
+= i iz (- E isinq )
+e k +e k ip i
+j iz i jz
+一方、E = E t + E r, E = E t + E r と置くと、
+mx mx mx mz mz mz
+Heinz 付録B - 2
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.3 =====
+E = Ext, E = (e /e ’) E t (B7)
+mx j mz j jz
+よって、
+2e k 2e q
+E =E t +E r = i jz E i = i j E i
+mx mx mx e k +e k ix e q +e q ix
+j iz i jz j i i j
+2e k (e /e ') 2(e e /e ')k
+E =E t +E r = i iz j E i = i j iz E i (B8)
+mz mz mz e k +e k iz e q +e q iz
+j iz i jz j i i j
+因みに、Born & Wolf の教科書の1.6.4節の示されているように、媒質1と媒質2の間に厚さ b の膜が
+ある時に、媒質1側から入射する光に対する振幅反射率r と振幅透過率t は下式のように表される。
+r +r e2ib t t eib
+r= im mj , t= im mj
+1+r r e2ib 1+r r e2ib
+immj im mj
+上式で、b = b k = b (2p /l ) n cosq である。 b がゼロの極限では、上で求めた結果と一致することが
+mz m m
+わかる。
+なお、(B4a) 式と (B4b) 式から導かれる下の関係式は何かの折に有用であろう。
+(E i + E r)cosq = (E t + E r) cosq = E cosq
+ip ip i mp mp m jp j
+e (-E i + E r)sinq = e ’(-E t + E r) sinq = -e E sinq
+i ip ip i mp mp m j jp j
+(cid:160)
+(cid:160)
+(cid:160)
+Heinz 付録B - 3

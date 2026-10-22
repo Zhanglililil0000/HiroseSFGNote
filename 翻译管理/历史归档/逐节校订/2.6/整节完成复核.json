@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-20",
+  "status": "本轮全节译校与排版完成；原式疑点未决",
+  "pages": 12,
+  "batches": "B146—B162",
+  "unique_numbered_equations": 86,
+  "math_fragments": 227,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "unresolved": "Q086—Q095",
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "329e6cc656b6e143555bac82f6320e9dd051ee782f93151a1c743159f76f2f35",
+  "next_batch": "B163 / 3.1结构核验"
+}

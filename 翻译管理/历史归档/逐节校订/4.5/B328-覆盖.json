@@ -1,0 +1,277 @@
+{
+  "batch": "B328",
+  "date": "2026-10-21",
+  "pages": [
+    4,
+    5
+  ],
+  "scope": "分子张量：等角非零",
+  "source_lines": [
+    "p04l17",
+    "p04l18",
+    "p04l19",
+    "p04l20",
+    "p04l21",
+    "p04l22",
+    "p04l23",
+    "p04l24",
+    "p04l25",
+    "p04l26",
+    "p04l27",
+    "p04l28",
+    "p04l29",
+    "p04l30",
+    "p04l31",
+    "p04l32",
+    "p04l33",
+    "p04l34",
+    "p05l01",
+    "p05l02",
+    "p05l03",
+    "p05l04",
+    "p05l05",
+    "p05l06"
+  ],
+  "formulas": [
+    {
+      "source_lines": [
+        "p04l20"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} = -2(\\beta _{aac}- \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha ) + 2\\beta _{aac}\\cos \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l21"
+      ],
+      "latex_lines": [
+        "\\beta _{yyz} = +2\\beta _{aac}\\cos \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l22"
+      ],
+      "latex_lines": [
+        "\\beta _{zzz} = +2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha ) + 2\\beta _{ccc}\\cos \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l23"
+      ],
+      "latex_lines": [
+        "\\beta _{zxx} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l24"
+      ],
+      "latex_lines": [
+        "\\beta _{xzx} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l28"
+      ],
+      "latex_lines": [
+        "\\beta _{zxx} = -\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l29"
+      ],
+      "latex_lines": [
+        "\\beta _{xzx} = -\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l30"
+      ],
+      "latex_lines": [
+        "\\beta _{zyy} = \\beta _{caa}\\cos \\alpha [1 - (\\pm )\\cos 2\\phi _{A}] - \\beta _{aaa}\\sin \\alpha [\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A}]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l31"
+      ],
+      "latex_lines": [
+        "\\beta _{yzy} = \\beta _{caa}\\cos \\alpha [1 - (\\pm )\\cos 2\\phi _{A}] - \\beta _{aaa}\\sin \\alpha [\\cos 3\\phi _{A}- (\\pm )\\cos \\phi _{A}]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l32"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} = -2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l33"
+      ],
+      "latex_lines": [
+        "\\beta _{yyz} = -\\beta _{aaa}\\sin \\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l34"
+      ],
+      "latex_lines": [
+        "\\beta _{zzz} = 2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) + \\beta _{aaa} \\sin ^{3}\\alpha (\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p05l01"
+      ],
+      "latex_lines": [
+        "\\beta _{yzx} = -(\\pm )\\beta _{caa}\\cos ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p05l02"
+      ],
+      "latex_lines": [
+        "\\beta _{zyx} = -(\\pm )\\beta _{caa}\\cos ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p05l03"
+      ],
+      "latex_lines": [
+        "\\beta _{zxy} = -(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha [\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A}]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p05l04"
+      ],
+      "latex_lines": [
+        "\\beta _{xzy} = -(\\pm )\\beta _{caa}(2\\cos ^{2}\\alpha - 1)\\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha [\\sin 3\\phi _{A}- (\\pm )\\sin \\phi _{A}]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p05l05"
+      ],
+      "latex_lines": [
+        "\\beta _{xyz} = \\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})"
+      ]
+    },
+    {
+      "source_lines": [
+        "p05l06"
+      ],
+      "latex_lines": [
+        "\\beta _{yxz} = \\pm \\beta _{caa}\\sin ^{2}\\alpha \\sin 2\\phi _{A}- \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})"
+      ]
+    }
+  ],
+  "tensor_components": [
+    {
+      "symbol": "beta",
+      "indices": "xxz",
+      "source": "p04l20"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yyz",
+      "source": "p04l21"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zzz",
+      "source": "p04l22"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zxx",
+      "source": "p04l23"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xzx",
+      "source": "p04l24"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zxx",
+      "source": "p04l28"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xzx",
+      "source": "p04l29"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zyy",
+      "source": "p04l30"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yzy",
+      "source": "p04l31"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xxz",
+      "source": "p04l32"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yyz",
+      "source": "p04l33"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zzz",
+      "source": "p04l34"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yzx",
+      "source": "p05l01"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zyx",
+      "source": "p05l02"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zxy",
+      "source": "p05l03"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xzy",
+      "source": "p05l04"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xyz",
+      "source": "p05l05"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yxz",
+      "source": "p05l06"
+    }
+  ],
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true
+}

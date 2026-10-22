@@ -1,51 +1,62 @@
-# Hirose SFG Note
+# 广濑教授的SFG研究笔记 · 中文译本
 
+**Hirose’s SFG Notes — Chinese Translation**
 
+本项目将广濑千秋（Chiaki Hirose）教授在[森田研究组网站](https://comp.chem.tohoku.ac.jp/study/hirose.html)公开的SFG理论笔记译为中文，采用Markdown整理，供学习和频振动光谱、查阅理论推导与分析实验结果时参考。
 
-# 广濑教授的SFG研究笔记
+译本覆盖 **8章、39个独立专题文件**，对应日语底本合计 **717页**，包括正文、原稿附录、公式表及早期文献整理。资料由研究笔记、专题推导和公式汇编组成，部分主题在不同文件中重复出现。
 
-此处公开的文件为东京工业大学名誉教授广濑千秋先生关于和频振动光谱（SFG）的详细理论解析，承蒙广濑教授慷慨授权发布。
+## 从这里开始
 
-以下转述广濑教授的寄语：
+- **首次阅读：** [序言与全书导读](Preface序言.md)介绍覆盖范围、全部39节的内容及按研究问题选择的阅读路线。
+- **按章查阅：** 下方目录链接到各章阅读导航，再进入相应小节；可直接在GitHub浏览。
+- **连续阅读：** [全书Markdown合稿](合稿准备/全书审阅稿.md)汇集正文与勘误附件。文件较大，在线预览不完整时可下载阅读。
+- **离线阅读：** 从[阅读包页面](交付版本/README.md)下载当前ZIP，完整解压后用浏览器打开“开始阅读.html”。HTML包含本地公式字体与图片，适合连续阅读复杂公式。
 
->「公开这些资料的主旨在于，希望为研究人员节省重复推导基础理论的时间与精力，使其能将更多心力投入前沿探索。关于引用，本人无意设置限制条件，但若需直接复制粘贴内容，请使用者自行对公开后的学术责任负责。此外，文中可能存在笔误或疏漏，尚祈见谅。」
+仓库中的HTML链接在GitHub上通常显示为源文件；本地阅读请保留下载目录结构。
 
-**版权声明**  
-**本著作所有权利归属广濑千秋教授。允许基于SFG学术研究目的使用及再分发，但严禁一切商业性用途的再分发行为。**
+## 内容目录
 
+| 章节 | 专题数 | 主要内容 |
+|---|---:|---|
+| [第一章 SFG快速入门](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%80%E7%AB%A0%20SFG%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 5 | 响应机制、振动共振、选择规则与界面光场 |
+| [第二章 薄膜产生的SFG](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%96%84%E8%86%9C%E4%BA%A7%E7%94%9F%E7%9A%84SFG/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 6 | 多重反射、膜内电场及反射／透射和频信号 |
+| [第三章 双层膜的和频](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%8F%8C%E5%B1%82%E8%86%9C%E7%9A%84%E5%92%8C%E9%A2%91/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 2 | 二层与三层膜中的光场传播和和频出射 |
+| [第四章 CH伸缩振动与取向张量](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20CH%E4%BC%B8%E7%BC%A9%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%8F%96%E5%90%91%E5%BC%A0%E9%87%8F/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 11 | CH伸缩振动、分子取向及和频张量分量 |
+| [第五章 张量与对称性](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%BC%A0%E9%87%8F%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 6 | 点群、张量约束、不可约基底与坐标变换 |
+| [第六章 偶极间相互作用](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%81%B6%E6%9E%81%E9%97%B4%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 1 | 分子间耦合、局域场、覆盖度与谱带变化 |
+| [第七章 Heinz论文解读](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E4%B8%83%E7%AB%A0%20Heinz%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 5 | 界面边界条件、辐射以及表面与体相响应 |
+| [第八章 拟合](%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%8B%9F%E5%90%88/%E9%98%85%E8%AF%BB%E5%AF%BC%E8%88%AA.md) | 3 | 谱线形状、展宽、相干条件与参数拟合 |
 
+第二章分别保留完整推导、附录集、表达式与要点稿；第七章包括广濑对Tony F. Heinz综述的解读及配套附录A—D。原公式编号按各专题保留，引用时请同时注明节号与公式号。
 
----
+## 翻译与校订说明
 
-# Prof. Hirose's SFG Notes
+本项目使用大模型辅助翻译，并结合日语原稿进行分批校订，统一术语、核对公式与图表、维护交叉引用。39节的翻译与全书一致性复核已完成，当前以审阅版提供。
 
-The documents disclosed here constitute a detailed theoretical analysis of Sum Frequency Generation (SFG) spectroscopy authored by Professor Chiaki Hirose, Emeritus Professor of Tokyo Institute of Technology, published with his gracious consent.  
+各专题保留原稿的符号、单位制与坐标约定，差异在相关位置说明。已采用的原文修正就地标注，并收入[原文勘误表](中文版本/附件/原文勘误表.md)；尚未确认的疑点保留原式并附注。原稿未完成的讨论与暂定译法仍有明确标记，复核范围和逐项处理见[翻译管理](翻译管理/README.md)。第八章所述MathCad程序代码未包含在本译本中。
 
-We quote Prof. Hirose's message:
+## 仓库结构
 
->"My intention in releasing these materials is to save researchers' time and effort in retracing fundamental theories, thereby allowing them to devote more time to cutting-edge investigations. Regarding citations, I impose no restrictions, but users who directly copy-paste content shall assume full academic responsibility for its post-publication usage. Please also note that typographical or theoretical errors might remain unresolved."
+| 位置 | 内容 |
+|---|---|
+| [Preface序言.md](Preface序言.md) | 全书结构、逐节概括与阅读路线 |
+| [中文版本](中文版本/) | 39节Markdown稿源、各章导航、图片与勘误附件 |
+| [日语原版](日语原版/) | 翻译所依据的日语PDF |
+| [合稿准备](合稿准备/) | 由稿源生成的全书Markdown与HTML阅读版 |
+| [交付版本](交付版本/README.md) | 当前离线阅读包与旧版快照 |
+| [翻译管理](翻译管理/README.md) | 翻译规范、术语表、符号约定及校订记录 |
 
-**Copyright**
+修订正文请以“中文版本”中的独立小节为准；合稿与阅读包由稿源生成。维护方法见[维护说明](翻译管理/维护工具/README.md)。
 
-**All rights to this work are reserved by Prof. Chiaki Hirose. Non-commercial use and redistribution for academic SFG research purposes are permitted, but any commercial redistribution is strictly prohibited.**
+## 反馈与参与
 
+欢迎通过本仓库的Issues反馈译文、公式、术语或链接问题。请提供**节号、原公式号或段落开头**，说明疑点；如涉及日语原文，请尽量附PDF页码及建议译法，便于核对和记录。
 
+译者联系：[zhangli@westlake.edu.cn](mailto:zhangli@westlake.edu.cn)。
 
+## 来源与版权
 
-# 译者说明
+原资料由东京工业大学名誉教授广濑千秋教授撰写，经其许可在[森田研究组网站](https://comp.chem.tohoku.ac.jp/study/hirose.html)公开。原有来源说明、作者寄语及中英文版权文字保留于[序言](Preface序言.md#资料来源与授权说明)。
 
-​	广濑教授的SFG研究笔记是在森田明弘（Akihiro Morita）教授的课题组主页上公开的资料。译者在某次课题组组会上，导师提到了最好将广濑教授的这份文件从日语翻译出来，然后仔细检查一下。得益于目前AI的发展，计算机翻译中学术名词越来越准确了，而且语言也十分流畅，再加上译者一直在学习日语，这份翻译工作还是进行的比较顺利的。
-
-​	如果您在阅读这份材料过程中遇到了任何的问题，或者发现有任何错误和不准确的地方，欢迎联系我。我的邮箱是zhangli@westlake.edu.cn
-
-​	另外，也欢迎访问我们的课题组主页，了解我们在非线性光谱领域的最新研究进展。
-
-
-
-# Translator's Note
-
-The SFG research notes by Professor Hirose were publicly available materials on the homepage of Professor Akihiro Morita's research group. During a group meeting, my supervisor mentioned that it would be best to translate Professor Hirose's document from Japanese and carefully review it. Thanks to recent advancements in AI, machine translation has become increasingly accurate for academic terminology, with natural-sounding language. Combined with my ongoing studies in Japanese, the translation process proceeded relatively smoothly.
-
-If you encounter any issues while reading this material or identify errors/inaccuracies, please feel free to contact me at [zhangli@westlake.edu.cn](mailto:zhangli@westlake.edu.cn).
-
-Additionally, you are welcome to visit our research group’s homepage to learn about our latest progress in the field of nonlinear spectroscopy.
+**原资料所有权利归广濑千秋教授所有。原有版权说明允许以SFG学术研究为目的使用及再分发，禁止商业性再分发。** 仓库现有的[MIT LICENSE](LICENSE)不替代上述原资料版权说明；引用、复制或再分发时请保留来源及相应版权文字。

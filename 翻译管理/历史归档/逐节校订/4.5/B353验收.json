@@ -1,0 +1,24 @@
+{
+  "batch": "B353",
+  "date": "2026-10-21",
+  "scope": "附录E：全对称模式",
+  "pages": [
+    49,
+    50,
+    51,
+    52,
+    53
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "3802bf3d76de8820286ef5eb0f52371666a4de96b6bf7c12706b8eb3adc6e2aa",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B353",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

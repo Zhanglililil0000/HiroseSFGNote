@@ -1,0 +1,21 @@
+{
+  "batch": "B297",
+  "date": "2026-10-21",
+  "pages": [
+    3
+  ],
+  "scope": "第3部分键系、两CH变换、三角函数及3-1/3-2a/b",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B297",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "13d5f61aa41e5f7bf70e65ed713215c19ee81a8dd9606cd505a29e121669377e",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

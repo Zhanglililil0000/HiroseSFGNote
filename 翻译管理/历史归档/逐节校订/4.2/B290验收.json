@@ -1,0 +1,22 @@
+{
+  "batch": "B290",
+  "date": "2026-10-21",
+  "pages": [
+    14,
+    15
+  ],
+  "scope": "5b三重表面取向求和、原文三项结论与全部表内分量",
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校与参考排版验收完成",
+  "render": {
+    "batch": "B290",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "a3f39fb9afbcfd956e07b53d422660b9f244425714e937ba1c26d8dc39c036d4",
+  "scope_limit": "确认原文覆盖及转录；不将原文疑点视为理论已验证。"
+}

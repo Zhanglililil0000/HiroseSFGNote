@@ -1,0 +1,277 @@
+2 層膜の SFG - 22
+であるから、
+€ 
+E
+−
+1 (0
+−
+)net =
+a[(1 + rmm'
+rm2b
+2
+) ± (rm'm + rm2b
+2
+)]L
+−
+1/m'
+1 + r1m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z1 = hm'
+)
+€ 
+=
+a(1 ± rmm'
+)(1± rm2b
+2
+)]L
+−
+1/m'
+1+ r1 m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z1 = hm'
+)
+(upper sign for x and y components, lower sign for z component)
+(2.23) 式を参照して、
+€ 
+E
+−
+1,p (0
+−
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+e
+iβm ', vishm '
+(1+ rm'm,vis,α
+)(1+ rm2,vis,α
+e
+2 iβ m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+e
+iβ m',irhm '
+(1+ rm'm,ir,β
+)(1+ rm2 ,ir,β
+e
+2iβ m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×{
+e
+iβ m', SFhm'
+[(1+ rmm',SF ,p
+)(1 + rm2,SF,p
+e
+2iβ m,SFhm
+)L
+−
+1/m',pxχxαβ
+1 + r
+1m',SF,p
+rm'm,SF,p
+e
+2iβm ', SFhm' + (rm'm,SF,p
++ r
+1m',SF ,p
+e
+2iβ m',SFhm '
+)rm2,SF,p
+e
+2 iβ m,SFhm
+€ 
++
+e
+iβ m',SFhm'
+[(1− rmm',SF,p
+)(1− rm2,SF,p
+e
+2 iβ m,SFhm
+)]L
+−
+1/m',pz χzαβ
+1 + r
+1m',SF,p
+rm'm,SF ,p
+e
+2iβm ', SFhm' + (rm'm,SF,p
++ r
+1m',SF,p
+e
+2 iβ m',SFhm '
+)rm2,SF,p
+e
+2 iβ m,SFhm
+} (nm" = nm'
+) (2.39a)
+€ 
+E
+−
+1,s (0
+−
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+e
+iβm ', vishm '
+(1+ rm'm,vis,α
+)(1+ rm2,vis,α
+e
+2 iβ m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+e
+iβ m',irhm '
+(1+ rm'm,ir,β
+)(1+ rm2 ,ir,β
+e
+2iβ m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+e
+iβm ', SFhm'
+(1+ rmm',SF,s
+)(1+ rm2 ,SF,s
+e
+2iβ m,SFhm
+)L
+−
+1/m',syχyαβ
+1+ r
+1 m',SF ,s
+rm'm,SF ,s
+e
+2 iβ m',SFhm' + (rm'm,SF,s
++ r
+1m',SF,s
+e
+2iβ m', SFhm'
+)rm2 ,SF,p
+e
+2iβm, SFhm
+(2.39b)
+(b): 透過方向
+ファイル「一般式」の (2.2) 式と (2.4) 式において、z1 = hm'、a0* = 1、a0= a とする。
+€ 
+E
++
+2 (hm' + hm
++
+)net =
+tm2
+tm'mb(L
++
+m'/ m' + rm'1a
+2
+L
+−
+m'/m')
+1+ r1m'
+rm'ma
+2
++ (rm'm + r1 m'a
+2
+)rm2b
+2 P
+*
+(z1 = hm'
+)
+ここで、
+€ 
+tm'm,pL
++
+m'/m',px = tm'm,pL
+−
+m'/m',px = L
++
+m'/m,px ,
+€ 
+tm'm,sL
++
+m'/m',sy = tm'm,sL
+−
+m'/m',sy = L
++
+m'/ m,sy ,

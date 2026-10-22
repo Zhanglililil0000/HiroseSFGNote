@@ -1,0 +1,23 @@
+{
+  "batch": "B232",
+  "date": "2026-10-20",
+  "pages": [3],
+  "tags": ["2.3", "2.4"],
+  "source_images_visually_checked": true,
+  "all_three_equality_stages_preserved": true,
+  "old_translation_repairs": ["首行矩阵乘法次序", "2.4逆矩阵中间行遗漏"],
+  "math_fragments_this_batch": 13,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "algebra_checks": {
+    "equation_2.3_matrix_product": "(alpha+beta-alpha*gamma)/Z",
+    "equation_2.3_candidate_row_1_0": "(1-gamma)/Z",
+    "equation_2.4_matrix_product": "1/Z",
+    "method": "二阶逆矩阵的直接展开及两组有理数代入辅助检查"
+  },
+  "unresolved_source_questions": ["Q114"],
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "next": "B233：m层E+源式2.5—2.6"
+}

@@ -1,0 +1,1316 @@
+{
+  "16": [
+    {
+      "y": 74.2,
+      "tex": "(ppp)\\chi_{xxx} = -\\beta_{caa}\\sin \\theta \\cos \\theta \\sin 2\\phi"
+    },
+    {
+      "y": 91.2,
+      "tex": "\\chi_{zxx} = \\beta_{caa}\\cos \\theta"
+    },
+    {
+      "y": 107.2,
+      "tex": "\\chi_{xzx} = \\beta_{caa}\\cos \\theta"
+    },
+    {
+      "y": 124.2,
+      "tex": "(spp)\\chi_{yzz} = (1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )(1 + \\cos 2\\phi )"
+    },
+    {
+      "y": 142.2,
+      "tex": "(ssp)none"
+    },
+    {
+      "y": 159.2,
+      "tex": "(psp)none"
+    },
+    {
+      "y": 174.2,
+      "tex": "(sps)\\chi_{yxy} = (1/2)\\beta_{caa}\\sin \\theta \\cos \\theta \\sin 2\\phi"
+    },
+    {
+      "y": 192.2,
+      "tex": "(pps)none"
+    },
+    {
+      "y": 208.2,
+      "tex": "(pss)\\chi_{xyy} = (1/2)\\beta_{caa}\\sin \\theta \\cos \\theta \\sin 2\\phi"
+    },
+    {
+      "y": 225.2,
+      "tex": "(sss)\\chi_{yyy} = -(1/2)\\beta_{caa}[(\\sin \\theta  - \\sin ^{3}\\theta )(1 + \\cos 2\\phi ) + \\sin \\theta (1 - \\cos 2\\phi )](5d-3)"
+    },
+    {
+      "y": 258.2,
+      "tex": "付録A  C(100) 面のdihydrideおよびmonohydride pairのSFGテンソル"
+    },
+    {
+      "y": 275.2,
+      "tex": "分子固定 (abc) 系がオイラー角 (\\chi ,\\theta ,\\phi ) によって空間固定 (XYZ) 系に重なるものとして、(XYZ) 系で"
+    },
+    {
+      "y": 325.2,
+      "tex": "CH_{2} 基および平面HCCH基 (C_{2v} 対称)"
+    },
+    {
+      "y": 375.2,
+      "tex": "(ppp)\\chi_{XXX} = -(1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\cos \\chi"
+    },
+    {
+      "y": 392.2,
+      "tex": "+ (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (3\\cos \\chi + \\cos 3\\chi )"
+    },
+    {
+      "y": 409.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[\\sin \\theta (\\cos \\chi  - \\cos 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(3\\cos \\chi  + \\cos 3\\chi )]\\cos 2\\phi"
+    },
+    {
+      "y": 426.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 442.2,
+      "tex": "\\chi_{XZZ} = (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi"
+    },
+    {
+      "y": 459.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 476.2,
+      "tex": "\\chi_{ZXZ} = (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi"
+    },
+    {
+      "y": 493.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 509.2,
+      "tex": "\\chi_{ZZX} = -(1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\cos \\chi"
+    },
+    {
+      "y": 526.2,
+      "tex": "+ (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi"
+    },
+    {
+      "y": 543.2,
+      "tex": "- (1/2)(\\beta_{aac} - \\beta_{bbc})\\sin ^{3}\\theta \\cos \\chi \\cos 2\\phi"
+    },
+    {
+      "y": 560.2,
+      "tex": "\\chi_{XZX} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )"
+    },
+    {
+      "y": 576.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 593.2,
+      "tex": "\\chi_{ZXX} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )"
+    },
+    {
+      "y": 610.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 627.2,
+      "tex": "\\chi_{XXZ} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\cos \\theta"
+    },
+    {
+      "y": 643.2,
+      "tex": "- (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )"
+    },
+    {
+      "y": 660.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})\\{[(\\cos \\theta  - \\cos ^{3}\\theta ) - (\\cos \\theta  + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi  + 2\\cos ^{2}\\theta \\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 677.2,
+      "tex": "\\chi_{ZZZ} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\cos \\theta"
+    },
+    {
+      "y": 694.2,
+      "tex": "- (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\cos ^{3}\\theta"
+    },
+    {
+      "y": 710.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})(\\cos \\theta  - \\cos ^{3}\\theta )\\cos 2\\phi"
+    },
+    {
+      "y": 744.2,
+      "tex": "(spp)\\chi_{YXX} = -(1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )"
+    }
+  ],
+  "17": [
+    {
+      "y": 74.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 91.2,
+      "tex": "\\chi_{YZZ} = -(1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 107.2,
+      "tex": "- (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 124.2,
+      "tex": "\\chi_{YZX} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 141.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + \\sin ^{2}\\theta (1 + \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 158.2,
+      "tex": "\\chi_{YXZ} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 174.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  + \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 208.2,
+      "tex": "(ssp)\\chi_{YYX} = -(1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\cos \\chi"
+    },
+    {
+      "y": 225.2,
+      "tex": "+ (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )"
+    },
+    {
+      "y": 241.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[\\sin \\theta (3\\cos \\chi  + \\cos 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )]\\cos 2\\phi"
+    },
+    {
+      "y": 258.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 275.2,
+      "tex": "\\chi_{YYZ} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\cos \\theta"
+    },
+    {
+      "y": 292.2,
+      "tex": "- (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )"
+    },
+    {
+      "y": 308.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})\\{[(\\cos \\theta  - \\cos ^{3}\\theta ) + (\\cos \\theta  + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi  - 2\\cos ^{2}\\theta \\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 325.2,
+      "tex": "(psp)\\chi_{XYX} = -(1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )"
+    },
+    {
+      "y": 342.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 359.2,
+      "tex": "\\chi_{ZYZ} = -(1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 375.2,
+      "tex": "- (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 392.2,
+      "tex": "\\chi_{XYZ} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 409.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  + \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 426.2,
+      "tex": "\\chi_{ZYX} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 442.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + \\sin ^{2}\\theta (1 + \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 476.2,
+      "tex": "(sps)\\chi_{YXY} = (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )"
+    },
+    {
+      "y": 493.2,
+      "tex": "- (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  - 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 509.2,
+      "tex": "\\chi_{YZY} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )"
+    },
+    {
+      "y": 526.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\cos 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 560.2,
+      "tex": "(pps)\\chi_{XXY} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\sin \\chi"
+    },
+    {
+      "y": 576.2,
+      "tex": "- (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )"
+    },
+    {
+      "y": 593.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi ) - \\sin \\theta (3\\sin \\chi  - \\sin 3\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 610.2,
+      "tex": "\\chi_{ZZY} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\sin \\chi"
+    },
+    {
+      "y": 627.2,
+      "tex": "- (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 643.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})\\sin ^{3}\\theta  \\sin \\chi \\cos 2\\phi"
+    },
+    {
+      "y": 660.2,
+      "tex": "\\chi_{XZY} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 677.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 694.2,
+      "tex": "\\chi_{ZXY} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 710.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 744.2,
+      "tex": "(pss)\\chi_{XYY} = (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )"
+    }
+  ],
+  "18": [
+    {
+      "y": 74.2,
+      "tex": "- (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  - 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 91.2,
+      "tex": "\\chi_{ZYY} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )"
+    },
+    {
+      "y": 107.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\cos 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 141.2,
+      "tex": "(sss)\\chi_{YYY} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\sin \\chi"
+    },
+    {
+      "y": 158.2,
+      "tex": "- (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (3\\sin \\chi  - \\sin 3\\chi )"
+    },
+    {
+      "y": 174.2,
+      "tex": "- (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[\\sin \\theta (\\sin \\chi  + \\sin 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(3\\sin \\chi  - \\sin 3\\chi )]\\cos 2\\phi"
+    },
+    {
+      "y": 191.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 241.2,
+      "tex": "(ppp)\\chi_{XXX} = -(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(3\\cos \\chi  + \\cos 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi  - \\cos 3\\chi )(1 - \\cos 2\\phi )]"
+    },
+    {
+      "y": 258.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 275.2,
+      "tex": "\\chi_{XZZ} = (1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi (1 + \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 292.2,
+      "tex": "\\chi_{ZXZ} = (1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi (1 + \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 308.2,
+      "tex": "\\chi_{ZZX} = \\beta_{caa}[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi (1 + \\cos 2\\phi ) - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2v]"
+    },
+    {
+      "y": 325.2,
+      "tex": "\\chi_{ZXX} = (1/4)\\beta_{caa}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi )]"
+    },
+    {
+      "y": 342.2,
+      "tex": "+ (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 359.2,
+      "tex": "\\chi_{XZX} = (1/4)\\beta_{caa}\\{2[\\cos \\theta (1 + \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi )]"
+    },
+    {
+      "y": 375.2,
+      "tex": "+ (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 392.2,
+      "tex": "\\chi_{XXZ} = -(1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi ) - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 409.2,
+      "tex": "\\chi_{ZZZ} = \\beta_{caa}(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )"
+    },
+    {
+      "y": 442.2,
+      "tex": "(spp)\\chi_{YXX} = (1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi  - \\sin 3\\chi )(1 - \\cos 2\\phi )]"
+    },
+    {
+      "y": 459.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 476.2,
+      "tex": "\\chi_{YZZ} = -(1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi (1 + \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 493.2,
+      "tex": "\\chi_{YZX} = (1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [ - \\sin ^{2}\\theta  + (1 -"
+    },
+    {
+      "y": 509.2,
+      "tex": "3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+    },
+    {
+      "y": 526.2,
+      "tex": "\\chi_{YXZ} = (1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi (1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 560.2,
+      "tex": "(ssp)\\chi_{YYX} = (1/4)\\beta_{caa}\\{[-(\\sin \\theta  - \\sin ^{3}\\theta )(1 + \\cos 2\\phi ) + \\sin \\theta (1 - \\cos 2\\phi )](\\cos \\chi  - \\cos 3\\chi )"
+    },
+    {
+      "y": 576.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 593.2,
+      "tex": "\\chi_{YYZ} = -(1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 627.2,
+      "tex": "(psp)\\chi_{XYX} = (1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi  - \\sin 3\\chi )(1 - \\cos 2\\phi )]"
+    },
+    {
+      "y": 643.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 660.2,
+      "tex": "\\chi_{ZYZ} = -(1/2)\\beta_{caa}[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi (1 + \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 677.2,
+      "tex": "\\chi_{XYZ} = (1/2)\\beta_{caa}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi (1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 694.2,
+      "tex": "\\chi_{ZYX} = (1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [-\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+    },
+    {
+      "y": 727.2,
+      "tex": "(sps)\\chi_{YXY} = -((1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi  + \\cos 3\\chi )(1 - \\cos 2\\phi )]"
+    },
+    {
+      "y": 744.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi \\}"
+    }
+  ],
+  "19": [
+    {
+      "y": 74.2,
+      "tex": "\\chi_{YZY} = (1/4)\\beta_{caa}\\{2[\\cos \\theta (1 - \\cos 2\\chi \\cos 2\\phi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 + \\cos 2\\phi )]"
+    },
+    {
+      "y": 91.2,
+      "tex": "- (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 124.2,
+      "tex": "(pps)\\chi_{XXY} = (1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(1 + \\cos 2\\phi ) - \\sin \\theta (1 - \\cos 2\\phi )](\\sin \\chi  + \\sin 3\\chi )"
+    },
+    {
+      "y": 141.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 158.2,
+      "tex": "\\chi_{ZZY} = -\\beta_{caa}[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi (1 + \\cos 2\\phi ) + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 174.2,
+      "tex": "\\chi_{ZXY} = (1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+    },
+    {
+      "y": 191.2,
+      "tex": "\\chi_{XZY} = (1/4)\\beta_{caa}\\{2[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) - \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi  + [\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\}"
+    },
+    {
+      "y": 225.2,
+      "tex": "(pss)\\chi_{XYY} = -(1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\cos \\chi  + \\cos 3\\chi )(1 - \\cos 2\\phi )]"
+    },
+    {
+      "y": 241.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 258.2,
+      "tex": "\\chi_{ZYY} = (1/4)\\beta_{caa}\\{2[\\cos \\theta (1 - \\cos 2\\phi \\cos 2\\chi ) - (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )(1 + \\cos 2\\phi )]"
+    },
+    {
+      "y": 275.2,
+      "tex": "- (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 292.2,
+      "tex": "(sss)\\chi_{YYY} = (1/4)\\beta_{caa}\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(3\\sin \\chi  - \\sin 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi  + \\sin 3\\chi )(1 - \\cos 2\\phi )]"
+    },
+    {
+      "y": 308.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 359.2,
+      "tex": "ねじれHCCH基（C_{2} 対称）"
+    },
+    {
+      "y": 409.2,
+      "tex": "(ppp)\\chi_{XXX} = -(1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\cos \\chi"
+    },
+    {
+      "y": 426.2,
+      "tex": "+ (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (3\\cos \\chi  + \\cos 3\\chi )"
+    },
+    {
+      "y": 442.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[\\sin \\theta (\\cos \\chi  - \\cos 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(3\\cos \\chi  + \\cos 3\\chi )]\\cos 2\\phi"
+    },
+    {
+      "y": 459.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 476.2,
+      "tex": "+ (1/4)\\beta_{abc}\\{[\\sin \\theta (\\cos \\chi  - \\cos 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(3\\cos \\chi  + \\cos 3\\chi )]\\sin 2\\phi"
+    },
+    {
+      "y": 493.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi \\}"
+    },
+    {
+      "y": 509.2,
+      "tex": "\\chi_{XZZ} = (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi"
+    },
+    {
+      "y": 526.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 543.2,
+      "tex": "+ \\beta_{abc}[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 560.2,
+      "tex": "\\chi_{ZXZ} = (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi"
+    },
+    {
+      "y": 576.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 593.2,
+      "tex": "+ \\beta_{abc}[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 610.2,
+      "tex": "\\chi_{ZZX} = -(1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\cos \\chi"
+    },
+    {
+      "y": 627.2,
+      "tex": "+ (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi"
+    },
+    {
+      "y": 643.2,
+      "tex": "- (1/2)(\\beta_{aac} - \\beta_{bbc})\\cos \\chi \\sin ^{3}\\theta \\cos 2\\phi"
+    },
+    {
+      "y": 660.2,
+      "tex": "- \\beta_{abc}(2\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi"
+    },
+    {
+      "y": 677.2,
+      "tex": "\\chi_{XZX} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )"
+    },
+    {
+      "y": 694.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 710.2,
+      "tex": "- (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 727.2,
+      "tex": "\\chi_{ZXX} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )"
+    },
+    {
+      "y": 744.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    }
+  ],
+  "20": [
+    {
+      "y": 74.2,
+      "tex": "- (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 91.2,
+      "tex": "\\chi_{XXZ} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\cos \\theta"
+    },
+    {
+      "y": 107.2,
+      "tex": "- (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )"
+    },
+    {
+      "y": 124.2,
+      "tex": "-(1/4)(\\beta_{aac} - \\beta_{bbc}\\{[(\\cos \\theta  - \\cos ^{3}\\theta ) - (\\cos \\theta  + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi  + 2\\cos ^{2}\\theta \\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 141.2,
+      "tex": "- (1/2)\\beta_{abc}\\{[(\\cos \\theta  - \\cos ^{3}\\theta ) - (\\cos \\theta  + \\cos ^{3}\\theta )\\cos 2\\chi ]\\sin 2\\phi  - 2\\cos ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]\\}"
+    },
+    {
+      "y": 158.2,
+      "tex": "\\chi_{ZZZ} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\cos \\theta"
+    },
+    {
+      "y": 174.2,
+      "tex": "- (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\cos ^{3}\\theta"
+    },
+    {
+      "y": 191.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})(\\cos \\theta  - \\cos ^{3}\\theta )\\cos 2\\phi"
+    },
+    {
+      "y": 208.2,
+      "tex": "+ \\beta_{abc}(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\phi"
+    },
+    {
+      "y": 241.2,
+      "tex": "(spp)\\chi_{YXX} = -(1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )"
+    },
+    {
+      "y": 258.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 275.2,
+      "tex": "+ (1/2)\\beta_{abc}[2(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi  - \\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 292.2,
+      "tex": "\\chi_{YZZ} = -(1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 308.2,
+      "tex": "- (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 325.2,
+      "tex": "- \\beta_{abc}[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 342.2,
+      "tex": "\\chi_{YZX} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 359.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + \\sin ^{2}\\theta (1 + \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 375.2,
+      "tex": "+ (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta (1 + \\cos 2\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 392.2,
+      "tex": "\\chi_{YXZ} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 409.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  + \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 426.2,
+      "tex": "- (1/2)\\beta_{abc}[(\\cos \\theta  + \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - 2\\cos ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 459.2,
+      "tex": "(ssp)\\chi_{YYX} = -(1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\cos \\chi"
+    },
+    {
+      "y": 476.2,
+      "tex": "+ (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )"
+    },
+    {
+      "y": 493.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[\\sin \\theta (3\\cos \\chi  + \\cos 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )]\\cos 2\\phi"
+    },
+    {
+      "y": 509.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 526.2,
+      "tex": "+ (1/4)\\beta_{abc}\\{[4 \\sin \\theta \\cos \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )]\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi \\}"
+    },
+    {
+      "y": 543.2,
+      "tex": "\\chi_{YYZ} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\cos \\theta"
+    },
+    {
+      "y": 560.2,
+      "tex": "-(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )"
+    },
+    {
+      "y": 576.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})\\{[(\\cos \\theta  - \\cos ^{3}\\theta ) + (\\cos \\theta  + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi  - 2\\cos ^{2}\\theta \\sin 2\\chi \\sin 2\\phi \\}"
+    },
+    {
+      "y": 593.2,
+      "tex": "- (1/2)\\beta_{abc}\\{[(\\cos \\theta  - \\cos ^{3}\\theta ) + (\\cos \\theta  + \\cos ^{3}\\theta )\\cos 2\\chi ]\\sin 2\\phi  + \\cos ^{2}\\theta \\sin 2\\chi \\cos 2\\phi \\}"
+    },
+    {
+      "y": 610.2,
+      "tex": "(psp)\\chi_{XYX} = -(1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )"
+    },
+    {
+      "y": 627.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 643.2,
+      "tex": "+ (1/4)\\beta_{abc}[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi  - 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\cos 2\\phi"
+    },
+    {
+      "y": 660.2,
+      "tex": "\\chi_{ZYZ} = -(1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 677.2,
+      "tex": "- (1/2)(\\beta_{aac} - \\beta_{bbc})[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 694.2,
+      "tex": "- \\beta_{abc}[(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 710.2,
+      "tex": "\\chi_{XYZ} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 727.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  + \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 744.2,
+      "tex": "- (1/2)\\beta_{abc}[(\\cos \\theta  + \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - 2\\cos ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]"
+    }
+  ],
+  "21": [
+    {
+      "y": 74.2,
+      "tex": "\\chi_{ZYX} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 91.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + \\sin ^{2}\\theta (1 + \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 107.2,
+      "tex": "+ (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta (1 + \\cos 2\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 141.2,
+      "tex": "(sps)\\chi_{YXY} = (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )"
+    },
+    {
+      "y": 158.2,
+      "tex": "- (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  - 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 174.2,
+      "tex": "- (1/4)\\beta_{abc}[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi ]]"
+    },
+    {
+      "y": 191.2,
+      "tex": "\\chi_{YZY} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )"
+    },
+    {
+      "y": 208.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\cos 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 225.2,
+      "tex": "- (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\sin 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 258.2,
+      "tex": "(pps)\\chi_{XXY} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\sin \\chi"
+    },
+    {
+      "y": 275.2,
+      "tex": "- (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )"
+    },
+    {
+      "y": 292.2,
+      "tex": "+ (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi ) - \\sin \\theta (3\\sin \\chi  - \\sin 3\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 308.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 325.2,
+      "tex": "+ (1/4)\\beta_{abc}\\{[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi ) - 4\\sin \\theta \\cos \\chi ]\\sin 2\\phi"
+    },
+    {
+      "y": 342.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi \\}"
+    },
+    {
+      "y": 359.2,
+      "tex": "\\chi_{ZZY} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\sin \\chi"
+    },
+    {
+      "y": 375.2,
+      "tex": "- (1/2)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 392.2,
+      "tex": "+ (1/2)(\\beta_{aac} - \\beta_{bbc})\\sin ^{3}\\theta \\sin \\chi \\cos 2\\phi"
+    },
+    {
+      "y": 409.2,
+      "tex": "+ \\beta_{abc}\\sin ^{3}\\theta \\sin \\chi \\sin 2\\phi"
+    },
+    {
+      "y": 426.2,
+      "tex": "\\chi_{XZY} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 442.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 459.2,
+      "tex": "+ (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta (1 - \\cos 2\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 476.2,
+      "tex": "\\chi_{ZXY} = (1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 493.2,
+      "tex": "+ (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 509.2,
+      "tex": "+ (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta (1 - \\cos 2\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 543.2,
+      "tex": "(pss)\\chi_{XYY} = (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )"
+    },
+    {
+      "y": 560.2,
+      "tex": "- (1/8)(\\beta_{aac} - \\beta_{bbc})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  - 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 576.2,
+      "tex": "- (1/4)\\beta_{abc}[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\cos 2\\phi ]"
+    },
+    {
+      "y": 593.2,
+      "tex": "\\chi_{ZYY} = -(1/4)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )"
+    },
+    {
+      "y": 610.2,
+      "tex": "- (1/4)(\\beta_{aac} - \\beta_{bbc})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\cos 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 627.2,
+      "tex": "- (1/2)\\beta_{abc}[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\sin 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 660.2,
+      "tex": "(sss)\\chi_{YYY} = (1/2)(\\beta_{aac} + \\beta_{bbc})\\sin \\theta \\sin \\chi"
+    },
+    {
+      "y": 677.2,
+      "tex": "- (1/8)(\\beta_{aac} + \\beta_{bbc} - 2\\beta_{ccc})\\sin ^{3}\\theta (3\\sin \\chi  - \\sin 3\\chi )"
+    },
+    {
+      "y": 694.2,
+      "tex": "- (1/8)(\\beta_{aac} - \\beta_{bbc})\\{[\\sin \\theta (\\sin \\chi  + \\sin 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(3\\sin \\chi  - \\sin 3\\chi )]\\cos 2\\phi"
+    },
+    {
+      "y": 710.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi \\}"
+    },
+    {
+      "y": 727.2,
+      "tex": "+ (1/4)\\beta_{abc}\\{[4(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )]\\sin 2\\phi"
+    },
+    {
+      "y": 744.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi \\}"
+    }
+  ],
+  "22": [
+    {
+      "y": 107.2,
+      "tex": "(ppp)\\chi_{XXX} = -(1/4)\\{(\\beta_{caa} + \\beta_{cbb})[4(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi  + \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )]"
+    },
+    {
+      "y": 124.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[4(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )]\\cos 2\\phi \\}"
+    },
+    {
+      "y": 141.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[\\sin \\theta (\\cos \\chi  - \\cos 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(3\\cos \\chi  + \\cos 3\\chi )]\\sin 2\\phi"
+    },
+    {
+      "y": 158.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi \\}"
+    },
+    {
+      "y": 174.2,
+      "tex": "\\chi_{XZZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi ]"
+    },
+    {
+      "y": 191.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]\\}"
+    },
+    {
+      "y": 208.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 225.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab}) \\sin \\theta \\cos \\theta \\sin \\chi \\}"
+    },
+    {
+      "y": 241.2,
+      "tex": "\\chi_{ZXZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi ]"
+    },
+    {
+      "y": 258.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]\\}"
+    },
+    {
+      "y": 275.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 292.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\sin \\chi \\}"
+    },
+    {
+      "y": 308.2,
+      "tex": "\\chi_{ZZX} = (\\beta_{caa} + \\beta_{cbb})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi"
+    },
+    {
+      "y": 325.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 342.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 359.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi"
+    },
+    {
+      "y": 375.2,
+      "tex": "\\chi_{ZXX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )]"
+    },
+    {
+      "y": 392.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[2\\cos \\theta \\cos 2\\phi \\cos 2\\chi  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 409.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta ) - \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi \\sin 2\\chi ]"
+    },
+    {
+      "y": 426.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+    },
+    {
+      "y": 442.2,
+      "tex": "\\chi_{XZX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )]"
+    },
+    {
+      "y": 459.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[2\\cos \\theta \\cos 2\\phi \\cos 2\\chi  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 476.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta ) - \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi \\sin 2\\chi ]"
+    },
+    {
+      "y": 493.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+    },
+    {
+      "y": 509.2,
+      "tex": "\\chi_{XXZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )"
+    },
+    {
+      "y": 526.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 543.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 560.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+    },
+    {
+      "y": 576.2,
+      "tex": "\\chi_{ZZZ} = (\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )"
+    },
+    {
+      "y": 593.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )\\cos 2\\phi"
+    },
+    {
+      "y": 610.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\phi"
+    },
+    {
+      "y": 643.2,
+      "tex": "(spp)\\chi_{YXX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\sin \\chi  - \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )]"
+    },
+    {
+      "y": 660.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(2\\sin \\theta \\sin 3\\chi  - \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi ))\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 677.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[\\sin \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 694.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]\\}"
+    },
+    {
+      "y": 710.2,
+      "tex": "\\chi_{YZZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 727.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 744.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]"
+    }
+  ],
+  "23": [
+    {
+      "y": 74.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\cos \\chi \\}"
+    },
+    {
+      "y": 91.2,
+      "tex": "\\chi_{YZX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi ]"
+    },
+    {
+      "y": 107.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  - (\\sin ^{2}\\theta  - (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 124.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[2\\cos ^{3}\\theta  \\cos 2\\phi in2\\chi \\cos 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi ) + 2\\cos ^{2}\\theta ]"
+    },
+    {
+      "y": 141.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})[\\sin ^{2}\\theta (1 - \\cos 2\\chi ) + 2\\cos ^{2}\\theta \\cos 2\\chi ]\\cos 2\\phi \\}"
+    },
+    {
+      "y": 158.2,
+      "tex": "\\chi_{YXZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 174.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )\\cos 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 191.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 208.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\cos 2\\chi \\}"
+    },
+    {
+      "y": 241.2,
+      "tex": "(ssp)\\chi_{YYX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )"
+    },
+    {
+      "y": 258.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 275.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi"
+    },
+    {
+      "y": 292.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})[2\\sin 2\\theta (\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi ]\\}"
+    },
+    {
+      "y": 308.2,
+      "tex": "\\chi_{YYZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )"
+    },
+    {
+      "y": 325.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\cos 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 342.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\sin 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 359.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+    },
+    {
+      "y": 392.2,
+      "tex": "(psp)\\chi_{XYX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\sin \\chi  - \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )]"
+    },
+    {
+      "y": 409.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(-2\\sin \\theta \\sin 3\\chi  + \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi ))\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 426.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta \\sin \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi ))\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 442.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta \\cos \\chi ]\\}"
+    },
+    {
+      "y": 459.2,
+      "tex": "\\chi_{ZYZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi"
+    },
+    {
+      "y": 476.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 493.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 509.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\cos \\chi \\}"
+    },
+    {
+      "y": 526.2,
+      "tex": "\\chi_{XYZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi"
+    },
+    {
+      "y": 543.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 560.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 576.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\cos 2\\chi \\}"
+    },
+    {
+      "y": 593.2,
+      "tex": "\\chi_{ZYX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi ]"
+    },
+    {
+      "y": 610.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  + (-\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 627.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi ) + 2\\cos ^{2}\\theta ]"
+    },
+    {
+      "y": 660.2,
+      "tex": "(sps)\\chi_{YXY} = -(1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\cos \\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )]"
+    },
+    {
+      "y": 677.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(-2\\sin \\theta \\cos 3\\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi ))\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 694.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta \\cos \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi ))\\sin 2\\phi  - 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\cos 2\\phi"
+    },
+    {
+      "y": 710.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta \\sin \\chi ]\\}"
+    },
+    {
+      "y": 727.2,
+      "tex": "\\chi_{YZY} = (1/4)\\{ (\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - 2(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )]"
+    },
+    {
+      "y": 744.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-2(\\cos \\theta \\cos 2\\chi  + (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi ))\\cos 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]"
+    }
+  ],
+  "24": [
+    {
+      "y": 74.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 91.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{3}\\theta \\cos 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]\\}"
+    },
+    {
+      "y": 124.2,
+      "tex": "(pps)\\chi_{XXY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[-\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )]"
+    },
+    {
+      "y": 141.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 158.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 174.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi ]\\}"
+    },
+    {
+      "y": 191.2,
+      "tex": "\\chi_{ZZY} = \\{(\\beta_{caa} + \\beta_{cbb})[-(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi ]"
+    },
+    {
+      "y": 208.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 225.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[-(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 241.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\cos \\chi \\}"
+    },
+    {
+      "y": 258.2,
+      "tex": "\\chi_{ZXY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )1\\sin 2\\chi ]"
+    },
+    {
+      "y": 275.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  + (\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 292.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[-\\sin ^{2}\\theta (1 + \\cos 2\\chi )\\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 308.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{2}\\theta  + 2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta (1 + \\cos 2\\chi )]\\}"
+    },
+    {
+      "y": 325.2,
+      "tex": "\\chi_{XZY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )1\\sin 2\\chi ]"
+    },
+    {
+      "y": 342.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  + (\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 359.2,
+      "tex": "+(\\beta_{bca} + \\beta_{cab})[-\\sin ^{2}\\theta (1 + \\cos 2\\chi )\\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 375.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{2}\\theta  + 2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta  (1 + \\cos 2\\chi )]\\}"
+    },
+    {
+      "y": 409.2,
+      "tex": "(pss)\\chi_{XYY} = -(1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\cos \\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )]"
+    },
+    {
+      "y": 426.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-2\\sin \\theta \\cos 3\\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 442.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta \\cos \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi ))\\sin 2\\phi  - 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 459.2,
+      "tex": "+ (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta \\sin \\chi ]\\}"
+    },
+    {
+      "y": 476.2,
+      "tex": "\\chi_{ZYY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - 2(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )]"
+    },
+    {
+      "y": 493.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[-2(\\cos \\theta \\cos 2\\chi  + (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi ))\\cos 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]"
+    },
+    {
+      "y": 509.2,
+      "tex": "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\cos 2\\phi ]"
+    },
+    {
+      "y": 526.2,
+      "tex": "- (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{3}\\theta \\cos 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]\\}"
+    },
+    {
+      "y": 543.2,
+      "tex": "(sss)\\chi_{YYY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[(\\sin \\theta  - \\sin ^{3}\\theta )(3\\sin \\chi  - \\sin 3\\chi ) + \\sin \\theta (\\sin \\chi  + \\sin 3\\chi )]"
+    },
+    {
+      "y": 560.2,
+      "tex": "+ (\\beta_{caa} - \\beta_{cbb})[(2\\sin \\theta (\\sin \\chi  - \\sin 3\\chi ) - \\sin ^{3}\\theta (3\\sin \\chi  - \\sin 3\\chi ))\\cos 2\\phi"
+    },
+    {
+      "y": 576.2,
+      "tex": "+ 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi ]"
+    },
+    {
+      "y": 593.2,
+      "tex": "+ (\\beta_{bca} + \\beta_{cab})[4(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )]\\sin 2\\phi"
+    },
+    {
+      "y": 610.2,
+      "tex": "- 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi ]\\}"
+    }
+  ]
+}

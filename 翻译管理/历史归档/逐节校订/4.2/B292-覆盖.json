@@ -1,0 +1,12 @@
+{
+  "batch": "B292",
+  "date": "2026-10-21",
+  "pages": [
+    16,
+    17
+  ],
+  "scope": "5e两种配置、求和及全对称/简并张量表全部分量",
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

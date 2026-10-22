@@ -1,0 +1,23 @@
+{
+  "batch": "B165",
+  "date": "2026-10-20",
+  "pages": [
+    3,
+    4
+  ],
+  "tags": [
+    "2.1"
+  ],
+  "cross_page_formula_complete": true,
+  "formula_factors_match_previous_transcription_after_layout_normalization": true,
+  "source_pages_visually_checked": true,
+  "syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "unchanged_tail_from": "1/m′界面m′侧",
+  "unresolved": [
+    "Q097"
+  ],
+  "source_corrections_adopted": false,
+  "next": "B166 / p4式2.2"
+}

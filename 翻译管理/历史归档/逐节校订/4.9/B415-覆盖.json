@@ -1,0 +1,741 @@
+{
+  "batch": "B415",
+  "source_sha256": "e7c54d9f08011b72a5fb257ad3863540de889e65644548e1cef440b667d3171f",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          23,
+          540.2
+        ],
+        [
+          23,
+          557.2
+        ],
+        [
+          23,
+          573.2
+        ],
+        [
+          23,
+          590.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXX} = -(1/4)\\{(\\beta_{caa} + \\beta_{cbb})[4(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi  + \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[4(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )]\\cos 2\\phi \\}",
+        "- (\\beta_{bca} + \\beta_{cab})[\\sin \\theta (\\cos \\chi  - \\cos 3\\chi ) - (\\sin \\theta  - \\sin ^{3}\\theta )(3\\cos \\chi  + \\cos 3\\chi )]\\sin 2\\phi",
+        "- 2\\sin \\theta \\cos \\theta (\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          23,
+          607.2
+        ],
+        [
+          23,
+          623.2
+        ],
+        [
+          23,
+          640.2
+        ],
+        [
+          23,
+          657.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi ]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]\\}",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab}) \\sin \\theta \\cos \\theta \\sin \\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          23,
+          673.2
+        ],
+        [
+          23,
+          690.2
+        ],
+        [
+          23,
+          707.2
+        ],
+        [
+          23,
+          723.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi ]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]\\}",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\sin \\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          23,
+          740.2
+        ],
+        [
+          23,
+          757.2
+        ],
+        [
+          24,
+          74.2
+        ],
+        [
+          24,
+          91.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZX} = (\\beta_{caa} + \\beta_{cbb})(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - \\sin ^{3}\\theta )\\cos \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\sin \\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\sin \\chi \\sin 2\\phi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          107.2
+        ],
+        [
+          24,
+          124.2
+        ],
+        [
+          24,
+          140.2
+        ],
+        [
+          24,
+          157.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[2\\cos \\theta \\cos 2\\phi \\cos 2\\chi  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta ) - \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi \\sin 2\\chi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          174.2
+        ],
+        [
+          24,
+          190.2
+        ],
+        [
+          24,
+          207.2
+        ],
+        [
+          24,
+          224.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[2\\cos \\theta \\cos 2\\phi \\cos 2\\chi  - (\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta ) - \\cos ^{3}\\theta \\cos 2\\chi ]\\sin 2\\phi  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\phi \\sin 2\\chi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          240.2
+        ],
+        [
+          24,
+          257.2
+        ],
+        [
+          24,
+          274.2
+        ],
+        [
+          24,
+          290.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\cos 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )\\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          307.2
+        ],
+        [
+          24,
+          324.2
+        ],
+        [
+          24,
+          340.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZZ} = (\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )",
+        "+ (\\beta_{caa} - \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )\\cos 2\\phi",
+        "+ (\\beta_{bca} + \\beta_{cab})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\phi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          374.2
+        ],
+        [
+          24,
+          390.2
+        ],
+        [
+          24,
+          407.2
+        ],
+        [
+          24,
+          424.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\sin \\chi  - \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(2\\sin \\theta \\sin 3\\chi  - \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi ))\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[\\sin \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})[(\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          440.2
+        ],
+        [
+          24,
+          457.2
+        ],
+        [
+          24,
+          473.2
+        ],
+        [
+          24,
+          490.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\cos \\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          507.2
+        ],
+        [
+          24,
+          523.2
+        ],
+        [
+          24,
+          540.2
+        ],
+        [
+          24,
+          557.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi ]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  - (\\sin ^{2}\\theta  - (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[2\\cos ^{3}\\theta  \\cos 2\\phi in2\\chi \\cos 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi ) + 2\\cos ^{2}\\theta ]",
+        "+ (\\beta_{bca} - \\beta_{cab})[\\sin ^{2}\\theta (1 - \\cos 2\\chi ) + 2\\cos ^{2}\\theta \\cos 2\\chi ]\\cos 2\\phi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          573.2
+        ],
+        [
+          24,
+          590.2
+        ],
+        [
+          24,
+          607.2
+        ],
+        [
+          24,
+          623.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )\\cos 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\cos 2\\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          657.2
+        ],
+        [
+          24,
+          673.2
+        ],
+        [
+          24,
+          690.2
+        ],
+        [
+          24,
+          707.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})\\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\sin \\chi  - \\sin 3\\chi )\\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})(2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi",
+        "+ (\\beta_{bca} - \\beta_{cab})[2\\sin 2\\theta (\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          24,
+          723.2
+        ],
+        [
+          24,
+          740.2
+        ],
+        [
+          24,
+          757.2
+        ],
+        [
+          25,
+          74.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\cos 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )\\sin 2\\phi  - \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\sin 2\\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          107.2
+        ],
+        [
+          25,
+          124.2
+        ],
+        [
+          25,
+          140.2
+        ],
+        [
+          25,
+          157.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\sin \\chi  - \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(-2\\sin \\theta \\sin 3\\chi  + \\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi ))\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta \\sin \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi ))\\sin 2\\phi  + 2\\sin \\theta \\cos \\theta \\cos 3\\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta \\cos \\chi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          174.2
+        ],
+        [
+          25,
+          190.2
+        ],
+        [
+          25,
+          207.2
+        ],
+        [
+          25,
+          224.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYZ} = -(1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\sin \\theta  - 2\\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\cos \\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          240.2
+        ],
+        [
+          25,
+          257.2
+        ],
+        [
+          25,
+          274.2
+        ],
+        [
+          25,
+          290.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYZ} = (1/2)\\{(\\beta_{caa} + \\beta_{cbb})(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\cos 2\\phi  + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})\\sin ^{2}\\theta \\cos 2\\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          307.2
+        ],
+        [
+          25,
+          324.2
+        ],
+        [
+          25,
+          340.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYX} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\chi ]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  + (-\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi  - \\sin ^{2}\\theta (1 - \\cos 2\\chi ) + 2\\cos ^{2}\\theta ]"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          374.2
+        ],
+        [
+          25,
+          390.2
+        ],
+        [
+          25,
+          407.2
+        ],
+        [
+          25,
+          424.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXY} = -(1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\cos \\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(-2\\sin \\theta \\cos 3\\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi ))\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta \\cos \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi ))\\sin 2\\phi  - 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\cos 2\\phi",
+        "+ (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta \\sin \\chi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          440.2
+        ],
+        [
+          25,
+          457.2
+        ],
+        [
+          25,
+          473.2
+        ],
+        [
+          25,
+          490.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZY} = (1/4)\\{ (\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - 2(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-2(\\cos \\theta \\cos 2\\chi  + (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi ))\\cos 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{3}\\theta \\cos 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          523.2
+        ],
+        [
+          25,
+          540.2
+        ],
+        [
+          25,
+          557.2
+        ],
+        [
+          25,
+          573.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[-\\sin ^{3}\\theta (\\sin \\chi  + \\sin 3\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta (\\cos \\chi  + \\cos 3\\chi )\\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )\\sin 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          590.2
+        ],
+        [
+          25,
+          607.2
+        ],
+        [
+          25,
+          623.2
+        ],
+        [
+          25,
+          640.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZY} = \\{(\\beta_{caa} + \\beta_{cbb})[-(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi ]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\cos 2\\phi  - \\sin \\theta \\cos \\theta \\cos \\chi \\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[-(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi \\sin 2\\phi  + \\sin \\theta \\cos \\theta \\cos \\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})\\sin \\theta \\cos \\theta \\cos \\chi \\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          657.2
+        ],
+        [
+          25,
+          673.2
+        ],
+        [
+          25,
+          690.2
+        ],
+        [
+          25,
+          707.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )1\\sin 2\\chi ]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  + (\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[-\\sin ^{2}\\theta (1 + \\cos 2\\chi )\\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{2}\\theta  + 2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta (1 + \\cos 2\\chi )]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          25,
+          723.2
+        ],
+        [
+          25,
+          740.2
+        ],
+        [
+          25,
+          757.2
+        ],
+        [
+          26,
+          74.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2(\\cos \\theta  - \\cos ^{3}\\theta )1\\sin 2\\chi ]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-2\\cos ^{3}\\theta \\sin 2\\chi \\cos 2\\phi  + (\\sin ^{2}\\theta  + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi )\\sin 2\\phi ]",
+        "+(\\beta_{bca} + \\beta_{cab})[-\\sin ^{2}\\theta (1 + \\cos 2\\chi )\\cos 2\\phi  + 2\\cos ^{2}\\theta \\cos 2\\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{2}\\theta  + 2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta  (1 + \\cos 2\\chi )]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          26,
+          107.2
+        ],
+        [
+          26,
+          124.2
+        ],
+        [
+          26,
+          140.2
+        ],
+        [
+          26,
+          157.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYY} = -(1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\sin \\theta \\cos \\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-2\\sin \\theta \\cos 3\\chi  - \\sin ^{3}\\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi  + 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[(2\\sin \\theta \\cos \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\cos \\chi  - \\cos 3\\chi ))\\sin 2\\phi  - 2\\sin \\theta \\cos \\theta \\sin 3\\chi \\cos 2\\phi ]",
+        "+ (\\beta_{bca} - \\beta_{cab})[2\\sin \\theta \\cos \\theta \\sin \\chi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          26,
+          174.2
+        ],
+        [
+          26,
+          190.2
+        ],
+        [
+          26,
+          207.2
+        ],
+        [
+          26,
+          224.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[2\\cos \\theta  - 2(\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[-2(\\cos \\theta \\cos 2\\chi  + (\\cos \\theta  - \\cos ^{3}\\theta )(1 - \\cos 2\\chi ))\\cos 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi ]",
+        "- (\\beta_{bca} + \\beta_{cab})[2(\\cos \\theta  - \\cos ^{3}\\theta )\\sin 2\\phi  - (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\cos 2\\phi ]",
+        "- (\\beta_{bca} - \\beta_{cab})[-2\\cos ^{3}\\theta \\cos 2\\chi \\sin 2\\phi  + \\sin ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]\\}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          26,
+          240.2
+        ],
+        [
+          26,
+          257.2
+        ],
+        [
+          26,
+          274.2
+        ],
+        [
+          26,
+          290.2
+        ],
+        [
+          26,
+          307.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYY} = (1/4)\\{(\\beta_{caa} + \\beta_{cbb})[(\\sin \\theta  - \\sin ^{3}\\theta )(3\\sin \\chi  - \\sin 3\\chi ) + \\sin \\theta (\\sin \\chi  + \\sin 3\\chi )]",
+        "+ (\\beta_{caa} - \\beta_{cbb})[(2\\sin \\theta (\\sin \\chi  - \\sin 3\\chi ) - \\sin ^{3}\\theta (3\\sin \\chi  - \\sin 3\\chi ))\\cos 2\\phi",
+        "+ 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\sin 2\\phi ]",
+        "+ (\\beta_{bca} + \\beta_{cab})[4(\\sin \\theta  - \\sin ^{3}\\theta )\\sin \\chi  - (2\\sin \\theta  - \\sin ^{3}\\theta )(\\sin \\chi  + \\sin 3\\chi )]\\sin 2\\phi",
+        "- 2\\sin \\theta \\cos \\theta (\\cos \\chi  - \\cos 3\\chi )\\cos 2\\phi ]\\}"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "pages": [
+    23,
+    24,
+    25,
+    26
+  ],
+  "tensor_left_sides": [
+    "XXX",
+    "XZZ",
+    "ZXZ",
+    "ZZX",
+    "ZXX",
+    "XZX",
+    "XXZ",
+    "ZZZ",
+    "YXX",
+    "YZZ",
+    "YZX",
+    "YXZ",
+    "YYX",
+    "YYZ",
+    "XYX",
+    "ZYZ",
+    "XYZ",
+    "ZYX",
+    "YXY",
+    "YZY",
+    "XXY",
+    "ZZY",
+    "ZXY",
+    "XZY",
+    "XYY",
+    "ZYY",
+    "YYY"
+  ],
+  "source_images_visually_checked": true,
+  "translation_sha256": "35501bde4c55478f1f29072d5d6e80fcc1a60eb9d24c93399497f3ec1f80c133"
+}

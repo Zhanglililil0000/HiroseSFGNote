@@ -1,0 +1,9 @@
+{
+  "batch": "B130",
+  "date": "2026-10-20",
+  "coverage_record": "B130-覆盖.json",
+  "strict_math_check": "全节168片段，零错误",
+  "render_visually_checked": true,
+  "overflow": false,
+  "adopted_source_corrections": false
+}

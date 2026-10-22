@@ -1,0 +1,13 @@
+{
+  "batch": "B305",
+  "date": "2026-10-21",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "scope": "4c冻结旋转对称模式全部27分量",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

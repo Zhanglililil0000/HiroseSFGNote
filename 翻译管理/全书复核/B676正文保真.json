@@ -1,0 +1,103 @@
+{
+  "scope": "B675/B676有修改前快照的文件；新增说明与排版标题不等同原式修改",
+  "files": [
+    {
+      "section": "1.1",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": []
+    },
+    {
+      "section": "2.3",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": [
+        "--- ",
+        "+++ ",
+        "@@ -1 +1 @@",
+        "-# 薄膜产生的和频（附录）",
+        "+# 2.3 多层膜的和频过程（SFG）：附录集"
+      ]
+    },
+    {
+      "section": "2.4",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": [
+        "--- ",
+        "+++ ",
+        "@@ -1 +1 @@",
+        "-# 2.4 薄膜产生的和频（表达式）",
+        "+# 2.4 多层膜的和频过程（SFG）：表达式"
+      ]
+    },
+    {
+      "section": "2.5",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": [
+        "--- ",
+        "+++ ",
+        "@@ -1 +1 @@",
+        "-# 2.5 薄膜产生的和频（要点）",
+        "+# 2.5 多层膜的和频过程（SFG）：要点"
+      ]
+    },
+    {
+      "section": "4.6",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": []
+    },
+    {
+      "section": "4.7",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": []
+    },
+    {
+      "section": "4.11",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": [
+        "--- ",
+        "+++ ",
+        "@@ -1 +1,2 @@",
+        "-# 4.11 表面的旋转",
+        "+# 4.11 表面坐标系到实验室坐标系的张量旋转",
+        "+原题译名：表面的旋转。"
+      ]
+    },
+    {
+      "section": "7.3",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": []
+    },
+    {
+      "section": "8.1",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": []
+    },
+    {
+      "section": "8.2",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": []
+    },
+    {
+      "section": "8.3",
+      "display_math_unchanged": true,
+      "image_references_unchanged": true,
+      "prose_changes_outside_notes": [
+        "--- ",
+        "+++ ",
+        "@@ -62 +62 @@",
+        "-假设红外脉冲谱形为高斯分布，光强半峰全宽为 $\\Delta_{ir}$。本条件对电场平方积分。原文说，此时采用 $\\sqrt2g_{ir}(\\delta_{ir})$ 作归一化函数，因为需使 $g_{ir}(\\delta_{ir})$ 的平方归一化，所以带 $\\sqrt2$ 因子。",
+        "+假设红外脉冲谱形为高斯分布，光强半峰全宽为 $\\Delta_{ir}$。本条件对电场平方积分。原文说，此时采用 $\\sqrt{2g_{ir}(\\delta_{ir})}$ 作归一化函数，因为需使 $g_{ir}(\\delta_{ir})$ 的平方归一化，所以带 $\\sqrt2$ 因子。"
+      ]
+    }
+  ],
+  "new_adopted_source_corrections": 0
+}

@@ -1,0 +1,575 @@
+===== PDF p.1 =====
+二層膜からの和周波(SFG)光 — 一般式
+ファイル「膜からの和周波発生」の延長として、膜層の数が２個のときの表式を求めておく。（３層以
+上になるとテンソルの級数になるので複雑すぎる。）
+1. 係数等
+反射係数及び透過係数
+電場を表面固定座標系の成分で表すときに、反射係数及び透過係数は下のようになることを使って、座
+標成分を表している。
+n cosq - n cosq 2n cosq
+r = 1 1 m m , t = 1 1
+1m,s n cosq +n cosq 1m,s n cosq +n cosq
+1 1 m m 1 1 m m
+n cosq - n cosq 2n cosq
+r = 1 m m 1, t = 1 1
+1m,p n cosq +n cosq 1m,p n cosq +n cosq
+1 m m 1 1 m m 1
+r = -r = r , r = - r = r , r = -r = -r
+1m,x m1,x 1m,p 1m,y m1,y 1m,s 1m,z m1,z 1m,p
+r = -r = r , r = -r = r , r = - r = -r
+2m,x m2,x 2m,p 2m,y m2,y 2m,s 2m,z m2,z 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+1m,x m 1 1m,p 1m,y 1m,s 1m,z m 1 1m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m1,x 1 m m1,p m1,y m1,s m1,z 1 m m1,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+2m,x m 2 2m,p 2m,y 2m,s 2m,z m 2 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m2,x 2 m m2,p m2,y m2,s m2,z 2 m m2,p
+t t = 1 + r r = 1 - r 2, t t = 1 + r r = 1 - r 2, (a = x, y, z)
+1m,a m1,a 1m,a m1,a 1m,a 2m,a m2,a 2m,a m2,a 2m,a
+L 係数、電場振幅
+L 係数とは、分極とそれから生成する光の電場振幅を関係づける係数である。
+E = (cid:229) L PSF
+SF, a b a b b
+一般化された Snell の屈折式により、生成する SFG 光は 上向き (-) 光と下向き (+) 光の両方になる。ま
+た、分極が存在する部位によって L 係数の表式が違う。もともと導かれた式は、無限に薄い薄膜 m が分極
+して、そこから媒質１と媒質２に出てくる光を考えたものであって、s 偏光と p 偏光の電場振幅を分極の x、
+y、z 成分とつなげるものであるが、ここでは、これを拡張して考える。また、共通因子である 4p iw /c （屈
+SF
+(cid:160) (cid:160)
+折率の代わりに波数ベクトルを使うときには 4p iw
+SF
+2/c2）を省略する。
+(cid:160) (cid:160) L 係数の表記法；L i/j,s(p), a ：分極シート m 'が i 層と j 層に挟まれているときに、分極の a 成分 (a = x, y, z)
+が作る光の s 偏光又は p 偏光成分の間の係数。上向き (-) 光と下向き (+) 光を上付き - と + で区別する。
+媒質１と積層膜 m の間の分極 シート m' からの光生成に対しては、
+L- = cosq /(n cosq + n cosq )
+1/m,p,x m,SF 1,SF m,SF m,SF 1,SF
+L- = 1/(n cosq + n cosq )
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L- = (n /n )sinq /(n cosq + n cosq ) = (n /n )2sinq /(n cosq + n cosq )
+1/m,p,z m m' m',SF 1,SF m,SF m,SF 1,SF m m' m,SF 1,SF m,SF m,SF 1,SF
+2層膜SFG一般式 - 1
+
+===== PDF p.2 =====
+L+ = cosq /(n cosq + n cosq )
+1/m,p,x 1,SF 1,SF m,SF m,SF 1,SF
+L+ = 1/(n cosq + n cosq )
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L+ = - (n/n )sinq /(n cosq + n cosq ) = -(n/n )2sinq /(n cosq + n cosq )
+1/m,p,z 1 m' m',SF 1,SF m,SF m,SF 1,SF 1 m' 1,SF 1,SF m,SF m,SF 1,SF
+媒質２と積層膜 m の間の分極 シート m'' からの光生成に対しては、
+L- = cosq /(n cosq + n cosq )
+2/m,p,x 2,SF 2,SF m,SF m,SF 2,SF
+L- = 1/(n cosq + n cosq )
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L- = (n/n )sinq /(n cosq + n cosq ) = (n/n )2sinq /(n cosq + n cosq )
+2/m,p,z 2 m" m",SF 2,SF m,SF m,SF 2,SF 2 m" 2,SF 2,SF m,SF m,SF 2,SF
+L+ = cosq /(n cosq + n cosq )
+2/m,p,x m,SF 2,SF m,SF m,SF 2,SF
+L+ = 1/(n cosq + n cosq )
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L+ = -(n /n )sinq /(n cosq + n cosq ) = -(n /n )2sinq /(n cosq + n cosq )
+2/m,p,z m m" m",SF 2,SF m,SF m,SF 2,SF m m" m,SF 2,SF m,SF m,SF 2,SF
+積層膜内部の分極 シートからの光生成に対しては、
+L- = L+ = cosq /(2n cosq )
+m/m,p,x m/m,p,x m,SF m,SF m,SF
+L- = L+ = 1/(2n cosq )
+m/m,s,y m/m,s,y m,SF m,SF
+L- = -L+ = sinq /(2n cosq )
+m/m,p,z m/m,p,z m,SF m,SF m,SF
+2. 二層系 (1/m'/m/2) からの SFG
+2.1. 要約
+以下で使う記号を次のように定義する。
+（最初の界面に達するまでの位相変化）
+a = exp(iz /cosq ), a* = exp[i(h - z )/cosq ]
+0 1 m' 0 m' 1 m'
+b = exp(iz /cosq ), b* = exp[i(h - z )/cosq ]
+0 1 m' 0 m' 1 m'
+（ここで、* が付いた量は複素共役を意味しないことに注意したい。）
+（多重反射におけるユニット）
+a = r r a2, a = exp(ih /cosq ),
+m'1 m'm m' m'
+b = r t r t a2b2,
+m'1m'm m2mm'
+g = r r b2, b = exp(ih /cosq )
+m2 mm' m m
+Ø a b ø Ø a +b b g ø
+X =Œ œ , X'=Œ œ
+º a b +g ß º 1 g ß
+Ø b +g a b ø Ø g b ø
+Y =Œ œ , Y'=Œ œ
+º 1 a ß º g a +b ß
+Z = |E - X| = |E - X'| = |E - Y| = |E - Y'| = 1 + r r a2 + (r + r a2)r b2
+1m' m'm m'm 1m' m2
+m' 層の深さ z 点からの SFG
+1
+E+ sources
+Ø 1ø
+E-(0-) = t a*a [r , t r t b2][E + X + X2 + ···]Œ œ L+ P(z )
+m'1 0 m'm m'm m2mm' º 1ß m'/m' 1
+Ø 1ø
+= t a*a [r , t r t b2][E - X] - 1Œ œ L+ P(z )
+m'1 0 m'm m'm m2mm' º 1ß m'/m' 1
+2層膜SFG一般式 - 2
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.3 =====
+= t a*a (r + r b2)L+ P(z )/Z (2.1)
+m'1 0 m'm m2 m'/m' 1
+Ø 1ø
+E+(h +) = t a*t b [1, a ][E + Y + Y2 +···]Œ œ L+ P(z )
+m m2 0m'm º 0ß m'/m' 1
+Ø 1ø
+= t a*t b [1, a ][E - Y] -1Œ œ L+ P(z )
+m2 0m'm º 0ß m'/m' 1
+= t a*t bL+ P(z )/Z (2.2)
+m2 0m'm m'/m' 1
+E - sources
+Ø 1ø
+E-(0-) = t a [a , b ][E + X + X2 + ···]Œ œ L- P(z )
+m'1 0 º 1ß m'/m' 1
+Ø 1ø
+= t a [a , b ][E - X] -1Œ œ L- P(z )
+m'1 0 º 1ß m'/m' 1
+= t a (1 + r r b2)L- P(z )/Z (2.3)
+m'1 0 mm' m2 m'/m' 1
+Ø 1ø
+E+ (h +) = t ar at [1, a ][E + Y + Y2 + ···]Œ œ L- P(z )
+m m2 0 m'1 m'm º 0ß m'/m' 1
+Ø 1ø
+= t ar at [1, a ][E - Y]-1Œ œ L- P(z )
+m2 0 m'1 m'm º 0ß m'/m' 1
+= t ar t abL- P(z )/Z (2.4)
+m2 0 m'1m'm m'/m' 1
+m 層の m'/m 界面から深さ z の点からの SFG
+2
+E+ sources
+Ø 1ø
+(cid:160) E-(0-) = t b*r ab [t , g t ][E + X' + X'2 + ···]Œ œ L+ P(z )
+m'1 0 m2 m'm m'm º 0ß m/m 2
+Ø 1ø
+(cid:160) = t b*r ab [t , g t ][E - X']-1Œ œ L+ P(z )
+m'1 0 m2 m'm m'm º 0ß m/m 2
+= t b*t r abL+ P(z )/Z (2.5)
+m'1 0mm'm2 m/m 2
+Ø 1ø
+E+ (h +) = t b*t b [g , b ][E + Y' + Y'2 + ···]Œ œ L+ P(z )
+m m2 0m'm º 1ß m/m 2
+(cid:160)
+Ø 1ø
+= t b*t b [g , b ][E - Y']-1Œ œ L+ P(z )
+m2 0m'm º 1ß m/m 2
+(cid:160)
+= t b* (1 + r r a2)L+ P(z )/Z (2.6)
+m2 0 1m' m'm m/m 2
+E- sources
+Ø 1ø
+(cid:160) E-(0-) = t b [1, g ][E + X' + X'2 + ···]Œ œ L- P(z )
+m'1 0 º 0ß m/m 2
+Ø 1ø
+(cid:160) = t b [1, g ][E - X']-1Œ œ L- P(z )
+m'1 0 º 0ß m/m 2
+2層膜SFG一般式 - 3
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.4 =====
+= t bat L- P(z )/Z (2.7)
+m'1 0 mm' m/m 2
+Ø 1ø
+E+(h +) = t bb [r , t r t a2][E + Y' + Y'2 + ···]Œ œ L- P(z )
+m m2 0 mm' mm' m'1m'm º 1ß m/m 2
+Ø 1ø
+= t bb [r , t r t a2][E - Y']-1Œ œ L- P(z )
+m2 0 mm' mm' m'1m'm º 1ß m/m 2
+= -t bb (r + r a2) L- P(z )/Z (2.8)
+m2 0 m'm 1m' m/m 2
+2.2. 詳論
+外部に出てくる直前の光の電場振幅を考察する。
+m' 層の深さ z 点からの SFG
+1
+光の経路には、媒質１から来た光が媒質２との界面で反射・屈折するところでチョイスが生じる。このチ
+ョイスを適切に取り入れ、E+ がE- に反転する反射の回数が増すごとに考慮することによって、必要な表式
+を求めることが出来る。
+生成光が最初に m'/m 界面に達したときの挙動で分類すると、m'/m 界面での反射に対してさらに１回の
+反転を加えたときに派生する経路は下のように表される。
+xr y (cid:222) xr r a2r y = xr a y
+m'm m'm m'1 m'm m'm
+xt r t r a2b2r y = xt a [r t b2]y (2.9)
+m'm m2mm' m'1 m'm m'm m2mm'
+また、m'/m 界面は透過して m/2 界面で反射したものにさらに１回の反転を加えたときに派生する経路は
+下のように表される。
+x't y' (cid:222) xr r a2t y' = xr [r a2t ]y'
+(cid:160) m'm m'm m'1 m'm m'm m'1 m'm
+xt r t r a2b2t y' = xt b y'
+m'm m2mm' m'1 m'm m'm
+xt r r b2y' = xt g y' (2.10)
+(cid:160) m'm m2 mm' m'm
+（まず下の具体的な例を参照した方がピンと来るかもしれない。）
+よって、n 回の反転を経た光の出口直下での電場を下のように置くとき、
+Ø y ø
+x(r y + t y')=x(r , t )Œ n œ
+m'm n m'm n m'm m'm º y 'ß
+n
+(n + 1) 回の反転を経た光の出口直下での電場は下のように表される。
+x[r (a y + r t a2y') + t (a r t b2y + b y' + g y')]
+m'm n m'1m'm n m'm m2mm' n n n
+Ø a r t a2ø Ø y ø
+=x(r , t )Œ m'1 m'm œ Œ n œ
+m'm m'm º Œ r t b2a b +g ß œ º y 'ß
+m2mm' n
+2層膜SFG一般式 - 4
+(cid:160)
+(cid:160)
+
+===== PDF p.5 =====
+Ø a r t a2ø n+1Ø y ø
+=x(r , t )Œ m'1 m'm œ Œ 0œ
+m'm m'm º Œ r t b2a b +g ß œ º y 'ß
+m2mm' 0
+付録により、右辺の行列のべき乗がゼロに収束するときには、ネットの電場は（ゼロ次項から寄与する場
+合には）下のようになる。
+Ø 1- a - r t a2ø -1Ø y ø
+E =x(r , t )Œ m'1 m'm œ Œ 0œ
+net m'm m'm º Œ - r t b2a 1- b - g ß œ º y 'ß
+m2 mm' 0
+1 Ø 1- (b +g ) r t a2ø Ø y ø
+= x(r , t )Œ m'1 m'm œ Œ 0œ (2.11)
+1- a - b - g +a g m'm m'm º Œ r t b2a 1- a ß œ º y 'ß
+m2 mm' 0
+E+ sources
+反射 SFG E-(0-)
+出口に達するまでに E+ が E- に変わる反射の回数が 1 回のものは下図の a-1 と b-1 である。反射の回
+数が 2 のものを考えるときに、生成光が最初に m'/m 界面に達したときの挙動で分類すると、図 a-1（m'/m 界
+面で反射した）で示した経路からは図 a-2a と図 a-2b で示した経路が派生し、図 b-1（m'/m 界面は透過し
+て m/2 界面で反射した）で示した経路からは図 b-2a、図 b-2b、図 b-2c で示した経路が派生する。
+m' m'
+(cid:160)
+m m
+a-1: a *r a b-1: a *t r t ab2
+0 m'm 0 m'm m2 m'm
+(cid:160) m' m'
+m m
+(cid:160)
+a-2a: a*r a a a-2b: a*t a (r t 'b2)a
+0 m'm 0 m'm m2mm
+m' m' m'
+m m m
+b-2a: a *r b a b-2b: a *t b (r t ab2) b-2c: a*t g (r t ab2)
+0 m'm 0 m'm m2m'm 0 m'm m2m'm
+2層膜SFG一般式 - 5
+
+===== PDF p.6 =====
+(2.11) 式を当てはめると、x = a*、y = a、y' = r t b2a に対応する。よって、
+0 0 0 m2mm'
+1 Ø 1- (b +g ) r t a2ø Ø a ø
+E = a*(r , t )Œ m'1 m'm œ Œ œ
+net 1- a - b - g +a g 0 m'm m'm º Œ r t b2a 1- a ß œ º Œ r t b2aß œ
+m2 mm' m2 mm'
+r (1- r r b2)+r (1+r r )b2
+= m'm m2mm' m2 mm' m'm a *a
+1- a - b - g +a g 0
+r +r b2
+=a *a m'm m2 (2.12)
+0 1- a - b - g +a g
+透過 SFG E+ (h +)
+m
+m'
+m
+b-0: a*t b
+0 m'm
+m' m' m'
+m m m
+b-1a: a *r r a2t b b-1b: a*t b b b-1c: a *t g b
+0 m'm m'1 m'm 0 m'm 0 m'm
+(cid:160)
+(2.11) 式を当てはめると、x = a*、y = 0、y' = b に対応する。よって、
+0 0 0
+(cid:160) 1 Ø 1- (b +g ) r t a2ø Ø 0ø
+E = a*(r , t )Œ m'1 m'm œ Œ œ
+net 1- a - b - g +a g 0 m'm m'm º Œ r t b2a 1- a ß œ º bß
+m2 mm'
+(cid:160)
+t
+= m'm a *b (2.13)
+1- a - b - g +a g 0
+E - sources
+反射 SFG E-(0-)
+上と同様に考えると、この場合には下図に示す経路が可能である。
+2層膜SFG一般式 - 6
+(cid:160)
+(cid:160)
+
+===== PDF p.7 =====
+m'
+m
+a-0: a
+0
+m' m'
+m m
+a-1: a r r a2 b-1: a r t r t b2 a2
+0m'1 m'm 0 m'1m'm m2m'm
+m' m'
+m m
+a-2a: ar r a a a-2b: a r t a (r t 'b2)a2
+0 m'1 m'm 2 0m'1 m'm m2mm
+m' m' m'
+m m m
+b-2a: a r r b a2 b-2b: a r t b (r t a2b2) b-2c: ar t g(r t a2b2)
+0m'1 m'm 0 m'1m'm m2m'm 0 m'1m'm m2m'm
+この場合は、すぐ外に出る項 a と、上で示した定式に従う項が存在する。後者に対して (2.11) 式を当
+0
+てはめると、x = ar 、y = a2、y' = r t a2b2 に対応する。よって、
+0 m'1 0 0 m2mm'
+1 Ø 1- (b +g ) r t a2ø Ø a2 ø
+E =a + a r (r , t )Œ m'1 m'm œ Œ œ
+net 0 1- a - b - g +a g 0 m'1 m'm m'm º Œ r t b2a 1- a ß œ º Œ r t a2b2ß œ
+m2 mm' m2 mm'
+r (r +r b2)a2
+=a + m'1 m'm m2 a
+0 1- a - b - g +a g 0
+1- r r b2
+= m'm m2 a (2.14)
+1- a - b - g +a g 0
+透過 SFG E+ (h +)
+m
+上と同様に考えると、この場合には下図に示す経路が可能である。
+2層膜SFG一般式 - 7
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.8 =====
+m'
+m
+b-0: ar t ab
+0 m'1m'm
+m' m' m'
+m m m
+b-1a: a r r r a2t ab b-1b: ar t b ab b-1c: a ar t g b
+0 m'1 m'm m'1 m'm 0 m'1m'm 0 m'1m'm
+(2.11) 式を当てはめると、x = ar a、y = 0、y' = b に対応する。よって、
+0 m'1 0 0
+1 Ø 1- (b +g ) r t a2ø Ø 0ø
+E = a r (r , t )Œ m'1 m'm œ Œ œ
+net 1- a - b - g +a g 0 m'1 m'm m'm º Œ r t b2a 1- a ß œ º bß
+m2 mm'
+r t
+= m'1 m'm a ab (2.15)
+1- a - b - g +a g 0
+m 層の m'/m 界面から深さ z の点からの SFG
+2
+この場合には、媒質２から来た光が媒質１との界面で反射・屈折するところでチョイスが生じる。そし
+て、E- が E+ に変わる反射の回数が増すごとにこれを考慮することによって、必要な表式を求めることが出
+来る。
+上で行ったように、生成光が最初に m/m' 界面に達したときの挙動で分類すると、m/m' 界面での反射に
+対してさらに１回の反転を加えたときに派生する経路は下のように表される。
+xr y (cid:222) xr r b2r y = xr g y
+mm' mm' m2 mm' mm'
+xt r t a2r b2r y = xt [r t a2]g y (2.16)
+mm' m'1m'm m2 mm' mm' m'1m'm
+また、m'/m界面は透過してm/2界面で反射したものにさらに１回の反転を加えたときに派生する経路は下
+のように表される。
+x't y' (cid:222) xr r b2t y' = xr [r b2t ]y'
+mm' mm' m2 mm' mm' m2 mm'
+xt r t a2b2t r y' = xt b y'
+mm' m'1m'm mm' m2 mm'
+xt r r a2y' = xt a y' (2.17)
+mm' m'1 m'm mm'
+(cid:160)
+よって、n 回の反転を経る光の出口直下での電場を下のように置くとき、
+(cid:160)
+2層膜SFG一般式 - 8
+
+===== PDF p.9 =====
+Ø y ø
+x(r y + t y')=x(r , t )Œ nœ
+mm' n mm' n mm' mm' º y 'ß
+n
+(n + 1) 回の反転を経る光の出口直下での電場は下のように表される。
+x[r (g y + r b2t y') + t (r t a2g y + a y' + b y')]
+mm' n m2 mm' n mm' m'1m'm n n n
+Ø g r t b2ø Ø y ø
+=x(r , t )Œ m2 mm' œ Œ nœ
+m'm m'm º Œ r t a2g a +b ß œ º y 'ß
+m'1m'm n
+Ø g r t b2ø n+1Ø y ø
+=x(r , t )Œ m2 mm' œ Œ 0œ
+m'm m'm º Œ r t a2g a +b ß œ º y 'ß
+m'1m'm 0
+付録により、右辺の行列のべき乗がゼロに収束するときには、ネットの電場は（ゼロ次項から寄与する場
+合には）下のようになる。
+Ø 1- g - r t b2ø - 1Ø y ø
+E =x(r , t )Œ m2 mm' œ Œ 0œ
+net m'm m'm º Œ - r t a2g 1- (a +b )ß œ º y 'ß
+m'1 m'm 0
+1 Ø 1- (a +b ) r t b2ø Ø y ø
+= x(r , t )Œ m2 mm' œ Œ 0œ (2.18)
+1- a - b - g +a g m'm m'm º Œ r t a2g 1- g ß œ º y 'ß
+m'1 m'm 0
+(cid:160)
+E+ sources
+反射 SFG E-(0-)
+この場合には下図に示す経路が可能である。
+m'
+(cid:160)
+m
+b-0:b*r bt a
+0 m2' mm'
+(cid:160)
+m' m' m'
+m m m
+(cid:160) b-1a: b 0 *r m2 bt mm a a b-1b: b 0 *r m2 bt mm b a b-1c: b 0 *r m2 br mm (r m2 b2t mm' )a
+(2.18) 式を当てはめると、x = b*r b、y = 0、y' = a に対応する。よって
+0 m2 0 0
+(cid:160)
+2層膜SFG一般式 - 9
+
+===== PDF p.10 =====
+1 Ø 1- (a +b ) r t b2ø Ø 0ø
+E = b *br (r , t )Œ m2 mm' œ Œ œ
+net 1- a - b - g +a g 0 m2 mm' mm' º Œ r t a2g 1- g ß œ º aß
+m'1 m'm
+r t
+= m2 mm' b *ab (2.19)
+1- a - b - g +a g 0
+透過 SFG E+ (h +)
+m
+この場合には下図に示す経路が可能である。
+m'
+m
+a-0:b*
+0
+m' m'
+m m
+a-1:b*r r b2 b-1: b*r t br t a2b
+0 m2 mm' 0 m2 mm' m'1m'm
+(cid:160)
+m' m'
+(cid:160)
+m m
+a-2a: b*r r b(r r b2)b a-2b: b*r t b(r t a2g)b
+0 m2 mm' m2 mm' 0 m2 mm' m'1 m'm'
+m' m' m'
+m m m
+b-2a: b*r r bb b b-2b: b*r t ba (r t a2)b b-2c: b*r t bb (r t a2)b
+0 m2 mm' 0 m2mm' m'1 m'm' 0 m2 mm' m'1m'm'
+この場合は、すぐ外に出る項 b* と、上で示した定式に従う項が存在する。後者に対して (2.18) 式を
+0
+当てはめると、x = b*r b、y = b、y' = r t a2b に対応する。よって、
+0 m2 0 0 m'1m'm
+2層膜SFG一般式 - 10
+
+===== PDF p.11 =====
+1 Ø 1- (a +b ) r t b2ø Ø b ø
+E =b *+ b *br (r , t )Œ m2 mm' œ Œ œ
+net 0 1- a - b - g +a g 0 m2 mm' mm' º Œ r t a2g 1- g ß œ º Œ r t a2bß œ
+m'1m'm m'1 m'm
+b2r (r +r a2)
+=b *+ m2 mm' m'1 b *
+0 1- a - b - g +a g 0
+(1+r r a2)
+= 1m'm'm b * (2.20)
+1- a - b - g +a g 0
+E- sources
+反射 SFG E-(0-)
+この場合には下図に示す経路が可能である。
+m'
+m
+b-0:bt a
+0mm'
+m' m' m'
+m m m
+(cid:160)
+b-1a: bt a a b-1b: bt b a b-1c: br r t b2a
+0mm 0 mm 0 mm m2m'm
+(cid:160)
+(2.18) 式を当てはめると、x = b、y = 0、y' = a に対応する。よって、
+0 0 0
+(cid:160) 1 Ø 1- (a +b ) r t b2ø Ø 0ø
+E = b (r , t )Œ m2mm' œ Œ œ
+net 1- a - b - g +a g 0 mm' mm' º Œ r t a2g 1- g ß œ º aß
+m'1 m'm
+t
+= mm' b a (2.21)
+1- a - b - g +a g 0
+透過 SFG E+(h +)
+m
+この場合には下図に示す経路が可能である。
+2層膜SFG一般式 - 11
+(cid:160)
+(cid:160)
+
+===== PDF p.12 =====
+m' m'
+m m
+a-1: br b b-1: bt r t a2b
+0 mm 0 mm' m'1m'm
+m' m'
+m m
+a-2a: br gb a-2b: bt (r t r r b2a2)b
+0 mm' 0 mm' m'1m'm m2mm'
+m' m' m'
+m m m
+b-2a: br b b b-2b: bt (a r a2)b b-2c: bt r t b a2b
+0 mm' 0mm' m'2 0mm' m2 m'm
+(2.18) 式を当てはめると、x = b、y = b、y' = r t a2b に対応する。よって、
+0 0 0 m'1m'm
+1 Ø 1- (a +b ) r t b2ø Ø b ø
+E = b (r , t )Œ m2mm' œ Œ œ
+net 1- a - b - g +a g 0 mm' mm' º Œ r t a2g 1- g ß œ º Œ r t a2bß œ
+m'1 m'm m'1 m'm
+(r +r a2)
+= mm' m'1 bb (2.22)
+1- a - b - g +a g 0
+付録 A：行列の等比級数
+２章で示したように、1/m'/m 系における SFG 光の取扱いに際して２次元行列の等比級数の和が出てくる。
+ここでは、その和の表式を求める。
+単位行列を E、一般の行列を A としよう。
+Ø 1 0ø Ø a a ø
+E =Œ œ , A=Œ 11 12 œ (A.1)
+º 0 1ß º a a ß
+21 22
+行列のかけ算により、次の関係式が成立することは容易に示される（右辺を展開する）。
+E - A2 = (E - A)(E + A) (A.2)
+E - A3 = (E - A)(E + A + A2) (A.3)
+2層膜SFG一般式 - 12
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.13 =====
+E - A(n + 1) = (E - A)(E + A + A2 + … + An) (A.4)
+行列式 |E - A| がゼロでない値を持つ、即ち、行列 E - A が逆行列 (E - A)-1 を持つなら、下の関係式が成り
+立つ。
+E + A + A2 + ··· + An = (E - A) -1(E - An + 1) (n ‡ 0) (A.5)
+n = 0, 1, 2 に対して (A.5) 式は成立しているから、(A.5) 式は一般的に成り立つ式である。
+行列 A の行列要素のすべてについて、絶対値が 1 より小さいときには、行列 An はゼロに収束する。よ
+って、下の公式が成り立つ。
+lim (E + A + A2 + ··· + An) = (E - A) - 1 (when | A | < 1 for all i and j) (A.6)
+n fi ¥ ij
+付録 B：2 節と 3 節の行列の関係
+２節で用いた表式と３節で用いた表式では、左端及び右端のベクトルの違いにより、行列も違っている。
+これらが等価であることを示しておこう。
+２節と３節の表式を形式的に (B.1) 式と (B.2) 式で表そう。
+r'Xnu (２節） (B.1)
+rYnu' (３節） (B.2)
+両者を比較すると、下の関係が成り立つことがわかるであろう。
+r' = rA, u' = Au (B.3)
+Y = AXA-1, X = A-1YA (B.4)
+(b/r t b2 = r t a2 等の関係式を使う必要がある）
+m2mm' m'1mm'
+(B.3) 式と (B.4) 式を (B.1) 式に代入すると、
+r'Xnu = rA(A-1YA)(A-1YA)(A-1YA)···(A-1YA)u = rYnAu = rYnu' (B.5)
+よって、二つの表式が同じ結果を表していることが証明された。
+q. e. d.
+2層膜SFG一般式 - 13

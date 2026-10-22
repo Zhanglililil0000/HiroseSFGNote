@@ -1,0 +1,552 @@
+{
+  "date": "2026-10-21",
+  "canonical_sha256": "bf4085dcc6e9023314d4fb9be8d38fa9e0871b96d19cc34a7a537c6c553374d6",
+  "math": 3313,
+  "width": 1100,
+  "scrollWidth": 1100,
+  "height": 54280,
+  "tables": [
+    {
+      "rows": 22,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 4,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 4,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 4,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 5,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 5,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 9,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 9,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 11,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 11,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 11,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 12,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 13,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 15,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 14,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 4,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 5,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 5,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 9,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 8,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 5,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 6,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 7,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 13,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 12,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 10,
+      "width": 970,
+      "scrollWidth": 970
+    },
+    {
+      "rows": 14,
+      "width": 970,
+      "scrollWidth": 970
+    }
+  ],
+  "heads": [
+    {
+      "text": "记号与适用范围",
+      "y": 437.15625
+    },
+    {
+      "text": "原文目录",
+      "y": 1250.8125
+    },
+    {
+      "text": "查表格式说明（译者）",
+      "y": 2656.15625
+    },
+    {
+      "text": "Cₛ（PDF p2）",
+      "y": 2911.515625
+    },
+    {
+      "text": "Cᵢ（PDF p2）",
+      "y": 4041.953125
+    },
+    {
+      "text": "C₂（PDF p2）",
+      "y": 4895.4375
+    },
+    {
+      "text": "C₂ᵥ（PDF p3）",
+      "y": 5889.09375
+    },
+    {
+      "text": "C₂ₕ（PDF p3）",
+      "y": 6886.75
+    },
+    {
+      "text": "D₂（PDF p4）",
+      "y": 8068.359375
+    },
+    {
+      "text": "D₂ₕ（PDF p4）",
+      "y": 9202.796875
+    },
+    {
+      "text": "C₃ᵥ（PDF p5）",
+      "y": 10497.1875
+    },
+    {
+      "text": "D₃（PDF p5）",
+      "y": 11563.234375
+    },
+    {
+      "text": "C₅ᵥ（PDF p6）",
+      "y": 12510.5
+    },
+    {
+      "text": "C₄ᵥ（PDF p6）",
+      "y": 13612.9375
+    },
+    {
+      "text": "D₄（PDF p7）",
+      "y": 14758.765625
+    },
+    {
+      "text": "D₂d（PDF p7）",
+      "y": 15904.59375
+    },
+    {
+      "text": "C₆ᵥ（PDF p8）",
+      "y": 17154.8125
+    },
+    {
+      "text": "D₆（PDF p8）",
+      "y": 18430.8125
+    },
+    {
+      "text": "D₃d（PDF p9）",
+      "y": 19706.8125
+    },
+    {
+      "text": "D₄d（PDF p9）",
+      "y": 21126.59375
+    },
+    {
+      "text": "D₅d（PDF p10）",
+      "y": 22395.59375
+    },
+    {
+      "text": "D₆d（PDF p10）",
+      "y": 23913.328125
+    },
+    {
+      "text": "D₃ₕ（PDF p11）",
+      "y": 25312.5
+    },
+    {
+      "text": "D₅ₕ（PDF p11）",
+      "y": 26570.5
+    },
+    {
+      "text": "D₄ₕ（PDF p12）",
+      "y": 28044.84375
+    },
+    {
+      "text": "D₆ₕ（PDF p13）",
+      "y": 29638.96875
+    },
+    {
+      "text": "C₃（PDF p14）",
+      "y": 31633.390625
+    },
+    {
+      "text": "C₄（PDF p14）",
+      "y": 32976.390625
+    },
+    {
+      "text": "C₆（PDF p15）",
+      "y": 34081.828125
+    },
+    {
+      "text": "S₄（PDF p15）",
+      "y": 35317.4375
+    },
+    {
+      "text": "S₆（PDF p16）",
+      "y": 36527.265625
+    },
+    {
+      "text": "C₃ₕ（PDF p16）",
+      "y": 37856.265625
+    },
+    {
+      "text": "C₄ₕ（PDF p17）",
+      "y": 39091.875
+    },
+    {
+      "text": "C₆ₕ（PDF p17）",
+      "y": 40407.265625
+    },
+    {
+      "text": "𝑇\n𝑑\nT\nd\n\t​\n\n（PDF p18）",
+      "y": 41917.609375
+    },
+    {
+      "text": "Tₕ（PDF p18）",
+      "y": 43290
+    },
+    {
+      "text": "T（PDF p19）",
+      "y": 44936.34375
+    },
+    {
+      "text": "O（PDF p19）",
+      "y": 46142.5625
+    },
+    {
+      "text": "Oₕ（PDF p20）",
+      "y": 47378.171875
+    },
+    {
+      "text": "C∞ᵥ（PDF p21）",
+      "y": 49389.8125
+    },
+    {
+      "text": "D∞ₕ（PDF p22）",
+      "y": 51680.1875
+    }
+  ],
+  "errors": 0
+}

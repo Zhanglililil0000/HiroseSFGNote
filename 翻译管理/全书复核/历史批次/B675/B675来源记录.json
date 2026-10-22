@@ -1,0 +1,19 @@
+{
+  "access_date": "2026-10-22",
+  "read_sources": [
+    {
+      "url": "https://dlmf.nist.gov/1.17",
+      "scope": "δ序列及测试函数意义；未用于证明原稿全部附录"
+    },
+    {
+      "url": "https://wright.chem.wisc.edu/content/optical-nutation",
+      "scope": "研究组对拉比循环、周期和频率的区分；其幅度常数不直接移入底本"
+    }
+  ],
+  "not_used_as_full_text": [
+    {
+      "url": "https://www.rp-photonics.com/rabi_oscillations.html",
+      "reason": "检索命中但正文抓取超时；未以该页全文作证据"
+    }
+  ]
+}

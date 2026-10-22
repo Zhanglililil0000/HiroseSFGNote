@@ -1,0 +1,12 @@
+{
+  "batch": "B307",
+  "date": "2026-10-21",
+  "pages": [
+    16,
+    17
+  ],
+  "scope": "第5部分引入，含表面固定轴、director、选择规则和冻结旋转条件",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

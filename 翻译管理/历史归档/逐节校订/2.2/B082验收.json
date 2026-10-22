@@ -1,0 +1,27 @@
+{
+  "batch": "B082",
+  "date": "2026-10-19",
+  "source_page": 7,
+  "equations": [
+    "4.10",
+    "4.11",
+    "4.12",
+    "4.13",
+    "4.14",
+    "4.15",
+    "4.16",
+    "4.17",
+    "4.18"
+  ],
+  "editable_equations_added": 9,
+  "body_image_blocks_replaced": 3,
+  "prefix_body_unchanged": true,
+  "tail_from_4_1g_unchanged": true,
+  "source_unchanged": true,
+  "strict_syntax_math_fragments": 784,
+  "render_overflow": false,
+  "visual_review": "B082-版面抽查.png与原文p7及三幅高清原式图对照",
+  "new_issue": "Q059",
+  "adopted_source_corrections": 0,
+  "remaining": "从4.19—4.21继续可编辑转写；未进入2.3"
+}

@@ -1,0 +1,16 @@
+{
+  "batch": "B250",
+  "date": "2026-10-20",
+  "pages": [2],
+  "tags": ["0.3"],
+  "scope": "CH₂坐标、对称伸缩三分量、Ga1与矩阵元及退偏比",
+  "source_images_visually_checked": true,
+  "math_fragments_this_batch": 31,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "unresolved_source_questions": ["Q122"],
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "ddd8bdf08396ce91fbd9c8dd58f5c25ca86c6b6f7c6b8172db442fc06e25e07e",
+  "next": "B251：反对称伸缩0.4、Gb1及IR强度比"
+}

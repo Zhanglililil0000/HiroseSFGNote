@@ -1,0 +1,17 @@
+{
+  "batch": "B678",
+  "files": 445,
+  "local_dependencies": 2235,
+  "missing_dependencies": [],
+  "39_source_sections_byte_identical": true,
+  "zip_bytes": 40353344,
+  "zip_sha256": "9deda2ae3d61800cbf3c4ba080a3c1859e0e243b0aa33328d712bc15f6edeb78",
+  "zip_integrity_passed": true,
+  "portable_browser_validation": {
+    "pages": 12,
+    "image_references": 327,
+    "missing_images": 0,
+    "failed_requests": 0,
+    "passed": true
+  }
+}

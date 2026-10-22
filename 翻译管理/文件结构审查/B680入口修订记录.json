@@ -1,0 +1,13 @@
+{
+  "batch": "B680",
+  "scope": "GitHub项目入口README重写",
+  "local_links_checked": 22,
+  "missing_local_links": [],
+  "chapter_navigation_links": 8,
+  "source_sections": 39,
+  "source_pages": 717,
+  "preface_and_39_section_sources_changed": false,
+  "generated_reader_version": "B679，未因README入口文案变更重新生成正文合稿或阅读包",
+  "checks": "单一主标题；8章导航；相对链接及序言锚点存在；章节统计与清单一致",
+  "copyright": "保留来源及原资料版权限制，提示MIT文件不能替代原资料说明；LICENSE文件未改"
+}

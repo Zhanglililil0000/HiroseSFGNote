@@ -1,0 +1,23 @@
+{
+  "batch": "B309",
+  "date": "2026-10-21",
+  "pages": [
+    19,
+    20,
+    21
+  ],
+  "scope": "5b三重面内取向求和、原文结论及三模式全部表项",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B309",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "52022ed1b17e2d1872505d769978934b6dd6c2356fc3f281e0d609fd6ebd6c63",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

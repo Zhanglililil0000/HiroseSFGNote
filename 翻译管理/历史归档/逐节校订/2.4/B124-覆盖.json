@@ -1,0 +1,26 @@
+{
+  "batch": "B124",
+  "pages": [
+    1,
+    2
+  ],
+  "end": "L系数、电场振幅标题前",
+  "source_sha256": "3f6eeee4f3418c4a89181b0c0142b95aee1adda31fb6e94a7c100fd000f58be2",
+  "numbered": [],
+  "units": [
+    "坐标与界面/系数/方向定义",
+    "s/p反射、透射及反向入射关系",
+    "三行轴分量关系",
+    "r12/r21/t12/t21轴分量四组关系",
+    "两界面r轴分量两行、t轴分量四组",
+    "两组t乘积恒等式",
+    "电场边界/反射透射乘积/强度守恒"
+  ],
+  "unreviewed_remainder_unchanged": true,
+  "issues": [
+    "Q077",
+    "Q078",
+    "关联Q039/Q053/Q072"
+  ],
+  "source_corrections_adopted": false
+}

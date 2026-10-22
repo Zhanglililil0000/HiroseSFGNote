@@ -1,0 +1,17 @@
+{
+  "batch": "B230",
+  "date": "2026-10-20",
+  "pages": [
+    2
+  ],
+  "units": "2.1的相位、αβγ、X/X′/Y/Y′及Z定义",
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "unresolved": [
+    "Q113"
+  ],
+  "four_determinants_equal": true,
+  "determinant_polynomial": "1-alpha-beta-gamma+alpha*gamma",
+  "next": "B231：p2—3的m′层E+源，式2.1—2.2；核矩阵乘法顺序与源点坐标"
+}

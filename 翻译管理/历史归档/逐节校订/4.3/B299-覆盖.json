@@ -1,0 +1,12 @@
+{
+  "batch": "B299",
+  "date": "2026-10-21",
+  "pages": [
+    4,
+    5
+  ],
+  "scope": "第4部分引入、三角恒等式、一般式条件及内部角偏移",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

@@ -1,0 +1,22 @@
+{
+  "batch": "B317",
+  "date": "2026-10-21",
+  "pages": [
+    4,
+    5
+  ],
+  "scope": "第5部分完整引入及5a随机面内平均，全部7个分量及无信号项",
+  "source_sha256": "1666fe24701663a09a661d5f4e0c910daa6c8d7bb1d3c180805c3c73debccf69",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B317",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "c9f42b2cabdc4beacf17cef6ad3a27bc8fcbec71fba793c6eb39a88ceece7da3",
+  "scope_limit": "确认原文覆盖、翻译转录与参考排版；原文理论疑点未因此得到验证。"
+}

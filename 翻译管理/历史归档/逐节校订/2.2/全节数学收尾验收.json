@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-19",
+  "batch_end": "B114",
+  "source_pages": 47,
+  "source_sha256": "24c9c3fcfe8b0aad0d5f5fc0a570391b7bed5336320f2800e8be0a2997ed4aad",
+  "numbered_equations": 116,
+  "unique": 116,
+  "all_numbered_editable": true,
+  "historical_crops": 132,
+  "retired_equation_crops": 127,
+  "remaining_real_diagrams": [
+    "B079-p40-01.png",
+    "B080-p41-01.png",
+    "B080-p42-02.png",
+    "B080-p43-04.png",
+    "B080-p43-05.png"
+  ],
+  "uncovered_crops": [],
+  "control_characters": [],
+  "missing_local_references": [],
+  "new_rendered_batches": 21,
+  "new_formula_overflows": 0,
+  "previous_section_1_to_4_math_unchanged": true
+}

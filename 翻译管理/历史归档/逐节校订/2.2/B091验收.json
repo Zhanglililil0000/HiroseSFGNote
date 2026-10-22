@@ -1,0 +1,14 @@
+{
+  "batch": "B091",
+  "date": "2026-10-19",
+  "page": 11,
+  "equation": "4.30a",
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅公式及状态行改变，其他正文相同",
+  "math_syntax_pass": 816,
+  "render_overflow": false,
+  "visual_review": "参考渲染与高清全式及六倍首部对照通过",
+  "new_issue": "Q064；交叉频率与全部整体相位保留",
+  "adopted_source_corrections": 0,
+  "next": "B092，式4.30b"
+}

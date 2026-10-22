@@ -1,0 +1,162 @@
+{
+  "integrals": [
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 0,
+      "numerator": 1.3,
+      "exact": 4.084070449666731,
+      "quadrature": 4.084070449666774,
+      "absolute_error": 4.263256414560601e-14
+    },
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 0,
+      "numerator": 0.65,
+      "exact": 2.0420352248333655,
+      "quadrature": 2.0420352248333824,
+      "absolute_error": 1.687538997430238e-14
+    },
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 1,
+      "numerator": 1.3,
+      "exact": 6.126105674500097,
+      "quadrature": 6.126105674500135,
+      "absolute_error": 3.8191672047105385e-14
+    },
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 1,
+      "numerator": 0.65,
+      "exact": 3.0630528372500483,
+      "quadrature": 3.0630528372500603,
+      "absolute_error": 1.199040866595169e-14
+    },
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 5,
+      "numerator": 1.3,
+      "exact": 7.654912443723773,
+      "quadrature": 7.654912443723763,
+      "absolute_error": 9.769962616701378e-15
+    },
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 5,
+      "numerator": 0.65,
+      "exact": 3.8274562218618864,
+      "quadrature": 3.827456221861885,
+      "absolute_error": 1.3322676295501878e-15
+    },
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 10,
+      "numerator": 1.3,
+      "exact": 7.909002402856442,
+      "quadrature": 7.909002402856451,
+      "absolute_error": 9.769962616701378e-15
+    },
+    {
+      "Gamma": 0.5,
+      "omega_v/Gamma": 10,
+      "numerator": 0.65,
+      "exact": 3.954501201428221,
+      "quadrature": 3.9545012014282315,
+      "absolute_error": 1.0658141036401503e-14
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 0,
+      "numerator": 1.3,
+      "exact": 1.0210176124166828,
+      "quadrature": 1.0210176124166876,
+      "absolute_error": 4.884981308350689e-15
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 0,
+      "numerator": 2.6,
+      "exact": 2.0420352248333655,
+      "quadrature": 2.0420352248333824,
+      "absolute_error": 1.687538997430238e-14
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 1,
+      "numerator": 1.3,
+      "exact": 1.5315264186250241,
+      "quadrature": 1.5315264186250104,
+      "absolute_error": 1.3766765505351941e-14
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 1,
+      "numerator": 2.6,
+      "exact": 3.0630528372500483,
+      "quadrature": 3.063052837250032,
+      "absolute_error": 1.6431300764452317e-14
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 5,
+      "numerator": 1.3,
+      "exact": 1.9137281109309432,
+      "quadrature": 1.9137281109309652,
+      "absolute_error": 2.19824158875781e-14
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 5,
+      "numerator": 2.6,
+      "exact": 3.8274562218618864,
+      "quadrature": 3.827456221861899,
+      "absolute_error": 1.2434497875801753e-14
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 10,
+      "numerator": 1.3,
+      "exact": 1.9772506007141104,
+      "quadrature": 1.9772506007141457,
+      "absolute_error": 3.530509218307998e-14
+    },
+    {
+      "Gamma": 2.0,
+      "omega_v/Gamma": 10,
+      "numerator": 2.6,
+      "exact": 3.954501201428221,
+      "quadrature": 3.954501201428248,
+      "absolute_error": 2.708944180085382e-14
+    }
+  ],
+  "max_error": 4.263256414560601e-14,
+  "peak_examples": [
+    {
+      "Gamma": 1,
+      "chi": 12,
+      "H": 144.0,
+      "H_times_Gamma_squared": 144,
+      "sqrt_H_times_Gamma": 12
+    },
+    {
+      "Gamma": 2,
+      "chi": 12,
+      "H": 36.0,
+      "H_times_Gamma_squared": 144,
+      "sqrt_H_times_Gamma": 12
+    },
+    {
+      "Gamma": 3,
+      "chi": 12,
+      "H": 16.0,
+      "H_times_Gamma_squared": 144,
+      "sqrt_H_times_Gamma": 12
+    }
+  ],
+  "original_body_preserved": {
+    "中文版本/第八章 拟合/8.1 和频光谱的线形.md": true,
+    "中文版本/第八章 拟合/8.2 和频光谱分析便览.md": true
+  },
+  "source_corrections": 0,
+  "scope": "限定条件下的代数/数值检查，非作者意图认证"
+}

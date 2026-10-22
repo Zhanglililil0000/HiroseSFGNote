@@ -1,0 +1,16 @@
+{
+  "batch": "B231",
+  "date": "2026-10-20",
+  "pages": [2, 3],
+  "tags": ["2.1", "2.2"],
+  "source_images_visually_checked": true,
+  "all_three_equality_stages_preserved": true,
+  "matrix_multiplication_order_restored_from_source": true,
+  "math_fragments_this_batch": 7,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "next": "B232：m′层E−源式2.3—2.4"
+}

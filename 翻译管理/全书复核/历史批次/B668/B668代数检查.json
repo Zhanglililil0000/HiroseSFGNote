@@ -1,0 +1,37 @@
+{
+  "cases": [
+    {
+      "sigma": 0.3,
+      "gaussian_area": 1.0000000000000002,
+      "square_area": 0.9403159725795939,
+      "squared_HWHM_ratio": 0.7071067811865475,
+      "convolution_prefactor_square": 0.1791751912955528
+    },
+    {
+      "sigma": 1,
+      "gaussian_area": 1.0,
+      "square_area": 0.2820947917738782,
+      "squared_HWHM_ratio": 0.7071067811865475,
+      "convolution_prefactor_square": 0.01612576721659975
+    },
+    {
+      "sigma": 2,
+      "gaussian_area": 1.0,
+      "square_area": 0.1410473958869391,
+      "squared_HWHM_ratio": 0.7071067811865475,
+      "convolution_prefactor_square": 0.004031441804149938
+    },
+    {
+      "sigma": 4,
+      "gaussian_area": 1.0,
+      "square_area": 0.07052369794346955,
+      "squared_HWHM_ratio": 0.7071067811865475,
+      "convolution_prefactor_square": 0.0010078604510374845
+    }
+  ],
+  "original_display_formulas_unchanged": true,
+  "original_image_links_unchanged": true,
+  "Q304": "已撤回译者误报",
+  "source_corrections": 0,
+  "scope": "σ>0条件下的高斯归一化、半高宽及常系数检查"
+}

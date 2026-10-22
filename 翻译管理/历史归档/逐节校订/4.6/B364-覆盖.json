@@ -1,0 +1,12 @@
+{
+  "batch": "B364",
+  "date": "2026-10-21",
+  "pages": [
+    3
+  ],
+  "scope": "L矩阵、嵌套分式、归一化与模式极限及结论",
+  "source_sha256": "c20d8094d3aa4ed74ef52cc35cc911f54524263c274039fcce2fc9727c1415aa",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "display_blocks": 9
+}

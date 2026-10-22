@@ -1,0 +1,22 @@
+{
+  "batch": "B307",
+  "date": "2026-10-21",
+  "pages": [
+    16,
+    17
+  ],
+  "scope": "第5部分引入，含表面固定轴、director、选择规则和冻结旋转条件",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B307",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "ddbc53530f2d66105eb0b861efa4d702972531fefd54c4fa19b22602a54ed927",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

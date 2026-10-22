@@ -1,0 +1,22 @@
+{
+  "batch": "B362",
+  "date": "2026-10-21",
+  "pages": [
+    1
+  ],
+  "scope": "原题、全文导读、对称性降低与模式、S/GR/FR/GS矩阵及定义",
+  "source_sha256": "c20d8094d3aa4ed74ef52cc35cc911f54524263c274039fcce2fc9727c1415aa",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "display_blocks": 6,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B362",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "9194772de573c3378f9c63d096b1659a740637ee8a93658784d46b916fd28fcc",
+  "scope_limit": "覆盖、转录及参考排版核验；原文推导和适用范围疑点仍待核。"
+}

@@ -1,0 +1,14 @@
+{
+  "batch": "B229",
+  "date": "2026-10-20",
+  "pages": [1, 2],
+  "scope": "L定义、方向、公共因子及15组无编号系数关系",
+  "source_images_visually_checked": true,
+  "math_fragments_this_batch": 45,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "next": "B230：2.1相位符号、四矩阵及Z定义"
+}

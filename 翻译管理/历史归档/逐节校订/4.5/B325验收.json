@@ -1,0 +1,21 @@
+{
+  "batch": "B325",
+  "date": "2026-10-21",
+  "scope": "第3部分振动谱带、共线极限排除及第4部分对称分类",
+  "pages": [
+    2,
+    3
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "546d9765b0282f17090cbc3d22ad7ff7383cc40e7c2482344cd010e8e1da3b31",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B325",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

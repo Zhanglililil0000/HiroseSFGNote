@@ -1,0 +1,19 @@
+{
+  "batch": "B235",
+  "date": "2026-10-20",
+  "pages": [
+    4
+  ],
+  "tags": [
+    "2.9",
+    "2.10"
+  ],
+  "units": "2.2详论引言、m′层源两类路径及2+3条路径关系",
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "unresolved": [
+    "Q117"
+  ],
+  "next": "B236：p4—5反转次数递推及矩阵重新组合，接全跨页关系"
+}

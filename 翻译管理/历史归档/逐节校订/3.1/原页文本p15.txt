@@ -1,0 +1,263 @@
+2 層膜の SFG - 15
+であるから、
+€ 
+E
++
+2 (hm
++
+)net =
+t m'mtm2ab
+1+ r1m'
+rm'ma
+2
++ (rm'm + r1 m'a
+2
+)rm2b
+2 L
++
+1/m'P
+*
+(z1 = 0)
+(2.18) 式により、
+€ 
+E
++
+2 (hm
++
+)net,p = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+(1+ r
+1m',vis,α
+)[(1 + rm'm,vis,α
+e
+2iβm ', vishm'
+) + (rm'm,vis,α
++ e
+2 iβ m',vishm'
+)rm2 ,vis,α
+e
+2iβm, vishm
+]
+1+ r
+1m',vis,α
+rm'm,vis,α
+e
+2iβ m',vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2 iβ m',vishm'
+)rm2 ,vis,α
+e
+2iβm, vishm
+€ 
+×
+(1+ r
+1m',ir,β
+)[(1+ rm'm,ir,β
+e
+2iβ m',ir hm'
+) + (rm'm,ir,β
++ e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+]
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm ', irhm' + (rm'm,ir,β
++ r
+1 m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+t
+1m',SF ,p
+tm2 ,SF,p
+e
+i(β βm, SF
+hm
++βm',SFhm '
+)
+(L
++
+1/m',pxχ xαβ
++ L
++
+1/m',pz χzαβ
+)
+1+ r
+1 m,,SF ,p
+rm'm,SF,p
+e
+2 iβ m',SFhm' + (rm'm,SF,p
++ r
+1m',SF,p
+e
+2iβ m', SFhm'
+)rm2 ,SF,p
+e
+2iβm, SFhm
+(nm"=n1
+) (2.32a)
+€ 
+E
++
+2 (hm
++
+)net,s = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+(1+ r
+1m',vis,α
+)[(1 + rm'm,vis,α
+e
+2iβm ', vishm'
+) + (rm'm,vis,α
++ e
+2 iβ m',vishm'
+)rm2 ,vis,α
+e
+2iβm, vishm
+]
+1+ r
+1m',vis,α
+rm'm,vis,α
+e
+2iβ m',vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2 iβ m',vishm'
+)rm2 ,vis,α
+e
+2iβm, vishm
+€ 
+×
+(1+ r
+1m',ir,β
+)[(1+ rm'm,ir,β
+e
+2iβ m',ir hm'
+) + (rm'm,ir,β
++ e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+]
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm ', irhm' + (rm'm,ir,β
++ r
+1 m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+t
+1 m',SF ,s
+tm2,SF,s
+e
+i(β βm, SF
+hm
++βm ', SFhm'
+)
+L
++
+1/m',syχyαβ
+1+ r
+1 m,,SF ,s
+rm'm,SF ,s
+e
+2 iβ m',SFhm' + (rm'm,SF,s
++ r
+1m',SF,s
+e
+2iβ m', SFhm'
+)rm2 ,SF,s
+e
+2 iβ m,SFhm
+(2.32b)
+1/m' 界面の m' 側の分極からの SFG：
+(a): 反射方向
+ファイル「一般式」の (2.1) 式と (2.3) 式において、z1 = 0、a0* = a、a0= 1 とする。
+€ 
+E
+−
+1 (0
+−
+)net =
+tm'1
+[(rm'm + rm2b
+2
+)a
+2
+L
++
+m'/m' + (1 + rm'mrm2b
+2
+)L
+−
+m'/m']
+1 + r1m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z1 = 0)
+ここで、
+€ 
+t1m',pL
++
+m'/m',px = t1m',pL
+−
+m'/m',px = L
+−
+1/m',px ,
+€ 
+t1m',sL
++
+m'/m',sy = t1m',sL
+−
+m'/m',sy = L
+−
+1/m',sy ,
+€ 
+t1m',pL
++
+m'/m',pz = −t1 m',pL
+−
+m'/m',pz = L
+−
+1/m',pz (nm" = nm'
+)
+であるから、

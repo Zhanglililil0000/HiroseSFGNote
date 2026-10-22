@@ -1,0 +1,23 @@
+{
+  "batch": "B416",
+  "source_sha256": "d734ad0e42503a08065d0beb0964a16668ad9b7d7667355dbc59629378d9ef20",
+  "source_lines_and_locations": [],
+  "source_corrections_adopted": false,
+  "manual_vector_and_prose_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pages": [
+    1,
+    2
+  ],
+  "tensor_left_sides": [],
+  "source_images_visually_checked": true,
+  "translation_sha256": "d9c5839456cd1e61724aaa72b6b527c7669ba5dceb727b69e825458b3243ad68"
+}

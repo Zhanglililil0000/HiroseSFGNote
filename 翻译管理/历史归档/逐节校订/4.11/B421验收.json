@@ -1,0 +1,260 @@
+{
+  "batch": "B421",
+  "pages": [
+    1
+  ],
+  "source_sha256": "ab1f8aeb2af1a10fa24966850ba47e0ab1e787aeb4dc3fa2126063315f8dd3d7",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          1,
+          350.2
+        ],
+        [
+          1,
+          367.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXX} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xxx}\\cos \\chi",
+        "- (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{yyy}\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          383.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZZ} =\\chi_{xzz}\\cos \\chi  + \\chi_{yzz}\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          400.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXZ} = \\chi_{zxz}\\cos \\chi  + \\chi_{zyz}\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          416.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZX} = \\chi_{zzx}\\cos \\chi  + \\chi_{zzy}\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          432.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXX} = (1/2)[(\\chi_{zxx} + \\chi_{zyy}) + (\\chi_{zxx} - \\chi_{zyy})\\cos 2\\chi ] + (1/2)(\\chi_{zxy} + \\chi_{zyx})\\sin 2\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          449.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZX} = (1/2)[(\\chi_{xzx} + \\chi_{yzy}) + (\\chi_{xzx} - \\chi_{yzy})\\cos 2\\chi ] + (1/2)(\\chi_{yzx} + \\chi_{xzy})\\sin 2\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          465.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXZ} = (1/2)[(\\chi_{xxz} + \\chi_{yyz}) + (\\chi_{xxz} - \\chi_{yyz})\\cos 2\\chi ] + (1/2)(\\chi_{xyz} + \\chi_{yxz})\\sin 2\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          482.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZZ} = \\chi_{zzz}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          514.2
+        ],
+        [
+          1,
+          531.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXX} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{xyy}\\sin \\chi",
+        "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yxx}\\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          547.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZZ} = -\\chi_{xzz}\\sin \\chi  + \\chi_{yzz}\\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          564.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZX} = -(1/2)(\\chi_{xzx} - \\chi_{yzy})\\sin 2\\chi  + (1/2)[(\\chi_{yzx} - \\chi_{xzy}) + (\\chi_{yzx} + \\chi_{xzy})\\cos 2\\chi ]"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          580.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXZ} = -(1/2)(\\chi_{xxz} - \\chi_{yyz})\\sin 2\\chi  + (1/2)[(\\chi_{yxz} - \\chi_{xyz}) + (\\chi_{yxz} + \\chi_{xyz})\\cos 2\\chi ]"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          613.2
+        ],
+        [
+          1,
+          629.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYX} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yyx}\\cos \\chi",
+        "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{xxy}\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          646.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYZ} = (1/2)[(\\chi_{xxz} + \\chi_{yyz}) - (\\chi_{xxz} - \\chi_{yyz})\\cos 2\\chi ] - (1/2)(\\chi_{xyz} + \\chi_{yxz})\\sin 2\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          678.2
+        ],
+        [
+          1,
+          695.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYX} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{yxy}\\sin \\chi",
+        "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xyx}\\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          711.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYZ} = -\\chi_{zxz}\\sin \\chi  + \\chi_{zyz}\\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          728.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYZ} = -(1/2)(\\chi_{xxz} - \\chi_{yyz})\\sin 2\\chi  + (1/2)[(\\chi_{xyz} - \\chi_{yxz}) + (\\chi_{xyz} + \\chi_{yxz})\\cos 2\\chi ]"
+      ]
+    },
+    {
+      "locations": [
+        [
+          1,
+          744.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYX} = -(1/2)(\\chi_{zxx} - \\chi_{zyy})\\sin 2\\chi  + (1/2)[(\\chi_{zyx} - \\chi_{zxy}) + (\\chi_{zyx} + \\chi_{zxy})\\cos 2\\chi ]"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "tensor_left_sides": [
+    "XXX",
+    "XZZ",
+    "ZXZ",
+    "ZZX",
+    "ZXX",
+    "XZX",
+    "XXZ",
+    "ZZZ",
+    "YXX",
+    "YZZ",
+    "YZX",
+    "YXZ",
+    "YYX",
+    "YYZ",
+    "XYX",
+    "ZYZ",
+    "XYZ",
+    "ZYX"
+  ],
+  "source_images_visually_checked": true,
+  "translation_sha256": "ffba80803ef087794c3200a724be466b62d4e90d9f855af7eefdbe9c2897bd1c",
+  "status": "本批原页对照、译校、覆盖与参考排版验收完成",
+  "date": "2026-10-21",
+  "render": {
+    "batch": "B421",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "validation_limit": "数学语法和版式通过不等于原稿公式已完成独立物理证明。"
+}

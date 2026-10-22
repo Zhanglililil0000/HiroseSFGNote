@@ -1,0 +1,142 @@
+{
+  "batch": "B422",
+  "pages": [
+    2
+  ],
+  "source_sha256": "ab1f8aeb2af1a10fa24966850ba47e0ab1e787aeb4dc3fa2126063315f8dd3d7",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          2,
+          104.2
+        ],
+        [
+          2,
+          121.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXY} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yxy}\\cos \\chi",
+        "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{xyx}\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          137.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZY} = (1/2)[(\\chi_{xzx} + \\chi_{yzy}) - (\\chi_{xzx} - \\chi_{yzy})\\cos 2\\chi ] - (1/2)(\\chi_{yzx} + \\chi_{xzy})\\sin 2\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          170.2
+        ],
+        [
+          2,
+          186.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXY} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{yyx}\\sin \\chi",
+        "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xxy}\\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          203.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZY} = -\\chi_{zzx}\\sin \\chi  + \\chi_{zzy}\\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          219.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXY} = -(1/2)(\\chi_{zxx} - \\chi_{zyy})\\sin 2\\chi  + (1/2)[(\\chi_{zxy} - \\chi_{zyx}) + (\\chi_{zxy} + \\chi_{zyx})\\cos 2\\chi ]"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          236.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZY} = -(1/2)(\\chi_{xzx} - \\chi_{yzy})\\sin 2\\chi  + (1/2)[(\\chi_{xzy} - \\chi_{yzx}) + (\\chi_{xzy} + \\chi_{yzx})\\cos 2\\chi ]"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          268.2
+        ],
+        [
+          2,
+          285.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYY} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xyy}\\cos \\chi",
+        "+ (1/4) (\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{yxx}\\sin \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          301.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYY} = (1/2)[(\\chi_{zxx} + \\chi_{zyy}) - (\\chi_{zxx} - \\chi_{zyy})\\cos 2\\chi ] - (1/2)(\\chi_{zxy} + \\chi_{zyx})\\sin 2\\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          2,
+          334.2
+        ],
+        [
+          2,
+          350.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYY} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{xxx}\\sin \\chi",
+        "- (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yyy}\\cos \\chi"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "tensor_left_sides": [
+    "YXY",
+    "YZY",
+    "XXY",
+    "ZZY",
+    "ZXY",
+    "XZY",
+    "XYY",
+    "ZYY",
+    "YYY"
+  ],
+  "source_images_visually_checked": true,
+  "translation_sha256": "0447c5d8ab0895cf0d11c0a451e7b286640d0d8cafbf9cc4cf3cf72830643b3f"
+}

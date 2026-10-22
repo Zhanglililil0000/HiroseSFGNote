@@ -1,0 +1,21 @@
+{
+  "batch": "B668",
+  "asset": "中文版本/assets/8.1/p7-式12.png",
+  "source": "日语原版/Chapter8/chap8-1.pdf",
+  "PDF_page": 7,
+  "scale": 3.2,
+  "bbox_at_scale_1_8": [
+    180,
+    1050,
+    950,
+    1245
+  ],
+  "before_sha256": "c7f1ab84bb688c8cdf89cc4d383b7141669553e1753b9eb388523d0a74097b9e",
+  "after_sha256": "b0a28699f2460969774617e56c8c60acf9f07a8bb8d69476fcff14e39ea99e15",
+  "dimensions": [
+    1369,
+    346
+  ],
+  "reason": "恢复原裁图截断的末行；不改原式内容",
+  "historical_manifests": "第八章旧资源清单为当时快照，本修订记录给出现行资源摘要"
+}

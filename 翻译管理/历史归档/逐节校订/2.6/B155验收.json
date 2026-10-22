@@ -1,0 +1,25 @@
+{
+  "batch": "B155",
+  "date": "2026-10-20",
+  "coverage": {
+    "batch": "B155",
+    "date": "2026-10-20",
+    "pages": [
+      5,
+      6
+    ],
+    "units": "三界面与四界面s/p乘积，四组各四个展开元素，含跨页3.4a",
+    "tags": [
+      "3.3a",
+      "3.3b",
+      "3.4a",
+      "3.4b"
+    ],
+    "source_images_visually_checked": true,
+    "source_formula_corrections_adopted": false
+  },
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false
+}

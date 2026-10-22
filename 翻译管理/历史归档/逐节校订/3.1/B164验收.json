@@ -1,0 +1,20 @@
+{
+  "batch": "B164",
+  "date": "2026-10-20",
+  "source_pages": [
+    2,
+    3
+  ],
+  "display_groups": 16,
+  "L_relations": 15,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "coefficient_transcription_matches_verified_source": true,
+  "section2_onward_unchanged": true,
+  "unresolved": [
+    "Q096"
+  ],
+  "source_corrections_adopted": false,
+  "next": "B165：2.1引言及跨页式2.1"
+}

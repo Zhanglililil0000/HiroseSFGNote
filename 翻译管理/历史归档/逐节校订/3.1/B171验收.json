@@ -1,0 +1,21 @@
+{
+  "batch": "B171",
+  "date": "2026-10-20",
+  "pages": [
+    6,
+    7
+  ],
+  "units": "m′层正向源单场2.10a/b与四项乘积2.11",
+  "tags": [
+    "2.10a",
+    "2.10b",
+    "2.11"
+  ],
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "source_formula_corrections_adopted": false,
+  "layout_factor_comparison_passed": true,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true
+}

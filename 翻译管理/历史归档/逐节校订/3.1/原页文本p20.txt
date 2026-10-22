@@ -1,0 +1,249 @@
+2 層膜の SFG - 20
+であるから、
+€ 
+E
+−
+1 (0
+−
+)net =
+ab(1 ± rm2
+)L
+−
+m'/m
+1 + r1m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z 2 = h m
+−
+)
+(upper sign for x and y components, lower sign for z component)
+(2.23) 式を参照して、
+€ 
+E
+−
+1,p (0
+−
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+e
+iβm ', vishm '
+(1+ rm'm,vis,α
+)(1+ rm2,vis,α
+e
+2 iβ m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+e
+iβ m',irhm '
+(1+ rm'm,ir,β
+)(1+ rm2 ,ir,β
+e
+2iβ m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+e
+i( β m',SFhm'
++β m, SFhm
+)
+[(1 + rm2,SF ,p
+)L
+−
+m'/m,pxχxαβ
++ (1 − rm2,SF,p
+)L
+−
+m'/m,pz χ zαβ
+]
+1+ r
+1 m',SF ,p
+rm'm,SF,p
+e
+2 iβ m',SFhm' + (rm'm,SF,p
++ r
+1m',SF,p
+e
+2iβ m', SFhm'
+)rm2 ,SF,p
+e
+2iβm, SFhm
+(nm" = nm) (2.37a)
+€ 
+E
+−
+1,s (0
+−
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+e
+iβm ', vishm '
+(1+ rm'm,vis,α
+)(1+ rm2,vis,α
+e
+2 iβ m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+e
+iβ m',irhm '
+(1+ rm'm,ir,β
+)(1+ rm2 ,ir,β
+e
+2iβ m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+e
+i( βm ', SFhm'
++β m,SFhm
+)
+(1+ rm2,SF ,s
+)L
+−
+m'/m,syχ yαβ
+1+ r
+1 m',SF ,s
+rm'm,SF ,s
+e
+2 iβ m',SFhm' + (rm'm,SF,s
++ r
+1m',SF,s
+e
+2iβ m', SFhm'
+)rm2 ,SF,s
+e
+2 iβ m,SFhm
+(2.37b)
+(b): 透過方向
+ファイル「一般式」の (2.6) 式と (2.8) 式において、z2 = hm、b0* = 1、b0= b とする。
+€ 
+E
++
+2 (hm' + hm
++
+)net =
+(1 + r1m'
+rm'ma
+2
+)L
++
+m/m − (rm'm + r1 m'a
+2
+)b
+2
+L
+−
+m/m
+1 + r1 m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z 2 = h m
+−
+)
+ここで、
+€ 
+tm2,pL
++
+m/m,px = tm2,pL
+−
+m/m,px = L
++
+m/2 ,px ,
+€ 
+tm2,sL
++
+m/m,sy = tm2,sL
+−
+m/m,sy = L
++
+m/2,sy ,
+€ 
+tm2,pL
++
+m/m,pz = −t m2,pL
+−
+m/m,pz = L
++
+m/2,pz (nm" = nm)
+であるから、

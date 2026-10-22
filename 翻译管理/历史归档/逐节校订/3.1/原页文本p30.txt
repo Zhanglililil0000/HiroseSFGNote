@@ -1,0 +1,193 @@
+2 層膜の SFG - 30
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(1 + rm'm,ir,β
+rm2 ,ir,βe
+2iβ m, irhm
+)e
+2iβm ', vishm '
+exp[iz1
+(−β m',SF − βm',vis + βm',ir)]
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(rm'm,ir,β + rm2 ,ir,βe
+2iβ m, irhm
+)e
+2i(β m',vis +βm ', ir )hm'
+exp[iz1
+(−βm',SF − β m',vis − βm',ir)]}
+E
+-
+sources からの寄与は、ファイル「一般式」の (2.4) 式と本稿の (2.28) 式により、下で表される。
+€ 
+E
++
+2 (hm' + hm
++
+) = t m2e
+iβ m'
+hm'
+αβ
+∑ rm'1
+tm'mL
+−
+m'/m'Pa
+*
+€ 
+×{(1+ rm'm,vis,α
+rm2,vis,α e
+2 iβ m,vishm
+)(1+ rm'm,ir,β
+rm2,ir,β e
+2iβm, irhm
+) exp[iz1
+(βm',SF + βm',vis + βm',ir)]
+€ 
++(1 + rm'm,vis ,α
+rm2,vis,α e
+2 iβ m,vishm
+)(rm'm,ir,β + rm2 ,ir,βe
+2iβ m, irhm
+)e
+2iβm ', irhm'
+exp[iz1
+(βm',SF + βm',vis − βm',ir )]
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(1 + rm'm,ir,β
+rm2 ,ir,βe
+2iβ m, irhm
+)e
+2iβm ', vishm '
+exp[iz1
+(βm',SF − βm',vis + βm',ir)]
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(rm'm,ir,β + rm2 ,ir,βe
+2iβ m, irhm
+)e
+2i(β m',vis +βm ', ir )hm'
+exp[iz1
+(βm',SF − βm',vis − βm',ir)]}
+ここで、E
++ に由来する SFG 光については z1 について 0 から hm' まで（z1 = 0 → hm'）、E
+- に由来するSFG
+光については z1 について hm' から0まで（z1 = hm' → 0）積分し、さらに関係式
+tm'm,pL
++
+m'/m',px = L
++
+m'/m,px
+, tm'm,sL
++
+m'/m',sy = L
++
+m'/m,sy
+, tm'm,pL
++
+m'/m',pz = L
++
+m'/m,pz
+(nm" = nm'
+)
+tm'm,pL
+-
+m'/m',px = L
++
+m'/m,px
+, tm'm,sL
+-
+m'/m',sy = L
++
+m'/m,sy
+, tm'm,pL
+-
+m'/m',pz = -L
++
+m'/m,pz
+(nm" = nm'
+)
+を考慮して整理すると、下式が得られる。
+€ 
+E
++
+2 (hm' + hm
++
+) = t m2e
+i( β m'
+hm'
++βm
+hm
+)
+αβ
+∑ L
++
+m'/mPa
+*
+i
+δ
+€ 
+×{(1+ rm'm,vis,α
+rm2,vis,α e
+2 iβ m,vishm
+)(1+ rm'm,ir,β
+rm2,ir,β e
+2iβm, irhm
+)
+€ 
+×[
+e
+i( −β m',SF +β m', vis+β m',ir )hm ' − 1
+βm',SF − βm',vis − βm',ir
+± rm'1
+e
+i( βm ', SF+β m',vis+β m',ir )hm ' − 1
+βm',SF + βm',vis + β m',ir
+]
+€ 
++(1 + rm'm,vis ,α
+rm2,vis,α e
+2 iβ m,vishm
+)(rm'm,ir,β + rm2 ,ir,βe
+2iβ m, irhm
+)e
+2iβm ', irhm'
+€ 
+×[
+e
+i( −β m',SF +β m', vis−βm ', ir) hm' −1
+βm',SF − βm',vis + βm',ir
+± rm'1
+e
+i( β m',SF +βm ', vis−β m',ir )hm ' − 1
+βm',SF + βm',vis − β m',ir
+]
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(1 + rm'm,ir,β
+rm2 ,ir,βe
+2iβ m, irhm
+)e
+2iβm ', vishm '
+€ 
+×[
+e
+i( −β m',SF −β m',vis +βm ', ir) hm' −1
+βm',SF + βm',vis − βm',ir
+± rm'1
+e
+i( β m',SF −β m',vis+β m',ir )hm ' − 1
+βm',SF − βm',vis + β m',ir
+]
+€ 
++(rm'm,vis,α + rm2,vis,α e
+2 iβ m,vishm
+)(rm'm,ir,β + rm2 ,ir,βe
+2iβ m, irhm
+)e
+2i(β m',vis +βm ', ir )hm'

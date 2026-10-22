@@ -1,0 +1,15 @@
+{
+  "batch": "B085",
+  "date": "2026-10-19",
+  "page": 9,
+  "equation": "4.26a",
+  "editable_equations_added": 1,
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅本公式及状态行改变，其他正文相同",
+  "math_syntax_pass": 794,
+  "render_overflow": false,
+  "visual_review": "参考渲染与高清原式对照通过",
+  "new_issue": "Q061；两处原括号保留",
+  "adopted_source_corrections": 0,
+  "next": "B086，完整表面膜无编号乘积与4.26b"
+}

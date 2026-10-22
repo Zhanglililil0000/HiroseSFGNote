@@ -1,0 +1,20 @@
+{
+  "batch": "B216",
+  "date": "2026-10-20",
+  "pages": [
+    42,
+    43
+  ],
+  "units": "三层系场乘积3.13—3.14",
+  "tags": [
+    "3.13",
+    "3.14"
+  ],
+  "source_formula_corrections_adopted": false,
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "acceptance_scope": "原页对照、完整转写、术语与数学语法、页面宽度；不代表原文推导疑点已解决",
+  "next": "按全节公式编号索引续接"
+}

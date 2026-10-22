@@ -1,0 +1,348 @@
+{
+  "batch": "B388",
+  "source_sha256": "cfc4caf877fc58737bfa36560a8804c007d4a98af48700132b2e76b78dba6774",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          7,
+          254.2
+        ]
+      ],
+      "source_lines": [
+        "R_{z}(\\chi  = 0) R_{b’}(\\theta  = 0) R_{c}(\\phi  = 0)、\\tau  = 0(4b-1)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          352.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xxz} = \\beta_{aac} = 2(\\beta_{\\xi \\xi \\zeta }\\sin ^{2}\\alpha  + \\beta_{\\zeta \\zeta \\zeta }\\cos ^{2}\\alpha )\\sin \\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          368.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zzz} = \\beta_{ccc} = 2[\\beta_{\\xi \\xi \\zeta }\\cos ^{2}\\alpha \\cos ^{2}(\\tau /2) + \\beta_{\\eta \\eta \\zeta }\\sin ^{2}(\\tau /2) + \\beta_{\\zeta \\zeta \\zeta }\\sin ^{2}\\alpha \\cos ^{2}(\\tau /2)]\\sin \\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          385.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yxz} = \\beta_{abc} =  2(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })[\\sin \\alpha \\cos \\alpha \\sin (\\tau /2)]\\sin \\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          401.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yyz} = \\beta_{bbc} = 2[\\beta_{\\xi \\xi \\zeta }\\cos ^{2}\\alpha \\sin ^{2}(\\tau /2) + \\beta_{\\eta \\eta \\zeta }\\cos ^{2}(\\tau /2) + \\beta_{\\zeta \\zeta \\zeta }\\sin ^{2}\\alpha \\sin ^{2}(\\tau /2)]\\sin \\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          417.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xyz} = \\beta_{abc} = 2(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })[\\sin \\alpha \\cos \\alpha \\sin (\\tau /2)]\\sin \\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          532.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zxx} = \\beta_{caa} = -2(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\sin \\alpha \\cos ^{2}\\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          548.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xzx} = \\beta_{caa} = -2(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\sin \\alpha \\cos ^{2}\\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          564.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yzx} = \\beta_{bca} = -2(\\beta_{\\xi \\xi \\zeta }\\cos ^{2}\\alpha  - \\beta_{\\eta \\eta \\zeta } + \\beta_{\\zeta \\zeta \\zeta }\\sin ^{2}\\alpha )\\cos \\alpha \\sin (\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          597.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zyx} = \\beta_{bca} = -2(\\beta_{\\xi \\xi \\zeta }\\cos ^{2}\\alpha  - \\beta_{\\eta \\eta \\zeta } + \\beta_{\\zeta \\zeta \\zeta }\\sin ^{2}\\alpha )\\cos \\alpha \\sin (\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          613.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yzy} = \\beta_{cbb} = +2(\\beta_{\\xi \\xi \\zeta }\\cos ^{2}\\alpha  - \\beta_{\\eta \\eta \\zeta } + \\beta_{\\zeta \\zeta \\zeta }\\sin ^{2}\\alpha )\\sin \\alpha \\sin 2(\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          630.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zxy} = \\beta_{cab} = -2(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\sin ^{2}\\alpha \\cos \\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          646.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xzy} = \\beta_{cab} = -2(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\sin ^{2}\\alpha \\cos \\alpha \\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          662.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zyy} = \\beta_{cbb} = +2(\\beta_{\\xi \\xi \\zeta }\\cos ^{2}\\alpha  - \\beta_{\\eta \\eta \\zeta } + \\beta_{\\zeta \\zeta \\zeta }\\sin ^{2}\\alpha )\\sin \\alpha \\sin ^{2}(\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          74.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xxz} = \\beta_{aac} = (4\\sqrt{2}/27)(8\\beta_{\\xi \\xi \\zeta } + \\beta_{\\eta \\eta \\zeta })\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          90.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zzz} = \\beta_{ccc} = (4\\sqrt{2}/27)[(\\beta_{\\xi \\xi \\zeta } - 9\\beta_{\\eta \\eta \\zeta } + 8\\beta_{\\zeta \\zeta \\zeta })\\cos ^{2}(\\tau /2) + 9\\beta_{\\eta \\eta \\zeta }]\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          107.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yxz} = \\beta_{abc} = -(4\\sqrt{2}/27)(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })(2(cid:214)2)\\sin (\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          123.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yyz} = \\beta_{bbc} = (4\\sqrt{2}/27)[(\\beta_{\\xi \\xi \\zeta } - 9\\beta_{\\eta \\eta \\zeta } + 8\\beta_{\\zeta \\zeta \\zeta })\\sin ^{2}(\\tau /2) + 9\\beta_{\\eta \\eta \\zeta }]\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          139.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xyz} = \\beta_{abc} = -(4\\sqrt{2}/27)(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })(2(cid:214)2)\\sin (\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          254.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zxx} = \\beta_{caa} = -(4\\sqrt{2}/27)(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          270.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xzx} = \\beta_{caa} = -(4\\sqrt{2}/27)(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          286.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yzx} = \\beta_{bca} = (2/27)(\\beta_{\\xi \\xi \\zeta } - 9\\beta_{\\eta \\eta \\zeta } + 8\\beta_{\\zeta \\zeta \\zeta })\\sin (\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          319.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zyx} = \\beta_{bca} = (2/27)(\\beta_{\\xi \\xi \\zeta } - 9\\beta_{\\eta \\eta \\zeta } + 8\\beta_{\\zeta \\zeta \\zeta })\\sin (\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          335.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{yzy} = \\beta_{cbb} = (4\\sqrt{2}/27)(\\beta_{\\xi \\xi \\zeta } - 9\\beta_{\\eta \\eta \\zeta } + 8\\beta_{\\zeta \\zeta \\zeta })\\sin ^{2}(\\tau /2)\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          352.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zxy} = \\beta_{cab} = (8/27)(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          368.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{xzy} = \\beta_{cab} = (8/27)(\\beta_{\\xi \\xi \\zeta } - \\beta_{\\zeta \\zeta \\zeta })\\cos (\\tau /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          8,
+          385.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{zyy} = \\beta_{cbb} = (4\\sqrt{2}/27)(\\beta_{\\xi \\xi \\zeta } - 9\\beta_{\\eta \\eta \\zeta } + 8\\beta_{\\zeta \\zeta \\zeta })\\sin ^{2}(\\tau /2)\\cos (\\tau /2)"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "pages": [
+    7,
+    8
+  ],
+  "tensor_left_sides": [
+    "xxz",
+    "zzz",
+    "yxz",
+    "yyz",
+    "xyz",
+    "zxx",
+    "xzx",
+    "yzx",
+    "zyx",
+    "yzy",
+    "zxy",
+    "xzy",
+    "zyy",
+    "xxz",
+    "zzz",
+    "yxz",
+    "yyz",
+    "xyz",
+    "zxx",
+    "xzx",
+    "yzx",
+    "zyx",
+    "yzy",
+    "zxy",
+    "xzy",
+    "zyy"
+  ],
+  "source_images_visually_checked": true,
+  "translation_sha256": "56f095133307cf487efb202a19f4415ca4abfbe965cc5e72c4adff02b1465867",
+  "status": "本批原页对照、译校、覆盖与参考排版验收完成",
+  "date": "2026-10-21",
+  "render": {
+    "batch": "B388",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "validation_limit": "数学语法和版式通过不等于原稿公式已完成独立物理证明。"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "B231",
+  "date": "2026-10-20",
+  "pages": [
+    2,
+    3
+  ],
+  "tags": [
+    "2.1",
+    "2.2"
+  ],
+  "units": "m′层深度z₁处E+源的反射、透射场；完整矩阵级数、逆矩阵与化简式",
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "old_translation_repairs": [
+    "两式首行的矩阵和列向量顺序恢复原文"
+  ],
+  "next": "B232：p3的m′层E−源式2.3—2.4；完整核三行等式与相位因子"
+}

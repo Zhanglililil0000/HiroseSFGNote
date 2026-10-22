@@ -1,0 +1,27 @@
+{
+  "random_response_cases": 40,
+  "max_expansion_error": 7.105427357601002e-15,
+  "zero_background_cases": 40,
+  "max_zero_background_error": 1.7763568394002505e-15,
+  "single_band_cases": 20,
+  "max_single_band_error": 8.881784197001252e-16,
+  "counterexample": {
+    "N": 2,
+    "B": 1,
+    "beta": 1,
+    "x": 1,
+    "gamma": 1,
+    "phi": 0,
+    "from_response": 1.8392621396522573,
+    "printed_eq7_brackets": 1.4606546427502716
+  },
+  "N_doubling_ratios": {
+    "background_cross": 2.0,
+    "printed_background_cross": 8,
+    "single_resonance": 4.0,
+    "interband": 4.0
+  },
+  "original_body_preserved_after_removing_note": true,
+  "source_corrections": 0,
+  "scope": "固定实系数下的复响应代数检验，非作者修法确认"
+}

@@ -1,0 +1,22 @@
+{
+  "batch": "B233",
+  "date": "2026-10-20",
+  "pages": [3],
+  "tags": ["2.5", "2.6"],
+  "source_images_visually_checked": true,
+  "all_three_equality_stages_preserved": true,
+  "old_translation_repairs": ["首行矩阵乘法次序", "两式逆矩阵中间行遗漏"],
+  "math_fragments_this_batch": 15,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "algebra_checks": {
+    "equation_2.5_matrix_product": "t_m'm/Z",
+    "equation_2.6_matrix_product": "(gamma*(1-alpha)+beta)/Z",
+    "method": "二阶逆矩阵直接展开及两组精确有理数代入辅助检查"
+  },
+  "unresolved_source_questions": ["Q113", "Q115"],
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "next": "B234：m层E−源式2.7—2.8，PDF p3—4"
+}

@@ -1,0 +1,124 @@
+{
+  "batch": "B374",
+  "pages": [
+    10
+  ],
+  "tables": [
+    {
+      "label": "3a-6",
+      "equations": [
+        {
+          "indices": "XXX",
+          "expression": "0"
+        },
+        {
+          "indices": "XZZ",
+          "expression": "0"
+        },
+        {
+          "indices": "XZX",
+          "expression": "\\beta_{caa}\\cos\\tau\\cos^2\\chi"
+        },
+        {
+          "indices": "XXZ",
+          "expression": "0"
+        },
+        {
+          "indices": "ZXZ",
+          "expression": "0"
+        },
+        {
+          "indices": "ZZX",
+          "expression": "0"
+        },
+        {
+          "indices": "ZXX",
+          "expression": "\\beta_{caa}\\cos\\tau\\cos^2\\chi"
+        },
+        {
+          "indices": "ZZZ",
+          "expression": "0"
+        },
+        {
+          "indices": "YXX",
+          "expression": "2\\beta_{caa}\\sin\\tau\\sin^2\\chi\\cos\\chi"
+        },
+        {
+          "indices": "YZZ",
+          "expression": "0"
+        },
+        {
+          "indices": "YZX",
+          "expression": "-\\beta_{caa}\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "YXZ",
+          "expression": "0"
+        },
+        {
+          "indices": "YYX",
+          "expression": "2\\beta_{caa}\\sin\\tau\\sin\\chi\\cos^2\\chi"
+        },
+        {
+          "indices": "YYZ",
+          "expression": "0"
+        },
+        {
+          "indices": "XYX",
+          "expression": "2\\beta_{caa}\\sin\\tau\\sin^2\\chi\\cos\\chi"
+        },
+        {
+          "indices": "XYZ",
+          "expression": "0"
+        },
+        {
+          "indices": "ZYZ",
+          "expression": "0"
+        },
+        {
+          "indices": "ZYX",
+          "expression": "-\\beta_{caa}\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "YXY",
+          "expression": "2\\beta_{caa}\\sin\\tau\\sin\\chi\\cos^2\\chi"
+        },
+        {
+          "indices": "YZY",
+          "expression": "\\beta_{caa}\\cos\\tau\\sin^2\\chi"
+        },
+        {
+          "indices": "XXY",
+          "expression": "2\\beta_{caa}\\sin\\tau\\sin^2\\chi\\cos\\chi"
+        },
+        {
+          "indices": "XZY",
+          "expression": "-\\beta_{caa}\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "ZZY",
+          "expression": "0"
+        },
+        {
+          "indices": "ZXY",
+          "expression": "-\\beta_{caa}\\cos\\tau\\sin\\chi\\cos\\chi"
+        },
+        {
+          "indices": "XYY",
+          "expression": "2\\beta_{caa}\\sin\\tau\\sin\\chi\\cos^2\\chi"
+        },
+        {
+          "indices": "ZYY",
+          "expression": "\\beta_{caa}\\cos\\tau\\sin^2\\chi"
+        },
+        {
+          "indices": "YYY",
+          "expression": "-2\\beta_{caa}\\sin\\tau\\sin^2\\chi\\cos\\chi"
+        }
+      ]
+    }
+  ],
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

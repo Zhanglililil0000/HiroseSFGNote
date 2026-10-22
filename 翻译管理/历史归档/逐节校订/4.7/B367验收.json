@@ -1,0 +1,276 @@
+{
+  "batch": "B367",
+  "date": "2026-10-21",
+  "pages": [
+    3
+  ],
+  "scope": "第3部分对称伸缩振动完整表(3a-1)及引言",
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "original_table_label": "3a-1",
+  "rows": 27,
+  "angle_columns": [
+    "\\chi=0^\\circ/180^\\circ",
+    "\\chi=90^\\circ",
+    "\\chi=-90^\\circ"
+  ],
+  "cells": 81,
+  "zero_cells": 51,
+  "nonzero_cells": 30,
+  "components": [
+    {
+      "polarization": "ppp",
+      "indices": "XXX",
+      "values": [
+        "0",
+        "[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - \\beta_{bbc}]\\sin\\tau",
+        "-[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - \\beta_{bbc}]\\sin\\tau"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "XZZ",
+      "values": [
+        "0",
+        "(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "XZX",
+      "values": [
+        "0",
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "XXZ",
+      "values": [
+        "\\beta_{aac}\\cos\\tau",
+        "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\cos\\tau",
+        "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\cos\\tau"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZXZ",
+      "values": [
+        "0",
+        "(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZZX",
+      "values": [
+        "0",
+        "[(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau + \\beta_{ccc}\\sin\\tau]",
+        "[(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau + \\beta_{ccc}\\sin\\tau]"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZXX",
+      "values": [
+        "0",
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau"
+      ]
+    },
+    {
+      "polarization": "ppp",
+      "indices": "ZZZ",
+      "values": [
+        "-[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - \\beta_{bbc}]\\cos\\tau",
+        "-[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - \\beta_{bbc}]\\cos\\tau",
+        "-[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau - \\beta_{bbc}]\\cos\\tau"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YXX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YZZ",
+      "values": [
+        "\\pm(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YZX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "spp",
+      "indices": "YXZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "ssp",
+      "indices": "YYX",
+      "values": [
+        "0",
+        "-\\beta_{aac}\\sin\\tau",
+        "\\beta_{aac}\\sin\\tau"
+      ]
+    },
+    {
+      "polarization": "ssp",
+      "indices": "YYZ",
+      "values": [
+        "\\beta_{aac}\\cos\\tau",
+        "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\cos\\tau",
+        "[(\\beta_{bbc} - \\beta_{ccc})\\cos^2\\tau + \\beta_{ccc}]\\cos\\tau"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "XYX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "XYZ",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "ZYZ",
+      "values": [
+        "\\pm(\\beta_{bbc} - \\beta_{ccc})\\sin\\tau\\cos^2\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "psp",
+      "indices": "ZYX",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "sps",
+      "indices": "YXY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "sps",
+      "indices": "YZY",
+      "values": [
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "XXY",
+      "values": [
+        "-(\\pm)\\beta_{aac}\\sin\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "XZY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "ZZY",
+      "values": [
+        "-(\\pm)[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau + \\beta_{ccc}]\\sin\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pps",
+      "indices": "ZXY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pss",
+      "indices": "XYY",
+      "values": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "pss",
+      "indices": "ZYY",
+      "values": [
+        "-(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau\\cos\\tau",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "polarization": "sss",
+      "indices": "YYY",
+      "values": [
+        "\\pm[(\\beta_{bbc} - \\beta_{ccc})\\sin^2\\tau - \\beta_{bbc}]\\sin\\tau",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "status": "本批逐格译校与参考排版验收完成",
+  "render": {
+    "batch": "B367",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "2eab073ab048555c855389206f999318932fea522731e91d2bb10a9a58c00c59",
+  "scope_limit": "原表覆盖、转录及排版核验，不等于验证原文公式；共享列±对应关系未确认。"
+}

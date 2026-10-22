@@ -1,0 +1,3594 @@
+===== PDF p.1 =====
+二層膜および三層膜からの和周波(SFG)光
+目次
+1. 係数等 2
+反射係数及び透過係数 2
+L 係数 2
+2. 二層系 (1/m'/m/2) からの SFG 3
+2.1. 電場振幅の積 3
+1/m' 界面 3
+m/2 界面 4
+m'/m 界面 5
+m' 層の深さ z 点 6
+1
+m 層の m'/m 界面から深さ z の点 7
+2
+2.2. SFG 分極 9
+1/m' 界面 9
+m/2 界面 9
+m'/m 界面 10
+m' 層の深さ z 点 11
+1
+m層の m'/m 界面から深さ z の点 12
+2
+2.3. SFG 電場 13
+1/m' 界面の分極からの SFG 13
+m/2 界面の分極からの SFG 17
+m'/m 界面の分極からの SFG 21
+m' 層の分極からの SFG 25
+m 層の分極からの SFG 32
+3. 三層系 (1/m'/m/m"/2) からの SFG 37
+3.1. 電場振幅の積 38
+1/m' 界面 38
+m''/2 界面 38
+m'/m 界面 39
+m/m'' 界面 41
+m' 層の深さ z 点 42
+1
+m 層の m'/m 界面から深さ z の点 43
+2
+m" 層の m/m" 界面から深さ z の点 44
+3
+3.2. SFG 分極 45
+1/m' 界面 45
+m''/2 界面 46
+m'/m 界面 47
+m/m'' 界面 48
+m' 層の深さ z 点 49
+1
+2層膜のSFG - 1
+
+===== PDF p.2 =====
+m 層の m'/m 界面から深さ z の点 50
+2
+m" 層の m/m" 界面から深さ z の点 51
+3
+ファイル「膜からの和周波発生」の延長として、膜層が２つのときの表式を求める。（３層以上になる
+と、層の数と同数の次元を持つ行列の級数になるので複雑になる。ファイル「埋込発光層からの電場」の内
+容を参照すれば、ここで示す方式の延長として定式化することができる。）
+1. 係数等
+反射係数及び透過係数
+光の電場を表面固定座標系の成分で表すときに、反射係数及び透過係数は下のようになることを使って、
+その座標成分を入射光電場の偏光成分で表すことにする。
+n cosq - n cosq 2n cosq
+r = 1 1 m m , t = 1 1
+1m,s n cosq +n cosq 1m,s n cosq +n cosq
+1 1 m m 1 1 m m
+n cosq - n cosq 2n cosq
+r = 1 m m 1 , t = 1 1
+1m,p n cosq +n cosq 1m,p n cosq +n cosq
+1 m m 1 1 m m 1
+r = -r = r , r = -r = r , r = -r = -r
+1m,x m1,x 1m,p 1m,y m1,y 1m,s 1m,z m1,z 1m,p
+r = -r = r , r = -r = r , r = -r = -r
+2m,x m2,x 2m,p 2m,y m2,y 2m,s 2m,z m2,z 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+1m,x m 1 1m,p 1m,y 1m,s 1m,z m 1 1m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m1,x 1 m m1,p m1,y m1,s m1,z 1 m m1,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+2m,x m 2 2m,p 2m,y 2m,s 2m,z m 2 2m,p
+t = (cosq /cosq )t , t = t , t = (sinq /sinq )t
+m2,x 2 m m2,p m2,y m2,s m2,z 2 m m2,p
+t t = 1 + r r = 1 - r 2, t t = 1 + r r = 1 - r 2, (a = x, y, z)
+1m,a m1,a 1m,a m1,a 1m,a 2m,a m2,a 2m,a m2,a 2m,a
+L 係数
+L 係数とは、SFG 分極とそれから生成する SFG 光の電場振幅 E を関係づける係数である。下式で示
+SF
+すように、電場に関しては座標成分ごとに、分極については偏光成分ごとに定義される。
+E = (cid:229) L PSF
+SF, a b a b b
+一般化された Snell の屈折式により、生成する SFG 光は上向き (-) 光と下向き (+) 光の両方になる。また、
+分極が存在する部位によって L 係数の表式が違ってくる。もともと導かれた式は、無限に薄い薄膜 m が分
+極し、そこから媒質１媒質２に出てくる光を考えたものであって、s 偏光と p 偏光の電場振幅を分極の x、
+y、z 成分と関係づけるものであるが、ここでは、拡張して考える。また、共通因子である 4p iw /c（屈折率
+SF
+(cid:160) (cid:160) の代わりに波数ベクトルを使うときには 4p iw 2/c2）を省略する。なお、上向き (-) 光および下向き (+) 光
+SF
+とは、それぞれ反射光と同じ方向（-z 方向）に進む光と入射光や透過光と同じ方向（+z 方向）に進む光を
+(cid:160) (cid:160)
+指す。
+L 係数の表記法；L ： 分極シート m' が I 層と j 層に挟まれているときに、分極の a 成分 (a = x, y, z)
+i/j,s(p), a
+が作る光の s 偏光成分又は p 偏光成分の間の係数。上向き (-) 光、下向き (+) 光の区別を上付き - , + で
+示す。
+2層膜のSFG - 2
+
+===== PDF p.3 =====
+媒質１と積層膜 m の間の分極シート m' からの SFG 光生成に対する L 係数は、下式で与えられる。
+L- = cosq /(n cosq + n cosq )
+1/m,p,x m,SF 1,SF m,SF m,SF 1,SF
+L- = 1/(n cosq + n cosq )
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L- = (n /n )sinq /(n cosq + n cosq ) = (n /n )2sinq /(n cosq + n cosq )
+1/m,p,z m m' m',SF 1,SF m,SF m,SF 1,SF m m' m,SF 1,SF m,SF m,SF 1,SF
+L+ = cosq /(n cosq + n cosq )
+1/m,p,x 1,SF 1,SF m,SF m,SF 1,SF
+L+ = 1/(n cosq + n cosq )
+1/m,s,y 1,SF 1,SF m,SF m,SF
+L+ = -(n/n )sinq /(n cosq + n cosq ) = -(n/n )2sinq /(n cosq + n cosq )
+1/m,p,z 1 m' m',SF 1,SF m,SF m,SF 1,SF 1 m' 1,SF 1,SF m,SF m,SF 1,SF
+媒質２と積層膜 m の間の分極シート m'' からの SFG 光生成に対する L 係数は、下式で与えられる。
+L- = cosq /(n cosq + n cosq )
+2/m,p,x 2,SF 2,SF m,SF m,SF 2,SF
+L- = 1/(n cosq + n cosq )
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L- = (n/n )sinq /(n cosq + n cosq ) = (n/n )2sinq /(n cosq + n cosq )
+2/m,p,z 2 m" m",SF 2,SF m,SF m,SF 2,SF 2 m" 2,SF 2,SF m,SF m,SF 2,SF
+L+ = cosq /(n cosq + n cosq )
+2/m,p,x m,SF 2,SF m,SF m,SF 2,SF
+L+ = 1/(n cosq + n cosq )
+2/m,s,y 2,SF 2,SF m,SF m,SF
+L+ = -(n /n )sinq /(n cosq + n cosq ) = -(n /n )2sinq /(n cosq + n cosq )
+2/m,p,z m m" m",SF 2,SF m,SF m,SF 2,SF m m" m,SF 2,SF m,SF m,SF 2,SF
+積層膜内部の分極シートからの SFG 光生成に対する L 係数は、下式で与えられる。
+L- = L+ = cosq /(2n cosq )
+m/m,p,x m/m,p,x m,SF m,SF m,SF
+L- = L+ = 1/(2n cosq )
+m/m,s,y m/m,s,y m,SF m,SF
+L- = -L+ = sinq /(2n cosq )
+m/m,p,z m/m,p,z m,SF m,SF m,SF
+上に示した電場と分極の間の関係式は、SFG 分極と SFG 光に限定されるものでとはない。振動分極と、
+それから生成する電磁波に対して、一般的に成り立つのである。
+2. 二層系 (1/m'/m/2) からの SFG
+2.1. 電場振幅の積
+可視光の電場と赤外光の電場の積を下に示す。但し、位相部分については、SFG 光の経路が最外面で反
+射するとしたときのものを示すので、m'/m 界面及び m/m" 界面での反射についても取り入れる必要がある
+ときには、別途に考慮しなければならない。式の導出については、ファイル「二層膜からの和周波 (SFG)」
+の 4 節または「積層膜からの和周波発生 (SFG)」の4節を参照されたい。
+1/m' 界面の 1 側：
+(a): E+ (by reflection and transmission) sources and E- (for n = 0) source
+E vis,a (0 - )E ir,b (0 - )=E0 vis,a E0 ir,b
+(1+r )[(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+2層膜のSFG - 3
+(cid:160)
+(cid:160)
+
+===== PDF p.4 =====
+(1+r )[(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[2ni(h tanq +h tanq )(- k sinq - k sinq )] (2.1)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+1/m' 界面の m' 側：
+(a): E+ and E- (by reflection) sources
+E vis,a (0 + )E ir,b (0 + )=E0 vis,a E0 ir,b
+t [(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t [(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[2ni(h tanq +h tanq )(- k sinq - k sinq )] (2.2)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+m/2 界面の 2 側：
+(a): E+ source
+E vis,a (h m' +h m + )E ir,b (h m' +h m + )=E0 vis,a E0 ir,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · exp[2ni(h tanq +h tanq )(- k sinq - k sinq )] (2.3)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+(b): E- sources (for n > 0, by reflection)
+(cid:160) E vis,a (h m' +h m + )E ir,b (h m' +h m + )=E0 vis,a E0 ir,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · exp[i(2n+1)(h tanq +h tanq )(- k sinq - k sinq )] (2.4)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+m/2 界面の m 側：
+(a): E+ (by reflection) and E- sources
+(cid:160) E vis,a (h m' +h m - )E ir,b (h m' +h m - )=E0 vis,a E0 ir,b
+t t (1+r )ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160) 2層膜のSFG - 4
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.5 =====
+t t (1+r )ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[i(2n+1)(h tanq +h tanq )(- k sinq - k sinq )] (2.5)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+m'/m 界面の m' 側：
+(a): E+ and E- (by reflection) sources
+E vis,a (h m' - )E ir,b (h m' - )=E0 vis,a E0 ir,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m' m',SF m,ir m,ir m,vis m,vis
+· exp[i(2n+1)(h tanq +h tanq )(- k sinq - k sinq )] (2.6)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+(b): E+ (by reflection) and E- sources
+E vis,a (h m' - )E ir,b (h m' - )=E0 vis,a E0 ir,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160) t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m' m',SF m,ir m,ir m,vis m,vis
+· exp[2ni(h tanq +h tanq )(- k sinq - k sinq )] (2.7)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+m'/m 界面の m 側：
+(cid:160)
+(a): E+ and E- (by reflection) sources
+(cid:160) E vis,a (h m' + )E ir,b (h m' + )=E0 vis,a E0 ir,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+(cid:160) 1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+(cid:160) · 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m' m',SF m,ir m,ir m,vis m,vis
+· exp[2ni(h tanq +h tanq )(- k sinq - k sinq )] (2.8)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+(cid:160)
+(b): E+ (by reflection) and E- sources
+(cid:160)
+2層膜のSFG - 5
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.6 =====
+E vis,a (h m' + )E ir,b (h m' + )=E0 vis,a E0 ir,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t eib m',ir h m'(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m' m',SF m,ir m,ir m,vis m,vis
+· exp[2ni(h tanq +h tanq )(- k sinq - k sinq )] (2.9)
+m m,SF m' m',SF m,ir m,ir m,vis m,vis
+m' 層の深さ z 点
+1
+[A (m')]: E+ sources
+n
+t
+E vis,a (z 1 )=E0 vis,a 1+r r e2ib m',vis h m' +(r 1m',vis,a +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+· {(1+r r e2ib m,vishm)exp[iz k cosq (1+tanq tanq )]
+m'm,vis,a m2,vis,a 1 m',vis m',vis m',SF m',vis
++(r +r e2ib m,vishm)e2ib m',vishm' exp[iz k cosq (- 1+tanq tanq )]}
+m'm,vis,a m2,vis,a 1 m',vis m',vis m',SF m',vis
+· exp[- i(2n+2)(h tanq +h tanq )k sinq ] (2.10a)
+m m,SF m' m',SF m,vis m,vis
+t
+E ir,b (z 1 )=E0 ir,b 1+r r e2ib m',ir h m' +(r 1m',ir,b +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,irhm)exp[iz k cosq (1+tanq tanq )]
+m'm,ir,b m2,ir,b 1 m',ir m',ir m',SF m',ir
+(cid:160) +(r +r e2ib m,irhm)e2ib m',irhm' exp[iz k cosq (- 1+tanq tanq )]}
+m'm,ir,b m2,ir,b 1 m',ir m',ir m',SF m',ir
+· exp[- i(2n+2)(h tanq +h tanq )k sinq ] (2.10b)
+m m,SF m' m',SF m,vis m,vis
+(cid:160)
+E vis,a (z 1 )E ir,b (z 1 )=E0 vis,a E0 ir,b
+t
+(cid:160) · 1m',vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160) t
+· 1m',ir,b
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+(cid:160) m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) · exp[iz (k cosq (1+tanq tanq )+k cosq (- 1+tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+(cid:160) m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (- 1+tanq tanq )+k cosq (1+tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+· exp[iz (k cosq (- 1+tanq tanq )+k cosq (- 1+tanq tanq ))]}
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
+(cid:160) 2層膜のSFG - 6
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.7 =====
+· exp[- i(2n+2)(h tanq +h tanq )(k sinq +k sinq )] (2.11)
+m m,SF m' m',SF m,vis m,vis m,ir m,ir
+[B (m')]: E- sources
+n
+t
+E vis,a (z 1 )=E0 vis,a 1+r r e2ib m',vis h m' +(r 1m',vis,a +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+· {(1+r r e2ib m,vishm)exp[iz k cosq (1- tanq tanq )]
+m'm,vis,a m2,vis,a 1 m',vis m',vis m',SF m',vis
++(r +r e2ib m,vishm)e2ib m',vishm' exp[iz k cosq (- 1- tanq tanq )]}
+m'm,vis,a m2,vis,a 1 m',vis m',vis m',SF m',vis
+· exp[- i2n(h tanq +h tanq )k sinq ] (2.12a)
+m m,SF m' m',SF m,vis m,vis
+t
+E ir,b (z 1 )=E0 ir,b 1+r r e2ib m',ir h m' +(r 1m',ir,b +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,irhm)exp[iz k cosq (1- tanq tanq )]
+m'm,ir,b m2,ir,b 1 m',ir m',ir m',SF m',ir
++(r +r e2ib m,irhm)e2ib m',irhm' exp[iz k cosq (- 1- tanq tanq )]}
+m'm,ir,b m2,ir,b 1 m',ir m',ir m',SF m',ir
+· exp[- i2n(h tanq +h tanq )k sinq ] (2.12b)
+m m,SF m' m',SF m,vis m,vis
+E vis,a (z 1 )E ir,b (z 1 )=E0 vis,a E0 ir,b
+t
+· 1m',vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+(cid:160) m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) · exp[iz (k cosq (1- tanq tanq )+k cosq (- 1- tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (- 1- tanq tanq )+k cosq (1- tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+· exp[iz (k cosq (- 1- tanq tanq )+k cosq (- 1- tanq tanq ))]}
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+· exp[- i2n(h tanq +h tanq )(k sinq +k sinq )] (2.13)
+(cid:160) m m,SF m' m',SF m,vis m,vis m,ir m,ir
+(cid:160) m 層の m'/m 界面から深さ z の点
+2
+[A (m)]: E+ sources
+n
+(cid:160) t t eib m',vis h m'
+E vis,a (h m +z 2 )=E0 vis,a 1+r r e2ib m',vis h m 1 ' m + ',vi ( s,a r m'm,vis,a +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160) · {exp[iz k cosq (1+tanq tanq )]
+2 m,vis m,vis m,SF m,vis
++r e2ib m,vishm exp[iz k cosq (- 1+tanq tanq )]}
+m2,vis,a 2 m,vis m,vis m,SF m,vis
+(cid:160)
+(cid:160) 2層膜のSFG - 7
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.8 =====
+· exp[- i(2n+2)(h tanq +h tanq )k sinq ] (2.14a)
+m m,SF m' m',SF m,vis m,vis
+t t eib m',ir h m'
+E ir,b (h m +z 2 )=E0 ir,b 1+r r e2ib m',ir h m 1 ' m + ',ir ( ,b r m'm,ir,b +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {exp[iz k cosq (1+tanq tanq )]
+2 m,ir m,ir m,SF m,ir
++r e2ib m,irhm exp[iz k cosq (- 1+tanq tanq )]}
+m2,ir,b 2 m,ir m,ir m,SF m,ir
+· exp[- i(2n+2)(h tanq +h tanq )k sinq ] (2.14b)
+m m,SF m' m',SF m,ir m,ir
+E vis,a (h m +z 2 )E ir,b (h m +z 2 )=E0 vis,a E0 ir,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {exp[iz (k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm
+m2,ir,b
+· {exp[iz (k cosq (1+tanq tanq )+k cosq (- 1+tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm
+m2,vis,a
+(cid:160) · {exp[iz (k cosq (- 1+tanq tanq )+k cosq (1+tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,ir +b m,vis)hm
+m2,vis,a m2,ir,b
+· {exp[iz (k cosq (- 1+tanq tanq )+k cosq (- 1+tanq tanq ))]
+(cid:160) 2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+· exp[- i(2n+2)(h tanq +h tanq )(k sinq +k sinq )] (2.15)
+m m,SF m' m',SF m,vis m,vis m,ir m,ir
+(cid:160)
+[B (m)]: E- sources
+(cid:160) n
+t t eib m',vis h m'
+(cid:160) E vis,a (h m +z 2 )=E0 vis,a 1+r r e2ib m',vis h m 1 ' m + ',vi ( s,a r m'm,vis,a +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+· {exp[iz k cosq (1- tanq tanq )]
+2 m,vis m,vis m,SF m,vis
+(cid:160) +r e2ib m,vishm exp[iz k cosq (- 1- tanq tanq )]}
+m2,vis,a 2 m,vis m,vis m,SF m,vis
+· exp[- i2n(h tanq +h tanq )k sinq ] (2.16a)
+m m,SF m' m',SF m,vis m,vis
+(cid:160)
+t t eib m',ir h m'
+(cid:160) E ir,b (h m +z 2 )=E0 ir,b 1+r r e2ib m',ir h m 1 ' m + ',ir ( ,b r m'm,ir,b +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · {exp[iz k cosq (1- tanq tanq )]
+2 m,ir m,ir m,SF m,ir
+(cid:160) +r e2ib m,irhm exp[iz k cosq (- 1- tanq tanq )]}
+m2,ir,b 2 m,ir m,ir m,SF m,ir
+(cid:160) · exp[- i2n(h tanq +h tanq )k sinq ] (2.16b)
+m m,SF m' m',SF m,ir m,ir
+(cid:160)
+(cid:160)
+(cid:160) 2層膜のSFG - 8
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.9 =====
+E vis,a (h m +z 2 )E ir,b (h m +z 2 )=E0 vis,a E0 ir,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {exp[iz (k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm
+m2,ir,b
+· {exp[iz (k cosq (1- tanq tanq )+k cosq (- 1- tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm
+m2,vis,a
+· {exp[iz (k cosq (- 1- tanq tanq )+k cosq (1- tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,ir +b m,vis)hm
+m2,vis,a m2,ir,b
+· {exp[iz (k cosq (- 1- tanq tanq )+k cosq (- 1- tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+· exp[- i2n(h tanq +h tanq )(k sinq +k sinq )] (2.17)
+m m,SF m' m',SF m,vis m,vis m,ir m,ir
+2.2. SFG 分極
+各部位の SFG 分極は、その部位における vis 光と ir 光の電場積に感受率を掛けたものである。下に
+は、位相を除いた、分極の振幅を示す。
+(cid:160) 1/m' 界面の 1 側：
+(a): E+ (by reflection and transmission) sources and E- (for n = 0) source
+(cid:160) P a *(0 - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+(1+r )[(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+(cid:160) · 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160)
+(1+r )[(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b (2.18)
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160)
+(cid:160) 1/m' 界面の m' 側：
+(cid:160) (a): E+ and E- (by reflection) sources
+(cid:160) P a *(0 + )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+(cid:160) t [(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t [(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b (2.19)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+m/2 界面の 2 側：
+2層膜のSFG - 9
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.10 =====
+(a): E+ source
+P a *(h m' +h m + )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b (2.20)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(b): E- sources (for n > 0, by reflection)
+P a *(h m' +h m + )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b (2.21)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+m/2 界面の m 側：
+(a): E+ (by reflection) and E- sources
+P a *(h m' +h m - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t (1+r )ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t (1+r )ei(b m',ir h m' +b m,ir h m )
+(cid:160) · 1m',ir,b m'm,ir,b m2,ir,b (2.22)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160)
+m'/m 界面の m' 側：
+(a): E+ and E- (by reflection) sources
+P a *(h m - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+(cid:160) t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160)
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b (2.23)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160)
+(b): E+ (by reflection) and E- sources
+P a *(h m - )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+(cid:160)
+2層膜のSFG - 10
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.11 =====
+t eib m',vishm'(1+r )(1+r e2ib m,vishm)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b (2.24)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+m'/m 界面の m 側：
+(a): E+ and E- (by reflection) sources
+P a *(h m + )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b (2.25)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(b): E+ (by reflection) and E- sources
+P a *(h m + )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t eib m',ir h m'(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b (2.26)
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) m' 層の深さ z 点：
+1
+[A (m')]: E+ sources
+n
+P a *(z 1 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t
+· 1m',vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+· exp[iz (k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (1+tanq tanq )+k cosq (- 1+tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) · exp[iz (k cosq (- 1+tanq tanq )+k cosq (1+tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160)
+2層膜のSFG - 11
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.12 =====
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (- 1+tanq tanq )+k cosq (- 1+tanq tanq ))]}
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(2.27)
+[B (m')]: E- sources
+n
+P a *(z 1 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t
+· 1m',vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (1- tanq tanq )+k cosq (- 1- tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+· exp[iz (k cosq (- 1- tanq tanq )+k cosq (1- tanq tanq ))]
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(cid:160) +(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) · exp[iz (k cosq (- 1- tanq tanq )+k cosq (- 1- tanq tanq ))]}
+1 m',vis m',vis m',SF m',vis m',ir m',ir m',SF m',ir
+(2.28)
+m 層 の m'/m 界面から深さ z の点：
+2
+[A (m)]: E+ sources
+n
+(cid:160)
+P a *(z 2 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+(cid:160) t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160)
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · {exp[iz (k cosq (1+tanq tanq )+k cosq (1+tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+(cid:160) +r e2ib m,irhm
+m2,ir,b
+(cid:160) · {exp[iz (k cosq (1+tanq tanq )+k cosq (- 1+tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm
+(cid:160) m2,vis,a
+· {exp[iz (k cosq (- 1+tanq tanq )+k cosq (1+tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+(cid:160)
+(cid:160)
+(cid:160) 2層膜のSFG - 12
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.13 =====
++r r e2i(b m,ir +b m,vis)hm
+m2,vis,a m2,ir,b
+· {exp[iz (k cosq (- 1+tanq tanq )+k cosq (- 1+tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+(2.29)
+[B (m)]: E- sources
+n
+P a *(z 2 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {exp[iz (k cosq (1- tanq tanq )+k cosq (1- tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,irhm
+m2,ir,b
+· {exp[iz (k cosq (1- tanq tanq )+k cosq (- 1- tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r e2ib m,vishm
+m2,vis,a
+· {exp[iz (k cosq (- 1- tanq tanq )+k cosq (1- tanq tanq ))]
+2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
++r r e2i(b m,ir +b m,vis)hm
+m2,vis,a m2,ir,b
+· {exp[iz (k cosq (- 1- tanq tanq )+k cosq (- 1- tanq tanq ))] (2.30)
+(cid:160) 2 m,vis m,vis m,SF m,vis m,ir m,ir m,SF m,ir
+(cid:160) 2.3. SFG 電場
+別ファイル「二層膜からの和周波 (SFG) — 一般式」に記した結果を使って、以下の表式を導く。なお、
+位相部分については結果だけを記す。
+1/m' 界面の 1 側の分極からの SFG：
+(cid:160)
+(a): 反射方向
+ゼロ次光による E-(0-) + r E+(0-) に加えて、内部に進入した光が多重反射して出てきたもの、即ち、ファ
+1m'
+(cid:160) イル「二層膜からの和周波 (SFG) — 一般式」（以後ファイル「一般式」と略記する）の (2.1) 式において
+L+ P(z ) を t L+ P(z = 0) に置き換えたものが加わる。a* = a、a = 1 であるから、下式のようにになる。
+m'/m' 1 1m' 1/1 1 0 0
+(cid:160)
+t t (r +r b2)a2
+E - (0 - ) ={L - +L + [r + 1m' m'1 m'm m2 ]}P*(z =0)
+(cid:160) 1 net 1/1 1/1 1m' 1+r r a2+(r +r a2)r b2 1
+1m'm'm m'm 1m' m2
+(L - +r L + )(1+r r b2)+(r L - +L + )(r +r b2)a2
+(cid:160) = 1/1 1m' 1/1 m'm m2 1m' 1/1 1/1 m'm m2 P*(z =0)
+1+r r a2+(r +r a2)r b2 1
+1m' m'm m'm 1m' m2
+(cid:160)
+(cid:160) ここで、
+(cid:160) (L - +r L + )=(r L - +L + )=L -
+1/1,px 1m',p 1/1,px 1m',p 1/1,px 1/1,px 1/m',px
+(L - +r L + )=(r L - +L + )=L -
+(cid:160) 1/1,sy 1m',s 1/1,sy 1m',s 1/1,sy 1/1,sy 1/m',sy
+(L - +r L + )=- (r L - +L + )=L - (n = n)
+1/1,pz 1m',p 1/1,pz 1m',p 1/1,pz 1/1,pz 1/m',pz m" 1
+(cid:160)
+2層膜のSFG - 13
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.14 =====
+であるから、
+(1+r r b2)– (r +r b2)a2
+E - (0 - ) = m'm m2 m'm m2 L - P*(z =0)
+1 net 1+r r a2+(r +r a2)r b2 1/m' 1
+1m' m'm m'm 1m' m2
+(upper sign for x and y, lower sign for z)
+(2.18) 式により、
+E - 1 (0 - ) net,p =(cid:229) E0 vis,a E0 ir,b
+a ,b
+(1+r )[(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(1+r )[(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(1+r r e2ib bm,SF h m)+(r +r e2ib m,SF h m)e2ib m',SF h m'
+· [ m'm,SF,p m2,SF,p m'm,SF,p m2,SF,p L - c
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m 1/m',px xa b
+1m,,SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(1+r r e2ib bm,SF h m)- (r +r e2ib m,SF h m)e2ib m',SF h m'
++ m'm,SF,p m2,SF,p m'm,SF,p m2,SF,p L - c ] (n = n)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m 1/m',pz za b m" 1
+1m,,SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(2.31a)
+E - 1 (0 - ) net,s =(cid:229) E0 vis,a E0 ir,b
+a ,b
+(1+r )[(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(1+r )[(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(1+r r e2ib m,SF h m)+(r +r e2ib m,SF h m)e2ib m',SF h m'
+(cid:160) · 1+r m'm r ,SF,s m2 e ,SF 2i , b s m',SF h m' +(r m'm,S + F,s r m2 e ,S 2 F i , b s m',SF h m')r e2ib m,SF h m L - 1/m',sy c yab (2.31b)
+1m,,SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160) (b): 透過方向
+E+(0-) だけが膜内部に進入して反対側に抜ける。上と同様に、ファイル「一般式」の (2.2) 式において
+L+ P(z ) を t L+ P(z = 0) に置き換え、a* = a、a = 1 として、下式が得られる。
+(cid:160) m'/m' 1 1m' 1/1 1 0 0
+t t t ab
+E + (h + ) = 1m' m2 m'm L + P*(z =0)
+2 m net 1+r r a2+(r +r a2)r b2 1/1 1
+(cid:160) 1m'm'm m'm 1m' m2
+ここで、
+t L + =L + ,
+1m',p 1/1,px 1/m',px
+(cid:160)
+t L + =L + ,
+1m',s 1/1,sy 1/m',sy
+t L + =L + (n = n)
+1m',p 1/1,pz 1/m',pz m" 1
+(cid:160)
+2層膜のSFG - 14
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.15 =====
+であるから、
+t t ab
+E + (h + ) = m'm m2 L + P*(z =0)
+2 m net 1+r r a2+(r +r a2)r b2 1/m' 1
+1m'm'm m'm 1m' m2
+(2.18) 式により、
+E + 2 (h m + ) net,p =(cid:229) E0 vis,a E0 ir,b
+a ,b
+(1+r )[(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(1+r )[(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+·
+t
+1m',SF,p
+t
+m2,SF,p
+ei(b bm,SF h m +b m',SF h m' )(L+
+1/m',px
+c
+xa b
++L+
+1/m',pz
+c
+za b
+)
+(n =n) (2.32a)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" 1
+1m,,SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+E + 2 (h m + ) net,s =(cid:229) E0 vis,a E0 ir,b
+a ,b
+(1+r )[(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(1+r )[(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160)
+·
+t
+1m',SF,s
+t
+m2,SF,s
+ei(b bm,SF h m +b m',SF h m' )L+
+1/m',sy
+c
+ya b (2.32b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m,,SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160)
+1/m' 界面の m' 側の分極からの SFG：
+(a): 反射方向
+(cid:160) ファイル「一般式」の (2.1) 式と (2.3) 式において、z = 0、a* = a、a = 1 とする。
+1 0 0
+t [(r +r b2)a2L + +(1+r r b2)L - ]
+(cid:160) E - (0 - ) = m'1 m'm m2 m'/m' m'm m2 m'/m' P*(z =0)
+1 net 1+r r a2+(r +r a2)r b2 1
+1m' m'm m'm 1m' m2
+ここで、
+(cid:160)
+t L + =t L - =L - ,
+1m',p m'/m',px 1m',p m'/m',px 1/m',px
+t L + =t L - =L - ,
+1m',s m'/m',sy 1m',s m'/m',sy 1/m',sy
+t L + =- t L - =L - (n = n )
+1m',p m'/m',pz 1m',p m'/m',pz 1/m',pz m" m'
+(cid:160)
+であるから、
+(cid:160)
+(cid:160) 2層膜のSFG - 15
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.16 =====
+t [(1+r r b2)– (r +r b2)a2]
+E - (0 - ) = m'1 m'm m2 m'm m2 L - P*(z =0)
+1 net 1+r r a2+(r +r a2)r b2 1/m' 1
+1m'm'm m'm 1m' m2
+(upper sign for x and y, lower sign for z)
+(2.19) 式により、
+E - 1 (0 - ) net,p =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t [(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t [(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(1+r r e2ib bm,SF h m)+(r +r e2ib m,SF h m)e2ib m',SF h m'
+· [ m'm,SF,p m2,SF,p m'm,SF,p m2,SF,p L - c
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m 1/m',px xa b
+1m,,SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(1+r r e2ib bm,SF h m)- (r +r e2ib m,SF h m)e2ib m',SF h m'
++ m'm,SF,p m2,SF,p m'm,SF,p m2,SF,p L - c ] (n = n )
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m 1/m',pz za b m" m'
+1m,,SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(2.33a)
+E - 1 (0 - ) net,s =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t [(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t [(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(1+r r e2ib m,SF h m)+(r +r e2ib m,SF h m)e2ib m',SF h m'
+(cid:160) · 1+r m'm r ,SF,s m2 e ,SF 2i , b s m',SF h m' +(r m'm,S + F,s r m2 e ,S 2 F i , b s m',SF h m')r e2ib m,SF h m L - 1/m',sy c yab (2.33b)
+1m,,SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160) (b): 透過方向
+ファイル「一般式」の (2.2) 式と (2.4) 式において、z = 0、a* = a、a = 1 とすると、下式が得られる。
+1 0 0
+(cid:160)
+t ab[t L + +r t L - ]
+E + (h +h + ) = m2 m'm m'/m' m'1 m'm m'/m' P*(z =0)
+2 m' m net 1+r r a2+(r +r a2)r b2 1
+1m'm'm m'm 1m' m2
+(cid:160)
+ここで、
+t L + =t L - =L + ,
+m'm,p m'/m',px m'm,p m'/m',px m'/m,px
+t L + =t L - =L + ,
+(cid:160) m'm,s m'/m',sy m'm,s m'/m',sy m'/m,sy
+t L + =- t L - =L + (n = n )
+m'm,p m'/m',pz m'm,p m'/m',pz m'/m,pz m" m'
+であるから、
+(cid:160)
+(cid:160)
+2層膜のSFG - 16
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.17 =====
+t ab(1– r )
+E + (h +h + ) = m2 m'1 L - m'/mP*(z =0)
+2 m' m net 1+r r a2+(r +r a2)r b2 1
+1m'm'm m'm 1m' m2
+(upper sign for x and y, lower sign for z)
+(2.19) 式により、
+E + 2 (h m' +h m + ) net,p =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t [(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t [(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+·
+ei(b bm,SF h m +b m',SF h m' )[(1+r
+m'1,SF,p
+)L+
+m'/m,px
+c
+xab
++(1- r
+m'1,SF,p
+)L+
+m'/m,pz
+c
+za b
+]
+(n = n ) (2.34a)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" m'
+1m,,SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+E + 2 (h m' +h m + ) net,s =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t [(1+r e2ib m',vis h m')+(r +e2ib m',vis h m')r e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t [(1+r e2ib m',ir h m')+(r +e2ib m',ir h m')r e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+·
+ei(b bm,SF h m +b m',SF h m' )(1+r
+m'1,SF,s
+)L+
+m'/m,sy
+c
+ya b (2.34b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m,,SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(cid:160)
+m/2 界面の 2 側の分極からの SFG：
+(a): 反射方向
+(cid:160) E-(h +) だけが膜内に進入して反対側に抜ける。ファイル「一般式」の (2.7) 式において、z = h 、b* = 1、
+m 2 m 0
+b = b とする。
+0
+(cid:160)
+t t b2(r +r a2)L -
+E - (0 - ) = 2m m'1 m'm 1m' 2/2 P*(z =h + )
+1 net 1+r r a2+(r +r a2)r b2 2 m
+1m' m'm m'm 1m' m2
+(cid:160)
+ここで、
+t L - =L - ,
+2m,p 2/2,px m/2,px
+t L - =L - ,
+2m,s 2/2,sy m/2,sy
+(cid:160) t L - =L - (n = n)
+2m,p 2/2,pz m/2,pz m" 2
+(cid:160) であるから、
+(cid:160)
+2層膜のSFG - 17
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.18 =====
+t b2(r +r a2)L -
+E - (0 - ) = m'1 m'm 1m' m/2 P*(z =h + )
+1 net 1+r r a2+(r +r a2)r b2 2 m
+1m' m'm m'm 1m' m2
+(2.20) 式を参照して、
+E - 1,p (0 - ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· t 2m,SF,p t m'1,SF,p e2ib m,SF h m(r m'm,SF,p +r 1m',SF,p e2ib m',SF h m')[L- m/2,px c xa b +L- m/2,pz c zab ] (n = n) (2.35a)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" 2
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+E - 1,s (0 - ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160)
+· t 2m,SF,s t m'1,SF,s (r m'm,SF,s +r 1m',SF,s e2ib m',SF h m')e2ib m,SF h mL- m/2,sy c ya b (2.35b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(cid:160)
+(b): 透過方向
+ゼロ次光による E+(z = h +) + r E-(z = h +) に加えて、内部に進入した光が多重反射して出てきたもの、
+2 m 2m 2 m
+(cid:160) 即ち、ファイル「一般式」の (2.8) 式において L- P(z ) を t L- P(z = h +) に置き換えたものが加わる。
+m/m 2 1m' 2/2 2 m
+また、ファイル「一般式」の (2.8) 式において、z = h 、b* = 1、b = b とする。
+2 m 0 0
+(cid:160)
+t t b2(r +r a2)
+E + (h +h + ) ={L + +L - [r - 2m m2 m'm 1m' ]}P*(z =h + )
+2 m' m net 2/2 2/2 2m 1+r r a2+(r +r a2)r b2 2 m
+1m'm'm m'm 1m' m2
+(1+r r a2)(L + +r L - )+(r +r a2)b2(r L + +L - )
+(cid:160) = 1m'm'm 2/2 2m 2/2 m'm 1m' m2 2/2 2/2 P*(z =h + )
+1+r r a2+(r +r a2)r b2 2 m
+1m' m'm m'm 1m' m2
+ここで、
+(cid:160) (L + +r L - )=(r L + +L - )=L +
+2/2,px 2m,p 2/2,px m2,p 2/2,px 2/2,px 2/m,px
+(L + +r L - )=(r L + +L - )=L +
+2/2,sy 2m,s 2/2,sy m2,s 2/2,sy 2/2,sy 2/m,sy
+(cid:160) (L + +r L - )=- (r L + +L - )=L + (n = n)
+2/2,pz 2m,p 2/2,pz m2,p 2/2,pz 2/2,pz 2/m,pz m" 2
+であるから、
+(cid:160)
+2層膜のSFG - 18
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.19 =====
+(1+r r a2)– (r +r a2)b2
+E + (h +h + ) = 1m' m'm m'm 1m' L + P*(z =h + )
+2 m' m net 1+r r a2+(r +r a2)r b2 2/m 2 m
+1m'm'm m'm 1m' m2
+(upper sign for x and y, lower sign for z)
+(2.20) 式を参照して、
+E + 2,p (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· { [(1+r 1m',SF,p r m'm,SF,p e2ib m',SF h m')+(r m'm,SF,p +r 1m',SF,p e2ib m',SF h m')e2ib m,SF h m]L- 2/m,px c xab
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
++ [(1+r 1m',SF,p r m'm,SF,p e2ib m',SF h m')- (r m'm,SF,p +r 1m',SF,p e2ib m',SF h m')e2ib m,SF h m]L- 2/m,pz c za b } (n = n)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" 2
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(2.36a)
+E + 2,s (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m',vis h m' +b m,vis h m )
+· 1m',vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · [(1+r 1m',SF,s r m'm,SF,s e2ib m',SF h m')+(r m'm,SF,s +r 1m',SF,s e2ib m',SF h m')e2ib m,SF h m]L- 2/m,sy c ya b (2.36b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160)
+m/2 界面の m 側の分極からの SFG：
+(a): 反射方向
+(cid:160)
+ファイル「一般式」の (2.5) 式と (2.7) 式において、z = h 、b* = 1、b = b とする。
+2 m 0 0
+abt (r L + +L - )
+(cid:160) E - (0 - ) = mm' m2 m/m m/m P*(z =h - )
+1 net 1+r r a2+(r +r a2)r b2 2 m
+1m' m'm m'm 1m' m2
+ここで、
+(cid:160)
+t L + =t L - =L - ,
+mm',p m/m,px mm',p m/m,px m'/m,px
+t L + =t L - =L - ,
+mm',s m/m,sy mm',s m/m,sy m'/m,sy
+t L + =t L - =- L - (n = n )
+mm',p m/m,pz mm',p m/m,pz m'/m,px m" m
+(cid:160)
+(cid:160)
+2層膜のSFG - 19
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.20 =====
+であるから、
+ab(1– r )L -
+E - (0 - ) = m2 m'/m P*(z =h - )
+1 net 1+r r a2+(r +r a2)r b2 2 m
+1m' m'm m'm 1m' m2
+(upper sign for x and y components, lower sign for z component)
+(2.23) 式を参照して、
+E - 1,p (0 - ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· ei(b m',SF h m' +b m,SF h m )[(1+r m2,SF,p )L- m'/m,px c xa b +(1- r m2,SF,p )L- m'/m,pz c za b ] (n = n ) (2.37a)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+E - 1,s (0 - ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+·
+ei(b
+m',SF
+h
+m'
++b
+m,SF
+h
+m
+)(1+r
+m2,SF,s
+)L-
+m'/m,sy
+c
+ya b (2.37b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160)
+(b): 透過方向
+(cid:160) ファイル「一般式」の (2.6) 式と (2.8) 式において、z = h 、b* = 1、b = b とする。
+2 m 0 0
+(1+r r a2)L + - (r +r a2)b2L -
+(cid:160) E + (h +h + ) = 1m' m'm m/m m'm 1m' m/m P*(z =h - )
+2 m' m net 1+r r a2+(r +r a2)r b2 2 m
+1m' m'm m'm 1m' m2
+ここで、
+(cid:160)
+t L + =t L - =L + ,
+m2,p m/m,px m2,p m/m,px m/2,px
+t L + =t L - =L + ,
+m2,s m/m,sy m2,s m/m,sy m/2,sy
+t L + =- t L - =L + (n = n )
+m2,p m/m,pz m2,p m/m,pz m/2,pz m" m
+(cid:160)
+であるから、
+(cid:160)
+(cid:160) 2層膜のSFG - 20
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.21 =====
+[(1+r r a2)m(r +r a2)b2]L +
+E + (h +h + ) = 1m' m'm m'm 1m' m/2 P*(z =h - )
+2 m' m net 1+r r a2+(r +r a2)r b2 2 m
+1m' m'm m'm 1m' m2
+(upper sign for x and y components, lower sign for z component)
+(2.23) 式を参照して、
+E + 2,p (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· { [(1+r 1m',SF,p r m'm,SF,p e2ib m',SF h m')- (r m'm,SF,p +r 1m',SF,p e2ib m',SF h m')e2ib m,SF h m]L+ m/2,px c xab
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
++ [(1+r 1m',SF,p r m'm,SF,p e2ib m',SF h m')+(r m'm,SF,p +r 1m',SF,p e2ib m',SF h m')e2ib m,SF h m]L+ m/2,pz c za b } (n = n )
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(2.38a)
+E + 2,s (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · [(1+r 1m',SF,s r m'm,SF,s e2ib m',SF h m')- (r m'm,SF,s +r 1m',SF,s e2ib m',SF h m')e2ib m,SF h m]L+ m/2,sy c ya b (2.38b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160)
+m'/m 界面の m' 側の分極からの SFG：
+(a): 反射方向
+(cid:160)
+ファイル「一般式」の (2.1) 式と (2.3) 式において、z = h 、a* = 1、a = a とする。
+1 m' 0 0
+at [(r +r b2)L + +(1+r r b2)L - )]
+(cid:160) E - (0 - ) = m'1 m'm m2 m'/m' mm'm2 m'/m' P*(z =h )
+1 net 1+r r a2+(r +r a2)r b2 1 m'
+1m' m'm m'm 1m' m2
+ここで、
+(cid:160)
+t L + =t L - =L - ,
+m'1,p m'/m',px m'1,p m'/m',px 1/m',px
+t L + =t L - =L - ,
+m'1,s m'/m',sy m'1,s m'/m',sy 1/m',sy
+t L + =t L - =- L - (n = n )
+m'1,p m'/m',pz m'1,p m'/m',pz 1/m',px m" m'
+(cid:160)
+(cid:160)
+2層膜のSFG - 21
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.22 =====
+であるから、
+a[(1+r r b2)– (r +r b2)]L -
+E - (0 - ) = mm' m2 m'm m2 1/m' P*(z =h )
+1 net 1+r r a2+(r +r a2)r b2 1 m'
+1m' m'm m'm 1m' m2
+a(1– r )(1– r b2)]L -
+= mm' m2 1/m' P*(z =h )
+1+r r a2+(r +r a2)r b2 1 m'
+1m' m'm m'm 1m' m2
+(upper sign for x and y components, lower sign for z component)
+(2.23) 式を参照して、
+E - 1,p (0 - ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {
+eib
+m',SF
+h m'[(1+r
+mm',SF,p
+)(1+r
+m2,SF,p
+e2ib
+m,SF
+h m)L-
+1/m',px
+c
+xa b
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
++ eib m',SF h m'[(1- r mm',SF,p )(1- r m2,SF,p e2ib m,SF h m)]L- 1/m',pz c za b } (n = n ) (2.39a)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" m'
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(cid:160) E - 1,s (0 - ) net = a (cid:229) ,b E0 vis,a E0 ir,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) ·
+eib
+m',SF
+h m'(1+r
+mm',SF,s
+)(1+r
+m2,SF,s
+e2ib
+m,SF
+h m)L-
+1/m',sy
+c
+ya b (2.39b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,p
+(cid:160)
+(b): 透過方向
+ファイル「一般式」の (2.2) 式と (2.4) 式において、z = h 、a* = 1、a = a とする。
+(cid:160) 1 m' 0 0
+t t b(L + +r a2L - )
+E + (h +h + ) = m2 m'm m'/m' m'1 m'/m' P*(z =h )
+2 m' m net 1+r r a2+(r +r a2)r b2 1 m'
+(cid:160) 1m'm'm m'm 1m' m2
+ここで、
+t L + =t L - =L + ,
+(cid:160) m'm,p m'/m',px m'm,p m'/m',px m'/m,px
+t L + =t L - =L + ,
+m'm,s m'/m',sy m'm,s m'/m',sy m'/m,sy
+(cid:160) 2層膜のSFG - 22
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.23 =====
+t L + =- t L - =L + (n = n )
+m'm,p m'/m',pz m'm,p m'/m',pz m'/m,pz m" m'
+であるから、
+t b(1– r a2)L +
+E + (h +h + ) = m2 m'1 m'/m P*(z =h )
+2 m' m net 1+r r a2+(r +r a2)r b2 1 m'
+1m'm'm m'm 1m' m2
+(upper sign for x and y components, lower sign for z component)
+(2.23) 式を参照して、
+E + 2,p (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· t m2,SF,p eib m',SF h m'[(1+r m'1,SF,p e2ib m',SF h m')L+ m'/m,px c xa b +(1- r m'1,SF,p e2ib m',SF h m')L+ m'/m,zx c za b ] (n = n )
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" m'
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(2.40a)
+E + 2,s (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+(cid:160) t eib m',vis h m'(1+r )(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· t m2,SF,s eib m',SF h m'(1+r m'1,SF,s e2ib m',SF h m')L+ m'/m,sy c ya b (2.40b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160)
+m'/m 界面の m 側 の分極からの SFG：
+(a): 反射方向
+(cid:160) ファイル「一般式」の (2.5) 式と (2.7) 式において、z = 0、b* = b、b = 1 とする。
+2 0 0
+at t (r b2L + +L - )
+(cid:160) E - (0 - ) = m'1 m'm m2 m'/m' m'/m' P*(z =h )
+1 net 1+r r a2+(r +r a2)r b2 1 m'
+1m' m'm m'm 1m' m2
+ここで、
+(cid:160)
+t L + =t L - =L - ,
+mm',p m/m,px mm',p m/m,px m'/m,px
+t L + =t L - =L - ,
+mm',s m/m,sy mm',s m/m,sy m'/m,sy
+t L + =- t L - =- L - (n = n )
+mm',p m/m,pa mm',p m/m,pa m'/m,pa m" m
+(cid:160)
+(cid:160)
+2層膜のSFG - 23
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.24 =====
+であるから、
+at (1– r b2)L -
+E - (0 - ) = m'1 m2 m'/m P*(z =h )
+1 net 1+r r a2+(r +r a2)r b2 1 m'
+1m' m'm m'm 1m' m2
+(upper sign for x and y components, lower sign for z component)
+(2.25) 式を参照して、
+E - 1,p (0 - ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· t m'1,SF,p eib m',SF h m'[(1+r m2,SF,p e2ib m,SF h m)L- m'/m,px c xa b +(1- r m2,SF,p e2ib m,SF h m)L- m'/m,pz c za b ] (n = n )
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+(2.41a)
+E - 1,s (0 - ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· t m'1,SF,s eib m',SF h m'(1+r m2,SF,s e2ib m,SF h m)L- m'/m,sy c yab (2.41b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160)
+(b): 透過方向
+ファイル「一般式」の (2.6) 式と (2.8) 式において、z = 0、b* = b、b = 1 とする。
+2 0 0
+(cid:160)
+t b[(1+r r a2)L + - (r +r a2)L - ]
+E + (h +h + ) = m2 1m' m'm m/m m'm 1m' m/m P*(z =0)
+2 m' m net 1+r r a2+(r +r a2)r b2 2
+(cid:160) 1m' m'm m'm 1m' m2
+ここで、
+t L + =t L - =L + ,
+(cid:160) m2,p m/m,px m2,p m/m,px m/2,px
+t L + =t L - =L + ,
+m2,s m/m,sy m2,s m/m,sy m/2,sy
+t L + =- t L - =L + (n = n )
+m2,p m/m,pz m2,p m/m,pz m/2,pz m" m
+(cid:160)
+であるから、
+b[(1+r r a2)m(r +r a2)]L+
+E+ (h +h + ) = 1m' m'm m'm 1m' m/2 P*(z =0)
+(cid:160) 2 m' m net 1+r r a2+(r +r a2)r b2 2
+1m' m'm m'm 1m' m2
+(cid:160) 2層膜のSFG - 24
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.25 =====
+b(1mr )(1mr a2)]L +
+= m'm 1m' m/2 P*(z =0)
+1+r r a2+(r +r a2)r b2 2
+1m' m'm m'm 1m' m2
+(upper sign for x and y components, lower sign for z component)
+(2.25) 式を参照して、
+E + 2,p (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· { eib m,SF h m(1- r m'm,SF,p )(1- r 1m',SF,p e2ib m',SF h m')L+ m/2,px c xab
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
++
+eib
+m,SF
+h m(1+r
+m'm,SF,p
+)(1+r
+1m',SF,p
+e2ib
+m',SF
+h m')L+
+m/2,pz
+c
+za b } (n = n ) (2.42a)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m m" m
+1m',SF,p m'm,SF,p m'm,SF,p 1m',SF,p m2,SF,p
+E + 2,s (h m' +h m + ) net =(cid:229) E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'(1+r e2ib m,vis h m)
+· 1m',vis,a m'm,vis,a m2,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t eib m',ir h m'(1+r )(1+r e2ib m,ir h m)
+· 1m',ir,b m'm,ir,b m2,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · eib m,SF h m(1- r m'm,SF,s )(1- r 1m',SF,s e2ib m',SF h m')L+ m/2',sy c yab (2.42b)
+1+r r e2ib m',SF h m' +(r +r e2ib m',SF h m')r e2ib m,SF h m
+1m',SF,s m'm,SF,s m'm,SF,s 1m',SF,s m2,SF,s
+(cid:160)
+m' 層の分極からの SFG：
+ファイル「一般式」の( 2.1 ) 式 ~ (2.4) 式において、下の定義を使う。
+(cid:160)
+a =eik m' z 1 /cosq m', a *=eib m' h m' /cosq m'e - ik m' z 1 /cosq m'
+0 0
+(cid:160)
+しかし、本稿の (2.10) 式 ~ (2.17) 式ひいては (2.27) 式 ~ (2.30) 式を導くために使う光路は、一つの層の
+内部での多重反射を考慮していない。すなわち、位相部分の扱いには不備がある。その不備は、指数関数の
+引数で h/cosq および z/cosq の形になっている部分を b · h および b · z と置き換えることで修正できるの
+(cid:160)
+で、その置き換えを行った結果を以下では記す。手始めに、以下では a =eib m' z 1, a *=eib m' h m'e - ib m' z 1 とする。
+0 0
+また、上で行ったと同様に下のように置く。
+(cid:160)
+(cid:160)
+2層膜のSFG - 25
+(cid:160)
+(cid:160)
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+
+===== PDF p.26 =====
+P a * =(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t
+· 1m',vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(a): 反射方向
+E+ sources からの寄与は、ファイル「一般式」の (2.1) 式と本稿の (2.27) 式により、下で表される。
+E - 1 (0 - )=(cid:229) t m'1 e2ib m' h m'(r m'm +r m2 e2ib m h m)L + m'/m' P a *
+a b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)exp[iz (- b +b +b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm' exp[iz (- b +b - b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm' exp[iz (- b - b +b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm' exp[iz (- b - b - b )]}
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
+E- sources からの寄与は、ファイル「一般式」の(2.3)式と本稿の (2.28) 式により下で表される。
+(cid:160)
+(cid:160) E - 1 (0 - )= a (cid:229) b t m'1 (1+r mm' r m2 e2ib m h m)L - m'/m' P a *
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)exp[iz (b +b +b )]
+(cid:160) m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm' exp[iz (b +b - b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm' exp[iz (b - b +b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
+(cid:160) +(r m'm,vis,a +r m2,vis,a e2ib m,vishm)(r m'm,ir,b +r m2,ir,b e2ib m,irhm)e2i(b m',vis +b m',ir)hm' exp[iz 1 (b m',SF - b m',vis - b m',ir )]}
+(cid:160)
+ここで、E+ に由来する SFG 光についてはz について 0 から h まで（z = 0 fi h ）、E- に由来する SFG 光
+1 m' 1 m'
+については z について h から0まで（z = h fi 0）積分し、さらに関係式
+(cid:160) 1 m' 1 m'
+t L+ = L- , t L+ = L- , t L+ = -L- (n = n )
+(cid:160) m'1,p m'/m',px 1/m',px m'1,s m'/m',sy 1/m',sy m'1,p m'/m',pz 1/m',pz m" m'
+t L- = L- , t L- = L- , t L- = L- (n = n )
+m'1,p m'/m',px 1/m',px m'1,s m'/m',sy 1/m',sy m'1,p m'/m',pz 1/m',pz m" m'
+(cid:160)
+を考慮して整理すると、下式が得られる。
+2層膜のSFG - 26
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.27 =====
+E - (0 - ) =(cid:229) L - P* i
+1 net 1/m' a d
+a b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF +b m',vis +b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF m2,SF b +b +b
+m',SF m',vis m',ir
+ei(- b m',SF +b m',vis +b m',ir)hm' - 1
+– (r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF m2,SF b - b - b
+m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF +b m',vis -b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF m2,SF b +b - b
+m',SF m',vis m',ir
+ei(- b m',SF +b m',vis - b m',ir)hm' - 1
+– (r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF m2,SF b - b +b
+m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF - b m',vis +b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF m2,SF b - b +b
+m',SF m',vis m',ir
+ei(- b m',SF - b m',vis +b m',ir)hm' - 1
+– (r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF m2,SF b +b - b
+m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) ei(b m',SF - b m',vis - b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF m2,SF b - b - b
+(cid:160) m',SF m',vis m',ir
+ei(- b m',SF - b m',vis - b m',ir)hm' - 1
+– (r +r e2ib m,SFhm)e2ib m',SFhm'] }
+m'm,SF m2,SF b +b +b
+m',SF m',vis m',ir
+(cid:160)
+(upper sign for x and y components, lower sign for z component)
+(cid:160) よって、
+(cid:160) E - 1 (0 - ) p =(cid:229) E0 vis,a E0 ir,b d i
+a b
+t
+· 1m',vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+(cid:160) 1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) · {{(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF +b m',vis +b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+(cid:160) mm',SF,p m2,SF,p b +b +b
+m',SF m',vis m',ir
+ei(- b m',SF +b m',vis +b m',ir)hm' - 1
++(r +r e2ib m,SFhm)e2ib m',SFhm' ]
+(cid:160) m'm,SF,p m2,SF,p b - b - b
+m',SF m',vis m',ir
+(cid:160)
+2層膜のSFG - 27
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.28 =====
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF +b m',vis - b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF,p m2,SF,p b +b - b
+m',SF m',vis m',ir
+ei(- b m',SF +b m',vis -b m',ir)hm' - 1
++(r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF,p m2,SF,p b - b +b
+m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF -b m',vis +b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF,p m2,SF,p b - b +b
+m',SF m',vis m',ir
+ei(- b m',SF -b m',vis +b m',ir)hm' - 1
++(r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF,p m2,SF,p b +b - b
+m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF -b m',vis -b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF,p m2,SF,p b - b - b
+m',SF m',vis m',ir
+ei(- b m',SF -b m',vis - b m',ir)hm' - 1
++(r
+m'm,SF,p
++r
+m2,SF,p
+e2ib m,SFhm)e2ib m',SFhm'
+b +b +b
+]}L -
+1/m',px
+c
+xa b
+m',SF m',vis m',ir
++{(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF +b m',vis +b m',ir)hm' - 1
++[(1+r r e2ib m,SFhm)
+mm',SF,p m2,SF,p b +b +b
+(cid:160) m',SF m',vis m',ir
+ei(- b m',SF +b m',vis +b m',ir)hm' - 1
+- (r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF,p m2,SF,p b - b - b
+m',SF m',vis m',ir
+(cid:160)
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) ei(b m',SF +b m',vis -b m',ir)hm' - 1
++[(1+r r e2ib m,SFhm)
+mm',SF,p m2,SF,p b +b - b
+(cid:160) m',SF m',vis m',ir
+ei(- b m',SF +b m',vis - b m',ir)hm' - 1
+- (r +r e2ib m,SFhme2ib m',SFhm' ]
+m'm,SF,p m2,SF,p b - b +b
+m',SF m',vis m',ir
+(cid:160)
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) ei(b m',SF - b m',vis +b m',ir)hm' - 1
++[(1+r r e2ib m,SFhm)
+mm',SF,p m2,SF,p b - b +b
+(cid:160) m',SF m',vis m',ir
+ei(- b m',SF - b m',vis +b m',ir)hm' - 1
+- (r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF,p m2,SF,p b +b - b
+m',SF m',vis m',ir
+(cid:160)
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) ei(b m',SF - b m',vis - b m',ir)hm' - 1
++[(1+r r e2ib m,SFhm)
+mm',SF,p m2,SF,p b - b - b
+(cid:160) m',SF m',vis m',ir
+ei(- b m',SF - b m',vis -b m',ir)hm' - 1
+- (r
+m'm,SF,p
++r
+m2,SF,p
+e2ib m,SFhm)e2ib m',SFhm'
+b +b +b
+]}L -
+1/m',pz
+c
+zab
+} (n
+m"
+= n
+m'
+) (2.43a)
+m',SF m',vis m',ir
+(cid:160)
+2層膜のSFG - 28
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.29 =====
+E - 1 (0 - ) s =(cid:229) E0 vis,a E0 ir,b d i
+a b
+t
+· 1m',vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF +b m',vis +b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF,s m2,SF,s b +b +b
+m',SF m',vis m',ir
+ei(- b m',SF +b m',vis +b m',ir)hm' - 1
++(r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF,s m2,SF,s b - b - b
+m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF +b m',vis - b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF,s m2,SF,s b +b - b
+m',SF m',vis m',ir
+ei(- b m',SF +b m',vis -b m',ir)hm' - 1
++(r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF,s m2,SF,s b - b +b
+m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(b m',SF -b m',vis +b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF,s m2,SF,s b - b +b
+m',SF m',vis m',ir
+(cid:160) ei(- b m',SF -b m',vis +b m',ir)hm' - 1
++(r +r e2ib m,SFhm)e2ib m',SFhm' ]
+m'm,SF,s m2,SF,s b +b - b
+m',SF m',vis m',ir
+(cid:160)
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) ei(b m',SF -b m',vis -b m',ir)hm' - 1
+· [(1+r r e2ib m,SFhm)
+mm',SF,s m2,SF,s b - b - b
+(cid:160) m',SF m',vis m',ir
+ei(- b m',SF -b m',vis - b m',ir)hm' - 1
++(r
+m'm,SF,s
++r
+m2,SF,s
+e2ib m,SFhm)e2ib m',SFhm'
+b +b +b
+]}L -
+1/m',sy
+c
+ya b
+(2.43b)
+m',SF m',vis m',ir
+(cid:160)
+(b): 透過方向
+(cid:160) E+ sources からの寄与は、ファイル「一般式」の (2.2) 式と本稿の (2.27) 式により、下で表される。
+(cid:160)
+E + 2 (h m' +h m + )=(cid:229) t m2 eib m' h m't m'm L + m'/m' P a *
+a b
+(cid:160)
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)exp[iz (- b +b +b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
+(cid:160)
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm' exp[iz (- b +b - b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
+(cid:160)
+(cid:160)
+2層膜のSFG - 29
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.30 =====
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm' exp[iz (- b - b +b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm' exp[iz (- b - b - b )]}
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
+E- sources からの寄与は、ファイル「一般式」の (2.4) 式と本稿の (2.28) 式により、下で表される。
+E + 2 (h m' +h m + )=(cid:229) t m2 eib m' h m'r m'1 t m'm L - m'/m' P a *
+a b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)exp[iz (b +b +b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm' exp[iz (b +b - b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm' exp[iz (b - b +b )]
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm' exp[iz (b - b - b )]}
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b 1 m',SF m',vis m',ir
+ここで、E+ に由来する SFG 光については z について 0 から h まで（z = 0 fi h ）、E- に由来するSFG
+1 m' 1 m'
+光については z について h から0まで（z = h fi 0）積分し、さらに関係式
+1 m' 1 m'
+t L+ = L+ , t L+ = L+ , t L+ = L+ (n = n )
+(cid:160) m'm,p m'/m',px m'/m,px m'm,s m'/m',sy m'/m,sy m'm,p m'/m',pz m'/m,pz m" m'
+t L- = L+ , t L- = L+ , t L- = -L+ (n = n )
+m'm,p m'/m',px m'/m,px m'm,s m'/m',sy m'/m,sy m'm,p m'/m',pz m'/m,pz m" m'
+(cid:160)
+を考慮して整理すると、下式が得られる。
+E + 2 (h m' +h m + )=(cid:229) t m2 ei(b m' h m' +b m h m )L + m'/m P a * d i
+a b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) ei(-b m',SF +b m',vis +b m',ir)hm' - 1 ei(b m',SF +b m',vis +b m',ir)hm' - 1
+· [ – r ]
+b - b - b m'1 b +b +b
+(cid:160) m',SF m',vis m',ir m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+ei(-b m',SF +b m',vis - b m',ir)hm' - 1 ei(b m',SF +b m',vis -b m',ir)hm' - 1
+· [ – r ]
+b - b +b m'1 b +b - b
+(cid:160) m',SF m',vis m',ir m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+ei(-b m',SF -b m',vis +b m',ir)hm' - 1 ei(b m',SF -b m',vis +b m',ir)hm' - 1
+· [ – r ]
+b +b - b m'1 b - b +b
+m',SF m',vis m',ir m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+2層膜のSFG - 30
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.31 =====
+ei(-b m',SF -b m',vis -b m',ir)hm' - 1 ei(b m',SF - b m',vis -b m',ir)hm' - 1
+· [ – r ]}
+b +b +b m'1 b - b - b
+m',SF m',vis m',ir m',SF m',vis m',ir
+(upper sign for x and y components, lower sign for z component)
+よって、
+E + 2p (h m' +h m + )=(cid:229) E0 vis,a E0 ir,b t m2 ei(b m' h m' +b m h m ) d i
+a b
+t
+· 1m',vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {{(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF +b m',vis +b m',ir)hm' - 1 ei(b m',SF +b m',vis +b m',ir)hm' - 1
+· [ +r ]
+b - b - b m'1,SF,p b +b +b
+m',SF m',vis m',ir m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF +b m',vis - b m',ir)hm' - 1 ei(b m',SF +b m',vis - b m',ir)hm' - 1
+· [ +r ]
+b - b +b m'1,SF,p b +b - b
+m',SF m',vis m',ir m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF -b m',vis +b m',ir)hm' - 1 ei(b m',SF - b m',vis +b m',ir)hm' - 1
+· [ +r ]
+(cid:160) b +b - b m'1,SF,p b - b +b
+m',SF m',vis m',ir m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF -b m',vis -b m',ir)hm' - 1 ei(b m',SF -b m',vis - b m',ir)hm' - 1
+· [ +r ]}L + c
+b +b +b m'1,SF,p b - b - b m'/m,px xa b
+m',SF m',vis m',ir m',SF m',vis m',ir
+(cid:160)
++{(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160) ei(-b m',SF +b m',vis +b m',ir)hm' - 1 ei(b m',SF +b m',vis +b m',ir)hm' - 1
+· [ - r ]
+b - b - b m'1,SF,p b +b +b
+m',SF m',vis m',ir m',SF m',vis m',ir
+(cid:160)
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+ei(-b m',SF +b m',vis - b m',ir)hm' - 1 ei(b m',SF +b m',vis -b m',ir)hm' - 1
+· [ - r ]
+b - b +b m'1,SF,p b +b - b
+m',SF m',vis m',ir m',SF m',vis m',ir
+(cid:160)
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+ei(-b m',SF -b m',vis +b m',ir)hm' - 1 ei(b m',SF -b m',vis +b m',ir)hm' - 1
+· [ - r ]
+b +b - b m'1,SF,p b - b +b
+m',SF m',vis m',ir m',SF m',vis m',ir
+(cid:160)
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+(cid:160)
+(cid:160)
+2層膜のSFG - 31
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.32 =====
+ei(-b m',SF -b m',vis -b m',ir)hm' - 1 ei(b m',SF - b m',vis -b m',ir)hm' - 1
+· [ - r ]}L + c (n = n ) (2.44a)
+b +b +b m'1,SF,p b - b - b m'/m,pz za b m" m'
+m',SF m',vis m',ir m',SF m',vis m',ir
+E + 2s (h m' +h m + )=(cid:229) E0 vis,a E0 ir,b t m2 ei(b m' h m' +b m h m ) d i
+a b
+t
+· 1m',vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t
+· 1m',ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+· {(1+r r e2ib m,vishm)(1+r r e2ib m,irhm)
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF +b m',vis +b m',ir)hm' - 1 ei(b m',SF +b m',vis +b m',ir)hm' - 1
+· [ +r ]
+b - b - b m'1,SF,s b +b +b
+m',SF m',vis m',ir m',SF m',vis m',ir
++(1+r r e2ib m,vishm)(r +r e2ib m,irhm)e2ib m',irhm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF +b m',vis - b m',ir)hm' - 1 ei(b m',SF +b m',vis -b m',ir)hm' - 1
+· [ +r ]
+b - b +b m'1,SF,s b +b - b
+m',SF m',vis m',ir m',SF m',vis m',ir
++(r +r e2ib m,vishm)(1+r r e2ib m,irhm)e2ib m',vishm'
+m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF -b m',vis +b m',ir)hm' - 1 ei(b m',SF -b m',vis +b m',ir)hm' - 1
+· [ +r ]
+b +b - b m'1,SF,s b - b +b
+m',SF m',vis m',ir m',SF m',vis m',ir
++(r +r e2ib m,vishm)(r +r e2ib m,irhm)e2i(b m',vis +b m',ir)hm'
+(cid:160) m'm,vis,a m2,vis,a m'm,ir,b m2,ir,b
+ei(-b m',SF -b m',vis -b m',ir)hm' - 1 ei(b m',SF - b m',vis -b m',ir)hm' - 1
+· [ +r ]}L + c (2.44b)
+b +b +b m'1,SF,s b - b - b m'/m,sy ya b
+m',SF m',vis m',ir m',SF m',vis m',ir
+(cid:160)
+m 層の分極からの SFG：
+(cid:160)
+ファイル「一般式」の (2.5) 式 ~ (2.8) 式において、下の定義を使う。
+(cid:160) b =eik m z 2 /cosq m, b *=eib m h m /cosq me - ik m z 2 /cosq m
+0 0
+(cid:160) P a * =(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+(cid:160) 1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160) t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+(cid:160) とおく。
+(cid:160)
+(a): 反射方向
+E+ sources からの寄与は、ファイル「一般式」の (2.5) 式と本稿の (2.29) 式により、下で表される。
+(cid:160)
+(cid:160)
+2層膜のSFG - 32
+(cid:160)
+(cid:160) (cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.33 =====
+E - 1 (0 - )=(cid:229) t m'1 t mm' r m2 eib m' h m'e2ib m h mL + m/m P a *
+a b
+· {exp[iz (- b +b +b )]+r e2ib m,irhm exp[iz (- b +b - b )]
+2 m,SF m,vis m,ir m2,ir,b 2 m,SF m,vis m,ir
++r e2ib m,vishm exp[iz (- b - b +b )]
+m2,vis,a 2 m,SF m,vis m,ir
++r r e2i(b m,ir +b m,vis)hm exp[iz (- b - b - b )]}
+m2,vis,a m2,ir,b 2 m,SF m,vis m,ir
+E- sources からの寄与は、ファイル「一般式」の (2.7) 式と本稿の (2.30) 式により、下で表される。
+E - 1 (0 - )=(cid:229) t m'1 t mm' eib m' h m'L - m/m P a *
+a b
+· {exp[iz (b +b +b )]+r e2ib m,irhm exp[iz (b +b - b )]
+2 m,SF m,vis m,ir m2,ir,b 2 m,SF m,vis m,ir
++r e2ib m,vishm exp[iz (b - b +b )]
+m2,vis,a 2 m,SF m,vis m,ir
++r r e2i(b m,ir +b m,vis)hm exp[iz (b - b - b )]}
+m2,vis,a m2,ir,b 2 m,SF m,vis m,ir
+ここで、E+ に由来する SFG 光については z について 0 から h まで（z = 0 fi h ）、E- に由来するSFG
+2 m 2 m
+光については z について h から 0 まで（z = h fi 0）積分し、さらに関係式
+2 m 2 m
+t L+ = L- , t L+ = L- , t L+ = -L- (n = n )
+mm', p m/m,px m'/m,px mm',s m/m,sy m'/m,sy mm',p m/m'pz m'/m,pz m" m
+(cid:160)
+t L- = L- , t L- = L- , t L- = L- (n = n )
+mm', p m/m,px m'/m,px mm',s m/m,sy m'/m,sy mm',p m/m'pz m'/m,pz m" m
+(cid:160)
+を考慮して整理すると、下式を得る。
+(cid:160)
+(cid:160) E - 1 (0 - )=(cid:229) t m'1 eib m' h m'L - m'/m P a * d i
+a b
+ei(b m,SF +b m,vis +b m,ir)hm - 1 ei(- b m,SF +b m,vis +b m,ir)hm - 1
+· {[ – r e2ib m,SFhm ]
+b +b +b m2 b - b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+ei(b m,SF +b m,vis - b m,ir)hm - 1 ei(- b m,SF +b m,vis -b m,ir)hm - 1
++r e2ib m,irhm[ – r e2ib m,SFhm ]
+m2,ir,b b +b b m2 b - b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160) ei(b m,SF -b m,vis +b m,ir)hm - 1 ei(- b m,SF - b m,vis +b m,ir)hm - 1
++r e2ib m,vishm[ – r e2ib m,SFhm ]
+m2,vis,a b - b +b m2 b +b - b
+(cid:160) m,SF m,vis m,ir m,SF m,vis m,ir
+ei(b m,SF - b m,vis - b m,ir)hm - 1 ei(- b m,SF - b m,vis - wb m,ir)hm - 1
++r r e2i(b m,vis +b m,ir)hm[ – r e2ib m,SFhm ]}
+(cid:160) m2,vis,a m2,ir,b b - b - b m2 b +b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(upper sign for x and y components, lower sign for z component)
+(cid:160)
+よって、
+E - 1 (0 - ) p =(cid:229) E0 vis,a E0 ir,b t m'1,SF,p ei(b m',SF +b m',vis +b m',ir)hm' d i
+a b
+2層膜のSFG - 33
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.34 =====
+t t
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+ei(b m,SF +b m,vis +b m,ir)hm - 1 ei(-b m,SF +b m,vis +b m,ir)hm - 1
+· {{[ +r e2ib m,SFhm ]
+b +b +b m2,SF,p b - b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+ei(b m,SF +b m,vis - b m,ir)hm - 1 ei(- b m,SF +b m,vis -b m,ir)hm - 1
++r e2ib m,irhm[ +r e2ib m,SFhm ]
+m2,ir,b b +b b m2,SF,p b - b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+ei(b m,SF -b m,vis +b m,ir)hm - 1 ei(- b m,SF -b m,vis +b m,ir)hm - 1
++r e2ib m,vishm[ +r e2ib m,SFhm ]
+m2,vis,a b - b +b m2,SF,p b +b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,a m2,ir,b
+ei(b m,SF - b m,vis -b m,ir)hm - 1 ei(-b m,SF -b m,vis -wb m,ir)hm - 1
+· [
+b - b - b
++r
+m2,SF,p
+e2ib m,SFhm
+b +b +b
+]}L -
+m'/m,px
+c
+xa b
+m,SF m,vis m,ir m,SF m,vis m,ir
+ei(b m,SF +b m,vis +b m,ir)hm - 1 ei(- b m,SF +b m,vis +b m,ir)hm - 1
+· {{[ - r e2ib m,SFhm ]
+b +b +b m2,SF,p b - b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+ei(b m,SF +b m,vis - b m,ir)hm - 1 ei(-b m,SF +b m,vis - b m,ir)hm - 1
++r e2ib m,irhm[ - r e2ib m,SFhm ]
+m2,ir,b b +b b m2,SF,p b - b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+ei(b m,SF -b m,vis +b m,ir)hm - 1 ei(- b m,SF - b m,vis +b m,ir)hm - 1
++r e2ib m,vishm[ - r e2ib m,SFhm ]
+m2,vis,a b - b +b m2,SF,p b +b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,a m2,ir,b
+(cid:160) ei(b m,SF - b m,vis -b m,ir)hm - 1 ei(- b m,SF - b m,vis - wb m,ir)hm - 1
+· [
+b - b - b
+- r
+m2,SF,p
+e2ib m,SFhm
+b +b +b
+]}L -
+m'/m,pz
+c
+za b
+(n
+m"
+= n
+m
+)
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160)
+(2.45a)
+(cid:160) E - 1 (0 - ) s =(cid:229) E0 vis,a E0 ir,b t m'1,SF,s ei(b m',SF +b m',vis +b m',ir)hm' d i
+a b
+(cid:160) t t
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+(cid:160) t t
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+(cid:160) 1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+ei(b m,SF +b m,vis +b m,ir)hm - 1 ei(- b m,SF +b m,vis +b m,ir)hm - 1
+· {[ +r e2ib m,SFhm ]
+b +b +b m2,SF,s b - b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160) ei(b m,SF +b m,vis - b m,ir)hm - 1 ei(-b m,SF +b m,vis - b m,ir)hm - 1
++r e2ib m,irhm[ +r e2ib m,SFhm ]
+m2,ir,b b +b b m2,SF,s b - b +b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160) ei(b m,SF -b m,vis +b m,ir)hm - 1 ei(- b m,SF - b m,vis +b m,ir)hm - 1
++r e2ib m,vishm[ +r e2ib m,SFhm ]
+m2,vis,a b - b +b m2,SF,s b +b - b
+m,SF m,vis m,ir m,SF m,vis m,ir
+(cid:160)
++r r e2i(b m,vis +b m,ir)hm
+m2,vis,a m2,ir,b
+(cid:160) ei(b m,SF - b m,vis -b m,ir)hm - 1 ei(- b m,SF - b m,vis - wb m,ir)hm - 1
+· [
+b - b - b
++r
+m2,SF,s
+e2ib m,SFhm
+b +b +b
+]}L -
+m'/m,sy
+c
+yab
+(2.45b)
+(cid:160) m,SF m,vis m,ir m,SF m,vis m,ir
+2層膜のSFG - 34
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.35 =====
+(b): 透過方向
+E+ sources からの寄与は、ファイル「一般式」の (2.6) 式と本稿の (2.29) 式により、下で表される。
+E + 2 (h m' +h m + )=(cid:229) t m2 eib m h m(1+r 1m' r m'm e2ib m' h m')L + m/m P a *
+a b
+· {exp[iz (- b +b +b )]+r e2ib m,irhm exp[iz (- b +b - b )]
+2 m,SF m,vis m,ir m2,ir,b 2 m,SF m,vis m,ir
++r e2ib m,vishm exp[iz (- b - b +b )]
+m2,vis,a 2 m,SF m,vis m,ir
++r r e2i(b m,ir +b m,vis)hm exp[iz (- b - b - b )]}
+m2,vis,a m2,ir,b 2 m,SF m,vis m,ir
+E- sources からの寄与は、ファイル「一般式」の (2.8) 式と本稿の (2.30) 式により、下で表される。
+E + 2 (h m' +h m + )=- (cid:229) t m2 eib m h m(r m'm +r 1m' e2ib m' h m')L - m/m P a *
+a b
+· {exp[iz (b +b +b )]+r e2ib m,irhm exp[iz (b +b - b )]
+2 m,SF m,vis m,ir m2,ir,b 2 m,SF m,vis m,ir
++r e2ib m,vishm exp[iz (b - b +b )]
+m2,vis,a 2 m,SF m,vis m,ir
++r r e2i(b m,ir +b m,vis)hm exp[iz (b - b - b )]}
+m2,vis,a m2,ir,b 2 m,SF m,vis m,ir
+ここで、E+ に由来する SFG 光については z について 0 から h まで（z = 0 fi h ）、E- に由来する SFG
+2 m 2 m
+光については z について h から 0 まで（z = h fi 0）積分し、さらに関係式
+2 m 2 m
+t L+ = L+ , t L+ = L+ , t L+ = L+ (n = n )
+m2p m/m,px m/2',px m2,s m/m,sy m/2',sy m2,p m/m,pz m/2',pz m" m
+(cid:160)
+t L- = L+ , t L- = L+ , t L- = -L+ (n = n )
+m2p m/m,px m/2',px m2,s m/m,sy m/2',sy m2,p m/m,pz m/2',pz m" m
+(cid:160)
+を考慮して整理すると、下式を得る。
+(cid:160)
+(cid:160) E + 2 (h m' +h m + )=(cid:229) eib m h mL + m/2 P a * d i
+a b
+ei(- b m,SF +b m,vis +b m,ir)hm - 1
+· {[(1+r r e2ib m',SFhm')
+1m',SF m'm,SF b - b - b
+m,SF m,vis m,ir
+ei(b m,SF +b m,vis +b m,ir)hm - 1
+m(r +r e2ib m',SFhm') ]
+m'm,SF 1m',SF b +b +b
+m,SF m,vis m,ir
+(cid:160) ei(-b m,SF +b m,vis - b m,ir)hm - 1
++r e2ib m,irhm[(1+r r e2ib m',SFhm')
+m2,ir,b 1m',SF m'm,SF b - b +b
+(cid:160) m,SF m,vis m,ir
+ei(b m,SF +b m,vis - b m,ir)hm - 1
+m(r +r e2ib m',SFhm') ]
+(cid:160) m'm,SF 1m',SF b +b - b
+m,SF m,vis m,ir
+ei(- b m,SF - b m,vis +b m,ir)hm - 1
+(cid:160) +r e2ib m,vishm[(1+r r e2ib m',SFhm')
+m2,vis,a 1m',SF m'm,SF b +b - b
+m,SF m,vis m,ir
+2層膜のSFG - 35
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.36 =====
+ei(b m,SF - b m,vis +b m,ir)hm - 1
+m(r +r e2ib m',SFhm') ]
+m'm,SF 1m',SF b - b +b
+m,SF m,vis m,ir
+ei(- b m,SF - b m,vis - b m,ir)hm - 1
++r r e2i(b m',is +b m,ir)hm[(1+r r e2ib m',SFhm')
+m2,vis,a m2,ir,b 1m',SF m'm,SF b +b +b
+m,SF m,vis m,ir
+ei(b m,SF - b m,vis -b m,ir)hm - 1
+m(r +r e2ib m',SFhm') ]}
+m'm,SF 1m',SF b - b - b
+m,SF m,vis m,ir
+(upper sign for x and y components, lower sign for z component)
+よって、
+E + 2,p (h m' +h m + )=(cid:229) E0 vis,a E0 ir,b ei(b m',vis +b m',ir)hm'eib m,SFhm(1+r 1m',SF,p r m'm,SF,p e2ib m',SFhm')
+a b
+t t
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+ei(- b m,SF +b m,vis +b m,ir)hm - 1
+· {{[(1+r r e2ib m',SFhm')
+1m',SF,p m'm,SF,p b - b - b
+m,SF m,vis m,ir
+ei(b m,SF +b m,vis +b m,ir)hm - 1
++(r +r e2ib m',SFhm') ]
+m'm,SF,p 1m',SF,p b +b +b
+m,SF m,vis m,ir
+ei(- b m,SF +b m,vis -b m,ir)hm - 1
++r e2ib m,irhm[(1+r r e2ib m',SFhm')
+m2,ir,b 1m',SF,p m'm,SF,p b - b +b
+m,SF m,vis m,ir
+(cid:160) ei(b m,SF +b m,vis - b m,ir)hm - 1
++(r +r e2ib m',SFhm') ]
+m'm,SF,p 1m',SF,p b +b - b
+m,SF m,vis m,ir
+(cid:160) ei(-b m,SF -b m,vis +b m,ir)hm - 1
++r e2ib m,vishm[(1+r r e2ib m',SFhm')
+m2,vis,a 1m',SF,p m'm,SF,p b +b - b
+m,SF m,vis m,ir
+(cid:160) ei(b m,SF -b m,vis +b m,ir)hm - 1
++(r +r e2ib m',SFhm') ]
+m'm,SF,p 1m',SF,p b - b +b
+m,SF m,vis m,ir
+ei(-b m,SF -b m,vis -b m,ir)hm - 1
++r r e2i(b m',is +b m,ir)hm[(1+r r e2ib m',SFhm')
+m2,vis,a m2,ir,b 1m',SF,p m'm,SF,p b +b +b
+m,SF m,vis m,ir
+ei(b m,SF -b m,vis -b m,ir)hm - 1
++(r
+m'm,SF,p
++r
+1m',SF,p
+e2ib m',SFhm')
+b - b - b
+]}L +
+m/2,px
+c
+xab
+m,SF m,vis m,ir
+(cid:160) ei(- b m,SF +b m,vis +b m,ir)hm - 1
++{[(1+r r e2ib m',SFhm')
+1m',SF,p m'm,SF,p b - b - b
+m,SF m,vis m,ir
+(cid:160) ei(b m,SF +b m,vis +b m,ir)hm - 1
+- (r +r e2ib m',SFhm') ]
+m'm,SF,p 1m',SF,p b +b +b
+m,SF m,vis m,ir
+(cid:160) ei(- b m,SF +b m,vis -b m,ir)hm - 1
++r e2ib m,irhm[(1+r r e2ib m',SFhm')
+m2,ir,b 1m',SF,p m'm,SF,p b - b +b
+m,SF m,vis m,ir
+(cid:160) ei(b m,SF +b m,vis -b m,ir)hm - 1
+- (r +r e2ib m',SFhm') ]
+m'm,SF,p 1m',SF,p b +b - b
+m,SF m,vis m,ir
+(cid:160) ei(-b m,SF -b m,vis +b m,ir)hm - 1
++r e2ib m,vishm[(1+r r e2ib m',SFhm')
+m2,vis,a 1m',SF,p m'm,SF,p b +b - b
+m,SF m,vis m,ir
+(cid:160)
+2層膜のSFG - 36
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.37 =====
+ei(b m,SF - b m,vis +b m,ir)hm - 1
+- (r +r e2ib m',SFhm') ]
+m'm,SF,p 1m',SF,p b - b +b
+m,SF m,vis m,ir
+ei(-b m,SF -b m,vis -b m,ir)hm - 1
++r r e2i(b m',is +b m,ir)hm[(1+r r e2ib m',SFhm')
+m2,vis,a m2,ir,b 1m',SF,p m'm,SF,p b +b +b
+m,SF m,vis m,ir
+ei(b m,SF - b m,vis - b m,ir)hm - 1
+- (r
+m'm,SF,p
++r
+1m',SF,p
+e2ib m',SFhm')
+b - b - b
+]}L +
+m/2,pz
+c
+za b
+} (n
+m"
+= n
+m
+) (2.46a)
+m,SF m,vis m,ir
+E + 2,s (h m' +h m + )=(cid:229) E0 vis,a E0 ir,b ei(b m',vis +b m',ir)hm'eib m,SFhm(1+r 1m',SF,s r m'm,SF,s e2ib m',SFhm')
+a b
+t t
+· 1m',vis,a m'm,vis,a
+1+r r e2ib m',vis h m' +(r +r e2ib m',vis h m')r e2ib m,vis h m
+1m',vis,a m'm,vis,a m'm,vis,a 1m',vis,a m2,vis,a
+t t
+· 1m',ir,b m'm,ir,b
+1+r r e2ib m',ir h m' +(r +r e2ib m',ir h m')r e2ib m,ir h m
+1m',ir,b m'm,ir,b m'm,ir,b 1m',ir,b m2,ir,b
+ei(- b m,SF +b m,vis +b m,ir)hm - 1
+· {[(1+r r e2ib m',SFhm')
+1m',SF,s m'm,SF,s b - b - b
+m,SF m,vis m,ir
+ei(b m,SF +b m,vis +b m,ir)hm - 1
++(r +r e2ib m',SFhm') ]
+m'm,SF,s 1m',SF,s b +b +b
+m,SF m,vis m,ir
+ei(- b m,SF +b m,vis -b m,ir)hm - 1
++r e2ib m,irhm[(1+r r e2ib m',SFhm')
+m2,ir,b 1m',SF,s m'm,SF,s b - b +b
+m,SF m,vis m,ir
+ei(b m,SF +b m,vis - b m,ir)hm - 1
++(r +r e2ib m',SFhm') ]
+m'm,SF,s 1m',SF,s b +b - b
+m,SF m,vis m,ir
+ei(-b m,SF -b m,vis +b m,ir)hm - 1
++r e2ib m,vishm[(1+r r e2ib m',SFhm')
+(cid:160) m2,vis,a 1m',SF,s m'm,SF,s b +b - b
+m,SF m,vis m,ir
+ei(b m,SF -b m,vis +b m,ir)hm - 1
++(r +r e2ib m',SFhm') ]
+(cid:160) m'm,SF,s 1m',SF,s b - b +b
+m,SF m,vis m,ir
+ei(-b m,SF -b m,vis -b m,ir)hm - 1
++r r e2i(b m',is +b m,ir)hm[(1+r r e2ib m',SFhm')
+(cid:160) m2,vis,a m2,ir,b 1m',SF,s m'm,SF,s b +b +b
+m,SF m,vis m,ir
+ei(b m,SF -b m,vis -b m,ir)hm - 1
++(r
+m'm,SF,s
++r
+1m',SF,s
+e2ib m',SFhm')
+b - b - b
+]}L +
+m/2,sy
+c
+ya b
+(2.46b)
+m,SF m,vis m,ir
+(cid:160)
+(cid:160)
+3. 三層系 (1/m'/m/m"/2) からの SFG
+始めに記したように、この系からの SFG 電場を求めるためにはテンソルの等比級数の和が必要になる。
+(cid:160) よって、最後の表式に至る作業は現在の私の力では不可能である。しかし、分極までは求めることが出来る
+ので、それを記しておく。
+(cid:160) 但し、３つの層のうちのどれかがその厚みを無視できる場合には、２節で求めた結果に対して (1) 分極の表
+式を下で示すものと置き換え、(2) その層の外側界面が関係する反射係数と透過係数を下のように置き換え
+(cid:160) ることによって、必要な表式が得られる。
+２つの層 m/ m' の間に厚みが無視できる m" 層が挟まって m/m"/m' 系になっているときには、下の置
+(cid:160) き換えをする。
+(cid:160)
+(cid:160)
+2層膜のSFG - 37
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.38 =====
+r +r t t
+r (cid:222) mm" m"m' , t (cid:222) mm" m"m'
+mm' 1+r r mm' 1+r r
+m'm" m"m m'm" m"m
+r +r t t
+r (cid:222) m'm" m"m , t (cid:222) m'm" m"m
+m'm 1+r r m'm 1+r r
+m'm" m"m m'm" m"m
+3.1. 電場振幅の積
+1/m' 界面の 1 側：
+E+ (by reflection and transmission) and E- (for n = 0) sources
+E vis,a (0 - )E ir,b (0 - )=E0 vis,a E0 ir,b
+{(1+r e2ib m',vishm')[(1+r e2ib m',vishm')(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +e2ib m',vis h m')(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+{(1+r e2ib m',irhm')[(1+r e2ib m',irhm')(1+r r e2ib m",irhm")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+· m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.1)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+1/m' 界面の m' 側：
+(cid:160) E+ and E- (by reflection and transmission) sources
+E vis,a (0 + )E ir,b (0 + )=E0 vis,a E0 ir,b
+(cid:160)
+{t [(1+r e2ib m',vishm')(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +e2ib m',vis h m')(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160)
+{t [(1+r e2ib m',irhm')(1+r r e2ib m",irhm")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+· m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+(cid:160)
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.2)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+m''/2 界面の 2 側：
+E+ (by reflection and transmission) and E- sources
+(cid:160) E vis,a (h m' +h m +h m" + )E ir,b (h m' +h m +h m" + )=E0 vis,a E0 ir,b
+(cid:160)
+2層膜のSFG - 38
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.39 =====
+t t t t ei(b m",vis h m" +b m,vis h m +b m",vis h m" )
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t t ei(b m",ir h m" +b m,ir h m +b m"ir h m" )
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[i(2n+1)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.3)
+m''/2 界面の m'' 側：
+E+ (by reflection and transmission) and E- sources
+E vis,a (h m' +h m +h m" - )E ir,b (h m' +h m +h m" - )=E0 vis,a E0 ir,b
+t t t (1+r )ei(b m",vis h m" +b m,vis h m +b m",vis h m" )
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t (1+r )ei(b m",ir h m" +b m,ir h m +b m"ir h m" )
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[i(2n+1)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+(cid:160) m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.4)
+m'/m 界面の m' 側：
+E+ and E- (by reflection and transmission) sources
+(cid:160)
+(cid:160) E vis,a (h m' - )E ir,b (h m' - )=E0 vis,a E0 ir,b
+{t eib m',vishm'(1+r )[(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160)
+{t eib m',irhm'(1+r )[(1+r r e2ib m",irhm")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+· m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+(cid:160) +(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[i(h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m" m",SF m,ir m,ir m,vis m,vis
+· exp[i(2n+1)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(cid:160)
+(cid:160) 2層膜のSFG - 39
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.40 =====
+(3.5)
+E+ (by reflection and transmission) and E- sources
+E vis,a (h m' - )E ir,b (h m' - )=E0 vis,a E0 ir,b
+{t eib m',vishm'(1+r )[(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+{t eib m',irhm'(1+r )[(1+r r e2ib m",irhm")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+· m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m' m',SF m,ir m,ir m,vis m,vis
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.6)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+m'/m 界面の m 側：
+E+ and E- (by reflection and transmission) sources
+E vis,a (h m' + )E ir,b (h m' + )=E0 vis,a E0 ir,b
+t t eib m',vis h m'[(1+r r e2ib m",vis h m")+(r +r e2ib m",vis h m")e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+(cid:160) +(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t eib m',ir h m'[(1+r r e2ib m",ir h m")+(r +r e2ib m",ir h m")e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+(cid:160)
+· exp[i(h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m" m",SF m,ir m,ir m,vis m,vis
+· exp[i(2n+1)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.7)
+E+ (by reflection and transmission) and E- sources
+(cid:160)
+(cid:160) E vis,a (h m' + )E ir,b (h m' + )=E0 vis,a E0 ir,b
+(cid:160)
+t t eib m',vis h m'[(1+r r e2ib m",vis h m")+(r +r e2ib m",vis h m")e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160)
+2層膜のSFG - 40
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.41 =====
+t t eib m',ir h m'[(1+r r e2ib m",ir h m")+(r +r e2ib m",ir h m")e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m' m',SF m,ir m,ir m,vis m,vis
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.8)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+m/m'' 界面の m 側：
+E+ and E- (by reflection and transmission) sources
+E vis,a (h m +h m' - )E ir,b (h m +h m' - )=E0 vis,a E0 ir,b
+t t ei(b m',vis h m' +b m,vis h m )(1+r )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t ei(b m',ir h m' +b m,ir h m )(1+r )(1+r e2ib m",ir h m")
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m" m",SF m,ir m,ir m,vis m,vis
+· exp[i(2n+1)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.9)
+E+ (by reflection and transmission) and E- sources
+(cid:160)
+(cid:160) E vis,a (h m +h m' - )E ir,b (h m +h m' - )=E0 vis,a E0 ir,b
+(cid:160)
+t t ei(b m',vis h m' +b m,vis h m )(1+r )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160) · t 1m',ir,b t m'm,ir,b ei(b m',ir h m' +b m,ir h m )(1+r mm",ir,b )(1+r m"2,ir,b e2ib m",ir h m")
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[i(h tanq +h tanq )(- k sinq - k sinq )]
+(cid:160) m m,SF m' m',SF m,ir m,ir m,vis m,vis
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.10)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+m/m'' 界面の m'' 側：
+E+ and E- (by reflection and transmission) sources
+(cid:160)
+(cid:160) E vis,a (h m +h m' + )E ir,b (h m +h m' + )=E0 vis,a E0 ir,b
+(cid:160)
+2層膜のSFG - 41
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.42 =====
+t t t ei(b m,vis h m +b m',vis h m' )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )(1+r e2ib m",ir h m")
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[ih tanq (- k sinq - k sinq )]
+m" m",SF m,ir m,ir m,vis m,vis
+· exp[i(2n+1)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.11)
+E+ (by reflection and transmission) and E- sources
+E vis,a (h m +h m' + )E ir,b (h m +h m' + )=E0 vis,a E0 ir,b
+t t t ei(b m,vis h m +b m',vis h m' )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )(1+r e2ib m",ir h m")
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· exp[i(h tanq +h tanq )(- k sinq - k sinq )]
+(cid:160) m m,SF m' m',SF m,ir m,ir m,vis m,vis
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.12)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+m' 層の深さ z 点：
+1
+E+ and E- (by reflection and transmission) sources
+(cid:160)
+E vis,a (z 1 )E ir,b (z 1 )=E0 vis,a E0 ir,b
+(cid:160) t
+· 1m',vis,a
+(cid:160) {(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t
+· 1m',ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+(cid:160) +(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {[(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+r m'm,vis,a (r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (1+tanq tanq )]
+1 m',vis m',vis m',SF m',vis
+(cid:160) +[r m'm,vis,a (1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (- 1+tanq tanq )]}
+1 m',vis m',vis m',SF m,vis
+· {[(1+r r e2ib m",irhm")+r (r +r e2ib m",irhm")e2ib m,irhm]
+mm",ir,b m"2,ir,b m'm,ir,b mm",ir,b m"2,ir,b
+(cid:160)
+(cid:160) 2層膜のSFG - 42
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.43 =====
+· exp[iz (k cosq (1+tanq tanq )]
+1 m',ir m',ir m',SF m,ir
++[r m'm,ir,b (1+r mm",ir,b r m"2,ir,b e2ib m"ir h m")+(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m]
+· exp[iz (k cosq (- 1+tanq tanq )]}
+1 m',ir m',ir m',SF m,ir
+· exp[i(2n+2)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.13)
+E+ (by reflection and transmission) and E- sources
+E vis,a (z 1 )E ir,b (z 1 )=E0 vis,a E0 ir,b
+t
+· 1m',vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t
+· 1m',ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {[(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+r m'm,vis,a (r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (1- tanq tanq )]
+1 m',vis m',vis m',SF m',vis
++[r m'm,vis,a (1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (- 1- tanq tanq )]}
+1 m',vis m',vis m',SF m,vis
+· {[(1+r r e2ib m",irhm")+r (r +r e2ib m",irhm")e2ib m,irhm]
+mm",ir,b m"2,ir,b m'm,ir,b mm",ir,b m"2,ir,b
+(cid:160) · exp[iz (k cosq (1- tanq tanq )]
+1 m',ir m',ir m',SF m,ir
+(cid:160) +[r m'm,ir,b (1+r mm",ir,b r m"2,ir,b e2ib m"ir h m")+(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m]
+(cid:160) · exp[iz (k cosq (- 1- tanq tanq )]}
+1 m',ir m',ir m',SF m,ir
+(cid:160) · exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.14)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+m 層の m'/m 界面から深さ z の点：
+2
+E+ and E- (by reflection and transmission) sources
+(cid:160) E vis,a (h m' +z 2 )E ir,b (h m' +z 2 )=E0 vis,a E0 ir,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+(cid:160) 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+(cid:160) {(1+r 1m',ir,b r m'm,ir,b e2ib m',ir h m')(1+r mm",ir,b r m"2,ir,b e2ib m",ir h m")
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+(cid:160) m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+(cid:160) · {(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")exp[iz 2 (k m,vis cosq m,vis (1+tanq m,SF tanq m,vis )]
+(cid:160) +(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m exp[iz 2 (k m,vis cosq m,vis (- 1+tanq m,SF tanq m,vis )]}
+(cid:160)
+· {(1+r r e2ib m",irhm")exp[iz (k cosq (1+tanq tanq )]
+mm",ir,b m"2,ir,b 2 m,ir m,ir m,SF m,ir
+(cid:160)
++(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m exp[iz 2 (k m,ir cosq m,ir (- 1+tanq m,SF tanq m,ir )]}
+(cid:160)
+(cid:160)
+(cid:160) 2層膜のSFG - 43
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.44 =====
+· exp[i(2n+2)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.15)
+E+ (by reflection and transmission) and E- sources
+E vis,a (h m' +z 2 )E ir,b (h m' +z 2 )=E0 vis,a E0 ir,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")exp[iz 2 (k m,vis cosq m,vis (1- tanq m,SF tanq m,vis )]
++(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m exp[iz 2 (k m,vis cosq m,vis (- 1- tanq m,SF tanq m,vis )]}
+· {(1+r r e2ib m",irhm")exp[iz (k cosq (1- tanq tanq )]
+mm",ir,b m"2,ir,b 2 m,ir m,ir m,SF m,ir
++(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m exp[iz 2 (k m,ir cosq m,ir (- 1- tanq m,SF tanq m,ir )]}
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.16)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+m" 層の m/m" 界面から深さ z の点：
+3
+(cid:160) E+ and E- (by reflection and transmission) sources
+E vis,a (h m' +h m +z 3 )E ir,b (h m' +h m +z 3 )=E0 vis,a E0 ir,b
+t t t ei(b m,vis h m +b m',vis h m' )
+· 1m',vis,a m'm,vis,a mm",vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+(cid:160) 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t ei(b m,ir h m +b m',ir h m' )
+· 1m',ir,b m'm,ir,b mm",ir,b
+(cid:160) {(1+r 1m',ir,b r m'm,ir,b e2ib m',ir h m')(1+r mm",ir,b r m"2,ir,b e2ib m",ir h m")
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {exp[iz (k cosq (1+tanq tanq )]
+3 m",vis m",vis m",SF m",vis
+(cid:160) +r m"2,vis,a e2i(b mvis h m +b m"vis h m" )exp[iz 3 (k m",vis cosq m",vis (- 1+tanq m",SF tanq m",vis )]}
+· {exp[iz (k cosq (1+tanq tanq )]
+3 m",ir m",ir m",SF m",ir
+(cid:160) +r m"2,ir,b e2i(b mir h m +b m"ir h m" )exp[iz 3 (k m",ir cosq m",ir (- 1+tanq m",SF tanq m",ir )]}
+(cid:160) · exp[i(2n+2)(h tanq +h tanq +h tanq )(- k sinq - k sinq )]
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+(3.17)
+(cid:160)
+(cid:160) E+ (by reflection and transmission) and E- sources
+(cid:160) E vis,a (h m' +h m +z 3 )E ir,b (h m' +h m +z 3 )=E0 vis,a E0 ir,b
+(cid:160)
+2層膜のSFG - 44
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.45 =====
+t t t ei(b m,vis h m +b m',vis h m' )
+· 1m',vis,a m'm,vis,a mm",vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t ei(b m,ir h m +b m',ir h m' )
+· 1m',ir,b m'm,ir,b mm",ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {exp[iz (k cosq (1- tanq tanq )]
+3 m",vis m",vis m",SF m",vis
++r m"2,vis,a e2i(b mvis h m +b m"vis h m" )exp[iz 3 (k m",vis cosq m",vis (- 1- tanq m",SF tanq m",vis )]}
+· {exp[iz (k cosq (1- tanq tanq )]
+3 m",ir m",ir m",SF m",ir
++r m"2,ir,b e2i(b mir h m +b m"ir h m" )exp[iz 3 (k m",ir cosq m",ir (- 1- tanq m",SF tanq m",ir )]}
+· exp[i2n(h tanq +h tanq +h tanq )(- k sinq - k sinq )] (3.18)
+m m,SF m' m',SF m" m",SF m,ir m,ir m,vis m,vis
+3.2. SFG 分極
+上で求めた電場積に SFG 感受率を掛けたものが SFG 分極になる。
+これから先は恐ろしく複雑である。どれかの層が無限に薄いときにのみ、表式が得られるであろう。
+1/m' 界面の 1 側：
+E+ (by reflection and transmission) and E- (for n = 0) sources
+P a *(0 - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+{(1+r e2ib m',vishm')[(1+r e2ib m',vishm')(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+(cid:160) +(r +e2ib m',vis h m')(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+{(1+r e2ib m',irhm')[(1+r e2ib m',irhm')(1+r r e2ib m",irhm")
+(cid:160) 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+(cid:160) · m'm,ir,b mm",ir,b m"2,ir,b (3.19)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+(cid:160) 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+(cid:160) +(r m'm,ir,b +r 1m',ir,b e2ib m',irhm')(r mm",ir,b +r m"2,ir,b e2ib m",irhm")e2ib m,irhm}
+(cid:160)
+(cid:160)
+1/m' 界面の m' 側：
+E+ and E- (by reflection and transmission) sources
+P a *(0 + )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+{t [(1+r e2ib m',vishm')(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +e2ib m',vis h m')(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160)
+2層膜のSFG - 45
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.46 =====
+{t [(1+r e2ib m',irhm')(1+r r e2ib m",irhm")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+· m'm,ir,b mm",ir,b m"2,ir,b (3.20)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+m''/2 界面の2 側：
+E+ (by reflection and transmission) and E- sources
+P a *(h m' +h m +h m" + )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t t t ei(b m",vis h m" +b m,vis h m +b m",vis h m" )
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t t ei(b m",ir h m" +b m,ir h m +b m"ir h m" )
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b (3.21)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+m''/2 界面の m'' 側：
+E+ (by reflection and transmission) and E- sources
+P a *(h m' +h m +h m" - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t t (1+r )ei(b m",vis h m" +b m,vis h m +b m",vis h m" )
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+(cid:160) 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t (1+r )ei(b m",ir h m" +b m,ir h m +b m"ir h m" )
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b (3.22)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+(cid:160) +(r m'm,ir,b +r 1m',ir,b e2ib m',irhm')(r mm",ir,b +r m"2,ir,b e2ib m",irhm")e2ib m,irhm}
+m'/m 界面の m' 側：
+E+ and E- (by reflection and transmission) sources
+(cid:160)
+P a *(h m' - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+{t eib m',vishm'(1+r )[(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+(cid:160) +(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160)
+2層膜のSFG - 46
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.47 =====
+{t eib m',irhm'(1+r )[(1+r r e2ib m",irhm")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+· m'm,ir,b mm",ir,b m"2,ir,b (3.23)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+E+ (by reflection and transmission) and E- sources
+P a *(h m' - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+{t eib m',vishm'(1+r )[(1+r r e2ib m",vishm")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m",vis h m")e2ib m,vis h m]}
+· mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+{t eib m',irhm'(1+r )[(1+r r e2ib m",irhm")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +e2ib m',ir h m')(r +r e2ib m",ir h m")e2ib m,ir h m]}
+· m'm,ir,b mm",ir,b m"2,ir,b (3.24)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+m'/m 界面 のm 側：
+E+ and E- (by reflection and transmission) sources
+P a *(h m' + )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+(cid:160) · t 1m',vis,a t m'm,vis,a eib m',vis h m'[(1+r mm",vis,a r m"2,vis,a e2ib m",vis h m")+(r mm",vis,a +r m"2,vis,a e2ib m",vis h m")e2ib m,vis h m]
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t eib m',ir h m'[(1+r r e2ib m",ir h m")+(r +r e2ib m",ir h m")e2ib m,ir h m]
+(cid:160) · 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b mm",ir,b m"2,ir,b (3.25)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+E+ (by reflection and transmission) and E- sources
+(cid:160)
+P a *(h m' + )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'[(1+r r e2ib m",vis h m")+(r +r e2ib m",vis h m")e2ib m,vis h m]
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+(cid:160)
++(r
+m'm,vis,a
++r
+1m',vis,a
+e2ib m',vishm')(r
+mm",vis,a
++r
+m"2,vis,a
+e2ib m",vishm")e2ib m,vishm}
+(cid:160) 2層膜のSFG - 47
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.48 =====
+t t eib m',ir h m'[(1+r r e2ib m",ir h m")+(r +r e2ib m",ir h m")e2ib m,ir h m]
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b mm",ir,b m"2,ir,b (3.26)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+m/m'' 界面の m 側：
+E+ and E- (by reflection and transmission) sources
+P a *(h m +h m' - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t ei(b m',vis h m' +b m,vis h m )(1+r )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t ei(b m',ir h m' +b m,ir h m )(1+r )(1+r e2ib m",ir h m")
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b (3.27)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+E+ (by reflection and transmission) and E- sources
+P a *(h m +h m' - )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t ei(b m',vis h m' +b m,vis h m )(1+r )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+(cid:160) +(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t ei(b m',ir h m' +b m,ir h m )(1+r )(1+r e2ib m",ir h m")
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b (3.28)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+(cid:160)
+m/m'' 界面の m'' 側：
+E+ and E- (by reflection and transmission) sources
+(cid:160) P a *(h m +h m' + )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m,vis h m +b m',vis h m' )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+(cid:160) +(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )(1+r e2ib m",ir h m")
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b (3.29)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
+(cid:160) +(r m'm,ir,b +r 1m',ir,b e2ib m',irhm')(r mm",ir,b +r m"2,ir,b e2ib m",irhm")e2ib m,irhm}
+2層膜のSFG - 48
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.49 =====
+E+ (by reflection and transmission) and E- sources
+P a *(h m +h m' + )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m,vis h m +b m',vis h m' )(1+r e2ib m",vis h m")
+· 1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t ei(b m',ir h m' +b m,ir h m )(1+r e2ib m",ir h m")
+· 1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b (3.30)
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+m' 層の深さ z 点：
+1
+E+ and E- (by reflection and transmission) sources
+P a *(z 1 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t
+· 1m',vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t
+· 1m',ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+(cid:160) · {[(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+r m'm,vis,a (r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (1+tanq tanq )]
+1 m',vis m',vis m',SF m',vis
++[r m'm,vis,a (1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (- 1+tanq tanq )]}
+(cid:160) 1 m',vis m',vis m',SF m',vis
+· {[(1+r r e2ib m",irhm")+r (r +r e2ib m",irhm")e2ib m,irhm]
+mm",ir,b m"2,ir,b m'm,ir,b mm",ir,b m"2,ir,b
+· exp[iz (k cosq (1+tanq tanq )]
+1 m',ir m',ir m',SF m',ir
+(cid:160)
++[r m'm,ir,b (1+r mm",ir,b r m"2,ir,b e2ib m"ir h m")+(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m]
+· exp[iz (k cosq (- 1+tanq tanq )]} (3.31)
+1 m',ir m',ir m',SF m',ir
+E+ (by reflection and transmission) and E- sources
+P a *(z 1 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+(cid:160)
+t
+· 1m',vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160)
+(cid:160) 2層膜のSFG - 49
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.50 =====
+t
+· 1m',ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {[(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+r m'm,vis,a (r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (1- tanq tanq )]
+1 m',vis m',vis m',SF m',vis
++[r m'm,vis,a (1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")+(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m]
+· exp[iz (k cosq (- 1- tanq tanq )]}
+1 m',vis m',vis m',SF m',vis
+· {[(1+r r e2ib m",irhm")+r (r +r e2ib m",irhm")e2ib m,irhm]
+mm",ir,b m"2,ir,b m'm,ir,b mm",ir,b m"2,ir,b
+· exp[iz (k cosq (1- tanq tanq )]
+1 m',ir m',ir m',SF m',ir
++[r m'm,ir,b (1+r mm",ir,b r m"2,ir,b e2ib m"ir h m")+(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m]
+· exp[iz (k cosq (- 1- tanq tanq )]} (3.32)
+1 m',ir m',ir m',SF m',ir
+m 層の m'/m 界面から深さ z の点：
+2
+E+ and E- (by reflection and transmission) sources
+P a *(h m' +z 2 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+(cid:160) {(1+r 1m',ir,b r m'm,ir,b e2ib m',ir h m')(1+r mm",ir,b r m"2,ir,b e2ib m",ir h m")
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+(cid:160) m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+(cid:160) · {(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")exp[iz 2 (k m,vis cosq m,vis (1+tanq m,SF tanq m,vis )]
+(cid:160) +(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m exp[iz 2 (k m,vis cosq m,vis (- 1+tanq m,SF tanq m,vis )]}
+(cid:160)
+· {(1+r r e2ib m",irhm")exp[iz (k cosq (1+tanq tanq )]
+mm",ir,b m"2,ir,b 2 m,ir m,ir m,SF m,ir
+(cid:160)
++(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m exp[iz 2 (k m,ir cosq m,ir (- 1+tanq m,SF tanq m,ir )]} (3.33)
+(cid:160)
+(cid:160) E+ (by reflection and transmission) and E- sources
+(cid:160) P a *(h m' +z 2 )=(cid:229) c aa b E0 vis,a E0 ir,b
+a ,b
+t t eib m',vis h m'
+· 1m',vis,a m'm,vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
+(cid:160) +(r m'm,vis,a +r 1m',vis,a e2ib m',vishm')(r mm",vis,a +r m"2,vis,a e2ib m",vishm")e2ib m,vishm}
+(cid:160)
+2層膜のSFG - 50
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.51 =====
+t t eib m',ir h m'
+· 1m',ir,b m'm,ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {(1+r mm",vis,a r m"2,vis,a e2ib m"vis h m")exp[iz 2 (k m,vis cosq m,vis (1- tanq m,SF tanq m,vis )]
++(r mm",vis,a +r m"2,vis,a e2ib m"vis h m")e2ib mvis h m exp[iz 2 (k m,vis cosq m,vis (- 1- tanq m,SF tanq m,vis )]}
+· {(1+r r e2ib m",irhm")exp[iz (k cosq (1- tanq tanq )]
+mm",ir,b m"2,ir,b 2 m,ir m,ir m,SF m,ir
++(r mm",ir,b +r m"2,ir,b e2ib m"ir h m")e2ib mir h m exp[iz 2 (k m,ir cosq m,ir (- 1- tanq m,SF tanq m,ir )]} (3.34)
+m" 層の m/m" 界面から深さ z の点：
+3
+E+ and E- (by reflection and transmission) sources
+P a *(h m' +h m +z 3 )=(cid:229) c aab E0 vis,a E0 ir,b
+a ,b
+t t t ei(b m,vis h m +b m',vis h m' )
+· 1m',vis,a m'm,vis,a mm",vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+t t t ei(b m,ir h m +b m',ir h m' )
+· 1m',ir,b m'm,ir,b mm",ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+· {exp[iz (k cosq (1+tanq tanq )]
+3 m",vis m",vis m",SF m",vis
+(cid:160) +r m"2,vis,a e2i(b mvis h m +b m"vis h m" )exp[iz 3 (k m",vis cosq m",vis (- 1+tanq m",SF tanq m",vis )]}
+· {exp[iz (k cosq (1+tanq tanq )]
+3 m",ir m",ir m",SF m",ir
+(cid:160) +r m"2,ir,b e2i(b mir h m +b m"ir h m" )exp[iz 3 (k m",ir cosq m",ir (- 1+tanq m",SF tanq m",ir )]} (3.35)
+(cid:160)
+E+ (by reflection and transmission) and E- sources
+(cid:160)
+P a *(h m' +h m +z 3 )=(cid:229) c aab E0 vis,a E0 ir,b
+(cid:160) a ,b
+t t t ei(b m,vis h m +b m',vis h m' )
+· 1m',vis,a m'm,vis,a mm",vis,a
+{(1+r r e2ib m',vis h m')(1+r r e2ib m",vis h m")
+1m',vis,a m'm,vis,a mm",vis,a m"2,vis,a
++(r +r e2ib m',vishm')(r +r e2ib m",vishm")e2ib m,vishm}
+m'm,vis,a 1m',vis,a mm",vis,a m"2,vis,a
+(cid:160)
+t t t ei(b m,ir h m +b m',ir h m' )
+· 1m',ir,b m'm,ir,b mm",ir,b
+{(1+r r e2ib m',ir h m')(1+r r e2ib m",ir h m")
+1m',ir,b m'm,ir,b mm",ir,b m"2,ir,b
++(r +r e2ib m',irhm')(r +r e2ib m",irhm")e2ib m,irhm}
+m'm,ir,b 1m',ir,b mm",ir,b m"2,ir,b
+(cid:160)
+· {exp[iz (k cosq (1- tanq tanq )]
+3 m",vis m",vis m",SF m",vis
++r m"2,vis,a e2i(b mvis h m +b m"vis h m" )exp[iz 3 (k m",vis cosq m",vis (- 1- tanq m",SF tanq m",vis )]}
+· {exp[iz (k cosq (1- tanq tanq )]
+3 m",ir m",ir m",SF m",ir
++r m"2,ir,b e2i(b mir h m +b m"ir h m" )exp[iz 3 (k m",ir cosq m",ir (- 1- tanq m",SF tanq m",ir )]} (3.36)
+(cid:160)
+(cid:160)
+2層膜のSFG - 51
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)

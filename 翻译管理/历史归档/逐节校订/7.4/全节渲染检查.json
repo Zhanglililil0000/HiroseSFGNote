@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-22",
+  "math": 20,
+  "scrollWidth": 1100,
+  "height": 3633,
+  "overs": [],
+  "images": [
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p1-%E7%A4%BA%E6%84%8F%E5%9B%BE.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p1-%E7%BA%A7%E6%95%B0.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p1-%E9%97%AD%E5%BC%8F.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p2-%E8%86%9C%E5%86%85%E5%9C%BA.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p2-s%E7%B3%BB%E6%95%B0.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p2-p%E7%B3%BB%E6%95%B0.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p2-s%E5%AF%B9%E5%BA%94.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/7.4/p2-p%E5%AF%B9%E5%BA%94.png",
+      "loaded": true
+    }
+  ],
+  "headings": [
+    {
+      "text": "路径记号与多重反射求和",
+      "y": 256
+    },
+    {
+      "text": "s、p偏振的界面系数",
+      "y": 2244
+    },
+    {
+      "text": "与零厚度结果的对应",
+      "y": 3045
+    }
+  ],
+  "screenshots": 5
+}

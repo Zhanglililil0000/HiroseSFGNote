@@ -1,0 +1,11 @@
+{
+  "section": "4.10",
+  "pages": 8,
+  "batches": "B416—B420",
+  "status": "本轮全节译校完成，原文未决疑点保留",
+  "math_fragments": 161,
+  "math_syntax_errors": 0,
+  "formula_overflows": 0,
+  "source_corrections_adopted": false,
+  "translation_sha256": "82e142ea99dccc3de9a719f478d8b3cab2e0da0d1c62ae562e7bf3e5437f3ccc"
+}

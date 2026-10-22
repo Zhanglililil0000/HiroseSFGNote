@@ -1,0 +1,310 @@
+{
+  "batch": "B358",
+  "date": "2026-10-21",
+  "pages": [
+    62,
+    63
+  ],
+  "scope": "附录F：简并模式代入条件",
+  "source_lines": [
+    "p62l20",
+    "p62l21",
+    "p62l22",
+    "p62l23",
+    "p62l24",
+    "p62l25",
+    "p62l26",
+    "p62l27",
+    "p62l28",
+    "p62l29",
+    "p62l30",
+    "p62l31",
+    "p62l32",
+    "p63l01",
+    "p63l02",
+    "p63l03",
+    "p63l04",
+    "p63l05",
+    "p63l06",
+    "p63l07",
+    "p63l08",
+    "p63l09",
+    "p63l10",
+    "p63l11",
+    "p63l12",
+    "p63l13",
+    "p63l14",
+    "p63l15",
+    "p63l16",
+    "p63l17",
+    "p63l18",
+    "p63l19",
+    "p63l20",
+    "p63l21",
+    "p63l22",
+    "p63l23",
+    "p63l24",
+    "p63l25",
+    "p63l26",
+    "p63l27"
+  ],
+  "formulas": [
+    {
+      "source_lines": [
+        "p62l25",
+        "p62l26"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} + \\beta _{yyz} = -\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )[2\\pm (\\cos 2\\phi _{A}+ \\cos 2\\phi _{B})]",
+        "- (1/2)\\beta _{aaa}\\sin ^{3}\\alpha [(\\cos 3\\phi _{A}+ \\cos 3\\phi _{B})\\pm (\\cos \\phi _{A}+ \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p62l27",
+        "p62l28"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} - \\beta _{yyz} = -\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )[2\\pm (\\cos 2\\phi _{A}+ \\cos 2\\phi _{B})]",
+        "+ (1/2)\\beta _{aaa}(2\\sin \\alpha - \\sin ^{3}\\alpha )[(\\cos 3\\phi _{A}+ \\cos 3\\phi _{B}) \\pm (\\cos \\phi _{A}+ \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p62l29",
+        "p62l30"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} + \\beta _{yyz} - 2\\beta _{zzz} = -6\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )[2 \\pm (\\cos 2\\phi _{A}+ \\cos 2\\phi _{B})]",
+        "- (3/2)\\beta _{aaa}\\sin ^{3}\\alpha [(\\cos 3\\phi _{A}+ \\cos 3\\phi _{B}) \\pm (\\cos \\phi _{A}+ \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p62l31",
+        "p62l32"
+      ],
+      "latex_lines": [
+        "\\beta _{zxx} = \\beta _{xzx} = -(1/2)\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )[2 \\pm (\\cos 2\\phi _{A}+ \\cos 2\\phi _{B})]",
+        "+ (1/2)\\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )[(\\cos 3\\phi _{A}+ \\cos 3\\phi _{B}) \\pm (\\cos \\phi _{A}+ \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l01",
+        "p63l02"
+      ],
+      "latex_lines": [
+        "\\beta _{zyy} = \\beta _{yzy} = (1/2)\\beta _{caa}\\cos \\alpha [2 - (\\pm )(\\cos 2\\phi _{A}+ \\cos 2\\phi _{B})]",
+        "- (1/2)\\beta _{aaa}\\sin \\alpha [(\\cos 3\\phi _{A}+ \\cos 3\\phi _{B}) - (\\pm )(\\cos \\phi _{A}+ \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l03",
+        "p63l04"
+      ],
+      "latex_lines": [
+        "\\beta _{xyz} = \\beta _{yxz} = \\pm (1/2)\\beta _{caa}\\sin ^{2}\\alpha (\\sin 2\\phi _{A}+ \\sin 2\\phi _{B})",
+        "- (1/2)\\beta _{aaa}\\sin \\alpha \\cos \\alpha [(\\sin 3\\phi _{A}+ \\sin 3\\phi _{B}) \\pm (\\sin \\phi _{A}+ \\sin \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l05",
+        "p63l06"
+      ],
+      "latex_lines": [
+        "\\beta _{yzx} = \\beta _{zyx} = -(\\pm 1/2)\\beta _{caa}\\sin ^{2}\\alpha (\\sin 2\\phi _{A}+ \\sin 2\\phi _{B})",
+        "- (1/2)\\beta _{aaa}\\sin \\alpha \\cos \\alpha [(\\sin 3\\phi _{A}+ \\sin 3\\phi _{B}) \\pm (\\sin \\phi _{A}+ \\sin \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l07",
+        "p63l08"
+      ],
+      "latex_lines": [
+        "\\beta _{zxy} = \\beta _{xzy} = -(\\pm 1/2)\\beta _{caa}(2\\cos ^{2}\\alpha - 1)s(\\sin 2\\phi _{A}+ \\sin 2\\phi _{B})",
+        "- (1/2)\\beta _{aaa}\\sin \\alpha \\cos \\alpha [(\\sin 3\\phi _{A}+ \\sin 3\\phi _{B}) - (\\pm )(\\sin \\phi _{A}+ \\sin \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l09",
+        "p63l10"
+      ],
+      "latex_lines": [
+        "\\beta _{xyy} = \\beta _{yxy} = \\pm (1/2)\\beta _{caa}\\sin \\alpha (\\cos 2\\phi _{A}- \\cos 2\\phi _{B})",
+        "- (1/2)\\beta _{aaa}\\cos \\alpha [(\\cos 3\\phi _{A}- \\cos 3\\phi _{B}) - (\\pm )(\\cos \\phi _{A}- \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l11",
+        "p63l12"
+      ],
+      "latex_lines": [
+        "\\beta _{xzz}= \\beta _{zxz}= \\pm (1/2)\\beta _{caa}(\\sin \\alpha - 2\\sin ^{3}\\alpha )(\\cos 2\\phi _{A}- \\cos 2\\phi _{B})",
+        "+ (1/2)\\beta _{aaa}(\\cos \\alpha - \\cos ^{3}\\alpha )[(\\cos 3\\phi _{A}- \\cos 3\\phi _{B}) \\pm (\\cos \\phi _{A}- \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l13",
+        "p63l14"
+      ],
+      "latex_lines": [
+        "\\beta _{xxx} = -(\\pm )\\beta _{caa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 2\\phi _{A}- \\cos 2\\phi _{B})",
+        "- (1/2)\\beta _{aaa}(\\cos \\alpha - \\cos ^{3}\\alpha )[(\\cos 3\\phi _{A}- \\cos 3\\phi _{B}) \\pm (\\cos \\phi _{A}- \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l15"
+      ],
+      "latex_lines": [
+        "\\beta _{yyx} = -(1/2)\\beta _{aaa}(\\cos \\alpha - \\cos ^{3}\\alpha )[(\\cos 3\\phi _{A}- \\cos 3\\phi _{B}) \\pm (\\cos \\phi _{A}- \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l16",
+        "p63l17"
+      ],
+      "latex_lines": [
+        "\\beta _{zzx} = \\pm \\beta _{caa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 2\\phi _{A}- \\cos 2\\phi _{B})",
+        "+ (1/2)\\beta _{aaa}(\\cos \\alpha - \\cos ^{3}\\alpha )[(\\cos 3\\phi _{A}- \\cos 3\\phi _{B}) \\pm (\\cos \\phi _{A}- \\cos \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l18",
+        "p63l19"
+      ],
+      "latex_lines": [
+        "\\beta _{yxx} = \\beta _{xyx} = \\pm (1/2)\\beta _{caa}\\sin \\alpha \\cos \\alpha (\\sin 2\\phi _{A}- \\sin 2\\phi _{B})",
+        "+ (1/2)\\beta _{aaa}\\cos ^{2}\\alpha [(\\sin 3\\phi _{A}- \\sin 3\\phi _{B}) \\pm (\\sin \\phi _{A}- \\sin \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l20",
+        "p63l21"
+      ],
+      "latex_lines": [
+        "\\beta _{yzz}= \\beta _{zyz}= -(\\pm 1/2)\\beta _{caa}\\sin \\alpha \\cos \\alpha (\\sin 2\\phi _{A}- \\sin 2\\phi _{B})",
+        "- (1/2)\\beta _{aaa}\\sin ^{2}\\alpha [(\\sin 3\\phi _{A}- \\sin 3\\phi _{B})\\pm (\\sin \\phi _{A}- \\sin \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l22"
+      ],
+      "latex_lines": [
+        "\\beta _{yyy} = -(1/2)\\beta _{aaa}[(\\sin 3\\phi _{A}- \\sin 3\\phi _{B}) - (\\pm )(\\sin \\phi _{A}- \\sin \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l23",
+        "p63l24"
+      ],
+      "latex_lines": [
+        "\\beta _{xxy} = \\pm \\beta _{caa}\\sin \\alpha \\cos \\alpha (\\sin 2\\phi _{A}- \\sin 2\\phi _{B})",
+        "-(1/2)\\beta _{aaa}\\cos ^{2}\\alpha [(\\sin 3\\phi _{A}- \\sin 3\\phi _{B}) \\pm (\\sin \\phi _{A}- \\sin \\phi _{B})]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p63l25",
+        "p63l26"
+      ],
+      "latex_lines": [
+        "\\beta _{zzy} = -(\\pm 1/2)\\beta _{caa}\\sin \\alpha \\cos \\alpha (\\sin 2\\phi _{A}- \\sin 2\\phi _{B})",
+        "- (1/2)\\beta _{aaa}\\sin ^{2}\\alpha [(\\sin 3\\phi _{A}- \\sin 3\\phi _{B}) - (\\pm )(\\sin \\phi _{A}- \\sin \\phi _{B})]"
+      ]
+    }
+  ],
+  "tensor_components": [
+    {
+      "symbol": "beta",
+      "indices": "zxx",
+      "source": "p62l31"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zyy",
+      "source": "p63l01"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xyz",
+      "source": "p63l03"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yzx",
+      "source": "p63l05"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zxy",
+      "source": "p63l07"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xyy",
+      "source": "p63l09"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xzz",
+      "source": "p63l11"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xxx",
+      "source": "p63l13"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yyx",
+      "source": "p63l15"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zzx",
+      "source": "p63l16"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yxx",
+      "source": "p63l18"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yzz",
+      "source": "p63l20"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yyy",
+      "source": "p63l22"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xxy",
+      "source": "p63l23"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zzy",
+      "source": "p63l25"
+    }
+  ],
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true
+}

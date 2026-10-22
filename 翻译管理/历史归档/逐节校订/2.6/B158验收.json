@@ -1,0 +1,28 @@
+{
+  "batch": "B158",
+  "date": "2026-10-20",
+  "coverage": {
+    "batch": "B158",
+    "date": "2026-10-20",
+    "pages": [
+      8
+    ],
+    "units": "双层膜反射、各层正反场及和差场4.7a/b—4.10a/b",
+    "tags": [
+      "4.7a",
+      "4.8a",
+      "4.9a",
+      "4.10a",
+      "4.7b",
+      "4.8b",
+      "4.9b",
+      "4.10b"
+    ],
+    "source_images_visually_checked": true,
+    "source_formula_corrections_adopted": false
+  },
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false
+}

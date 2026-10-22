@@ -1,0 +1,191 @@
+[
+  {
+    "batch": "B427",
+    "component": "xxx",
+    "source": "p3—4",
+    "terms": 4,
+    "原序表达": "2Y(1;1b,1)/s8+2Y(1;1b,3)/s40-3Y(3;1b)/s60-Y(3;3b)/2"
+  },
+  {
+    "batch": "B427",
+    "component": "xyy",
+    "source": "p3—4",
+    "terms": 7,
+    "原序表达": "Y(1;1b,1)/s8+Y(1;1b,2)/2-Y(1;1b,3)/s40+Y(2;1a,1)/2-Y(2;1a,2)/s12-Y(3;1b)/s60+Y(3;3b)/2"
+  },
+  {
+    "batch": "B427",
+    "component": "xzz",
+    "source": "p3—4",
+    "terms": 6,
+    "原序表达": "Y(1;1b,1)/s8+Y(1;1b,2)/2-Y(1;1b,3)/s40-Y(2;1a,1)/2+Y(2;1a,2)/s12+4Y(3;1b)/s60"
+  },
+  {
+    "batch": "B427",
+    "component": "xxy",
+    "source": "p3—4",
+    "terms": 7,
+    "原序表达": "Y(1;1a,1)/s8-Y(1;1a,2)/2-Y(1;1a,3)/s40+Y(2;1b,1)/2+Y(2;1b,2)/s12-Y(3;1a)/s60+Y(3;3a)/2"
+  },
+  {
+    "batch": "B427",
+    "component": "xyx",
+    "source": "p3—4",
+    "terms": 4,
+    "原序表达": "4Y(1;1a,3)/s40-2Y(2;1b,2)/s12-Y(3;1a)/s60+Y(3;3a)/2"
+  },
+  {
+    "batch": "B427",
+    "component": "xyz",
+    "source": "p3—4",
+    "terms": 6,
+    "原序表达": "Y(0;0)/s6+Y(2;0,1)/s12-Y(2;0,2)/2+Y(2;02b,1)/2+Y(2;2b,2)/s12+Y(3;2a)/s6"
+  },
+  {
+    "batch": "B427",
+    "component": "xzy",
+    "source": "p3—4",
+    "terms": 4,
+    "原序表达": "-Y(0;0)/s6+2Y(2;0,1)/s12-2Y(2;2b,2)/s12+Y(3;2a)/s6"
+  },
+  {
+    "batch": "B427",
+    "component": "xzx",
+    "source": "p3—4",
+    "terms": 4,
+    "原序表达": "4Y(1;0,3)/s40+2Y(2;2a,2)/s12+Y(3;0)/s10-Y(3;2b)/s6"
+  },
+  {
+    "batch": "B427",
+    "component": "xxz",
+    "source": "p3—4",
+    "terms": 7,
+    "原序表达": "Y(1;0,1)/s8-Y(1;0,2)/2-Y(1;0,3)/s40-Y(2;2a,1)/2-Y(2;2a,2)/s12-Y(3;0)/s10-Y(3;2b)/s6"
+  },
+  {
+    "batch": "B428",
+    "component": "yxx",
+    "source": "p4",
+    "terms": 7,
+    "原序表达": "Y(1;1a,1)/s8+Y(1;1a,2)/2-Y(1;1a,3)/s40-Y(2;1b,1)/2+Y(2;1b,2)/s12-Y(3;1a)/s60+Y(3;3a)/2"
+  },
+  {
+    "batch": "B428",
+    "component": "yyy",
+    "source": "p4",
+    "terms": 4,
+    "原序表达": "2Y(1;1a,1)/s8+2Y(1;1a,3)/s40-3Y(3;1a)/s60-Y(3;3a)/2"
+  },
+  {
+    "batch": "B428",
+    "component": "yzz",
+    "source": "p4",
+    "terms": 6,
+    "原序表达": "Y(1;1a,1)/s8+Y(1;1a,2)/2-Y(1;1a,3)/s40+Y(2;1b,1)/2-Y(2;1b,2)/s12+4Y(3;1a)/s60"
+  },
+  {
+    "batch": "B428",
+    "component": "yxy",
+    "source": "p4",
+    "terms": 4,
+    "原序表达": "4Y(1;1b,3)/s40+2Y(2;1a,2)/s12-Y(3;1b)/s60+Y(3;3b)/2"
+  },
+  {
+    "batch": "B428",
+    "component": "yyx",
+    "source": "p4",
+    "terms": 7,
+    "原序表达": "Y(1;1b,1)/s8-Y(1;1b,2)/2-Y(1;1b,3)/s40-Y(2;1a,1)/2-Y(2;1a,2)/s12-Y(3;1b)/s60+Y(3;3b)/2"
+  },
+  {
+    "batch": "B428",
+    "component": "yyz",
+    "source": "p4",
+    "terms": 7,
+    "原序表达": "Y(1;0,1)/s8-Y(1;0,2)/2-Y(1;0,3)/s40+Y(2;2a,1)/2+Y(2;2a,2)/s12+Y(3;0)/s10+Y(3;2b)/s6"
+  },
+  {
+    "batch": "B428",
+    "component": "yzy",
+    "source": "p4",
+    "terms": 4,
+    "原序表达": "4Y(1;0,3)/s40-2Y(2;2a,2)/s12+Y(3;0)/s10+Y(3;2b)/s6"
+  },
+  {
+    "batch": "B428",
+    "component": "yzx",
+    "source": "p4",
+    "terms": 4,
+    "原序表达": "Y(0;0)/s6-2Y(2;0,1)/s12-2Y(2;2b,2)/s12+Y(3;2a)/s6"
+  },
+  {
+    "batch": "B428",
+    "component": "yxz",
+    "source": "p4",
+    "terms": 6,
+    "原序表达": "-Y(0;0)/s6-Y(2;0,1)/s12+Y(2;0,2)/2+Y(2;02b,1)/2+Y(2;2b,2)/s12+Y(3;2a)/s6"
+  },
+  {
+    "batch": "B429",
+    "component": "zxx",
+    "source": "p4",
+    "terms": 7,
+    "原序表达": "Y(1;0,1)/s8+Y(1;0,2)/2-Y(1;0,3)/s40+Y(2;2a,1)/2-Y(2;2a,2)/s12+Y(3;0)/s10-Y(3;2b)/s6"
+  },
+  {
+    "batch": "B429",
+    "component": "zyy",
+    "source": "p4",
+    "terms": 7,
+    "原序表达": "Y(1;0,1)/s8+Y(1;0,2)/2-Y(1;0,3)/s40-Y(2;2a,1)/2+Y(2;2a,2)/s12+Y(3;0)/s10+Y(3;2b)/s6"
+  },
+  {
+    "batch": "B429",
+    "component": "zzz",
+    "source": "p4",
+    "terms": 3,
+    "原序表达": "2Y(1;0,1)/s8+2Y(1;0,3)/s40-2Y(3;0)/s10"
+  },
+  {
+    "batch": "B429",
+    "component": "zxy",
+    "source": "p4",
+    "terms": 6,
+    "原序表达": "Y(0;0)/s6+Y(2;0,1)/s12+Y(2;0,2)/2-Y(2;02b,1)/2+Y(2;2b,2)/s12+Y(3;2a)/s6"
+  },
+  {
+    "batch": "B429",
+    "component": "zyx",
+    "source": "p4",
+    "terms": 6,
+    "原序表达": "-Y(0;0)/s6-Y(2;0,1)/s12-Y(2;0,2)/2-Y(2;02b,1)/2+Y(2;2b,2)/s12+Y(3;2a)/s6"
+  },
+  {
+    "batch": "B429",
+    "component": "zyz",
+    "source": "p4",
+    "terms": 3,
+    "原序表达": "4Y(1;1a,3)/s40+2Y(2;1b,2)/s12+4Y(3;1a)/s60"
+  },
+  {
+    "batch": "B429",
+    "component": "zzy",
+    "source": "p4",
+    "terms": 6,
+    "原序表达": "Y(1;1a,1)/s8-Y(1;1a,2)/2-Y(1;1a,3)/s40-Y(2;1b,1)/2-Y(2;1b,2)/s12+4Y(3;1a)/s60"
+  },
+  {
+    "batch": "B429",
+    "component": "zzx",
+    "source": "p4",
+    "terms": 6,
+    "原序表达": "Y(1;1b,1)/s8-Y(1;1b,2)/2-Y(1;1b,3)/s40+Y(2;1a,1)/2+Y(2;1a,2)/s12+4Y(3;1b)/s60"
+  },
+  {
+    "batch": "B429",
+    "component": "zxz",
+    "source": "p4",
+    "terms": 3,
+    "原序表达": "4Y(1;1b,3)/s40-2Y(2;1a,2)/s12+4Y(3;1b)/s60"
+  }
+]

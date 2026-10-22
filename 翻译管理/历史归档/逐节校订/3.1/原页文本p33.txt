@@ -1,0 +1,189 @@
+2 層膜の SFG - 33
+€ 
+E
+−
+1 (0
+−
+) = t m'1
+t mm'
+rm2e
+iβm '
+hm'
+αβ
+∑ e
+2iβ m
+hm L
++
+m/mPa
+*
+€ 
+×{exp[iz2
+(−β m,SF + β m,vis + βm,ir )]+ rm2,ir,β e
+2iβm, irhm
+exp[iz2
+(−βm,SF + βm,vis − βm,ir)]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+exp[iz2
+(−βm,SF − β m,vis + βm,ir )]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,ir +β m, vis) hm
+exp[iz2
+(−βm,SF − βm,vis − β m,ir )]}
+E
+-
+sources からの寄与は、ファイル「一般式」の (2.7) 式と本稿の (2.30) 式により、下で表される。
+€ 
+E
+−
+1 (0
+−
+) = t m'1
+t mm'e
+iβ m'
+hm'
+αβ
+∑ L
+−
+m/mPa
+*
+€ 
+×{exp[iz2
+(βm,SF + βm,vis + β m,ir )]+ rm2 ,ir,β e
+2iβ m, irhm
+exp[iz2
+(βm,SF + βm,vis − β m,ir )]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+exp[iz2
+(βm,SF − βm,vis + β m,ir )]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,ir +β m, vis) hm
+exp[iz2
+(βm,SF − β m,vis − βm,ir)]}
+ここで、E
++ に由来する SFG 光については z2 について 0 から hm まで（z2 = 0 → hm）、E
+- に由来するSFG
+光については z2 について hm から 0 まで（z2 = hm→ 0）積分し、さらに関係式
+tmm', pL
++
+m/m,px = L
+-
+m'/m,px
+, tmm',sL
++
+m/m,sy = L
+-
+m'/m,sy
+, tmm',pL
++
+m/m'pz = -L
+-
+m'/m,pz
+(nm" = nm)
+tmm', pL
+-
+m/m,px = L
+-
+m'/m,px
+, tmm',sL
+-
+m/m,sy = L
+-
+m'/m,sy
+, tmm',pL
+-
+m/m'pz = L
+-
+m'/m,pz
+(nm" = nm)
+を考慮して整理すると、下式を得る。
+€ 
+E
+−
+1 (0
+−
+) = t m'1e
+iβ m'
+hm'
+αβ
+∑ L
+−
+m'/ mPa
+*
+i
+δ
+€ 
+×{[
+e
+i( β m, SF+β m,vis +βm, ir) hm − 1
+β m,SF + β m,vis + βm,ir
+± rm2e
+2 iβ m,SFhm
+e
+i( −β m, SF+β m,vis +βm, ir )hm − 1
+βm,SF − βm,vis − βm,ir
+]
+€ 
++rm2,ir,β e
+2iβm,ir hm
+[
+e
+i( βm, SF+β m,vis−β m, ir )hm − 1
+βm,SF + βm,visβ m,ir
+± rm2e
+2iβ m,SFhm
+e
+i(−β m,SF +βm, vis−β m,ir ) hm − 1
+βm,SF − βm,vis + βm,ir
+]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+[
+e
+i( β m,SF −β m, vis+β m,ir )hm −1
+β m,SF − βm,vis + βm,ir
+± rm2e
+2iβ m, SFhm
+e
+i( −βm, SF−βm, vis+β m, ir )hm − 1
+βm,SF + βm,vis − β m,ir
+]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,vis +βm, ir) hm
+[
+e
+i( β m, SF−βm, vis−βm, ir) hm − 1
+βm,SF − βm,vis − βm,ir
+± rm2e
+2 iβ m,SFhm
+e
+i( −β m, SF−β m, vis−wβm, ir) hm − 1
+βm,SF + βm,vis + βm,ir
+]}
+(upper sign for x and y components, lower sign for z component)
+よって、
+€ 
+E
+−
+1 (0
+−
+)p = E
+0
+vis,α E
+0
+ir,β
+αβ
+∑ t m'1,SF,pe
+i( βm ', SF+β m',vis+β m',ir ) hm'
+i
+δ

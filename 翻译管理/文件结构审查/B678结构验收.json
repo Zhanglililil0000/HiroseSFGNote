@@ -1,0 +1,305 @@
+{
+  "batch": "B678",
+  "old_chapter_directory_absent": true,
+  "new_chapter_directory": "第四章 CH伸缩振动与取向张量",
+  "source_sections": 39,
+  "source_PDF_hash_mismatches": [],
+  "source_content_preservation": [
+    {
+      "section": "1.1",
+      "path": "中文版本/第一章 SFG快速入门/1.1 红外-可见光和频振动光谱（SFG）入门.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "1.2",
+      "path": "中文版本/第一章 SFG快速入门/1.2 振动共振、费米共振与双原子分子.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "1.3",
+      "path": "中文版本/第一章 SFG快速入门/1.3 光电场、极化与菲涅尔因子.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "1.4",
+      "path": "中文版本/第一章 SFG快速入门/1.4 电偶极子的电场与辐射.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "1.5",
+      "path": "中文版本/第一章 SFG快速入门/1.5 SFG光谱的早期工作整理（1983—1995）.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "2.1",
+      "path": "中文版本/第二章 薄膜产生的SFG/2.1 嵌入层内的发光膜产生的光电场.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "2.2",
+      "path": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "2.3",
+      "path": "中文版本/第二章 薄膜产生的SFG/2.3 多层膜的和频过程（SFG）：附录集.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "2.4",
+      "path": "中文版本/第二章 薄膜产生的SFG/2.4 多层膜的和频过程（SFG）：表达式.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "2.5",
+      "path": "中文版本/第二章 薄膜产生的SFG/2.5 多层膜的和频过程（SFG）：要点.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "2.6",
+      "path": "中文版本/第二章 薄膜产生的SFG/2.6 薄膜内的电场.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "3.1",
+      "path": "中文版本/第三章 双层膜的和频/3.1 二层膜及三层膜产生的和频光.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "3.2",
+      "path": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.1",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.1 CH、CH₂、CH₃基团CH伸缩振动的和频极化率.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.2",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.2 CH₃基团的取向与和频张量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.3",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.3 CH₂基团的取向与和频张量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.4",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.4 CH基团的取向与和频张量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.5",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.5 两个CH₃基团的张量分量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.6",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.6 CH₃基团的C₃ᵥ对称性破缺时的处理.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.7",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.7 CH₂、平面HCCH及扭转HCCH的和频张量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.8",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.8 氢化金刚石表面CH的和频张量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.9",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.9 氢化金刚石表面CH的和频张量（要点）.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.10",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.10 CH₂基团及HCCH基团的欧拉角.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "4.11",
+      "path": "中文版本/第四章 CH伸缩振动与取向张量/4.11 表面坐标系到实验室坐标系的张量旋转.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "5.1",
+      "path": "中文版本/第五章 张量与对称性/5.1 和频张量与对称性.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "5.2",
+      "path": "中文版本/第五章 张量与对称性/5.2 主要点群的特征标表与基底.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "5.3",
+      "path": "中文版本/第五章 张量与对称性/5.3 从分子固定系到空间固定系的和频张量变换.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "5.4",
+      "path": "中文版本/第五章 张量与对称性/5.4 旋转群的基底张量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "5.5",
+      "path": "中文版本/第五章 张量与对称性/5.5 坐标变换中的张量分量变换矩阵（基底）.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "5.6",
+      "path": "中文版本/第五章 张量与对称性/5.6 坐标变换中的和频张量分量变换矩阵（XYZ）.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "6.1",
+      "path": "中文版本/第六章 偶极间相互作用/6.1 偶极间相互作用.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "7.1",
+      "path": "中文版本/第七章 Heinz论文解读/7.1 解读Tony F. Heinz的综述.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "7.2",
+      "path": "中文版本/第七章 Heinz论文解读/7.2 附录A：去除等介电常数近似的式17推导.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "7.3",
+      "path": "中文版本/第七章 Heinz论文解读/7.3 附录B：式20的推导.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "7.4",
+      "path": "中文版本/第七章 Heinz论文解读/7.4 附录C：式20的折射率表示与多重反射.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "7.5",
+      "path": "中文版本/第七章 Heinz论文解读/7.5 附录D：和频张量的非零分量.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "8.1",
+      "path": "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "8.2",
+      "path": "中文版本/第八章 拟合/8.2 和频光谱分析便览.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    },
+    {
+      "section": "8.3",
+      "path": "中文版本/第八章 拟合/8.3 拟合概述.md",
+      "math_unchanged": true,
+      "body_except_links_unchanged": true,
+      "PDF_unchanged": true
+    }
+  ],
+  "files_moved": 6966,
+  "current_links_checked": 1337,
+  "current_broken_links": [],
+  "pending_delivery_outputs": [],
+  "historical_links_checked": 3771,
+  "historical_link_regressions": [],
+  "preexisting_historical_broken_links": [],
+  "math_fragments": 17061,
+  "math_errors": 0,
+  "registered_questions": 320,
+  "management_root_files_before": 77,
+  "management_root_files_after": 11,
+  "merge_root_files_before": 25,
+  "merge_root_files_after": 14,
+  "old_package_compressed_snapshot_retained": true,
+  "old_duplicate_unpacked_removed": true,
+  "source_or_evidence_deleted": false,
+  "current_browser_pages_passed": 11,
+  "portable_browser_pages_passed": 12,
+  "image_references_loaded": 327,
+  "historical_fragment_files_repaired": 258,
+  "snapshot_files_restored_and_excluded_from_link_rewrites": 3,
+  "final_targeted_historical_cross_chapter_links_checked": 7
+}

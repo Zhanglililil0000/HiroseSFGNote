@@ -1,0 +1,20 @@
+{
+  "batch": "B117",
+  "page": 4,
+  "end": "p5两种介质标题前",
+  "labels": [
+    "C.1"
+  ],
+  "units": [
+    "平面波/单位入射振幅前提、z轴方向及C.1",
+    "参考时空点零相位定义",
+    "同一时刻上游点相位−kΔz",
+    "稍后波前位置z0+(ω/k)Δt",
+    "上游波源发射时刻及到达后的同相关系",
+    "一般位移时空点相位−kΔz+ωΔt"
+  ],
+  "source_sha256": "63c635f8fde9e43fd6e7e9b1be2504119bf4354fb7a1f3deba48f3024eb28384",
+  "remaining_text_unchanged": true,
+  "new_issues": [],
+  "source_corrections_adopted": false
+}

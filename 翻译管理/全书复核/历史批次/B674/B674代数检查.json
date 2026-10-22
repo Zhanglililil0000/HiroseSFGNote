@@ -1,0 +1,108 @@
+{
+  "complex_square_counterexample": {
+    "f": 1,
+    "chi": "-i",
+    "ordinary_square": -1,
+    "absolute_square": 1
+  },
+  "finite_window_cases": [
+    {
+      "T": 0.01,
+      "relative_phase": 0,
+      "window_cross_weight": 0.9998355147105485,
+      "integrated_signal": 3.9996710294210978,
+      "analytic_signal": 3.999671029421097
+    },
+    {
+      "T": 0.01,
+      "relative_phase": 1.5707963267948966,
+      "window_cross_weight": 0.9998355147105485,
+      "integrated_signal": 2.0,
+      "analytic_signal": 2.0
+    },
+    {
+      "T": 0.01,
+      "relative_phase": 3.141592653589793,
+      "window_cross_weight": 0.9998355147105485,
+      "integrated_signal": 0.000328970578902638,
+      "analytic_signal": 0.0003289705789029096
+    },
+    {
+      "T": 0.3,
+      "relative_phase": 0,
+      "window_cross_weight": 0.8583936913341398,
+      "integrated_signal": 3.71678738266828,
+      "analytic_signal": 3.7167873826682793
+    },
+    {
+      "T": 0.3,
+      "relative_phase": 1.5707963267948966,
+      "window_cross_weight": 0.8583936913341398,
+      "integrated_signal": 2.0,
+      "analytic_signal": 2.0
+    },
+    {
+      "T": 0.3,
+      "relative_phase": 3.141592653589793,
+      "window_cross_weight": 0.8583936913341398,
+      "integrated_signal": 0.2832126173317203,
+      "analytic_signal": 0.28321261733172043
+    },
+    {
+      "T": 1,
+      "relative_phase": 0,
+      "window_cross_weight": 3.8981718325193755e-17,
+      "integrated_signal": 1.9999999999999998,
+      "analytic_signal": 2.0
+    },
+    {
+      "T": 1,
+      "relative_phase": 1.5707963267948966,
+      "window_cross_weight": 3.8981718325193755e-17,
+      "integrated_signal": 1.9999999999999998,
+      "analytic_signal": 2.0
+    },
+    {
+      "T": 1,
+      "relative_phase": 3.141592653589793,
+      "window_cross_weight": 3.8981718325193755e-17,
+      "integrated_signal": 1.9999999999999998,
+      "analytic_signal": 2.0
+    },
+    {
+      "T": 2,
+      "relative_phase": 0,
+      "window_cross_weight": -3.8981718325193755e-17,
+      "integrated_signal": 1.9999999999999998,
+      "analytic_signal": 2.0
+    },
+    {
+      "T": 2,
+      "relative_phase": 1.5707963267948966,
+      "window_cross_weight": -3.8981718325193755e-17,
+      "integrated_signal": 1.9999999999999998,
+      "analytic_signal": 2.0
+    },
+    {
+      "T": 2,
+      "relative_phase": 3.141592653589793,
+      "window_cross_weight": -3.8981718325193755e-17,
+      "integrated_signal": 1.9999999999999998,
+      "analytic_signal": 2.0
+    }
+  ],
+  "max_window_error": 8.881784197001252e-16,
+  "phase_averaged_signal": 2.0,
+  "DFT_size": 16,
+  "DFT_time_energies": [
+    0.234996357199965,
+    0.234996357199965
+  ],
+  "DFT_peak_intensities": [
+    0.11040109830375207,
+    0.038337246858450524
+  ],
+  "original_body_preserved_after_removing_note": true,
+  "source_corrections": 0,
+  "scope": "有限窗与离散Parseval示例；非仪器模型或一般相干理论认证"
+}

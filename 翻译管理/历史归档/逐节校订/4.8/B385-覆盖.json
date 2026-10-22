@@ -1,0 +1,14 @@
+{
+  "batch": "B385",
+  "source_sha256": "cfc4caf877fc58737bfa36560a8804c007d4a98af48700132b2e76b78dba6774",
+  "source_lines_and_locations": [],
+  "source_corrections_adopted": false,
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "tensor_left_sides": [],
+  "source_images_visually_checked": true,
+  "translation_sha256": "b4e7eae04abf99d82f8f54ec281bff274cb302b130b97a9b10de4f9a70581d90"
+}

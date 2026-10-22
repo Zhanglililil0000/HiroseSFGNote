@@ -1,0 +1,18 @@
+{
+  "batch": "B249",
+  "date": "2026-10-20",
+  "pages": [
+    1,
+    2
+  ],
+  "tags": [
+    "0.1a",
+    "0.1b",
+    "0.2"
+  ],
+  "scope": "原题、12条目录、两项近似、CH基公式组及p2开头r/退偏比和倾斜说明",
+  "source_sha256": "ddd8bdf08396ce91fbd9c8dd58f5c25ca86c6b6f7c6b8172db442fc06e25e07e",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "next": "B250：p2的CH₂坐标、对称伸缩式0.3及Ga1；先核坐标矛盾，保留原约定"
+}

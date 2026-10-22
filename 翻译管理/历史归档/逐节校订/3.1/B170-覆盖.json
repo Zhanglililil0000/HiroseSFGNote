@@ -1,0 +1,17 @@
+{
+  "batch": "B170",
+  "date": "2026-10-20",
+  "pages": [
+    5,
+    6
+  ],
+  "units": "m′/m界面m侧式2.8—2.9",
+  "tags": [
+    "2.8",
+    "2.9"
+  ],
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "source_formula_corrections_adopted": false,
+  "layout_factor_comparison_passed": true
+}

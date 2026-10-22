@@ -1,0 +1,22 @@
+{
+  "batch": "B366",
+  "date": "2026-10-21",
+  "pages": [
+    2
+  ],
+  "scope": "第2部分三级坐标、分子轴与三个取向角",
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "independent_figures": 0,
+  "status": "本批覆盖、译校与参考排版验收完成",
+  "render": {
+    "batch": "B366",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "539bbbb6a0718dc4703884db5d44abb10af05a0828b95bcf591995cacfe6da74",
+  "scope_limit": "第1、2部分及原图；第3部分起未核，不作整节验收。"
+}

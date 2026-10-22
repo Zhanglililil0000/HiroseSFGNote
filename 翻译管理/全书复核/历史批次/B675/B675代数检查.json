@@ -1,0 +1,362 @@
+{
+  "signed_lorentz_integrals": [
+    {
+      "a": -2,
+      "area": 1.5707963267948966,
+      "imaginary_area": 3.141592653589793
+    },
+    {
+      "a": -0.3,
+      "area": 10.471975511965978,
+      "imaginary_area": 3.141592653589793
+    },
+    {
+      "a": 0.3,
+      "area": 10.471975511965978,
+      "imaginary_area": -3.141592653589793
+    },
+    {
+      "a": 2,
+      "area": 1.5707963267948966,
+      "imaginary_area": -3.141592653589793
+    }
+  ],
+  "delta_kernel_identity_cases": 15,
+  "gaussian_test_function_delta_values": [
+    {
+      "alpha": 1,
+      "positive_side": 0.4275835761558069,
+      "negative_side": -0.4275835761558069
+    },
+    {
+      "alpha": 0.1,
+      "positive_side": 0.8964569799691265,
+      "negative_side": -0.8964569799691265
+    },
+    {
+      "alpha": 0.01,
+      "positive_side": 0.9888154610463425,
+      "negative_side": -0.9888154610463425
+    },
+    {
+      "alpha": 0.001,
+      "positive_side": 0.9988726200811513,
+      "negative_side": -0.9988726200811513
+    }
+  ],
+  "exponential_waiting_no_event_probability_at_mean": 0.36787944117144233,
+  "oscillator_energy": [
+    {
+      "omega": 0.6,
+      "time_average": 0.08490566037735849,
+      "positive_absorption": 0.08490566037735849
+    },
+    {
+      "omega": 0.9,
+      "time_average": 1.1824817518248179,
+      "positive_absorption": 1.1824817518248179
+    },
+    {
+      "omega": 1,
+      "time_average": 2.5,
+      "positive_absorption": 2.5
+    },
+    {
+      "omega": 1.1,
+      "time_average": 1.308108108108107,
+      "positive_absorption": 1.308108108108107
+    },
+    {
+      "omega": 1.5,
+      "time_average": 0.1361573373676248,
+      "positive_absorption": 0.13615733736762484
+    }
+  ],
+  "Fourier_substitution_cases": 40,
+  "gaussian_relations": [
+    {
+      "width": 0.4,
+      "squared_gaussian_fwhm": 0.282842712474619,
+      "f_area": 1,
+      "g_area": 1,
+      "g_squared_area": 1.1742965983745641
+    },
+    {
+      "width": 1,
+      "squared_gaussian_fwhm": 0.7071067811865475,
+      "f_area": 1,
+      "g_area": 1,
+      "g_squared_area": 0.46971863934982566
+    },
+    {
+      "width": 3,
+      "squared_gaussian_fwhm": 2.1213203435596424,
+      "f_area": 1,
+      "g_area": 1,
+      "g_squared_area": 0.15657287978327522
+    }
+  ],
+  "nine_model_finite_difference_cases": [
+    {
+      "model": 1,
+      "parameter": 0,
+      "abs_error": 2.2227553131415334e-11
+    },
+    {
+      "model": 1,
+      "parameter": 1,
+      "abs_error": 1.493287271614463e-09
+    },
+    {
+      "model": 1,
+      "parameter": 2,
+      "abs_error": 4.243972284712072e-09
+    },
+    {
+      "model": 1,
+      "parameter": 3,
+      "abs_error": 7.397993329050223e-11
+    },
+    {
+      "model": 1,
+      "parameter": 4,
+      "abs_error": 3.487254929268602e-11
+    },
+    {
+      "model": 2,
+      "parameter": 0,
+      "abs_error": 1.5189627333711542e-11
+    },
+    {
+      "model": 2,
+      "parameter": 1,
+      "abs_error": 5.617589948769819e-09
+    },
+    {
+      "model": 2,
+      "parameter": 2,
+      "abs_error": 7.342119801023728e-09
+    },
+    {
+      "model": 2,
+      "parameter": 3,
+      "abs_error": 2.1407053907296358e-10
+    },
+    {
+      "model": 2,
+      "parameter": 4,
+      "abs_error": 2.333235826768032e-10
+    },
+    {
+      "model": 3,
+      "parameter": 0,
+      "abs_error": 9.667822098435863e-11
+    },
+    {
+      "model": 3,
+      "parameter": 1,
+      "abs_error": 4.032138178899913e-09
+    },
+    {
+      "model": 3,
+      "parameter": 2,
+      "abs_error": 6.0154299319492566e-09
+    },
+    {
+      "model": 3,
+      "parameter": 3,
+      "abs_error": 3.007016857736744e-10
+    },
+    {
+      "model": 3,
+      "parameter": 4,
+      "abs_error": 1.727857856792525e-10
+    },
+    {
+      "model": 4,
+      "parameter": 0,
+      "abs_error": 2.419433542399929e-10
+    },
+    {
+      "model": 4,
+      "parameter": 1,
+      "abs_error": 5.115595058668987e-09
+    },
+    {
+      "model": 4,
+      "parameter": 2,
+      "abs_error": 8.334971823842352e-09
+    },
+    {
+      "model": 4,
+      "parameter": 3,
+      "abs_error": 4.572697775984125e-11
+    },
+    {
+      "model": 4,
+      "parameter": 4,
+      "abs_error": 4.6349590832051035e-11
+    },
+    {
+      "model": 5,
+      "parameter": 0,
+      "abs_error": 4.6911807771721215e-11
+    },
+    {
+      "model": 5,
+      "parameter": 1,
+      "abs_error": 3.287487615466489e-09
+    },
+    {
+      "model": 5,
+      "parameter": 2,
+      "abs_error": 9.042157245175986e-09
+    },
+    {
+      "model": 5,
+      "parameter": 3,
+      "abs_error": 4.694111765957132e-11
+    },
+    {
+      "model": 5,
+      "parameter": 4,
+      "abs_error": 2.1740920175261635e-10
+    },
+    {
+      "model": 6,
+      "parameter": 0,
+      "abs_error": 2.2019719381205505e-11
+    },
+    {
+      "model": 6,
+      "parameter": 1,
+      "abs_error": 4.6449493140698905e-09
+    },
+    {
+      "model": 6,
+      "parameter": 2,
+      "abs_error": 1.115742520596541e-08
+    },
+    {
+      "model": 6,
+      "parameter": 3,
+      "abs_error": 3.735989295705622e-10
+    },
+    {
+      "model": 6,
+      "parameter": 4,
+      "abs_error": 8.618172842034255e-11
+    },
+    {
+      "model": 7,
+      "parameter": 0,
+      "abs_error": 2.419433542399929e-10
+    },
+    {
+      "model": 7,
+      "parameter": 1,
+      "abs_error": 5.115595058668987e-09
+    },
+    {
+      "model": 7,
+      "parameter": 2,
+      "abs_error": 8.334971823842352e-09
+    },
+    {
+      "model": 7,
+      "parameter": 3,
+      "abs_error": 4.572697775984125e-11
+    },
+    {
+      "model": 7,
+      "parameter": 4,
+      "abs_error": 4.6349590832051035e-11
+    },
+    {
+      "model": 7,
+      "parameter": 5,
+      "abs_error": 6.079794445668085e-10
+    },
+    {
+      "model": 8,
+      "parameter": 0,
+      "abs_error": 4.6911807771721215e-11
+    },
+    {
+      "model": 8,
+      "parameter": 1,
+      "abs_error": 3.287487615466489e-09
+    },
+    {
+      "model": 8,
+      "parameter": 2,
+      "abs_error": 9.042157245175986e-09
+    },
+    {
+      "model": 8,
+      "parameter": 3,
+      "abs_error": 4.694111765957132e-11
+    },
+    {
+      "model": 8,
+      "parameter": 4,
+      "abs_error": 2.1740920175261635e-10
+    },
+    {
+      "model": 8,
+      "parameter": 5,
+      "abs_error": 7.044467231764884e-10
+    },
+    {
+      "model": 9,
+      "parameter": 0,
+      "abs_error": 2.2019719381205505e-11
+    },
+    {
+      "model": 9,
+      "parameter": 1,
+      "abs_error": 4.6449493140698905e-09
+    },
+    {
+      "model": 9,
+      "parameter": 2,
+      "abs_error": 1.115742520596541e-08
+    },
+    {
+      "model": 9,
+      "parameter": 3,
+      "abs_error": 3.735989295705622e-10
+    },
+    {
+      "model": 9,
+      "parameter": 4,
+      "abs_error": 8.618172842034255e-11
+    },
+    {
+      "model": 9,
+      "parameter": 5,
+      "abs_error": 8.427241127151319e-10
+    }
+  ],
+  "nine_model_scope": "独立单谱带示例，固定数值积分区间；非作者程序或所有原图公式认证",
+  "Gauss_Newton_counterexample": {
+    "p": 0.1,
+    "step": 4.949999999999999,
+    "old_squared_residual": 0.9801,
+    "new_squared_residual": 600.3725062499996
+  },
+  "changes": [
+    "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "翻译管理/疑难与勘误.md",
+    "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "翻译管理/疑难与勘误.md",
+    "中文版本/第八章 拟合/8.1 和频光谱的线形.md",
+    "中文版本/第八章 拟合/8.2 和频光谱分析便览.md",
+    "中文版本/第八章 拟合/8.3 拟合概述.md",
+    "翻译管理/疑难与勘误.md",
+    "翻译管理/符号与约定.md",
+    "中文版本/附件/原文勘误表.md",
+    "翻译管理/全书复核/跨章约定与合稿规则.md"
+  ],
+  "adopted_source_corrections": 0
+}

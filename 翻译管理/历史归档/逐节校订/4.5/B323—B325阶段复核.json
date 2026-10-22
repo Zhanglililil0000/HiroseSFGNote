@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-21",
+  "section": "4.5",
+  "batches": "B323—B325",
+  "source_total_pages": 78,
+  "verified_scope": "PDF p1—3，原目录及第1—4部分",
+  "math_fragments": 128,
+  "math_syntax_errors": 0,
+  "formula_overflows": 0,
+  "source_issues": "Q168—Q170，原述保留",
+  "source_corrections_adopted": false,
+  "next_batch": "B326，PDF p3第5部分自由旋转完整分子β表",
+  "translation_sha256": "688407ce01e446a64c5b28584d9054fd2f19d3cbecef75f7169a41abd914b086"
+}

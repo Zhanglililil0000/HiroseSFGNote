@@ -1,0 +1,15 @@
+{
+  "batch": "B086",
+  "date": "2026-10-19",
+  "page": 9,
+  "numbered_equation": "4.26b",
+  "unnumbered_formula_added": 1,
+  "body_image_blocks_replaced": 2,
+  "scope_check": "仅本分支、状态行及Q046识别说明改变，其他正文相同",
+  "math_syntax_pass": 801,
+  "render_overflow": false,
+  "visual_review": "参考渲染与两幅高清原式及六倍左端局部图对照通过",
+  "issue_updated": "Q046：h_m′原记号复核",
+  "new_source_corrections": 0,
+  "next": "B087，式4.27"
+}

@@ -1,0 +1,18 @@
+{
+  "batch": "B132",
+  "date": "2026-10-20",
+  "source_pages": [
+    8,
+    9
+  ],
+  "source_sha256": "3f6eeee4f3418c4a89181b0c0142b95aee1adda31fb6e94a7c100fd000f58be2",
+  "content": "体相坐标与反射p/s；每式四个积分分母，p含x/z两支",
+  "equation_tags": [
+    "13a",
+    "13b"
+  ],
+  "source_page_images_visually_checked": true,
+  "render_screenshot_visually_checked": true,
+  "adopted_source_corrections": false,
+  "new_named_formula_abbreviations": false
+}

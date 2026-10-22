@@ -1,0 +1,163 @@
+{
+  "batch": "B369",
+  "date": "2026-10-21",
+  "pages": [
+    5
+  ],
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "tables": [
+    {
+      "label": "3b-1",
+      "components": [
+        {
+          "polarization": "ppp",
+          "indices": "XXZ",
+          "values": [
+            "\\beta_{aac}",
+            "\\beta_{bbc}",
+            "\\beta_{bbc}"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZZZ",
+          "values": [
+            "\\beta_{ccc}",
+            "\\beta_{ccc}",
+            "\\beta_{ccc}"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YXZ",
+          "values": [
+            "\\beta_{abc}",
+            "-\\beta_{abc}",
+            "-\\beta_{abc}"
+          ]
+        },
+        {
+          "polarization": "ssp",
+          "indices": "YYZ",
+          "values": [
+            "\\beta_{bbc}",
+            "\\beta_{aac}",
+            "\\beta_{aac}"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "XYZ",
+          "values": [
+            "\\beta_{abc}",
+            "-\\beta_{abc}",
+            "-\\beta_{abc}"
+          ]
+        }
+      ],
+      "none_polarizations": [
+        "sps",
+        "pps",
+        "pss",
+        "sss"
+      ]
+    },
+    {
+      "label": "3b-2",
+      "components": [
+        {
+          "polarization": "ppp",
+          "indices": "XZX",
+          "values": [
+            "\\beta_{caa}",
+            "\\beta_{cbb}",
+            "\\beta_{cbb}"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZXX",
+          "values": [
+            "\\beta_{caa}",
+            "\\beta_{cbb}",
+            "\\beta_{cbb}"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YZX",
+          "values": [
+            "\\beta_{bca}",
+            "-\\beta_{cab}",
+            "-\\beta_{cab}"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "ZYX",
+          "values": [
+            "\\beta_{bca}",
+            "-\\beta_{cab}",
+            "-\\beta_{cab}"
+          ]
+        },
+        {
+          "polarization": "sps",
+          "indices": "YZY",
+          "values": [
+            "\\beta_{caa}",
+            "\\beta_{cbb}",
+            "\\beta_{cbb}"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "XZY",
+          "values": [
+            "\\beta_{bca}",
+            "-\\beta_{cab}",
+            "-\\beta_{cab}"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "ZXY",
+          "values": [
+            "\\beta_{bca}",
+            "-\\beta_{cab}",
+            "-\\beta_{cab}"
+          ]
+        },
+        {
+          "polarization": "pss",
+          "indices": "ZYY",
+          "values": [
+            "\\beta_{caa}",
+            "\\beta_{cbb}",
+            "\\beta_{cbb}"
+          ]
+        },
+        {
+          "polarization": "sss",
+          "indices": "YYY",
+          "values": [
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "none_polarizations": [
+        "ssp"
+      ]
+    }
+  ],
+  "component_rows": 14,
+  "angle_cells": 42,
+  "nonzero_cells": 39,
+  "zero_cells": 3,
+  "none_polarization_items": 5,
+  "source_corrections_adopted": false,
+  "next": "B370，p6表(3a-3)"
+}

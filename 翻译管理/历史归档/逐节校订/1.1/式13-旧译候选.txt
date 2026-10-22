@@ -1,0 +1,124 @@
+$$
+\begin{align*}
+\chi^{(3)}_{ijkl}(\omega = 2\omega_1 - \omega_2) 
+&= \chi^{(3)}_{ijkl}(\omega = 2\omega_1 - \omega_2) 
+= \frac{P^{(3)}_i(\omega = 2\omega_1 - \omega_2)}{E_j(\omega_1) E_k(\omega_1) E_l(-\omega_2)}
+\\
+&= -\frac{N e^4}{\hbar^3} \sum_{g,n,n',n''} \Bigg\{ \frac{(r_l)_{g n''}}{\omega_2 - \omega_{n''g} + i\Gamma_{n''g}} 
+\\
+&\quad \times \Bigg[\frac{(r_k)_{n'' n'}}{\omega_1 - \omega_2 + \omega_{n'g} + i\Gamma_{n'g}} 
+\left[\frac{(r_j)_{n' n} (r_i)_{n g}}{2\omega_1 - \omega_2 + \omega_{ng} + i\Gamma_{ng}} 
+- \frac{(r_i)_{n' n} (r_j)_{n g}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} \right]
+\\
+&\quad\quad\quad +\frac{(r_j)_{n'' n'}}{\omega_1 - \omega_2 + \omega_{n'g} + i\Gamma_{n'g}} 
+\left[\frac{(r_k)_{n' n} (r_i)_{n g}}{2\omega_1 - \omega_2 + \omega_{ng} + i\Gamma_{ng}} 
+- \frac{(r_i)_{n' n} (r_k)_{n g}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} \right]
+\\
+&\quad\quad\quad + \frac{(r_j)_{n g}}{\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+\left[\frac{(r_i)_{n'' n'} (r_k)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} 
+- \frac{(r_k)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} \right]
+\\
+&\quad\quad\quad + \frac{(r_k)_{n g}}{\omega_1 + \omega_2 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[\frac{(r_i)_{n'' n'} (r_j)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} 
+- \frac{(r_j)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} \right]\Bigg]
+\\
+&\quad\quad\quad + \frac{(r_l)_{n g}}{\omega_2 + \omega_{ng} + i\Gamma_{ng}} 
+\\
+&\quad \times \Bigg[\frac{(r_j)_{n' n}}{\omega_1 - \omega_2 - \omega_{n'g} + i\Gamma_{n'g}} 
+\left[\frac{(r_k)_{g n''} (r_i)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} 
+- \frac{(r_i)_{g n''} (r_k)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n''g} + i\Gamma_{n''g}} \right]
+\\
+&\quad\quad\quad + \frac{(r_k)_{n' n}}{\omega_1 - \omega_2 - \omega_{n'g} + i\Gamma_{n'g}} 
+\left[
+\frac{(r_j)_{g n''} (r_i)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} 
+- \frac{(r_i)_{g n''} (r_j)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n''g} + i\Gamma_{n''g}}
+\right]
+\\
+&\quad\quad\quad + \frac{(r_j)_{g n''}}{\omega_1 - \omega_2 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[\frac{(r_i)_{n'' n'} (r_k)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} 
+- \frac{(r_k)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} \right]
+\\
+&\quad\quad\quad + \frac{(r_k)_{g n''}}{\omega_1 - \omega_2 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[\frac{(r_i)_{n'' n'} (r_j)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} 
+- \frac{(r_j)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} \right] \Bigg]
+\\
+&\quad\quad\quad + \frac{(r_k)_{n g}}{\omega_1 - \omega_{ng} + i\Gamma_{ng}} 
+\\
+&\quad \times \Bigg[\frac{(r_l)_{n' n}}{\omega_1 - \omega_2 - \omega_{n'g} + i\Gamma_{n'g}} 
+\left[\frac{(r_i)_{g n''} (r_j)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n''g} + i\Gamma_{n''g}} 
+- \frac{(r_j)_{g n''} (r_i)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}}\right]
+\\
+&\quad\quad\quad +
+\frac{(r_l)_{g n''}}{\omega_1 - \omega_2 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[\frac{(r_j)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_j)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right]
+\\
+&\quad\quad\quad +
+\frac{(r_j)_{n' n}}{2\omega_1 - \omega_{n'g} + i\Gamma_{n'g}} 
+\left[ \frac{(r_i)_{g n''} (r_l)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n''g} + i\Gamma_{n''g}} 
+- \frac{(r_l)_{g n''} (r_i)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right]
+\\
+&\quad\quad\quad +
+\frac{(r_j)_{g n''}}{2\omega_1 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[ \frac{(r_l)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_l)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right] \Bigg]
+\\
+&\quad\quad\quad + \frac{(r_j)_{n g}}{\omega_1 - \omega_{ng} + i\Gamma_{ng}} 
+\\
+&\quad \times \Bigg[
+\frac{(r_l)_{n' n}}{\omega_1 - \omega_2 - \omega_{n'g} + i\Gamma_{n'g}} 
+\left[
+\frac{(r_i)_{g n''} (r_k)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n''g} + i\Gamma_{n''g}} 
+- \frac{(r_k)_{g n''} (r_i)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}}
+\right]
+\\
+&\quad\quad\quad + \frac{(r_l)_{g n''}}{\omega_1 - \omega_2 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[ \frac{(r_k)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_k)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right]
+\\
+&\quad\quad\quad + \frac{(r_k)_{n' n}}{2\omega_1 - \omega_{n'g} + i\Gamma_{n'g}} 
+\left[ \frac{(r_i)_{g n''} (r_l)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n''g} + i\Gamma_{n''g}} 
+- \frac{(r_l)_{g n''} (r_i)_{n'' n'}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right]
+\\
+&\quad\quad\quad + \frac{(r_k)_{g n''}}{2\omega_1 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[ \frac{(r_l)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_l)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right] \Bigg]
+\\
+&\quad\quad\quad + \frac{(r_j)_{g n''}}{\omega_1 + \omega_{n''g} + i\Gamma_{n''g}} 
+\\
+&\quad \times \Bigg[ \frac{(r_l)_{n'' n'}}{\omega_1 - \omega_2 + \omega_{n'g} + i\Gamma_{n'g}} 
+\left[ \frac{(r_i)_{n' n} (r_k)_{n g}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_k)_{n' n} (r_i)_{n g}}{2\omega_1 - \omega_2 + \omega_{ng} + i\Gamma_{ng}} \right]
+\\
+&\quad\quad\quad + \frac{(r_l)_{n g}}{\omega_1 - \omega_2 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[ \frac{(r_k)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_k)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right]
+\\
+&\quad\quad\quad +  \frac{(r_k)_{n'' n'}}{2\omega_1 + \omega_{n'g} + i\Gamma_{n'g}} 
+\left[ \frac{(r_i)_{n' n} (r_l)_{n g}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_l)_{n' n} (r_i)_{n g}}{2\omega_1 - \omega_2 + \omega_{ng} + i\Gamma_{ng}} \right]
+\\
+&\quad\quad\quad + \frac{(r_k)_{n g}}{2\omega_1 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[ \frac{(r_l)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_l)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right] \Bigg] 
+\\
+&\quad\quad\quad + \frac{(r_k)_{g n''}}{\omega_1 + \omega_{n''g} + i\Gamma_{n''g}} 
+\\
+&\quad \times \Bigg[ \frac{(r_l)_{n'' n'}}{\omega_1 - \omega_2 + \omega_{n'g} + i\Gamma_{n'g}} 
+\left[ \frac{(r_i)_{n' n} (r_j)_{n g}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_j)_{n' n} (r_i)_{n g}}{2\omega_1 - \omega_2 + \omega_{ng} + i\Gamma_{ng}} \right]
+\\
+&\quad\quad\quad + \frac{(r_l)_{n g}}{\omega_1 - \omega_2 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[\frac{(r_j)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_j)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right]
+\\
+&\quad\quad\quad + \frac{(r_j)_{n'' n'}}{2\omega_1 + \omega_{n'g} + i\Gamma_{n'g}} 
+\left[ \frac{(r_i)_{n' n} (r_l)_{n g}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_l)_{n' n} (r_i)_{n g}}{2\omega_1 - \omega_2 + \omega_{ng} + i\Gamma_{ng}} \right]
+\\
+&\quad\quad\quad + \frac{(r_j)_{n g}}{2\omega_1 - \omega_{n n''} + i\Gamma_{n n''}} 
+\left[ \frac{(r_l)_{n'' n'} (r_i)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n n'} + i\Gamma_{n n'}} 
+- \frac{(r_i)_{n'' n'} (r_l)_{n' n}}{2\omega_1 - \omega_2 - \omega_{n' n''} + i\Gamma_{n' n''}} \right] \Bigg] \Bigg\}
+\tag{13}
+\end{align*}
+$$

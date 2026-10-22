@@ -1,0 +1,1702 @@
+===== PDF p.1 =====
+水素化ダイヤモンド表面CHのSFGテンソル（要点）
+１．序論
+水素化ダイヤモンド表面のCH伸縮振動を例にとって、単結晶表面の化学結合からのSFGスペクトル
+の解析に有効な事項について記す。
+最初に、水素化C(100) 表面についてまとめておこう。一般に言われているのは、as cut 表面の C 原
+子から出ている２本のダングリングボンド（dangling bond）のうちの１本が隣のC 原子のダングリング
+ボンドと単結合を形成して（再構成表面の形成）、残る１本が水素化する（上の図の (a)、以後、monohydride
+モデルと呼ぶ）、というものである。しかし、as cut 表面のままで、２本のダングリングボンドの両方が
+水素化することも（上の図の (b) 、以後、dihydride モデルと呼ぶ）考えとしては可能である。図から明
+らかなように、CH結合に注目すると、前者では HCCH がユニットになり、後者では CH がユニット
+2
+になる。そして、これらのユニットが表面上での広がりを持つために、表面単位胞の対称性は裸の表面
+の対称性と異なる。本稿では、HCCH および CH ユニットに付随する SFG テンソルについて考察す
+2
+る。
+ダイヤモンド結晶の格子定数は3.567 Å であるから、C—C 結合距離は 1.545 Å である。そして、表
+面に出ている C 原子間の距離は、as cut 表面で 2.51 Å である。再構成表面については、表面単位胞の
+サイズが 2.51 · 5.1 Å であるとの報告がある（R. E. Stallcup et al., Appl. Phys. Lett. 66, 2331(1995)）。再構
+成によって形成されるC—C 結合の原子間隔を2.0 Å と仮定すると、非結合炭素原子の間隔は3.1 Å に
+なる。
+C—H 結合距離は 1.1 ~ 1.2 Å である。表面CH 基が図 (b) の配向を取っているときには、隣りあう
+2
+CH 基のH原子の間隔が0.7 Å 程度になる。また、表面HCCHユニットが図 (a) のような配向を取ると
+2
+きには、隣りあうユニットのH原子間隔が 2 Å 程度になる（CH結合が表面法線に対してなす角を30˚ と
+仮定したときの値、これを55˚ のままとするときにはもっと短い）。
+ところで、水素原子の間には反発力働く。この反発力がが働きはじめる距離の目安が H 原子のファン
+デルワールス半径で、その値は 1.20 Å である。よって、水素原子の中心の間の距離が 2.4 Å 程度以下
+になると、立体障害が働くはずである。図 (b) の状況がこれに該当することは明らかであろう。また、
+図 (a) のケースでも、隣りあうHCCH ユニットの H 原子の間隔がかなり短いから、立体障害の存在が
+十分疑われる。従って、立体障害を解消するために、表面 CH 結合の配向に何らかの歪みが生じる可能
+性が高い。
+立体障害を解消するには、角を突き合わせているH 原子が、表面から等距離を保ったまま前後にずれ
+た状態と、どちらか一方のH 原子が表面側に潜り、他方のH 原子が上方にずれた状態が考えられる。CH
+2
+HCCH要点 - 1
+
+===== PDF p.2 =====
+基で言えば、C 軸周りの回転または分子面の傾斜による方法と、分子面に垂直な軸の周りでの回転であ
+2
+る。また、HCCH 基で言えば、表面法線の周りでのCH結合の回転、HCC 結合角の増減、あるいは、分
+子面の傾斜（平面を保つ）またはねじれ（分子面がよじれる）が考えられる。いずれにせよ、立体障害
+の解消は隣りあうユニットに属するCH結合の間で行われる。これによってユニットに生じる変化には、
+表面の上でのユニットの並び方も絡むはずである。
+HCCHユニットの対称性について考えると、C 対称とC 対称が考えられる。C 対称は、H原子が立
+2v 2 2v
+体障害を受けない場合、そして、立体障害による「逃げ」が分子面が平面のままで、表面に対する傾斜
+がユニットごとに互い違いになっているときのものである。これに対してC 対称は、「逃げ」に際して
+2
+生じる左右のCH結合のずれが、もともとのHCCH面に関して反対方向になるときのものである。
+CH ユニットは、3原子分子の特性として平面のままである。そして、2個のH原子は等価であるから、
+2
+C 対称が保たれる。
+2v
+2．分子固定座標系と空間固定座標系
+1. 分子に固定した座標系：(abc) 系と表す。
+CH 基では、C 対称軸に沿って外向きにc 軸を取り、分子面内にa 軸を取る。
+2 2
+HCCH 基では、C 対称軸に沿って外向きにc 軸をとり、平面形（C 対称）では分子面内にa 軸を、
+2 2v
+ねじれ形（C 対称）では２つのCCH 面を２等分する平面（すなわち CCC 面）上にa 軸を取る。
+2
+2a. 表面に固定した座標系：(xyz) 系と表す。
+2b. 空間に固定した座標系：(XYZ) 系と表す。
+3. 分子の配向：オイラー角 (c , q , f ) の定義を、分子固定 (abc) 系を表面固定 (xyz) 系に重ねるときの
+ものとする。
+用いるオイラー角 (c , q , f ) は、次のように表現される。
+(1) 内部回転角 f ：ac 面（ここで考えているCH 基及びHCCH基では分子面）の（表面に対する）ねじ
+2
+れ角である。c 軸まわりの回転で ac 面を表面と垂直にするために必要な回転角、あるいはa 軸がz 軸
+の ab 面への射影に重なるまでの回転角でもある。（a軸に沿ったベクトルとx 軸に沿ったベクトルの
+内積がプラスになる方向で重ねる。）ac 面が表面に垂直なときには f = 0 or p であり、ac 面が表面と向
+き合っているときには f = p /2 or 3p /2 である。分子がランダムな内部回転角を取っている場合には f は
+0 ~ 2p の任意の値を等しいウェイトで取る。
+(2) 傾き角・tilt角 q ：通常の定義に合わせて、c 軸と外向きの法線 (-z) の間の角を傾き角と定義し、
+tilt
+N軸（z 軸とc軸の両方に垂直な直線、ab 面とxy 面の交線）まわりの回転でc 軸を外向きの法線に重
+ねる方向をプラス回転とする。z 軸は下向きの法線であるから、オイラー角 q はp - q である。
+tilt
+(3) 面内配向角 c (c と略記する)：z 軸まわりの回転でc 軸の xy 面への射影をx 軸に重ねるた
+in-plane ip
+めの回転角と定義する。ここでのz 軸の向きでは、x 軸の方向に見て射影が左側にあるときがプラスに
+なる。z 軸を基板の内部に向けて取っているので、対応するオイラー角 c はp /2 + c である。分子の面
+ip
+内配向がランダムなときには、c は 0 ~ 2p の任意の値を等しいウェイトで取る。
+ip
+6. 実験室固定(XYZ)系におけるテンソル成分
+光の光路にあわせて定義される実験室固定 (XYZ) 座標系におけるテンソル成分を導く。(XYZ) 座標
+系は表面固定 (xyz) 座標系をz 軸のまわりに角 c だけ回転したものであるとして、ファイル「表面の回
+転」を参照している。
+HCCH要点 - 2
+
+===== PDF p.3 =====
+6a. 傾いた平面形 HCCH 基
+［対称伸縮振動］
+(ppp) c = [(b - b )sin2t - b ]sint sin3c - b sint sinc cos2c
+XXX bbc ccc bbc aac
+c = (b - b )sint cos2t sinc
+XZZ bbc ccc
+c = (b - b )sint cos2t sinc
+ZXZ bbc ccc
+c = -[(b - b )sint cos2t + b sint ]sinc
+ZZX bbc ccc ccc
+c = -(b - b )sin2t cost sin2c
+ZXX bbc ccc
+c = -(b - b )sin2t cost sin2c
+XZX bbc ccc
+c = [(b - b )cos2t + b ]cost sin2c + b cost cos2c
+XXZ bbc ccc ccc aac
+c = -[(b - b )cos2t - b ]cost
+ZZZ bbc ccc bbc
+(spp) c = [(b - b )sin2t + (b - b )]sint sin2c cosc
+YXX bbc ccc aac bbc
+c = (b - b )sint cos2t cosc
+YZZ bbc ccc
+c = (b - b )sin2t cost sinc cosc
+YZX bbc ccc
+c = [(b - b )cos2t - (b - b )]cost sinc cosc
+YXZ bbc ccc aac ccc
+(ssp) c = [(b - b )sin2t + (b - b )]sint sinc cos2c - b sint sinc
+YYX bbc ccc aac bbc aac
+c = [(b - b )cos2t + b ]cost sin2c + b cost cos2c
+YYZ bbc ccc ccc aac
+(psp) c = [(b - b )sin2t + (b - b )]sint sin2c cosc
+XYX bbc ccc aac bbc
+c = (b - b )sint cos2t cosc
+ZYZ bbc ccc
+c = [(b - b )cos2t - (b - b )]cost sinc cosc
+XYZ bbc ccc aac ccc
+c = (b - b )sin2t cost sinc cosc
+ZYX bbc ccc
+(sps) c = [(b - b )sin2t + (b - b )]sint sinc cos2c
+YXY bbc ccc aac bbc
+c = -(b - b )sin2t cost cos2c
+YZY bbc ccc
+(pps) c = [(b - b )sin2t + (b - b )]sint sin2c cosc - b sint cosc
+XXY bbc ccc aac bbc aac
+c = -[(b - b )sin2t + b ]sint cosc
+ZZY bbc ccc ccc
+c = -(b - b )sin2t cost sinc cosc
+ZXY bbc ccc
+c = -(b -b )sin2t cost sinc cosc
+XZY bbc ccc
+(pss) c = [(b - b )sin2t + (b - b )]sint sinc cos2c
+XYY bbc ccc aac bbc
+c = -(b - b )sin2t cost cos2c
+ZYY bbc ccc
+(sss) c = [(b - b )sin2t - b ]sint cos3c - b sint sin2c cosc (6a-1)
+YYY bbc ccc bbc aac
+［逆対称伸縮振動］
+(ppp) c = 0
+XXX
+c = 0
+XZZ
+c = 0
+ZXZ
+c = 0
+ZZX
+c = b cost cos2c
+ZXX caa
+c = b cost cos2c
+XZX caa
+c = 0
+XXZ
+c = 0
+ZZZ
+(spp) c = 2b sint sin2c cosc
+YXX caa
+HCCH要点 - 3
+
+===== PDF p.4 =====
+c = 0
+YZZ
+c = -b cost sinc cosc
+YZX caa
+c = 0
+YXZ
+(ssp) c = 2b sint sinc cos2c
+YYX caa
+c = 0
+YYZ
+(psp) c = 2b sint sin2c cosc
+XYX caa
+c = 0
+ZYZ
+c = 0
+XYZ
+c = -b cost sinc cosc
+ZYX caa
+(sps) c = 2b sint sinc cos2c
+YXY caa
+c = b cost sin2c
+YZY caa
+(pps) c = 2b sint sin2c cosc
+XXY caa
+c = 0
+ZZY
+c = -b cost sinc cosc
+ZXY caa
+c = -b cost sinc cosc
+XZY caa
+(pss) c = 2b sint sinc cos2c
+XYY caa
+c = b cost sin2c
+ZYY caa
+(sss) c = -2b sint sin2c cosc (6a-2)
+YYY caa
+6b. ねじれ形 HCCH 基
+［対称伸縮振動］
+(ppp) c = b cos2c + b sin2c + 2b sinc cosc
+XXZ aac bbc abc
+c = b
+ZZZ ccc
+(spp) c = -(b - b )sinc cosc + b (cos2c - sin2c )
+YXZ aac bbc abc
+(ssp) c = b sin2c + b cos2c - 2b sinc cosc
+YYZ aac bbc abc
+(psp) c = -(b - b )sinc cosc + b (cos2c - sin2c )
+XYZ aac bbc abc
+(sps) none
+(pps) none
+(pss) none
+(sss) none (6b-1)
+［逆対称伸縮振動］
+(ppp) c = b cos2c + b sin2c + (b + b )sinc cosc
+ZXX caa cbb cab bca
+c = b cos2c + b sin2c + (b + b )sinc cosc
+XZX caa cbb cab bca
+(spp) c = -(b - b )sinc cosc + (b cos2c - b sin2c )
+YZX caa cbb bca cab
+(ssp) none
+(psp) c = -(b - b )sinc cosc + (b cos2c - b sin2c )
+ZYX caa cbb bca cab
+(sps) c = b sin2c +b cos2c - (b + b )sinc cosc
+YZY caa cbb cab bca
+(pps) c = -(b - b )sinc cosc + (b cos2c - b sin2c )
+ZXY caa cbb bca cab
+c = -(b - b )sinc cosc + (b cos2c - b sin2c )
+XZY caa cbb bca cab
+HCCH要点 - 4
+
+===== PDF p.5 =====
+(pss) c = b sin2c + b cos2c - (b + b )sinc cosc
+ZYY caa cbb cab bca
+(sss) c = 0 (6b-2)
+YYY
+HCCH要点 - 5
+
+===== PDF p.6 =====
+6c. のけぞった CH 基
+2
+分子固定座標で表したものは (6a-1) 式および (6a-2) 式と同じ方式になる。CH固定テンソルで近似す
+る段階で違いが出る。
+［対称伸縮振動］
+(ppp) c = [(b - b )sin2t - b ]sint sin3c - b sint sinc cos2c
+XXX bbc ccc bbc aac
+c = (b - b )sint cos2t sinc
+XZZ bbc ccc
+c = (b - b )sint cos2t sinc
+ZXZ bbc ccc
+c = -[(b - b )sint cos2t + b sint ]sinc
+ZZX bbc ccc ccc
+c = -(b - b )sin2t cost sin2c
+ZXX bbc ccc
+c = -(b - b )sin2t cost sin2c
+XZX bbc ccc
+c = [(b - b )cos2t + b ]cost sin2c + b cost cos2c
+XXZ bbc ccc ccc aac
+c = -[(b - b )cos2t - b ]cost
+ZZZ bbc ccc bbc
+(spp) c = (1/4)[(b - b )sin2t + (b - b )]sint sin2c cosc
+YXX bbc ccc aac bbc
+c = (b - b )sint cos2t cosc
+YZZ bbc ccc
+c = (b - b )sin2t cost sinc cosc
+YZX bbc ccc
+c = [(b - b )cos2t - (b - b )]cost sinc cosc
+YXZ bbc ccc aac ccc
+(ssp) c = [(b - b )sin2t + (b - b )]sint sinc cos2c - b sint sinc
+YYX bbc ccc aac bbc aac
+c = [(b - b )cos2t + b ]cost sin2c + b cost cos2c
+YYZ bbc ccc ccc aac
+(psp) c = [(b - b )sin2t + (b - b )]sint sin2c cosc
+XYX bbc ccc aac bbc
+c = (b - b )sint cos2t cosc
+ZYZ bbc ccc
+c = [(b - b )cos2t - (b - b )]cost sinc cosc
+XYZ bbc ccc aac bbc
+c = (b - b )sin2t cost sinc cosc
+ZYX bbc ccc
+(sps) c = [(b - b )sin2t + (b - b )]sint sinc cos2c
+YXY bbc ccc aac bbc
+c = -(b - b )sin2t cost cos2c
+YZY bbc ccc
+(pps) c = [(b - b )sin2t + (b - b )]sint sin2c cosc - b sint cosc
+XXY bbc ccc aac bbc aac
+c = -[(b - b )sin2t + b ]sint cosc
+ZZY bbc ccc ccc
+c = -(b - b )sin2t cost sinc cosc
+ZXY bbc ccc
+c = -(b - b )sin2t cost sinc cosc
+XZY bbc ccc
+(pss) c = [(b - b )sin2t + (b - b )]sint sinc cos2c
+XYY bbc ccc aac bbc
+c = -(b - b )sin2t cost cos2c
+ZYY bbc ccc
+(sss) c = [(b - b )sin2t - b )]sint cos3c - b sint sin2c cosc (6c-1)
+YYY bbc ccc bbc aac
+［逆対称伸縮振動］
+(ppp) c = 0
+XXX
+c = 0
+XZZ
+c = 0
+ZXZ
+c = 0
+ZZX
+c = b cost cos2c
+ZXX caa
+c = b cost cos2c
+XZX caa
+c = 0
+XXZ
+c = 0
+ZZZ
+HCCH要点 - 6
+
+===== PDF p.7 =====
+(spp) c = 2b sint sin2c cosc
+YXX caa
+c = 0
+YZZ
+c = -b cost sinc cosc
+YZX caa
+c = 0
+YXZ
+(ssp) c = 2b sint sinc cos2c
+YYX caa
+c = 0
+YYZ
+(psp) c = 2b sint sin2c cosc
+XYX caa
+c = 0
+ZYZ
+c = 0
+XYZ
+c = -b cost sinc cosc
+ZYX caa
+(sps) c = 2b sint sinc cos2c
+YXY caa
+c = b cost sin2c
+YZY caa
+(pps) c = 2b sint sin2c cosc
+XXY caa
+c = 0
+ZZY
+c = -b cost sinc cosc
+ZXY caa
+c = -b cost sinc cosc
+XZY caa
+(pss) c = 2b sint sinc cos2c
+XYY caa
+c = b cost sin2c
+ZYY caa
+(sss) c = -2b sint sin2c cosc (6c-2)
+YYY caa
+3. 分子固定 (abc) 系におけるテンソル成分
+対称性の考察から、ゼロ以外の値を持つテンソル成分を摘出することが出来る。C 分子（CH 基と平
+2v 2
+面形HCCH基）では、b 、b 、b ;、b = b 、b = b であり、C 分子（ねじれ形HCCH基）で
+aac bbc ccc caa aca cbb bcb 2
+は、b 、b 、b 、b = b 、b = b 、b = b 、b = b 、b = b である。それぞれの値の目安
+aac bbc ccc abc bac caa aca bca cba cbb bcb cab acb
+として、CH結合のテンソル成分がそのまま転用できると仮定したときの値は、ファイル「オイラー角」
+と「分子固定から空間固定へ」を参照して導くことができる。
+CH 基；
+2
+ファイル「オイラー角」の Eu-5 式により、(1) ２個のCH結合では角 c が互いに p だけ違っている
+ので、sinc 、sin3c 、cosc 、cos3c が掛っている項の和はゼロになる。また、c = 0 と p であるから、sin2c
+= 0、cos2c = +1 となり、sin2c と (1 - cos2c ) が掛る項もゼロである。 (2) 角 f は ゼロ であるから、sinf =
+sin2f = sin3f = 0、cosf = cos2f = cos3f = +1となり、sinf 、sin2f 、sin3f 、(1 - cos2f ) が掛かる項もゼロにな
+る。これらのことを考慮して、ファイル「分子固定から空間固定へ」により２個のCH結合についてと
+ったテンソル成分の和は、下のようになる。
+b = 2{b cos3(a /2)+ b [cos(a /2) - cos3(a /2)]} (3-1a)
+aac xxz zzz
+b = 2b cos(a /2) (3-1b)
+bbc h hz
+b = 2{b [cos(a /2) - cos3(a /2)] + b cos3(a /2)} (3-1c)
+ccc xxz zzz
+b = b = -2(b - b )[cos(a /2) - cos3(a /2)] (3-2)
+caa aca xxz zzz
+b = b = 0 (3-3)
+cbb bcb
+(CH伸縮振動はb軸方向の成分を持たないので、下付きの右端がb のテンソル成分はゼロになる。)
+HCCH要点 - 7
+
+===== PDF p.8 =====
+HCH角を4面体角にとると、cosa = -1/3、sina = 2 2/3であるから、cos(a /2) = 1/3 となり、
+b = (2 3/9)(b + 2b ) (3-4a)
+aac xxz zzz
+b = (2 3/9)(3b ) (3-4b)
+bbc h hz
+b = (2 3/9)(2b + b ) (3-4c)
+ccc xxz zzz
+b = b = -(4 3/9)(b - b ) (3-5)
+caa aca xxz zzz
+を得る。CH基自体と違って、b ~ b であることに注意しよう。
+aac ccc
+HCCH 基（平面形）；
+上と同様な筋道での導出になる。ファイル「オイラー角」の (Eu-6) 式と (Eu-5) 式の違いは、(a /2) の
+代りに a - p /2 が入る、ということである。（ただし、ここの a はHCC 角である）よって、下式が得ら
+れる。
+b = 2[b sin3a + b (sina - sin3a )] (3-6a)
+aac xxz zzz
+b = 2b sina (3-6b)
+bbc h hz
+b = 2[b (sina - sin3a ) + b sin3a ] (3-6c)
+ccc xxz zzz
+b = b = -2(b - b )(sina - sin3a ) (3-7)
+caa aca xxz zzz
+HCC 角を４面体角にとると、cosa = -1/3、sina = 2 2/3 であるから、
+(cid:160) (cid:160)
+b = (4 2/37)(8b + b ) (3-8a)
+(cid:160) aac xxz zzz
+(cid:160) b bbc = (4 2/37)(9b h hz ) (3-8b)
+b = (4 2/37)(b + 8b ) (3-8c)
+(cid:160) ccc xxz zzz
+b = b = -(4 2/37)(b - b ) (3-9)
+(cid:160) caa aca xxz zzz
+ここでは、b < b , b であることに注意しよう。
+aac ccc caa
+HCCH 基（ねじれ形）；
+ファイル「オイラー角」の (Eu-8) 式、(Eu-10) 式、(Eu-10) 式により、オイラー角を使った表式がまず
+得られる。次に、オイラー角をHCC 角および２面角と結び付ける、という面倒な手続きが必要である。
+ファイル「分子固定から空間固定へ」により得られるオイラー角を使った表式は、下のようになる。
+b = (b + b )cosq
+aac xxz h hz
+- (1/2)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+xxz h hz zzz
+- (1/2)(b - b ){[cosq (1 - cos2c ) - cos3q (1 + cos2c )]cos2f + 2cos2q sin2c sin2f } (3-10a)
+xxz h hz
+b = (b + b )cosq
+bbc xxz h hz
+- (1/2)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+xxz h hz zzz
+- (1/2)(b - b ){[cosq (1 + cos2c ) - cos3q (1 - cos2c )]cos2f - 2cos2q sin2c sin2f } (3-10b)
+(cid:160) xxz h hz
+b = (b + b )cosq
+ccc xxz h hz
+(cid:160) - (b xxz + b h hz - 2b zzz )cos3q
+(cid:160) HCCH要点 - 8
+(cid:160)
+(cid:160)
+
+===== PDF p.9 =====
++ (b - b )(cosq - cos3q )cos2f 1 (3-10c)
+xxz h hz
+b = b = (1/2)(b + b - 2b )(cosq - cos3q )sin2c
+abc bac xxz h hz zzz
+- (1/2)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ] (3-10d)
+xxz h hz
+b = b = -(1/2)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+caa aca xxz h hz zzz
+- (1/2)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ] (3-11a)
+xxz h hz
+b = b = (1/2)(b + b - 2b )(cosq - cos3q )sin2c
+bca cba xxz h hz zzz
++ (1/2)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ] (3-11b)
+xxz h hz
+b = b = -(1/2)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+cbb bcb xxz h hz zzz
+- (1/2)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ] (3-12a)
+xxz h hz
+b = b = (1/2)(b + b - 2b )(cosq - cos3q )sin2c
+cab acb xxz h hz zzz
++ (1/2)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ] (3-12b)
+xxz h hz
+これを a と t による表式に変えるにあたり、単純な置き換えをしてから式を整理すると、下記のよう
+になる。
+b = 2(b sin2a + b cos2a )sina cos(t /2) (3-13a)
+aac xxz zzz
+b = 2[b cos2a sin2(t /2) + b cos2(t /2) + b sin2a sin2(t /2)]sina cos(t /2) (3-13b)
+bbc xxz h hz zzz
+b = 2[b cos2a cos2(t /2) + b sin2(t /2) + b sin2a cos2(t /2)]sina cos(t /2) (3-13c)
+ccc xxz h hz zzz
+b = b = 2(b - b )[sina cosa sin(t /2)]sina cos(t /2) (3-13d)
+abc bac xxz zzz
+b = b = -2(b - b )sina cos2a cos(t /2) (3-14a)
+caa aca xxz zzz
+b = b = -2[b cos2a - b + b sin2a ]cosa sin(t /2)cos(t /2) (3-14b)
+bca cba xxz h hz zzz
+b = b = +2[b cos2a - b + b sin2a ]sina sin2(t /2)cos(t /2) (3-15a)
+cbb bcb xxz h hz zzz
+b = b = -2(b - b )sin2a cosa cos(t /2) (3-15b)
+cab acb xxz zzz
+HCC 角を四面体角にとると、cosa = -1/3、sina = 2 2/3 であるから、
+b = (4 2/27)(8b + b )cos(t /2) (3-16a)
+aac xxz zzz
+b = (4 2/27)[(b - 9b + 8b )sin2(t /2) + 9b ]cos(t /2) (3-16b)
+bbc xxz h hz zzz h hz
+b = (4 2/27)[(b - 9b + 8b )cos2(t /2) + 9b ]cos(t /2) (3-16c)
+ccc xxz h hz zzz h hz
+b = b = -(4 2/27)(b - b )(2(cid:214) 2)sin(t /2)cos(t /2) (3-16d)
+abc bac xxz zzz
+b = b = -(4 2/27)(b - b )cos(t /2) (3-17a)
+caa aca xxz zzz
+b = b = +(2/27)[b - 9b + 8b ]sin(t /2)cos(t /2) (3-17b)
+bca cba xxz h hz zzz
+b = b = +(4 2/27)[b - 9b + 8b ]sin2(t /2)cos(t /2) (3-18a)
+cbb bcb xxz h hz zzz
+b = b = +(8/27)(b - b )cos(t /2) (3-18b)
+cab acb xxz zzz
+4．表面固定 (xyz) 系における HCCH 基のテンソル成分
+典型的な配向について、表面固定系でのテンソル成分を求めておこう。なお、一般的な配向に対する
+表式を付録 Aに記してあるので、個別のオイラー角を当てはめれば以下で示す表式が求まる。
+なお、下で出てくる t は、分子面（ac 面）と表面（xy 面）の間の２面角である。
+4a. 傾いた平面形 HCCH 基
+分子面 [ ac 面] が表面から角 t だけ傾いているとして、２つある傾き方に対するオイラー角は（ファ
+HCCH要点 - 9
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.10 =====
+イル「オイラー角」の (Eu-4) 式を参照して）次のようになる。a はCCH 結合角である。
+R (c = -p /2) R (q = -t ) R (f = p /2)、 R (c = -p /2) R (q = +t ) R (f = p /2)、t = p /2 - q
+z b’ c z b’ c
+sinc = -1、sin2c = 0、sin3c = +1 cosc = 0、cos2v = -1、cos3c = 0
+sinf = +1、sin2f = 0、sin3v = -1 cosf = 0、cos2f = -1、cos3f = 0
+sinq = -(±)sint 、 cosq = cost (4a-1)
+（隣り合うHCCH基は交互に -t と +t を取る。）
+により、
+［対称伸縮振動］
+(ppp) c = b cost
+xxz aac
+c = -(b - b )cos3t + b cost
+zzz bbc ccc bbc
+(spp) c = ±(b - b )(sint - sin3t )
+yzz bbc ccc
+(ssp) c = (b - b )cos3t + b cost
+yyz bbc ccc ccc
+(psp) c = ±(b - b )(sint - sin3t )
+zyz bbc ccc
+(sps) c = -(b - b )(cost - cos3t )
+yzy bbc ccc
+(pps) c = -(±)b sint
+xxy aac
+c = -(±)b sin3t - (±)b (sint - sin3t )
+zzy bbc ccc
+(pss) c = -(b - b )(cost - cos3t )
+zyy bbc ccc
+(sss) c = -(±)b (sint - sin3t ) - (±)b sin3t (4a-2)
+yyy bbc ccc
+［逆対称伸縮振動］
+(ppp) c = b cost
+zxx caa
+c = b cost
+xzx caa
+(spp) c = -(±)b sint
+yxx caa
+(ssp) none
+(psp) c = -(±)b sint
+xyx caa
+(sps) none
+(pps) none
+(pss) none
+(sss) none (4a-3)
+CH基のテンソル成分による表式 (3-6) 式にTd角を仮定した (3-8) 式を使用すると、下記の表式を得る。
+［対称伸縮振動］
+(ppp) c = (4 2/27)(8b + b )cost
+xxz xxz zzz
+c = (4 2/27)(b - 9b + 8b )cos3t
+zzz xxz h hz zzz
+(spp) c = -(±)(4 2/27)(b - 9b + 8b )(sint - sin3t )
+yzz xxz h hz zzz
+(ssp) c = (4 2/27)[-(b - 9b + 8b )(cost - cos3t ) + 9b cost ]
+yyz xxz h hz zzz h hz
+(psp) c = -(±)(4 2/27)(b - 9b + 8b )(sint - sin3t )
+zyz xxz h hz zzz
+(sps) c = (4 2/27)(b - 9b + 8b )(cost - cos3t )
+yzy xxz h hz zzz
+(pps) c = -(±)(4 2/27)(9b )sint
+xxy h hz
+c = -(±)(4 2/27)[(b - 9b + 8b )(sint - sin3t ) - 9b sint ]
+zzy xxz h hz zzz h hz
+HCCH要点 - 10
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.11 =====
+(pss) c = (4 2/27)(b - 9b + 8b )(cost - cos3t )
+zyy xxz h hz zzz
+(sss) c = -(±)(4 2/27)[(b - 9b + 8b )sin3t + 9b sint ] (4a-4)
+yyy xxz h hz zzz h hz
+［逆対称伸縮振動］
+(ppp) c = -(4 2/27)(b - b )cost
+zxx xxz zzz
+c = -(4 2/27)(b - b )cost
+xzx xxz zzz
+(spp) c = (±)(4 2/27)(b - b )sint
+yxx xxz zzz
+(ssp) none
+(psp) c = -(±)(4 2/27)(b - b )sint
+xxx xxz zzz
+(sps) none
+(pps) none
+(pss) none
+(sss) none (4a-5)
+4b. ねじれ形 HCCH 基
+ねじれ形HCCH基のac 面はxz 面と重なっていると見なせるから、上の (3-10) 式 ~ (3-18) 式で左辺
+の下付き (abc) を (xyz) に読み替えたものがそのまま当てはまる。a はCCH 結合角、t は２個のCCH
+面の間の２面角である。
+R (c = 0) R (q = 0) R (f = 0)、t = 0 (4b-1)
+(cid:160) z b’ c
+(cid:160)
+により、下記の表式を得る。なお、CH基のテンソル成分による表式 (3-13) 式を使って整理したものも
+示す。
+(cid:160)
+［対称伸縮振動］
+(cid:160)
+(ppp) c = b = 2(b sin2a + b cos2a )sina cos(t /2)
+(cid:160) xxz aac xxz zzz
+c = b = 2[b cos2a cos2(t /2) + b sin2(t /2) + b sin2a cos2(t /2)]sina cos(t /2)
+zzz ccc xxz h hz zzz
+(spp) c = b = 2(b - b )[sina cosa sin(t /2)]sina cos(t /2)
+(cid:160) yxz abc xxz zzz
+(ssp) c = b = 2[b cos2a sin2(t /2) + b cos2(t /2) + b sin2a sin2(t /2)]sina cos(t /2)
+yyz bbc xxz h hz zzz
+(psp) c = b = 2(b - b )[sina cosa sin(t /2)]sina cos(t /2)
+xyz abc xxz zzz
+(sps) none
+(pps) none
+(pss) none
+(sss) none (4b-2)
+［逆対称伸縮振動］
+(ppp) c = b = -2(b - b )sina cos2a cos(t /2)
+zxx caa xxz zzz
+c = b = -2(b - b )sina cos2a cos(t /2)
+xzx caa xxz zzz
+(spp) c = b = -2(b cos2a - b + b sin2a )cosa sin(t /2)cos(t /2)
+yzx bca xxz h hz zzz
+(ssp) none
+(psp) c = b = -2(b cos2a - b + b sin2a )cosa sin(t /2)cos(t /2)
+zyx bca xxz h hz zzz
+(sps) c = b = +2(b cos2a - b + b sin2a )sina sin2(t /2)cos(t /2)
+yzy cbb xxz h hz zzz
+HCCH要点 - 11
+
+===== PDF p.12 =====
+(pps) c = b = -2(b - b )sin2a cosa cos(t /2)
+zxy cab xxz zzz
+c = b = -2(b - b )sin2a cosa cos(t /2)
+xzy cab xxz zzz
+(pss) c = b = +2(b cos2a - b + b sin2a )sina sin2(t /2)cos(t /2)
+zyy cbb xxz h hz zzz
+(sss) none (4b-3)
+さらに、Td角を仮定するとcosa = -1/3, sina =2 2/3 であるから、
+［対称伸縮振動］
+(ppp) c = b = (4 2/27)(8b + b )cos(t /2)
+xxz aac xxz h hz
+c = b = (4 2/27)[(b - 9b + 8b )cos2(t /2) + 9b ]cos(t /2)
+zzz ccc xxz h hz zzz h hz
+(spp) c = b = -(4 2/27)(b - b )(2(cid:214) 2)sin(t /2)cos(t /2)
+yxz abc xxz zzz
+(ssp) c = b = (4 2/27)[(b - 9b + 8b )sin2(t /2) + 9b ]cos(t /2)
+yyz bbc xxz h hz zzz h hz
+(psp) c = b = -(4 2/27)(b - b )(2(cid:214) 2)sin(t /2)cos(t /2)
+xyz abc xxz zzz
+(sps) none
+(pps) none
+(pss) none
+(sss) none (4b-4)
+［逆対称伸縮振動］
+(ppp) c = b = -(4 2/27)(b - b )cos(t /2)
+zxx caa xxz zzz
+c = b = -(4 2/27)(b - b )cos(t /2)
+xzx caa xxz zzz
+(spp) c = b = (2/27)(b - 9b + 8b )sin(t /2)cos(t /2)
+yzx bca xxz h hz zzz
+(ssp) none
+(psp) c = b = (2/27)(b - 9b + 8b )sin(t /2)cos(t /2)
+zyx bca xxz h hz zzz
+(sps) c = b = (4 2/27)(b - 9b + 8b )sin2(t /2)cos(t /2)
+(cid:160) yzy cbb xxz h hz zzz
+(pps) c = b = (8/27)(b - b )cos(t /2)
+zxy cab xxz zzz
+c = b = (8/27)(b - b )cos(t /2)
+xzy cab xxz zzz
+(pss) c = b = (4 2/27)(b - 9b + 8b )sin2(t /2)cos(t /2)
+(cid:160) zyy cbb xxz h hz zzz
+(cid:160) (sss) none (4b-5)
+(cid:160)
+5．表面固定 (xyz) 系における CH 基のテンソル成分
+(cid:160) 2
+5a. ねじれた CH 基
+(cid:160) 2
+立体障害を解消するためにC 軸まわりで角 g だけねじれるとき、ファイル「オイラー角」の (Eu-1) 式
+2
+により下式が得られる。a はHCH結合角である。
+R (c = g ) R (q = 0) R (f = 0)、R (c = -g ) R (q = 0) R (f = 0)、t = p /2
+z b’ c z b’ c
+sinc = sing 、sin2c = sin2g 、sin3c = sin3g cosc = cosg 、cos2c = -cos2g 、cos3c = cos3g
+sinf = 0、sin2f = 0、sin3f = 0 cosf = 1、cos2f = 1、cos3f = 1 (5a-1)
+(cid:160) (sing /-sing )、(sin2g /-sin2g )、(sin3g /-sin3g ) pairs
+（隣り合うCH 基はともに +g または -g のどちらかを取り、互い違いにはならない。）
+(cid:160) 2
+により、
+HCCH要点 - 12
+(cid:160)
+(cid:160)
+
+===== PDF p.13 =====
+［対称伸縮振動］
+(ppp) c = (1/2)[b (1 + cos2c ) + b (1 - cos2c )]
+xxz aac bbc
+c = b
+zzz ccc
+(spp) c = -(1/2)(b - b )sin2c
+yxz aac bbc
+(ssp) c = (1/2)[(b (1 - cos2c ) + b (1 + cos2c )]
+yyz aac bbc
+(psp) c = -(1/2)(b - b )sin2c
+xyz aac bbc
+(sps) none
+(pps) none
+(pss) none
+(sss) none (5a-2)
+［逆対称伸縮振動］
+(ppp) c = (1/2)b (1 + cos2c )
+zxx caa
+c = (1/2)b (1 + cos2c )
+xzx caa
+(spp) c = -(1/2)b sin2c
+yzx caa
+(ssp) none
+(psp) c = -(1/2)b sin2c
+zyx caa
+(sps) c = (1/2)b (1 - cos2c )
+yzy caa
+(pps) c = -(1/2)b sin2c
+zxy caa
+c = -(1/2)b sin2c
+xzy caa
+(pss) c = (1/2)b (1 - cos2c )
+zyy caa
+(sss) none (5a-3)
+CH基のテンソル成分による表式にTd角を仮定すると、(3-4) 式と (3-5) 式によりさらに整理される。
+［対称伸縮振動］
+(ppp) c = ( 3/9)[(b + 3b + 2b ) + (b - 3b + 2b )cos2c ]
+xxz xxz h hz zzz xxz h hz zzz
+c = (2 3/9)(2b + b )
+zzz xxz zzz
+(spp) c = -( 3/9)(b - 3b + 2b )sin2c
+yxz xxz h hz zzz
+(ssp) c = ( 3/9)[(b + 3b + 2b ) - (b - 3b + 2b )cos2c ]
+yyz xxz h hz zzz xxz h hz zzz
+(psp) c = -( 3/9)(b - 3b + 2b )sin2c
+xyz xxz h hz zzz
+(sps) none
+(pps) none
+(pss) none
+(sss) none (5a-4)
+［逆対称伸縮振動］
+(ppp) c = -( 3/9)(b - b )(1 + cos2c )
+zxx xxz zzz
+c = -( 3/9)(b - b )(1 + cos2c )
+xzx xxz zzz
+(spp) c = ( 3/9)(b - b )b sin2c
+yzx xxz zzz caa
+(ssp) none
+(psp) c = ( 3/9)(b - b )sin2c
+zyx xxz zzz
+HCCH要点 - 13
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.14 =====
+(sps) c = -( 3/9)(b - b )(1 - cos2c )
+yzy xxz zzz
+(pps) c = ( 3/9)(b - b )sin2c
+zxy xxz zzz
+c = ( 3/9)(b - b )sin2c
+xzy xxz zzz
+(pss) c = -( 3/9)(b - b )(1 - cos2c )
+zyy xxz zzz
+(sss) none (5a-5)
+5b. のけぞった CH 基
+2
+分子面が xz 面から角 q だけ ±y 軸方向にのけぞることで立体障害を解消しているときには、ファイ
+ル「オイラー角」の (Eu-2a) 式により下しきが得られる。a はHCH結合角である。
+R (c = -p /2) R (-q ) R (f = p /2)、R (c = -p /2) R (q ) R (f = p /2)、t = p /2 - q
+z b’ c z b’ c
+sinc = -1、sin2c = 0、sin3c = +1 cosc = 0、cos2c = -1、cos3c = 0
+sinf = +1、sin2f = 0、sin3f = -1 cosf = 0、cos2f = -1、cos3f = 0
+sinq = -(±)cost 、cosq = sint (5b-1)
+(sinq / -sinq ）pair（隣り合うCH 基は交互に +q と -q をとる。）
+2
+により、
+［対称伸縮振動］
+(ppp) c = b cosq
+(cid:160) xxz aac
+c = b (cosq - cos3q ) + b cos3q
+(cid:160) zzz bbc ccc
+(cid:160) (spp) c yzz = (b bbc - b ccc )(sinq - sin3q )
+(ssp) c = (b - b )cos3q + b cosq
+(cid:160) yyz bbc ccc ccc
+(psp) c = (b - b )(sinq - sin3q )
+zyz bbc ccc
+(sps) c = -(b - b )(cosq - cos3q )
+yzy bbc ccc
+(pps) c = -b sinq
+xxy aac
+c = -(b - b )sin3q - b sinq
+zzy bbc ccc ccc
+(pss) c = -(b - b )(cosq - cos3q )
+zyy bbc ccc
+(sss) c = -b sinq + (b - b )sin3q (5b-2)
+yyy bbc bbc ccc
+［逆対称伸縮振動］
+(ppp) c = b cosq
+zxx caa
+c = b cosq
+xzx caa
+(spp) c = -b sinq
+yxx caa
+(ssp) none
+(psp) c = -b sinq
+xyx caa
+(sps) none
+(pps) none
+(pss) none
+(sss) none (5b-3)
+CH基のテンソル成分による表式にTd角を仮定すると、 (3-4) 式と (3-5) 式によりさらに整理される。
+HCCH要点 - 14
+
+===== PDF p.15 =====
+［対称伸縮振動］
+(ppp) c = (2 3/9)(b + 2b )cosq
+xxz xxz zzz
+c = (2 3/9)[(2b - 3b + b )cos3q + 3b cosq ]
+zzz xxz h hz zzz h hz
+(spp) c = -(2 3/9)(2b - 3b + b )(sinq - sin3q )
+yzz xxz h hz zzz
+(ssp) c = (2 3/9)(2b - 3b + b )(cosq - cos3q ) + 3b cosq ]
+yyz xxz h hz zzz h hz
+(psp) c = -(2 3/9)(2b - 3b + b )(sinq - sin3q )
+zyz xxz h hz zzz
+(sps) c = (2 3/9)(2b - 3b + b )(cosq - cos3q )
+yzy xxz h hz zzz
+(pps) c = -(2 3/9)(b + 2b )sinq
+xxy xxz zzz
+c = -(2 3/9)[(2b - 3b + b )(sinq - sin3q ) + 3b sinq ]
+zzy xxz h hz zzz h hz
+(pss) c = (2 3/9)(2b - 3b + b )(cosq - cos3q )
+zyy xxz h hz zzz
+(sss) c = -(2 3/9)[(2b - 3b + b )sin3q + 3b sinq ] (5b-4)
+yyy xxz h hz zzz h hz
+［逆対称伸縮振動］
+(ppp) c = -(4 3/9)(b - b )cosq
+zxx xxz zzz
+c = -(4 3/9)(b - b )cosq
+xzx xxz zzz
+(spp) c = (4 3/9)(b - b )sinq
+yxx xxz zzz
+(ssp) none
+(psp) c = (4 3/9)(b - b )sinq
+xyx xxz zzz
+(sps) none
+(pps) none
+(cid:160) (pss) none
+(cid:160) (sss) none (5b-5)
+(cid:160)
+5d. z 軸まわりにねじれてからうしろにのけぞった CH 基
+(cid:160) 2
+分子面がz軸まわりに g だけねじれると同時に xz 面から角 q だけ ±y 軸方向にのけぞっているとき、
+(cid:160)
+(cid:160) ファイル「オイラー角」の (Eu-3a) 式により下式が得られる。a はHCH結合角である。
+(cid:160)
+sinc = -1、sin2c = 0、sin3c = -1 cosc = 0、cos2c = -1、cos3c = 0、
+(cid:160)
+(cid:160)
+sinf = cosg = cost /sinq 、 sin2f = sin2g = 2cost sin2q - cos2t /sin2q 、
+(cid:160)
+cosf = sing = sin2q - cos2t /sinq 、 cos2f = -cos2g = (sin2q - 2cos2t )/sin2q 、
+1 + cos2f = 1 - cos2g = 2(sin2q - cos2t )/sin2q 、 1 - cosf = 1 + cos2g = 2cos2t /sin2q (5d-1)
+(cid:160)
+either (sing , sin2g , sin3g ) set or (-sin2g , -sin2g , -sin3g ) set
+(cid:160)
+(cid:160)
+(sinq /-sinq ）pair
+（隣り合うCH 基は同じく +g または -g のどちらかを取り、q の符号が交互に交代する。）
+2
+(cid:160)
+により、
+［対称伸縮振動］
+(ppp) c = -(1/2)(b - b )sinq cosq sin2f
+xxx aac bbc
+HCCH要点 - 15
+(cid:160)
+(cid:160)
+
+===== PDF p.16 =====
+c = (1/2)(b - b )sinq cosq sin2f
+xzz aac bbc
+c = (1/2)(b - b )sinq cosq sin2f
+zxz aac bbc
+c = (1/2)[b (1 - cos2f ) + b (1 + cos2f )]cosq
+xxz aac bbc
+c = (1/2)[b (1 - cos2f ) + b (1 + cos2f )](cosq - cos3q ) + b cos3q
+zzz aac bbc ccc
+(spp) c = (1/4)[b (1 + cos2f ) + b (1 - cos2f )]sin3q + (1/2)b sin3q - (1/2)(b - b )sinq cos2f
+yxx aac bbc ccc aac bbc
+c = (1/2)[b (1 + cos2f ) + b (1 - cos2f )](sinq - sin3q ) - b (sinq - sin3q )
+yzz aac bbc ccc
+c = (1/2)(b - b )cos2q sin2q
+yxz aac bbc
+(ssp) c = (1/2)(b - b )sinq cosq sin2f
+yyx aac bbc
+c = (1/2)[b (1 + cos2f ) + b (1 - cos2f )]cos3q + b (cosq - cos3q )
+yyz aac bbc ccc
+(psp) c = (1/4)[b (1 + cos2f ) + b (1 - cos2f )]sin3q + (1/2)b sin3q - (1/2)(b - b )sinq cos2f
+xyx aac bbc ccc aac bbc
+c = (1/2)[b (1 + cos2f ) + b (1 - cos2f )] (sinq - sin3q ) - b (sinq - sin3q )
+zyz aac bbc ccc
+(sps) c = -(1/2)[b (1 + cos2f ) + b (1 - cos2f )](cosq - cos3q ) + b (cosq - cos3q )
+yzy aac bbc ccc
+(pps) c = -(1/4)(b - b )(1 - cos2f ) - (1/2)( b + b )sinq + (1/2)(b - b )sin3q
+xxy aac bbc aac bbc aac ccc
+c = -(1/2)[b (1 + cos2f ) + b (1 - cos2f )]sin3q - b (sinq - sin3q )
+zzy aac bbc ccc
+(pss) c = -(1/2)[b (1 + cos2f ) + b (1 - cos2f )] (cosq - cos3q ) + b (cosq - cos3q )
+zyy aac bbc ccc
+(sss) c = (1/4)[b (1 + cos2f ) + b (1 - cos2f )]sin3q - (1/2)(b + b )sinq - (1/2)b sin3q
+yyy aac bbc aac bbc ccc
+(5d-2)
+［逆対称伸縮振動］
+(ppp) c = -b sinq cosq sin2f
+xxx caa
+c = b cosq
+zxx caa
+c = b cosq
+xzx caa
+(spp) c = (1/2)b (sinq - 2sin3q )(1 + cos2f )
+yzz caa
+(ssp) none
+(psp) none
+(sps) c = (1/2)b sinq cosq sin2f
+yxy caa
+(pps) none
+(pss) c = (1/2)b sinq cosq sin2f
+xyy caa
+(sss) c = -(1/2)b [(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )] (5d-3)
+yyy caa
+CH基のテンソル成分による表式にTd角を仮定すると、(3-4) 式と (3-5) 式によりさらに整理される。
+［対称伸縮振動］
+(ppp) c = -(2 3/9)[(b - 3b + 2b )cost sin2q - cos2t ]cosq
+xxx xxz h hz zzz
+c = (2 3/9)[(b - 3b + 2b )cost sin2q - cos2t ]cosq
+xzz xxz h hz zzz
+c = (2 3/9)[(b - 3b + 2b )cost sin2q - cos2t ]cosq
+zxz xxz h hz zzz
+c = (2 3/9)[3b + (b + 2b )cos2t /sin2q ]cosq
+xxz h hz xxz zzz
+c = (2 3/9)[( b - 3b + 2b ) cos2t /sin2q + 3b ](cosq - cos3q )
+zzz xxz h hz zzz h hz
++ (2b + b )cos3q }
+xxz zzz
+HCCH要点 - 16
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.17 =====
+(spp) c = ( 3/9)[-(b - 3b + 2b )(1 + cos2t - 2cos2t /sin2q )
+yxx xxz h hz zzz
++ 3(b + b )sin2q ]sinq
+xxz zzz
+c = (2 3/9)[-(b - 3b + 2b )cos2t /sin2q
+yzz xxz h hz zzz
+- (b - b )](sinq - sin3q )]
+xxz zzz
+c = (2 3/9)[(b - 3b + 2b )cost sin2q - cos2t ]cos2q /sinq
+yxz xxz h hz zzz
+(ssp) c = (2 3/9)[(b - 3b + 2b )cost sin2q - cos2t ]cosq
+yyx xxz h hz zzz
+c = -(2 3/9)[(b - 3b + 2b )cos2t /sin2q
+yyz xxz h hz zzz
+- (b + 2b )]cos3q
+xxz zzz
+- (2b + b )(cosq - cos3q )}
+xxz zzz
+(psp) c = -( 3/9)[(b - 3b + 2b )(1 + cos2t - 2cos2t /sin2q )
+xyx xxz h hz zzz
+- 3(b + b )sin2q ]sinq
+xxz zzz
+c = -(2 3/9)[(b - 3b + 2b )cos2t /sin2q
+zyz xxz h hz zzz
++ (b + 2b )](sinq - sin3q )
+xxz zzz
+(sps) c = (2 3/9)[(b - 3b + 2b )cos2t /sin2q
+yzy xxz h hz zzz
+- 3(b + b )](cosq - cos3q )
+xxz zzz
+(pps) c = -(2 3/9)[(b - 3b + 2b )(sinq - sin3q + cos2t /sin2q )
+xxy xxz h hz zzz
++ 6b sinq ]
+zzz
+c = (2 3/9)[(b - 3b + 2b )cos2t sinq
+(cid:160) zzy xxz h hz zzz
++ (b + 2b )sin3q
+xxz zzz
+(cid:160) + (2b xxz + b zzz )(sinq - sin3q )]
+(pss) c = (2 3/9)[(b - 3b + 2b )cos2t /sin2q
+zyy xxz h hz zzz
+- 3(b + b )](cosq - cos3q )
+xxz zzz
+(cid:160) (cid:160) (sss) c = -( 3/9) [(b - 3b + 2b )(sinq + cos2t sinq )
+yyy xxz h hz zzz
++ (b - b )sin3q
+xxz zzz
+(cid:160) (cid:160) + 6b sinq ] (5d-4)
+h hz
+(cid:160)
+［逆対称伸縮振動］
+(ppp) c = (8 3/9)(b - b )cost sin2q - cos2t cosq
+xxx xxz zzz
+(cid:160)
+c = -(4 3/9)(b - b )cosq
+zxx xxz zzz
+(cid:160) c xzx = -(4 3/99)(b xxz - b zzz )cosq
+(spp) c = -(4 3/9)(b - b )(sinq - 2sin3t )(1 - cos2t /sin2q )
+yzz xxz zzz
+(cid:160) (ssp) none
+(psp) none
+(cid:160)
+(sps) c = -(4 3/9)(b - b )cost sin2q - cos2t cosq
+yxy xxz zzz
+(cid:160) (pps) none
+(pss) c = -(4 3/9)(b - b )cost sin2q - cos2t cosq
+xyy xxz zzz
+(cid:160) (sss) c yyy = (4 3/9)(b xxz - b zzz )[(sinq - sin3q ) + cos2t sinq ] (5d-5)
+HCCH要点 - 17
+(cid:160)
+(cid:160) (cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160)
+
+===== PDF p.18 =====
+付録 A C(100) 面の dihydride および monohydride pair の SFGテンソル
+分子固定 (abc) 系がオイラー角 (c ,q ,f ) によって空間固定 (XYZ) 系に重なるものとして、(XYZ) 系で
+のテンソル成分を求めると下のようになる。
+CH 基および平面 HCCH 基 (C 対称)
+2 2v
+［対称伸縮振動］
+(ppp) c = -(1/2)(b + b )sinq cosc
+XXX aac bbc
++ (1/8)(b + b - 2b )sin3q (3cosc + cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+aac bbc
++ 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+XZZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+ZXZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
+c = -(1/2)(b + b )sinq cosc
+ZZX aac bbc
++ (1/2)(b + b - 2b )(sinq - sin3q )cosc
+aac bbc ccc
+- (1/2)(b - b )sin3q cosc cos2f
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+XZX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+ZXX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+c = (1/2)(b + b )cosq
+XXZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+aac bbc
+c = (1/2)(b + b )cosq
+ZZZ aac bbc
+- (1/2)(b + b - 2b )cos3q
+aac bbc ccc
++ (1/2)(b - b )(cosq - cos3q )cos2f
+aac bbc
+(spp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+YXX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+YZZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YZX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YXZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+(ssp) c = -(1/2)(b + b )sinq cosc
+YYX aac bbc
++ (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
+aac bbc
+HCCH要点 - 18
+
+===== PDF p.19 =====
+- 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)(b + b )cosq
+YYZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c sin2f }
+aac bbc
+(psp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+XYX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+ZYZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XYZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZYX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
+(sps) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+YXY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+YZY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+(pps) c = (1/2)(b + b )sinq sinc
+XXY aac bbc
+- (1/8)(b + b - 2b )sin3q (sinc + sin3c )
+aac bbc ccc
++ (1/8)(b - b ){[(sinq - sin3q )(sinc + sin3c ) - sinq (3sinc - sin3c )cos2f ]
+aac bbc
+c = (1/2)(b + b )sinq sinc
+ZZY aac bbc
+- (1/2)(b + b - 2b )(sinq - sin3q )sinc
+aac bbc ccc
++ (1/2)(b - b )sin3q sinc cos2f
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XZY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZXY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
+(pss) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+XYY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+ZYY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+(sss) c = (1/2)(b + b )sinq sinc
+YYY aac bbc
+- (1/8)(b + b - 2b )sin3q (3sinc - sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
+［逆対称伸縮振動］
+(ppp) c = -(1/4)b {[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f ) + sinq (cosc - cos3c )(1 - cos2f )]
+XXX caa
+- 2sinq cosq (sinc + sin3c )sin2f }
+HCCH要点 - 19
+
+===== PDF p.20 =====
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ caa
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ caa
+c = b [(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2v ]
+ZZX caa
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+ZXX caa
++ (1 - 3cos2q )sin2c sin2f }
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+XZX caa
++ (1 - 3cos2q )sin2c sin2f }
+c = -(1/2)b [(cosq - cos3q )(1 + cos2c )(1 + cos2f ) - sin2q sin2c sin2f ]
+XXZ caa
+c = b (cosq - cos3q )(1 + cos2f )
+ZZZ caa
+(spp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+YXX caa
++ 2sinq cosq cos3c sin2f }
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [ - sin2q + (1 -
+YZX caa
+3cos2q )cos2c ]sin2f }
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ caa
+(ssp) c = (1/4)b {[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX caa
++ 2sinq cosq (sinc - sin3c )sin2f }
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ caa
+(psp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+XYX caa
++ 2sinq cosq cos3c sin2f }
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ caa
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZYX caa
+(sps) c = -((1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+YXY caa
++ 2sinq cosq sin3c sin2f }
+c = (1/4)b {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY caa
+- (1 - 3cos2q )sin2c sin2f }
+(pps) c = (1/4)b {[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY caa
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = -b [(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY caa
+(pss) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+XYY caa
++ 2sinq cosq sin3c sin2f }
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY caa
+- (1 - 3cos2q )sin2c sin2f }
+HCCH要点 - 20
+
+===== PDF p.21 =====
+(sss) c = (1/4)b {[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f ) + sinq (sinc + sin3c )(1 - cos2f )]
+YYY caa
++ 2sinq cosq (cosc - cos3c )sin2f }
+ねじれ HCCH 基（C 対称）
+2
+［対称伸縮振動］
+(ppp) c = -(1/2)(b + b )sinq cosc
+XXX aac bbc
++ (1/8)(b + b - 2b )sin3q (3cosc + cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+aac bbc
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+abc
+- 2sinq cosq (sinc + sin3c )cos2f }
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+XZZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+ZXZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+c = -(1/2)(b + b )sinq cosc
+ZZX aac bbc
++ (1/2)(b + b - 2b )(sinq - sin3q )cosc
+aac bbc ccc
+- (1/2)(b - b )cosc sin3q cos2f
+aac bbc
+- b (2sinq - sin3q )cosc sin2f
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+XZX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+ZXX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+c = (1/2)(b + b )cosq
+XXZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+aac bbc ccc
+-(1/4)(b - b {[(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) - (cosq + cos3q )cos2c ]sin2f - 2cos2q sin2c cos2f ]}
+abc
+c = (1/2)(b + b )cosq
+ZZZ aac bbc
+- (1/2)(b + b - 2b )cos3q
+aac bbc ccc
++ (1/2)(b - b )(cosq - cos3q )cos2f
+aac bbc
++ b (cosq - cos3q )sin2f
+abc
+(spp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+YXX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/2)b [2(2sinq - sin3q )(sinc + sin3c )sin2f - sinq cosq (cosc + cos3c )cos2f ]
+abc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+YZZ aac bbc ccc
+HCCH要点 - 21
+
+===== PDF p.22 =====
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YZX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YXZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
+(ssp) c = -(1/2)(b + b )sinq cosc
+YYX aac bbc
++ (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
+aac bbc
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[4 sinq cosc - (2sinq - sin3q )]sin2f + 2sinq cosq (sinc + sin3c )cos2f }
+abc
+c = (1/2)(b + b )cosq
+YYZ aac bbc
+-(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) + (cosq + cos3q )cos2c ]sin2f + cos2q sin2c cos2f }
+abc
+(psp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+XYX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f - 2sinq cosq (cosc + cos3c )cos2f
+abc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+ZYZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XYZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZYX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
+(sps) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+YXY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc + sin3c )cos2f ]]
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+YZY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+(pps) c = (1/2)(b + b )sinq sinc
+XXY aac bbc
+- (1/8)(b + b - 2b )sin3q (sinc + sin3c )
+aac bbc ccc
++ (1/8)(b - b ){[(sinq - sin3q )(sinc + sin3c ) - sinq (3sinc - sin3c )cos2f ]
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
+HCCH要点 - 22
+
+===== PDF p.23 =====
++ (1/4)b {[(2sinq - sin3q )(sinc + sin3c ) - 4sinq cosc ]sin2f
+abc
++ 2sinq cosq (cosc - cos3c )cos2f }
+c = (1/2)(b + b )sinq sinc
+ZZY aac bbc
+- (1/2)(b + b - 2b )(sinq - sin3q )sinc
+aac bbc ccc
++ (1/2)(b - b )sin3q sinc cos2f
+aac bbc
++ b sin3q sinc sin2f
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XZY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZXY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
+(pss) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+XYY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc - sin3c )cos2f ]
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+ZYY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+(sss) c = (1/2)(b + b )sinq sinc
+YYY aac bbc
+- (1/8)(b + b - 2b )sin3q (3sinc - sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+abc
+- 2sinq cosq (cosc - cos3c )cos2f }
+［逆対称伸縮振動］
+(ppp) c = -(1/4){(b + b )[4(sinq - sin3q )cosc + sin3q (cosc - cos3c )]
+XXX caa cbb
++ (b - b )[4(sinq - sin3q )cosc - (2sinq - sin3q )(cosc - cos3c )]cos2f }
+caa cbb
+- (b + b )[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+bca cab
+- 2sinq cosq (sinc + sin3c )cos2f }
+c = (1/2){(b + b )[(sinq - 2sin3q )cosc ]
+XZZ caa cbb
++ (b - b )[(sinq - 2sin3q )cosc cos2f - sinq cosq sinc sin2f ]}
+caa cbb
++ (b + b )[(sinq - 2sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+bca cab
++ (b - b ) sinq cosq sinc }
+bca cab
+c = (1/2){(b + b )[(sinq - 2sin3q )cosc ]
+ZXZ caa cbb
++ (b - b )[(sinq - 2sin3q )cosc cos2f - sinq cosq sinc sin2f ]}
+caa cbb
++ (b + b )[(sinq - 2sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+bca cab
++ (b - b )sinq cosq sinc }
+bca cab
+c = (b + b )(sinq - sin3q )cosc
+ZZX caa cbb
++ (b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+caa cbb
+HCCH要点 - 23
+
+===== PDF p.24 =====
++ (b + b )[(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+bca cab
+- (b - b )sinq cosq sinc sin2f
+bca cab
+c = (1/4){(b + b )[2cosq - (cosq - cos3q )(1 + cos2c )]
+ZXX caa cbb
++ (b - b )[2cosq cos2f cos2c - (cosq - cos3q )(1 + cos2c )cos2f + (1 - 3cos2q )sin2c sin2f ]
+caa cbb
+- (b + b )[2(cosq - cos3q ) - cos3q cos2c ]sin2f + (1 - 3cos2q )cos2f sin2c ]
+bca cab
++ (b - b )sin2q sin2c }
+bca cab
+c = (1/4){(b + b )[2cosq - (cosq - cos3q )(1 + cos2c )]
+XZX caa cbb
++ (b - b )[2cosq cos2f cos2c - (cosq - cos3q )(1 + cos2c )cos2f + (1 - 3cos2q )sin2c sin2f ]
+caa cbb
+- (b + b )[2(cosq - cos3q ) - cos3q cos2c ]sin2f + (1 - 3cos2q )cos2f sin2c ]
+bca cab
++ (b - b )sin2q sin2c }
+bca cab
+c = -(1/2){(b + b )(cosq - cos3q )(1 + cos2c )
+XXZ caa cbb
++ (b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+caa cbb
++ (b + b )[(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+bca cab
++ (b - b )sin2q sin2c }
+bca cab
+c = (b + b )(cosq - cos3q )
+ZZZ caa cbb
++ (b - b )(cosq - cos3q )cos2f
+caa cbb
++ (b + b )(cosq - cos3q )sin2f
+bca cab
+(spp) c = (1/4){(b + b )[2sinq sinc - sin3q (sinc + sin3c )]
+YXX caa cbb
++ (b - b )[(2sinq sin3c - sin3q (sinc + sin3c ))cos2f + 2sinq cosq cos3c sin2f ]
+caa cbb
+- (b + b )[sinq (sinc - sin3c )sin2f + 2sinq cosq cos3c cos2f ]
+bca cab
+- (b - b )[(sinq - sin3q )(sinc + sin3c )sin2f + 2sinq cosq cosc cos2f ]}
+bca cab
+c = -(1/2){(b + b )(sinq - 2sin3q )sinc
+YZZ caa cbb
++ (b - b )[(sinq - 2sin3q )cos2f + sinq cosq cosc sin2f ]
+caa cbb
++ (b + b )[(sinq - 2sin3q )sin2c sin2f - sinq cosq cosc cos2f ]
+bca cab
+- (b - b )sinq cosq cosc }
+bca cab
+c = (1/4){(b + b )[2(cosq - cos3q )sin2c ]
+YZX caa cbb
++ (b - b )[-2cos3q sin2c cos2f - (sin2q - (1 - 3cos2q )cos2c )sin2f ]
+caa cbb
++ (b + b )[2cos3q cos2f in2c cos2f - sin2q (1 - cos2c ) + 2cos2q ]
+bca cab
++ (b - b )[sin2q (1 - cos2c ) + 2cos2q cos2c ]cos2f }
+bca cab
+c = (1/2){(b + b )(cosq - cos3q )sin2c
+YXZ caa cbb
++ (b - b )[(cosq - cos3q )cos2c sin2f + sin2q sin2c cos2f ]
+caa cbb
++ (b + b )[(cosq - cos3q )sin2c sin2f - sin2q cos2c cos2f ]
+bca cab
+- (b - b )sin2q cos2c }
+bca cab
+(ssp) c = (1/4){(b + b )sin3q (cosc - cos3c )
+YYX caa cbb
++ (b - b )[-(2sinq - sin3q )(cosc - cos3c )cos2f + 2sinq cosq (sinc - sin3c )sin2f ]
+caa cbb
+- (b + b )(2sinq - sin3q )(cosc - cos3c )sin2f
+bca cab
++ (b - b )[2sin2q (sinc + sin3c )cos2f ]}
+bca cab
+c = -(1/2){(b + b )(cosq - cos3q )(1 - cos2c )
+YYZ caa cbb
++ (b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+caa cbb
++ (b + b )[(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+bca cab
+HCCH要点 - 24
+
+===== PDF p.25 =====
+- (b - b )sin2q sin2c }
+bca cab
+(psp) c = (1/4){(b + b )[2sinq sinc - sin3q (sinc + sin3c )]
+XYX caa cbb
++ (b - b )[(-2sinq sin3c + sin3q (sinc + sin3c ))cos2f + 2sinq cosq cos3c sin2f ]
+caa cbb
+- (b + b )[(2sinq sinc - (2sinq - sin3q )(sinc + sin3c ))sin2f + 2sinq cosq cos3c cos2f ]
+bca cab
+- (b - b )[2sinq cosq cosc ]}
+bca cab
+c = -(1/2){(b + b )(sinq - 2sin3q )sinc
+ZYZ caa cbb
++ (b - b )[(sinq - 2sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+caa cbb
++ (b + b )[(sinq - 2sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+bca cab
+- (b - b )sinq cosq cosc }
+bca cab
+c = (1/2){(b + b )(cosq - cos3q )sin2c
+XYZ caa cbb
++ (b - b )[(cosq - cos3q )sin2c cos2f + sin2q cos2c sin2f ]
+caa cbb
++ (b + b )[(cosq - cos3q )sin2c sin2f - sin2q cos2c cos2f ]
+bca cab
+- (b - b )sin2q cos2c }
+bca cab
+c = (1/4){(b + b )[2(cosq - cos3q )sin2c ]
+ZYX caa cbb
++ (b - b )[-2cos3q sin2c cos2f + (-sin2q + (1 - 3cos2q )cos2c )sin2f ]
+caa cbb
++ (b + b )[2cos3q sin2c sin2f - sin2q (1 - cos2c ) + 2cos2q ]
+bca cab
+(sps) c = -(1/4){(b + b )[2sinq cosc - sin3q (cosc - cos3c )]
+YXY caa cbb
++ (b - b )[(-2sinq cos3c - sin3q (cosc - cos3c ))cos2f + 2sinq cosq sin3c sin2f ]
+caa cbb
+- (b + b )[(2sinq cosc - (2sinq - sin3q )(cosc - cos3c ))sin2f - 2sinq cosq sin3c cos2f
+bca cab
++ (b - b )[2sinq cosq sinc ]}
+bca cab
+c = (1/4){ (b + b )[2cosq - 2(cosq - cos3q )(1 - cos2c )]
+YZY caa cbb
++ (b - b )[-2(cosq cos2c + (cosq - cos3q )(1 - cos2c ))cos2f - (1 - 3cos2q )sin2c sin2f ]
+caa cbb
+- (b + b )[2(cosq - cos3q )sin2f - (1 - 3cos2q )sin2c cos2f ]
+bca cab
+- (b - b )[-2cos3q cos2c sin2f + sin2q sin2c cos2f ]}
+bca cab
+(pps) c = (1/4){(b + b )[-sin3q (sinc + sin3c )]
+XXY caa cbb
++ (b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+caa cbb
++ (b + b )[(2sinq - sin3q )(sinc + sin3c )sin2f ]
+bca cab
++ (b - b )[2sinq cosq (cosc - cos3c )cos2f ]}
+bca cab
+c = {(b + b )[-(sinq - sin3q )sinc ]
+ZZY caa cbb
++ (b - b )[-(sinq - sin3q )sinc cos2f - sinq cosq cosc sin2f ]
+caa cbb
++ (b + b )[-(sinq - sin3q )sinc sin2f + sinq cosq cosc cos2f ]
+bca cab
++ (b - b )sinq cosq cosc }
+bca cab
+c = (1/4){(b + b )[2(cosq - cos3q )1sin2c ]
+ZXY caa cbb
++ (b - b )[-2cos3q sin2c cos2f + (sin2q + (1 - 3cos2q )cos2c )sin2f ]
+caa cbb
++ (b + b )[-sin2q (1 + cos2c )cos2f + 2cos2q cos2c cos2f ]
+bca cab
++ (b - b )[-2cos2q + 2cos3q sin2c sin2f + sin2q (1 + cos2c )]}
+bca cab
+c = (1/4){(b + b )[2(cosq - cos3q )1sin2c ]
+XZY caa cbb
++ (b - b )[-2cos3q sin2c cos2f + (sin2q + (1 - 3cos2q )cos2c )sin2f ]
+caa cbb
++(b + b )[-sin2q (1 + cos2c )cos2f + 2cos2q cos2c cos2f ]
+bca cab
+HCCH要点 - 25
+
+===== PDF p.26 =====
++ (b - b )[-2cos2q + 2cos3q sin2c sin2f + sin2q (1 + cos2c )]}
+bca cab
+(pss) c = -(1/4){(b + b )[2sinq cosc - sin3q (cosc - cos3c )]
+XYY caa cbb
++ (b - b )[-2sinq cos3c - sin3q (cosc - cos3c )cos2f + 2sinq cosq sin3c sin2f ]
+caa cbb
+- (b + b )[(2sinq cosc - (2sinq - sin3q )(cosc - cos3c ))sin2f - 2sinq cosq sin3c cos2f ]
+bca cab
++ (b - b )[2sinq cosq sinc ]}
+bca cab
+c = (1/4){(b + b )[2cosq - 2(cosq - cos3q )(1 - cos2c )]
+ZYY caa cbb
++ (b - b )[-2(cosq cos2c + (cosq - cos3q )(1 - cos2c ))cos2f - (1 - 3cos2q )sin2c sin2f ]
+caa cbb
+- (b + b )[2(cosq - cos3q )sin2f - (1 - 3cos2q )sin2c cos2f ]
+bca cab
+- (b - b )[-2cos3q cos2c sin2f + sin2q sin2c cos2f ]}
+bca cab
+(sss) c = (1/4){(b + b )[(sinq - sin3q )(3sinc - sin3c ) + sinq (sinc + sin3c )]
+YYY caa cbb
++ (b - b )[(2sinq (sinc - sin3c ) - sin3q (3sinc - sin3c ))cos2f
+caa cbb
++ 2sinq cosq (cosc - cos3c )sin2f ]
++ (b + b )[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+bca cab
+- 2sinq cosq (cosc - cos3c )cos2f ]}
+HCCH要点 - 26

@@ -1,0 +1,24 @@
+{
+  "batch": "B130",
+  "date": "2026-10-20",
+  "source_pages": [
+    6,
+    7
+  ],
+  "source_sha256": "3f6eeee4f3418c4a89181b0c0142b95aee1adda31fb6e94a7c100fd000f58be2",
+  "content": "背界面外侧及完整薄膜的反射和透射",
+  "equation_tags": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "source_page_images_visually_checked": true,
+  "render_screenshot_visually_checked": true,
+  "adopted_source_corrections": false,
+  "new_named_formula_abbreviations": false
+}

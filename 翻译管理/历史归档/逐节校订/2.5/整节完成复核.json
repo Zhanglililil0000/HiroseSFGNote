@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-20",
+  "section": "2.5",
+  "status": "本轮全节译校及数学排版完成",
+  "source_pages": 20,
+  "source_sha256": "6dff0000c7d1d7672b10e8a43cf9d683ac5fb7602b50aba9d875dba4992c4094",
+  "numbered_equations_unique": 90,
+  "unnumbered_relations_covered": true,
+  "appendix_D_proof_chains": 6,
+  "source_figures": 0,
+  "formula_images_used": 0,
+  "strict_math_fragments": 292,
+  "strict_math_errors": 0,
+  "render_overflow": false,
+  "all_batch_previews_visually_checked": true,
+  "whole_start_end_and_long_formulas_visually_checked": true,
+  "tentative_text_readings": [
+    "E-2.5-001"
+  ],
+  "source_formula_corrections_adopted": false,
+  "questions_retained": [
+    "Q039",
+    "Q040",
+    "Q041",
+    "Q044",
+    "Q047",
+    "Q053",
+    "Q061",
+    "Q062",
+    "Q063",
+    "Q064",
+    "Q072",
+    "Q073",
+    "Q080",
+    "Q081",
+    "Q082",
+    "Q083",
+    "Q084",
+    "Q085"
+  ],
+  "next_batch": "B146",
+  "next_section": "2.6 薄膜内的电场（未开始本轮校订）"
+}

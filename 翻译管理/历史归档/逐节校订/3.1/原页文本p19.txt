@@ -1,0 +1,283 @@
+2 層膜の SFG - 19
+€ 
+E
++
+2 (hm' + hm
++
+)net =
+(1+ r1 m'
+rm'ma
+2
+) ± (rm'm + r1 m'a
+2
+)b
+2
+1+ r1m'
+rm'ma
+2
++ (rm'm + r1 m'a
+2
+)rm2b
+2 L
++
+2/mP
+*
+(z2 = hm
++
+)
+(upper sign for x and y, lower sign for z)
+(2.20) 式を参照して、
+€ 
+E
++
+2,p (hm' + hm
++
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+t m'm,vis,α
+tm2,vis,α
+e
+i( β m', vishm'
++βm, vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1m',ir,β
+tm'm,ir,β
+tm2,ir,β
+e
+i(β m',ir hm'
++β m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×{
+[(1+ r
+1 m',SF,p
+rm'm,SF,p
+e
+2 iβ m',SFhm '
+) + (rm'm,SF ,p
++ r
+1m',SF,p
+e
+2 iβ m',SFhm '
+)e
+2iβ m, SFhm
+]L
+−
+2/m,pxχxαβ
+1+ r
+1 m',SF,p
+rm'm,SF,p
+e
+2 iβ m',SFhm ' + (rm'm,SF ,p
++ r
+1m',SF,p
+e
+2iβ m',SFhm'
+)rm2 ,SF,p
+e
+2iβ m, SFhm
+€ 
++
+[(1+ r
+1 m',SF ,p
+rm'm,SF,p
+e
+2 iβ m',SFhm '
+) − (rm'm,SF,p
++ r
+1 m',SF,p
+e
+2iβm ', SFhm'
+)e
+2iβ m,SFhm
+]L
+−
+2/m,pz χzαβ
+1 + r
+1m',SF,p
+rm'm,SF,p
+e
+2iβ m', SFhm' + (rm'm,SF,p
++ r
+1 m',SF ,p
+e
+2iβm ', SFhm'
+)rm2,SF ,p
+e
+2iβ m,SFhm
+} (nm" = n2
+)
+(2.36a)
+€ 
+E
++
+2,s (h m' + h m
++
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+t m'm,vis,α
+tm2,vis,α
+e
+i( β m', vishm'
++βm, vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1m',ir,β
+tm'm,ir,β
+tm2,ir,β
+e
+i(β m',ir hm'
++β m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+[(1 + r
+1m',SF,s
+rm'm,SF,s
+e
+2iβm ', SFhm'
+) + (rm'm,SF,s
++ r
+1m',SF,s
+e
+2iβm ', SFhm'
+)e
+2iβ m,SFhm
+]L
+−
+2/m,syχyαβ
+1 + r
+1m',SF,s
+rm'm,SF ,s
+e
+2iβ m', SFhm' + (rm'm,SF,s
++ r
+1m',SF,s
+e
+2iβm ', SFhm'
+)rm2,SF ,s
+e
+2iβ m, SFhm
+(2.36b)
+m/2 界面の m 側の分極からの SFG：
+(a): 反射方向
+ファイル「一般式」の (2.5) 式と (2.7) 式において、z2 = hm、b0* = 1、b0= b とする。
+€ 
+E
+−
+1 (0
+−
+)net =
+abtmm'
+(rm2L
++
+m/m + L
+−
+m/m)
+1 + r1m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z 2 = h m
+−
+)
+ここで、
+€ 
+tmm',pL
++
+m/m,px = tmm',pL
+−
+m/m,px = L
+−
+m'/m,px ,
+€ 
+tmm',sL
++
+m/m,sy = tmm',sL
+−
+m/m,sy = L
+−
+m'/m,sy ,
+€ 
+tmm',pL
++
+m/m,pz = tmm',pL
+−
+m/m,pz = −L
+−
+m'/m,px (nm" = nm)

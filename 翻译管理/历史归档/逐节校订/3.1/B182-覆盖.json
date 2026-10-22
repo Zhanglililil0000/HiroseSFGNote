@@ -1,0 +1,16 @@
+{
+  "batch": "B182",
+  "date": "2026-10-20",
+  "pages": [
+    12,
+    13
+  ],
+  "units": "m体相正反向极化2.29—2.30",
+  "tags": [
+    "2.29",
+    "2.30"
+  ],
+  "source_formula_corrections_adopted": false,
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f"
+}

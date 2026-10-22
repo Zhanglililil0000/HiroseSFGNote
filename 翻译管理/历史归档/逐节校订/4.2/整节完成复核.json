@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-21",
+  "section": "4.2",
+  "status": "全节译校完成，原文疑点待核",
+  "source_pages": 19,
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "translation_sha256": "4f697b4a7835f7ad645d689ebebe6dbeea54993157a0f5f8ce354ea2d357ce59",
+  "batches": "B277—B294",
+  "numbered_equations": 19,
+  "tensor_table_component_occurrences": 178,
+  "math_fragments": 668,
+  "math_syntax_errors": 0,
+  "formula_overflows": 0,
+  "open_source_issues": "Q138—Q145",
+  "source_formula_corrections_adopted": false,
+  "next_batch": "B295，4.3原题/结构/CH₂局部坐标核验"
+}

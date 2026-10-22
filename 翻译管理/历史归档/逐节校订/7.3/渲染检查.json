@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-22",
+  "math": 49,
+  "results": [
+    {
+      "batch": "B628",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "batch": "B629",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "batch": "B630",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ]
+    }
+  ]
+}

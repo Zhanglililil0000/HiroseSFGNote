@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-19",
+  "batches": [
+    "B060",
+    "B061",
+    "B062"
+  ],
+  "sourcePages": "p2—3，式2.1—2.6及对应解释",
+  "completedNumberedEquations": [
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.4",
+    "2.5",
+    "2.6"
+  ],
+  "completedMathFragments": 64,
+  "unrevisedPart3OnwardUnchanged": true,
+  "batchTextsMatchCompletedPrefix": true,
+  "sectionComplete": false
+}

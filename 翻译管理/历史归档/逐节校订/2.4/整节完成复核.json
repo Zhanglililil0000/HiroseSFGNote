@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-20",
+  "section": "2.4",
+  "status": "本轮全节译校及数学排版完成",
+  "source_pages": 10,
+  "source_sha256": "3f6eeee4f3418c4a89181b0c0142b95aee1adda31fb6e94a7c100fd000f58be2",
+  "numbered_equations": 28,
+  "numbered_tags_unique": true,
+  "unnumbered_relations_covered": true,
+  "source_figures": 0,
+  "formula_images_used": 0,
+  "strict_math_fragments": 168,
+  "strict_math_errors": 0,
+  "render_overflow": false,
+  "batch_previews_visually_checked": [
+    "B126",
+    "B127",
+    "B128",
+    "B129",
+    "B130",
+    "B131",
+    "B132",
+    "B133"
+  ],
+  "whole_preview_start_boundary_end_checked": true,
+  "whole_preview_capture": "分屏截图拼接，避免超长浏览器截图高度限制",
+  "bulk_coverage_checks": {
+    "13a": "四个积分分母齐备",
+    "13b": "四个积分分母齐备",
+    "14a": "i/δ及三个公共分式；每个偏振分支八个分式，按四对原分子完整展开",
+    "14b": "i/δ及三个公共分式；每个偏振分支八个分式，按四对原分子完整展开"
+  },
+  "questions_retained": [
+    "Q041",
+    "Q077",
+    "Q078",
+    "Q079",
+    "Q080",
+    "Q081",
+    "Q082",
+    "Q083",
+    "Q084"
+  ],
+  "adopted_source_corrections": false,
+  "source_pdf_unchanged": true,
+  "next_batch": "B134",
+  "next_section": "2.5（尚未开始本轮校订）"
+}

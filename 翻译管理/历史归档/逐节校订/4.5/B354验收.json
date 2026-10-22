@@ -1,0 +1,23 @@
+{
+  "batch": "B354",
+  "date": "2026-10-21",
+  "scope": "附录E：简并对称模式",
+  "pages": [
+    53,
+    54,
+    55,
+    56
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "97deadc96a963e8d201015bab853daf6e1bf3626c94024a117452500249685f8",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B354",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

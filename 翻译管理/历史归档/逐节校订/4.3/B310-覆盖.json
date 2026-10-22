@@ -1,0 +1,12 @@
+{
+  "batch": "B310",
+  "date": "2026-10-21",
+  "pages": [
+    21,
+    22
+  ],
+  "scope": "5c原求和式与5d完整镜面几何、转换关系、跨页求和及选择规则",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

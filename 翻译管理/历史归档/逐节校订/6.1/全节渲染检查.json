@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-22",
+  "math": 902,
+  "scrollWidth": 1100,
+  "height": 69769,
+  "overs": [],
+  "images": [
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p23-%E5%A4%9A%E9%87%8D%E6%95%A3%E5%B0%84%E5%B1%95%E5%BC%80.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p25-%E5%81%B6%E6%9E%81%E9%93%BE%E5%90%B8%E6%94%B6%E7%A4%BA%E6%84%8F.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p26-%E5%BC%8F2.2.6.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p26-%E8%BE%90%E5%B0%84%E5%9C%BA.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p27-%E5%BC%8F2.2.9-10.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p29-%E5%BC%8F2.3.4%E5%B1%95%E5%BC%80.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p37-%E5%BC%8F3.6.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p37-%E5%BC%8F3.7.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p37-%E5%BC%8F3.8.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p37-%E5%BC%8F3.9.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p37-%E5%BC%8F3.10.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p38-%E5%BC%8F3.14.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p39-%E5%BC%8F3.18.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p41-%E5%B1%8F%E8%94%BD%E5%92%8C%E9%A2%91%E5%BC%8F.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p41-%E5%8F%96%E5%90%91%E5%9B%BE.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p41-%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E6%B1%87%E6%80%BB%E5%BC%8F.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p44-%E5%8F%8C%E5%81%B6%E6%9E%81%E5%87%A0%E4%BD%95.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p45-%E9%95%9C%E5%83%8F%E7%94%B5%E8%8D%B7%E5%9B%BE1.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p46-%E6%9E%81%E5%8C%96%E9%9D%A2%E7%94%B5%E8%8D%B7%E5%9B%BE.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p48-%E9%95%9C%E5%83%8F%E6%96%B9%E5%90%91%E5%9B%BE.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p48-%E5%BC%8FC.2.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p50-%E8%86%9C%E5%A4%96%E7%94%B5%E8%8D%B7.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p51-%E5%BC%8FD.2a.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p51-%E5%BC%8FD.3a.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p51-%E5%BC%8FD.4a%E4%B8%8A.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p52-%E5%BC%8FD.4a%E4%B8%8B.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p52-%E8%86%9C%E5%86%85%E7%94%B5%E8%8D%B7.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p52-%E5%BC%8FD.5a.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p52-%E5%BC%8FD.6a.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p53-%E5%BC%8FD.7a.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/6.1/p54-CPA%E7%A4%BA%E6%84%8F.png",
+      "loaded": true
+    }
+  ],
+  "headings": [
+    {
+      "text": "原文目录（PDF p1）",
+      "y": 520
+    },
+    {
+      "text": "1. 引言（PDF p2）",
+      "y": 2309
+    },
+    {
+      "text": "1.1 经典力学模型（PDF p2—3）",
+      "y": 2646
+    },
+    {
+      "text": "1.2 线性极化率（PDF p4—10）",
+      "y": 6265
+    },
+    {
+      "text": "1.3 吸收与发光（线性情形，PDF p10—13）",
+      "y": 16296
+    },
+    {
+      "text": "1.4 吸收与发光（非线性情形，PDF p13—14）",
+      "y": 19340
+    },
+    {
+      "text": "2. 偶极—偶极相互作用（PDF p14起）",
+      "y": 20452
+    },
+    {
+      "text": "2.1 带电粒子的运动方程",
+      "y": 22331
+    },
+    {
+      "text": "2.2 Scheffler的思路：形成直观图像（PDF p25—27）",
+      "y": 31686
+    },
+    {
+      "text": "2.3 Persson与Ryberg的方法之一：同一物种的覆盖度依赖性（PDF p27—31）",
+      "y": 34156
+    },
+    {
+      "text": "2.4 Persson与Ryberg的方法之二：同位素混合物与相干势近似（PDF p31—33）",
+      "y": 37068
+    },
+    {
+      "text": "2.5 向同一物种的振动激发体系推广（PDF p33）",
+      "y": 38954
+    },
+    {
+      "text": "2.6 与自身镜像的相互作用：真实偶极与镜像的“传接球”（PDF p33—35）",
+      "y": 39501
+    },
+    {
+      "text": "2.7 小结（PDF p35）",
+      "y": 40768
+    },
+    {
+      "text": "3. 和频光谱中的偶极—偶极相互作用",
+      "y": 40947
+    },
+    {
+      "text": "3.1 与IRAS的区别（PDF p35—36）",
+      "y": 41018
+    },
+    {
+      "text": "3.2 同一物种的情形（PDF p36—40）",
+      "y": 41661
+    },
+    {
+      "text": "3.3 同位素混合物的情形（PDF p40；原文提纲）",
+      "y": 47000
+    },
+    {
+      "text": "3.4 同一物种、振动激发的情形（PDF p40；原文提纲）",
+      "y": 47145
+    },
+    {
+      "text": "3.5 与自身镜像的相互作用（PDF p40；原文提纲）",
+      "y": 47289
+    },
+    {
+      "text": "3.6 小结（PDF p40）",
+      "y": 47434
+    },
+    {
+      "text": "4. 要点（PDF p40—42）",
+      "y": 47719
+    },
+    {
+      "text": "附录A：电偶极矩产生的电场（PDF p42—44）",
+      "y": 50947
+    },
+    {
+      "text": "附录B：镜像电荷与镜像偶极子（PDF p44—47）",
+      "y": 53585
+    },
+    {
+      "text": "附录C：单个偶极子与自身镜像组成的偶极子对的响应（PDF p47—49）",
+      "y": 57700
+    },
+    {
+      "text": "附录D：三层体系中的镜像电荷（PDF p49—53）",
+      "y": 60496
+    },
+    {
+      "text": "附录E：数学公式（PDF p53—54）",
+      "y": 65674
+    },
+    {
+      "text": "δ函数",
+      "y": 65745
+    },
+    {
+      "text": "级数求和",
+      "y": 66677
+    },
+    {
+      "text": "附录F：术语说明（PDF p54—55）",
+      "y": 66958
+    },
+    {
+      "text": "自洽场：SCF（self-consistent field）",
+      "y": 67082
+    },
+    {
+      "text": "平均场近似：MFA（mean field approximation），亦称分子场近似（molecular field approximation）",
+      "y": 67310
+    },
+    {
+      "text": "相干势近似：CPA",
+      "y": 67460
+    },
+    {
+      "text": "克劳修斯—莫索蒂关系（Clausius–Mosotti’s relation）",
+      "y": 68254
+    },
+    {
+      "text": "局域场（local field）",
+      "y": 68796
+    }
+  ],
+  "screenshots": 25
+}

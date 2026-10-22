@@ -1,0 +1,337 @@
+[
+  {
+    "path": "Preface序言.md",
+    "sha256": "9ce5004354b1ea751f08ebf91260d06655d67463ef376d324a63aef5f9e069db",
+    "bytes": 1787
+  },
+  {
+    "path": "中文版本/.DS_Store",
+    "sha256": "bf0870a00a8eff01dd442ccea93bbc9652a918a8f4a6b9949ce9b207e8aba498",
+    "bytes": 6148
+  },
+  {
+    "path": "日语原版/.DS_Store",
+    "sha256": "ecefa8f2ceb0f695dbeb0c392384471227820617e586916d26db832fb8dbd902",
+    "bytes": 6148
+  },
+  {
+    "path": "中文版本/第一章 SFG快速入门/.DS_Store",
+    "sha256": "d37db52a08f14d2705bb6f32afe132f664c8e968ceeb83626b6fe9df65ede085",
+    "bytes": 6148
+  },
+  {
+    "path": "中文版本/第一章 SFG快速入门/1.1 红外-可见光和频振动光谱（SFG）入门.md",
+    "sha256": "85179df1a09c77d2db03d46777966b87d8f6d675d00cd6b49605ba5b37a48a78",
+    "bytes": 81310
+  },
+  {
+    "path": "中文版本/第一章 SFG快速入门/1.2 振动共振、费米共振与双原子分子.md",
+    "sha256": "328c9e260cd7127f4693e5fe5a626608d4098ec6326a90a65e001671e1b874ce",
+    "bytes": 37721
+  },
+  {
+    "path": "中文版本/第一章 SFG快速入门/1.3 光电场、极化与菲涅尔因子.md",
+    "sha256": "baf25a2700bd0235787dd089be7bed1428596c1ff2c0ccda22d51428447310c6",
+    "bytes": 13968
+  },
+  {
+    "path": "中文版本/第一章 SFG快速入门/1.4 电偶极子的电场与辐射.md",
+    "sha256": "7d9c6f6117c47b9ccc8053b8447285934d44c61076694f404c295b27e2180b75",
+    "bytes": 19381
+  },
+  {
+    "path": "中文版本/第一章 SFG快速入门/1.5 SFG光谱的早期工作整理（1983—1995）.md",
+    "sha256": "0fbea771904608f743e126d7c36ba07ba9d8f77a57cfd6e6e820ba15f11d5bb2",
+    "bytes": 26065
+  },
+  {
+    "path": "中文版本/第三章 双层膜的和频/3.1 二层膜及三层膜产生的和频光.md",
+    "sha256": "e361ef7e2f1ed775e488103551a3c16535db1a437beccdd7f88a4e80b606c91d",
+    "bytes": 112439
+  },
+  {
+    "path": "中文版本/第三章 双层膜的和频/3.2 双层膜和频的一般式.md",
+    "sha256": "7734ac0e5e4b23a3f218333ee72ff0c52605142c7f8cdc56ad512632e0244fd6",
+    "bytes": 25332
+  },
+  {
+    "path": "中文版本/第二章 薄膜产生的SFG/2.1 嵌入层内的发光膜产生的光电场.md",
+    "sha256": "02456a734bdc85638b0d0705588af9e3f0cc7ff13f221d922352b510082117df",
+    "bytes": 25051
+  },
+  {
+    "path": "中文版本/第二章 薄膜产生的SFG/2.2 多层膜的和频过程（SFG）.md",
+    "sha256": "af8d1ebb81f5d827e4bec356d0379e48f3c44875ad76dd5ace72afec5f6ed11d",
+    "bytes": 71516
+  },
+  {
+    "path": "中文版本/第二章 薄膜产生的SFG/2.3 多层膜的和频过程（SFG）：附录集.md",
+    "sha256": "bce10bf1139463910e5dbf3e200ab95feb9eed167a00a2134c59059aaadf8699",
+    "bytes": 27692
+  },
+  {
+    "path": "中文版本/第二章 薄膜产生的SFG/2.4 多层膜的和频过程（SFG）：表达式.md",
+    "sha256": "4327a9daf65ddbc2ccca8e12e8cfcd297d449b59bbb8999e4d7643c2685d6edb",
+    "bytes": 27655
+  },
+  {
+    "path": "中文版本/第二章 薄膜产生的SFG/2.5 多层膜的和频过程（SFG）：要点.md",
+    "sha256": "d163d7c326803ee6432844c51b0a37d90d05697a1ee60ff89be3931b864486a9",
+    "bytes": 63185
+  },
+  {
+    "path": "中文版本/第二章 薄膜产生的SFG/2.6 薄膜内的电场.md",
+    "sha256": "00529f8adccdbe9ada6569ca25a158d6ecfca1725d8bb5f7f52f951e1e4657b7",
+    "bytes": 41625
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.1 CH、CH₂、CH₃基团CH伸缩振动的和频极化率.md",
+    "sha256": "f7a956660480bf95056e19834e70694445435c1a1ca36c8cb34a95d0d78919c4",
+    "bytes": 83832
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.10 CH₂基团及HCCH基团的欧拉角.md",
+    "sha256": "6718590c62924f70e4c1b648fc00b926cacf121bd189c3e4c6acd79c40866bc5",
+    "bytes": 12696
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.11 表面坐标系到实验室坐标系的张量旋转.md",
+    "sha256": "da0cacc61b90b1d10b8a83ab714cc5a52200bf43462a65f3e0f966a9b33996c3",
+    "bytes": 5528
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.2 CH₃基团的取向与和频张量.md",
+    "sha256": "73b88b4a57a0d22f2116fd48d089f08e83b64d4ebdb2b1db34938b519aea15aa",
+    "bytes": 60244
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.3 CH₂基团的取向与和频张量.md",
+    "sha256": "850f4f7a487d17f095302adba2055dbcb1df85bed2a23f7ed9eb15fa66de61d0",
+    "bytes": 84945
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.4 CH基团的取向与和频张量.md",
+    "sha256": "f89be10fb49c8005c918b4b86866ef5b5bee1c0d2b56d0d23d8dbb3616a2b40e",
+    "bytes": 25802
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.5 两个CH₃基团的张量分量.md",
+    "sha256": "557dae5a390959c73e9dee01e0e9aa69285be5600f2ff56c482d9762a4d7429c",
+    "bytes": 41496
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.6 CH₃基团的C₃ᵥ对称性破缺时的处理.md",
+    "sha256": "4b21d2afbabf6d19dfe54bda117909af32d2b3e3fca2967c806e82ab5b07a554",
+    "bytes": 7686
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.7 CH₂、平面HCCH及扭转HCCH的和频张量.md",
+    "sha256": "16f85100a9d0aa5c3f100b5c991bb48c724241c64170fc37fc18c99acdf11b3e",
+    "bytes": 50976
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.8 氢化金刚石表面CH的和频张量.md",
+    "sha256": "7566d016b14512163bf6a06209a86c9b03bb8dbe3d909f634edaf1bf26e0fa0e",
+    "bytes": 47057
+  },
+  {
+    "path": "中文版本/第四章 单层膜与多层膜的和频/4.9 氢化金刚石表面CH的和频张量（要点）.md",
+    "sha256": "d9035e3159cbf4a94f340782d9eda45bbc7fec02eeda0da6beb93f76eefc518d",
+    "bytes": 51436
+  },
+  {
+    "path": "日语原版/Chapter1/chap1-1Japanese.pdf",
+    "sha256": "55e78cbf698abc1d53b424010b3abc52299da10a7b7fee236f44a73a0ce6ac8b",
+    "bytes": 80683
+  },
+  {
+    "path": "日语原版/Chapter1/chap1-2Japanese.pdf",
+    "sha256": "69370a4008181dc7dd6aad9b80a3f1c3f28b84b865990bd7a7853318d0467ad7",
+    "bytes": 42045
+  },
+  {
+    "path": "日语原版/Chapter1/chap1-3Japanese.pdf",
+    "sha256": "89234d8d6c1d9fad3d2c544c993fb91776412e6b1ffc34638257395d6985f596",
+    "bytes": 18751
+  },
+  {
+    "path": "日语原版/Chapter1/chap1-4Japanese.pdf",
+    "sha256": "26eb48862e6bd3f5b9ee21ee44eb36a76a3bbb0a272e88fc5400a01c65282d9b",
+    "bytes": 28922
+  },
+  {
+    "path": "日语原版/Chapter1/chap1-5Japanese.pdf",
+    "sha256": "51e13b7a66d302a026921c1c123078a51b7b89bcd01f4f4503c491307b02c072",
+    "bytes": 28263
+  },
+  {
+    "path": "日语原版/Chapter2/chap2-1.pdf",
+    "sha256": "e6b7962f94f3b89be4897a81668b4061439b070c3cfef7f8776918f12c05dd61",
+    "bytes": 36601
+  },
+  {
+    "path": "日语原版/Chapter2/chap2-2.pdf",
+    "sha256": "24c9c3fcfe8b0aad0d5f5fc0a570391b7bed5336320f2800e8be0a2997ed4aad",
+    "bytes": 158411
+  },
+  {
+    "path": "日语原版/Chapter2/chap2-3.pdf",
+    "sha256": "63c635f8fde9e43fd6e7e9b1be2504119bf4354fb7a1f3deba48f3024eb28384",
+    "bytes": 42283
+  },
+  {
+    "path": "日语原版/Chapter2/chap2-4.pdf",
+    "sha256": "3f6eeee4f3418c4a89181b0c0142b95aee1adda31fb6e94a7c100fd000f58be2",
+    "bytes": 31503
+  },
+  {
+    "path": "日语原版/Chapter2/chap2-5.pdf",
+    "sha256": "6dff0000c7d1d7672b10e8a43cf9d683ac5fb7602b50aba9d875dba4992c4094",
+    "bytes": 66272
+  },
+  {
+    "path": "日语原版/Chapter2/chap2-6.pdf",
+    "sha256": "329e6cc656b6e143555bac82f6320e9dd051ee782f93151a1c743159f76f2f35",
+    "bytes": 42489
+  },
+  {
+    "path": "日语原版/Chapter3/chap3-1.pdf",
+    "sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+    "bytes": 160642
+  },
+  {
+    "path": "日语原版/Chapter3/chap3-2.pdf",
+    "sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+    "bytes": 48186
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-1.pdf",
+    "sha256": "ddd8bdf08396ce91fbd9c8dd58f5c25ca86c6b6f7c6b8172db442fc06e25e07e",
+    "bytes": 110682
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-10.pdf",
+    "sha256": "d734ad0e42503a08065d0beb0964a16668ad9b7d7667355dbc59629378d9ef20",
+    "bytes": 27843
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-11.pdf",
+    "sha256": "ab1f8aeb2af1a10fa24966850ba47e0ab1e787aeb4dc3fa2126063315f8dd3d7",
+    "bytes": 5928
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-2.pdf",
+    "sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+    "bytes": 55840
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-3.pdf",
+    "sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+    "bytes": 67593
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-4.pdf",
+    "sha256": "1666fe24701663a09a661d5f4e0c910daa6c8d7bb1d3c180805c3c73debccf69",
+    "bytes": 30436
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-5.pdf",
+    "sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+    "bytes": 162524
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-6.pdf",
+    "sha256": "c20d8094d3aa4ed74ef52cc35cc911f54524263c274039fcce2fc9727c1415aa",
+    "bytes": 12868
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-7.pdf",
+    "sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+    "bytes": 112257
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-8.pdf",
+    "sha256": "cfc4caf877fc58737bfa36560a8804c007d4a98af48700132b2e76b78dba6774",
+    "bytes": 163318
+  },
+  {
+    "path": "日语原版/Chapter4/chap4-9.pdf",
+    "sha256": "e7c54d9f08011b72a5fb257ad3863540de889e65644548e1cef440b667d3171f",
+    "bytes": 123648
+  },
+  {
+    "path": "日语原版/Chapter5/chap5-1.pdf",
+    "sha256": "1ba8059da80e061e51d0e0b693f8748921a8db7a2b2380f1b9a8d800d4dbf110",
+    "bytes": 24285
+  },
+  {
+    "path": "日语原版/Chapter5/chap5-2.pdf",
+    "sha256": "368621d6310f562b678e9cadd707839ccd032eb6add2ec0f7a1b53eade4a8e7b",
+    "bytes": 70284
+  },
+  {
+    "path": "日语原版/Chapter5/chap5-3.pdf",
+    "sha256": "4ef0c02adba817841b359776f5307a6522c6ecc5665bc70311ae48f0f2681538",
+    "bytes": 35632
+  },
+  {
+    "path": "日语原版/Chapter5/chap5-4.pdf",
+    "sha256": "c5017e586fd1df7f80958928936934264f3af2774e200e4307abd5db906ad6a2",
+    "bytes": 554896
+  },
+  {
+    "path": "日语原版/Chapter5/chap5-5.pdf",
+    "sha256": "58c334653e57884c34d3d39f64f53647e197bea0ecb21170473d37ca4442042d",
+    "bytes": 410838
+  },
+  {
+    "path": "日语原版/Chapter5/chap5-6.pdf",
+    "sha256": "5b6cee640eb28055e30a3d6c399a503b79e9a9ef020f11c60a0f5968f9f49421",
+    "bytes": 541027
+  },
+  {
+    "path": "日语原版/Chapter6/chap6-1.pdf",
+    "sha256": "5a0fbd5e11cba59d4e9b6a028676da0323b7324c9a0c7c5985176303ff6770e4",
+    "bytes": 209870
+  },
+  {
+    "path": "日语原版/Chapter7/chap7-1.pdf",
+    "sha256": "4f38617ac27f4e930a33078d389ef15f4cc3fd29f2cc544af3428c2953f2b99a",
+    "bytes": 48136
+  },
+  {
+    "path": "日语原版/Chapter7/chap7-2.pdf",
+    "sha256": "a724bb98821ea1ac038bca6f1bd725bc0127749b7ec2d872a3bebbf2798e3b70",
+    "bytes": 11364
+  },
+  {
+    "path": "日语原版/Chapter7/chap7-3.pdf",
+    "sha256": "5ad8d0d5dd14cdacb100e27915d82c6f7e2adac26828a413c6d5fa575936ea7a",
+    "bytes": 11996
+  },
+  {
+    "path": "日语原版/Chapter7/chap7-4.pdf",
+    "sha256": "6ef360e0c3e11352c24bf57f80274fa9921f4b8ecd03bf3472776ca38d00fc9e",
+    "bytes": 8687
+  },
+  {
+    "path": "日语原版/Chapter7/chap7-5.pdf",
+    "sha256": "4f78524b279add3265adbf975a5a39ce4452f60037f5b8fbb914d4c97e446351",
+    "bytes": 4226
+  },
+  {
+    "path": "日语原版/Chapter8/chap8-1.pdf",
+    "sha256": "88c9f8e5ee480412830e8cbcf2863d99bb399c1f054d1e98cb29ded9c428636d",
+    "bytes": 55093
+  },
+  {
+    "path": "日语原版/Chapter8/chap8-2.pdf",
+    "sha256": "176821c7471e759f7a490fab615f9200dc9c5132463acdcb921a5d952f86d1c8",
+    "bytes": 8966
+  },
+  {
+    "path": "日语原版/Chapter8/chap8-3.pdf",
+    "sha256": "0d194fb4f9aea73fff2afc88809177bb877d1d03a4a17fbcf0b463df418097f5",
+    "bytes": 31800
+  }
+]

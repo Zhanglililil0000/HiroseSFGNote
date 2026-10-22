@@ -1,0 +1,82 @@
+{
+  "batch": "B419",
+  "source_sha256": "d734ad0e42503a08065d0beb0964a16668ad9b7d7667355dbc59629378d9ef20",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          6,
+          482.2
+        ]
+      ],
+      "source_lines": [
+        "R_{z}(\\chi  = -\\pi /2) R_{b’}(\\theta  = -\\tau ) R_{c}(\\phi  = \\pi /2)、R_{z}(\\chi  = -\\pi /2) R_{b’}(\\theta  = +\\tau ) R_{c}(\\phi  = \\pi /2)、 \\tau  = \\pi /2 - \\theta (Eu-4)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          498.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = -1、\\sin 2\\chi  = 0、\\sin 3\\chi  = +1\\cos \\chi  = 0、\\cos 2\\chi  = -1、\\cos 3\\chi  = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          514.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = +1、\\sin 2\\phi  = 0、\\sin 3\\phi  = -1\\cos \\phi  = 0、\\cos 2\\phi  = -1、\\cos 3\\phi  = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          531.2
+        ],
+        [
+          6,
+          547.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\theta  = -(±)\\sin \\tau \\cos \\theta  = \\cos \\tau",
+        "(-\\sin \\tau  /+\\sin \\tau ）pair"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "manual_vector_and_prose_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pages": [
+    6
+  ],
+  "tensor_left_sides": [],
+  "source_images_visually_checked": true,
+  "translation_sha256": "3063e0e5546792bb015bf85d0fa973139f0182e24347773b2dfea36a683c57d0",
+  "status": "本批原页对照、译校、覆盖与参考排版验收完成",
+  "date": "2026-10-21",
+  "render": {
+    "batch": "B419",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "validation_limit": "数学语法和版式通过不等于原稿公式已完成独立物理证明。"
+}

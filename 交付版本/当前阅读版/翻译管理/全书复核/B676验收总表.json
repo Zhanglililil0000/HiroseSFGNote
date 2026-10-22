@@ -1,0 +1,81 @@
+{
+  "batch": "B676",
+  "date": "2026-10-22",
+  "scope": "本轮翻译一致性与审阅合稿核查完成；原文未决问题仍保留",
+  "sections": 39,
+  "source_pages": 717,
+  "source_PDF_hash_mismatches": [],
+  "math_fragments": 17061,
+  "math_errors": 0,
+  "reader_local_references": 492,
+  "management_local_references_checked": 772,
+  "missing_local_references": [],
+  "image_references": 327,
+  "unique_image_assets": 325,
+  "all_images_decoded": true,
+  "browser_pages": 11,
+  "browser_missing_images": 0,
+  "browser_page_overflows": 0,
+  "explicit_unique_anchors": 41,
+  "missing_anchors": [],
+  "manifest_hash_mismatches": [],
+  "Q_current_rows": 320,
+  "Q_omitted_or_duplicate": 0,
+  "retained_source_convention_questions": 310,
+  "implemented_process_or_translation_items": 8,
+  "user_confirmed_source_correction_items": 1,
+  "withdrawn_translator_false_positive_items": 1,
+  "unallocated_ids": [
+    "Q108",
+    "Q109"
+  ],
+  "body_and_attachment_E_ids": 18,
+  "new_adopted_source_corrections": 0,
+  "term_entries": 150,
+  "term_decision_status_counts": {
+    "用户已确定": 3,
+    "待讨论/逐节核验": 25,
+    "用户已确定（2026-10-18）": 7,
+    "译者暂用；非用户新确认": 103,
+    "译者暂用；可后续讨论": 10,
+    "译者暂用；χ二阶命名沿用户决定": 2
+  },
+  "term_candidate_hits_reviewed": 32,
+  "forbidden_term_hits": [],
+  "section_filename_heading_differences": [
+    {
+      "section": "4.5",
+      "heading": "# 4.5 (CH₃)₂X基团的处理",
+      "filename": "4.5 两个CH₃基团的张量分量"
+    },
+    {
+      "section": "4.7",
+      "heading": "# 4.7 CH₂、平面HCCH（C₂ᵥ对称）及扭转HCCH（C₂对称）的和频张量",
+      "filename": "4.7 CH₂、平面HCCH及扭转HCCH的和频张量"
+    },
+    {
+      "section": "7.2",
+      "heading": "# 7.2 附录A：去除等介电常数近似的式(17)推导",
+      "filename": "7.2 附录A：去除等介电常数近似的式17推导"
+    },
+    {
+      "section": "7.3",
+      "heading": "# 7.3 附录B：式(20)的推导",
+      "filename": "7.3 附录B：式20的推导"
+    },
+    {
+      "section": "7.4",
+      "heading": "# 7.4 附录C：式(20)的折射率表示与多重反射",
+      "filename": "7.4 附录C：式20的折射率表示与多重反射"
+    }
+  ],
+  "independent_fitting_model_derivative_examples": 48,
+  "not_claimed": [
+    "717页本轮重新逐页目读",
+    "全部原式的独立物理证明",
+    "原MathCad程序运行验证",
+    "全部术语获用户确认",
+    "全部图片公式转为可编辑LaTeX",
+    "出版印刷版或独立专家审校"
+  ]
+}

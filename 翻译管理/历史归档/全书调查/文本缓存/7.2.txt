@@ -1,0 +1,142 @@
+===== PDF p.1 =====
+付録 A: 近似を外した形での(17)式の導出
+波動ベクトルや電場ベクトルは下図のようになる。
+x
+k 1 (W ) E 1p
+E k (W )
+2p 2
+q q
+1 2
+z
+e e' e
+1 2
+まず、基本的な量の間の関係をまとめておこう。
+k = (n/c) w , e = (c2/ w 2)k2, l = c/n ,
+さて、単一周波数の光（平面波）を考えることとし、この様な場合には微分演算子 (cid:209) が波動ベク
+トルikで置き換えられることを利用する。そうすると、電場と磁場の関係が下のようになることが (2b)
+式から導かれる。
+H = (w /c)k · E (A1)
+H = (w /c)(kE - kE)
+x y z z y
+H = (w /c)(kE - kE)
+y z x x z
+H = (w /c)(kE - kE) (A2)
+z x y y x
+電場をtransverse（面内）成分とlongitudinal（垂直）成分に分けて、E = E + Eu と表すとき、磁場
+t z z
+は下のようになる。
+H = H + Hu = (w /c){k · E + k(u · E) + E(k · u )}
+t z z t t z z t z t z
+図のように、2つの光線（kベクトル）が作る面をxz面に取り、媒質1から媒質2に向けて界面に立
+てた法線をz軸にする。（原点は、界面上の光の発生点とする。）この時、k < 0, k > 0である。p
+1z 2z
+偏光の電場ベクトルE の向きの取り方には180˚ の任意性があるが、我々は図のように取るので、E
+p 1z
+> 0、E < 0である。また、下の関係を覚えておこう。
+2z
+Heinz 付録A - 1
+
+===== PDF p.2 =====
+e = (c 2/w 2)k2 (A3)
+上に示した関係式を使って (12a) ~ (12d) 式を書き変えると下の結果になる。
+本文の (12a) 式より、
+e E - e E = -4p ik(cid:215)P = -4p i(kP + kP ) (A4a)
+2 z2 1 z1 t s,t x s,x y s,y
+同じく (12b) 式より、
+E - E = -(4p i/e ’)P k, 即ち、
+t2 t1 s,z t
+E - E = -(4p i/e ’)kP (A4b)
+x2 x1 x s,z
+E - E = -(4p i/e ’)kP (A4c)
+y2 y1 y s,z
+同じく (12c) 式より、
+(kE - kE ) - (kE - kE ) = 0, 即ち、
+x y2 y x2 x y1 y x1
+k(E - E ) = k(E - E ) (A4d)
+x y2 y1 y x2 x1
+同じく (12d) 式より、
+(c/w )[(k E - k E ) + k(E - E )] = -(w /c)4p iP
+z1 y1 z2 y2 y z2 z1 s,y
+(c/w )[(k E - k E ) - k(E - E )] = +(w /c)4p iP , 即ち、
+z2 x2 z1 x1 x z2 z1 s,x
+(k E - k E ) + k(E - E ) = -4p i(w /c)2P (A4e)
+z1 y1 z2 y2 y z2 z1 s,y
+-(k E - k E ) + k(E - E ) = -4p i(w /c)2P (A4f)
+z2 x2 z1 x1 x z2 z1 s,x
+なお、k、k、k の x成分および y成分は界面の両側で等しい値を持つ。さらに、ここで考えてい
+1 2 s
+るように2つの励起光の入射面を一致させる場合には、k = 0 となるように座標系を選ぶことが出来
+y
+る。
+(A4d) 式は (A4b) 式と (A4c) 式から導くことができ、(A4a) 式は (A4e) 式と (A4f) 式から導くこ
+とができるので、上の6個の式のうち独立なものは4つである。なお、後者の導出は、(A4e) · k + (A4f)
+y
+· k に対して、k · E = 0 と k2 = (w /c)2e を加味する。
+x i i i i
+ベクトルE とE が xz 面となす角を t 、t とする。（ k軸まわりの回転で xz 面をE に重ねる
+1 2 1 2
+方向を正方向と定義する。）
+E = Ecost , E = Ecost
+1p 1 1 2p 2 2
+E = Esint , E = Esint (A5)
+1s 1 1 2s 2 2
+今考えている媒質は均一であるから、波動もhomogeneous で、E とH は直交する。E 、E 、k、k
+1 2 1 2
+の座標成分を角 q 、q で表すと、
+1 2
+E = E cosq , E = E cosq
+x1 1p 1 x2 2p 2
+E = E , E = E
+y1 1s y2 2s
+E = E sinq , E = E sinq (A6)
+z1 1p 1 z2 2p 2
+k = k = k = ksinq = ksinq
+x x1 x2 1 1 2 2
+Heinz 付録A - 2
+
+===== PDF p.3 =====
+k = k = k = 0
+y y1 y2
+k = -kcosq , k = +kcosq (A7)
+1z 1 1 2z 2
+(A4a) ~ (A4f) 式に (A6) 式と (A7) 式を代入して下式を得る。
+e E sinq + e E sinq = 4p i(kP + kP ) = 4p ikP (A8a)
+2 2p 2 1 1p 1 x s,x y s,y x s,x
+e ’(E cosq - E cosq ) = -4p ikP (A8b)
+2p 2 1p 1 x s,z
+e ’(E - E ) = -4p ikP = 0 (A8c)
+2s 1s y s,z
+k(E - E ) = k(E cosq - E cosq ) = 0 (A8d)
+x 2s 1s y 2p 2 1p 1
+k(E sinq + E sinq ) + (k E - k E ) = k E - k E = 4p i(w 2/c2)P (A8e)
+y 2p 2 1p 1 2z 2s 1z 1s 2z 2s 1z 1s s,y
+k(E sinq + E sinq ) + (k E cosq - k E cosq ) = 4p i(w 2/c2)P (A8f)
+x 2p 2 1p 1 2z 2p 2 1z 1p 1 s,x
+(A8a) 式と (A8b) 式から、e sinq cosq + e cosq sinq = (c2/w 2)(kcosq + kcosq ) の関係を使って、下を
+1 1 2 2 1 2 1 2 2 1
+得る。
+w 2 cosq [P +(k /k )P ]- (e /e ')sinq P
+E =4p i 1 s,x y x s,y 1 1 s,z (A9a)
+2p c2 k cosq +k cosq
+1 2 2 1
+w 2 cosq [P +(k /k )P ]+(e /e ')sinq P
+E =4p i 2 s,x y x s,y 2 2 s,z (A9b)
+1p c2 k cosq +k cosq
+1 2 2 1
+この結果は、通常の光の反射では反射率がゼロになる e = e = e ’ のときでもSFG光は生成し、かつ、
+1 2
+|E | „ |E | であることを示している。
+1p 2p
+(A8c) 式、((A9a) 式、(A9b) 式を (A8e) 式に代入すると下を得る。
+w 2 P w 2 P
+E =E =4p i s,y =4p i s,y (A10)
+2s 1s c2 k - k c2 k cosq +k cosq
+2z 1z 1 1 2 2
+本文の (17) 式は、(A9) 式と (A10) 式に e = e = e ’ = 1の条件を加えると満足されることを示すこと
+1 2
+が出来る。（k = k、q = q になるところがみそである。）
+1 2 1 2
+(cid:160)
+(cid:160)
+Heinz 付録A - 3
+(cid:160)

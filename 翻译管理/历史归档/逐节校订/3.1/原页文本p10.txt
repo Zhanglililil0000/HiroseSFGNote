@@ -1,0 +1,266 @@
+2 層膜の SFG - 10
+(a): E
++
+source
+€ 
+Pa
+*
+(hm' + hm
++
+) = χ aαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+t m'm,vis,α
+tm2,vis,α
+e
+i( β m', vishm'
++βm, vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1m',ir,β
+tm'm,ir,β
+tm2,ir,β
+e
+i(β m',ir hm'
++β m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+(2.20)
+(b): E
+-
+sources (for n > 0, by reflection)
+€ 
+Pa
+*
+(hm' + hm
++
+) = χ aαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+t m'm,vis,α
+tm2,vis,α
+e
+i( β m', vishm'
++βm, vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1m',ir,β
+tm'm,ir,β
+tm2,ir,β
+e
+i(β m',ir hm'
++β m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+(2.21)
+m/2 界面の m 側：
+(a): E
++
+(by reflection) and E
+-
+sources
+€ 
+Pa
+*
+(hm' + hm
+−
+) = χaαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+tm'm,vis,α
+(1 + rm2,vis,α
+)e
+i( βm ', vishm'
++β m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+t m'm,ir,β
+(1 + rm2,ir,β
+)e
+i( β m',irhm '
++β m, irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+(2.22)
+m'/m 界面の m' 側：
+(a): E
++
+and E
+-
+(by reflection)sources
+€ 
+Pa
+*
+(hm
+−
+) = χaαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+e
+iβm ', vishm '
+(1+ rm'm,vis,α
+)(1+ rm2,vis,α
+e
+2 iβ m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+e
+iβ m',irhm '
+(1+ rm'm,ir,β
+)(1+ rm2 ,ir,β
+e
+2iβ m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+(2.23)
+(b): E
++
+(by reflection) and E
+-
+sources
+€ 
+Pa
+*
+(hm
+−
+) = χ aαβE
+0
+vis,α E
+0
+ir, β
+α , β
+∑

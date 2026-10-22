@@ -1,0 +1,1152 @@
+===== PDF p.1 =====
+CH 基の配向と SFGテンソル
+3
+目次
+1．オイラー角 1
+2．メチル基の配向とオイラー角 2
+3．メチル基の b （分子固定系） 3
+abc
+4．配向メチル基の b （表面固定系） 4
+xyz
+4a. 一般式 5
+4b. 自由回転・ランダムなねじれ角 9
+4c. ３個の H 原子が等価な時（回転は凍結されている）
+または C が崩れても振動数は変わらないとき 10
+3v
+4d. ２個の H 原子が等価な時（回転は凍結されている） 12
+5．表面配向による SFG テンソルの違い 12
+5a．ランダム（２次元）配向表面の SFG テンソル 13
+5b．C 配向表面の SFG テンソル 14
+3v
+5c．C 配向、C 配向表面の SFG テンソル 15
+4v 6v
+5d．C 配向表面の SFG テンソル 15
+s
+5e．C 配向表面の SFG テンソル 16
+2v
+6．表面電場から SFG 分極へ 17
+7．SFG 分極から SFG 電場へ 18
+（始めに）
+本稿では、メチル基のSFGスペクトルからメチル基の配向に関する情報を引き出す際に必要となる
+事項を記す。なお、4a 節に記す全対称伸縮振動に対する表式は、CH 基にもそのまま当てはまるも
+のである。
+1．オイラー角
+原点を共有する２つの直交座標系、(xyz) 系と (abc) 系の関係を指定する際には、回転操作を重ね
+ることで一方の座標系を他方に重ねるときに必要な３つの角で定義する。この３つの角をオイラー角
+と言い、次のように定義する。（ここでは、(abc) 軸を (xyz) 軸に重ねる作業を想定し、回転軸のマ
+イナス側からプラス方向を向いたときの回転が時計回りのときを正の回転角に取る。）
+(1) ab 面と xy 面の交線（原点を通る）を N 軸と名付け、この N 軸のまわりの回転で c 軸
+を z 軸に重ねるときの回転角が 180˚ 以下になる方向を、N 軸の正方向にする。
+(2) c 軸まわりの回転で b 軸を N 軸に重ねるための回転角を f とする(0 £ f < 2p )。
+N 軸は xy 面と ab 面の両方に乗っており、a’ 軸、c 軸、z 軸はどれも N 軸に垂直である。
+よって、a’、c、z 軸は同一平面上にある。そして、a’c 面は xy 面に垂直である。また、この
+回転操作によって z 軸の ab 面への射影に a 軸が重なる。（方向については180˚ の任意性
+が残されるが・・・）
+(3) N 軸まわりの回転で c 軸を z 軸に重ねる角を q とする(0 £ q < p )。
+この操作によって、ab 面が xy 面に重なる。
+(4) z 軸まわりの回転で N 軸を y 軸に重ねる角を c とする(0 £ c < 2p )。
+CH の配向とテンソル成分 - 1
+3
+
+===== PDF p.2 =====
+この操作によって、xy 面へのc 軸の射影が x 軸に重なる。また、a”z 面が zx 面に重なる。
+（やはり方向については180˚ の任意性が残されるが・・・）
+(abc) 系に対してまず (2) の操作を行い、次いで (3) を行ってから (4) を行うと、(abc) 系が (xyz)
+系に重なる。
+なお、(2) と (4) で採用した、b 軸を N 軸に重ねる操作と N 軸を y 軸に重ねる操作のかわりに、
+a 軸を N 軸に重ねる操作と N 軸を x 軸に重ねる操作を採用する定義もある。両者では座標成分の
+変換係数が違うので、注意しなければならない。また、本稿ではしばしば負の回転角を使うが、これ
+は、回転が 2p の周期を持っていることにより、2p - a の回転が -a の回転と同じであることによっ
+ている。（上の定義につきあわせると、この議論は q に対しては間違っている。オイラー角 (c , - q , f )
+による回転は (p + c , q , p + f ) による回転に一致する。）
+ベクトル及びテンソルの座標成分の間の変換係数は別ファイル「変換行列 (xyz)」に表として示し
+た（Appl. Spectrosc. にも掲載してある）。SFG テンソルの座標成分については、表に与えた変換係数
+U を用いて下の変換式により (abc) 系で表した成分を (xyz) 系での成分に変換する。
+ijk:abc
+c = (cid:229) U c , (i, j, k = a, b, c)
+ijk ijk:abc abc
+2．メチル基の配向とオイラー角
+本稿の表面座標系は、基板内部に向けた法線方向を z 軸とし、面内に x 軸と y 軸に取る。（た
+とえば、SFG 光の「入射面」と表面の交線を光の進行方向に向けて x 軸とする。あるいは、LB 膜
+の作成時の引き上げ方向あるいは結晶面の長軸方向をx軸にする。） Born & Wolf、Bloembergen、あ
+るいは Shen による光学関係の表式では、基板の内部に向けて z 軸を取る。表面科学の世界では、z
+軸の向きを逆に取ることが多いのだが、本稿でも、それらの表式に合わせるために光学の世界と同じ
+定義にする。表面の tilt 角を定義する場合には外向きの法線からの角を使うので注意したい。一方、
+メチル基に固定した座標系としては、C 原子から３個の H 原子に向けた C 対称軸を c 軸に取り、
+3
+３個の CH 結合のうちの１つ、CH(1) が含まれる面を ac 面に取る。そして、メチル基の配向を次の
+ように３つの角で定義しよう。
+(1) 内部回転角 f ：メチル基の（表面に対する）ねじれ角である。x 軸のマイナス側からプラス方向
+を向いたときに、ac 面（分子軸と CH(1) 結合を含む平面）が下向きで右側に傾いているときがプラ
+ス回転とする。「c 軸まわりの回転により」、(a) x 軸のプラス方向を向いて左側、y 軸のマイナス
+側で b 軸を表面と平行にする、(b) a 軸が基板の内側に入る方向で ac 面を xy 面に垂直にするた
+めの回転角、(c) あるいは -z 軸の ab 面への射影に a 軸を重ねるための回転角である。（a 軸に沿
+ったベクトルと x 軸に沿ったベクトルの内積がプラスになる方向で重ねる。）(d) XCH(1) 面が表面
+に垂直で、CH(1) 面が表面側にあるときには f = 0、CH(1) 面が真空側にあるときには f = p である。
+(e) ３個の CH 結合が等価な場合には、内部回転角が f のメチル基と f ± 2p /3 のメチル基が同じウ
+ェイトで存在する。(f) ２個の CH 結合が等価な場合には、内部回転角が f + 2p /3 のメチル基と f -
+2p /3 のメチル基が等価になると考え、内部回転角が f のメチル基が別種であるとする。(g) 自由回
+転をしている場合には、f は 0 から 2p の任意の値を等しいウェイトで取る。
+(2) 傾き角・tilt角 q ：通常の定義に合わせて、c 軸（C 軸）と外向きの法線の間の角とし、N 軸
+tilt 3
+まわりの回転で c 軸を外向き法線に重ねる方向をプラス回転とする。本稿で用いる表面座標系では、
+CH の配向とテンソル成分 - 2
+3
+
+===== PDF p.3 =====
+z 軸が下向きの法線である。よって、オイラー角 q は p - q である。また、メチル基が３個の H 原
+tilt
+子を真空側に向けているときには q < p /2 である。
+tilt
+(3) 面内配向角 c (c と略記する)：z 軸まわりの回転により、xy 面への c 軸の射影を x 軸に
+in-plane ip
+重ねるための回転角とする。x 軸のマイナス側からプラス方向を見て、この射影が左側にあるときが
+プラス回転になる。(a) 射影した C 軸がx軸から角 a だけずれているときには、b 軸と y 軸がな
+3
+す角も a である。射影した C 軸が八の字形に x 軸から左右交互にずれているときには c が +a
+3 ip
+のメチル基と -a のメチル基が同数ずつ存在する。(b) 面内配向がランダムなときには、c は 0 か
+ip
+ら 2p の任意の値を等しいウェイトで取る。
+本稿の(x, y, z) 系は z 軸を基板の内部に受けて取っているので、対応するオイラー角 c は p + c
+ip
+である。
+なお、上で言うプラス回転に対するマイナス回転とは、オイラー角の定義で言えばその回転角を 2p
+から差し引いた分だけプラス方向に回転することを意味する。このようにメチル基の配向を定義する
+ときに、これから示す表式に出てくるオイラー角との関係は、下式のようになることを確認しておこ
+う。
+f = f , q = p - q , c = p + c
+tilt ip
+3．メチル基の b （分子固定系）
+abc
+ファイル「変換行列 (xyz) 」および Appl. Spectrosc. 掲載の論文に載っている変換表の使い方の練
+習をかねて、CH 結合あたりの SFG テンソル成分からメチル基のテンソル成分を求めよう。CH結
+合に固定した座標系を (x h z ) 系とし、z 軸をC からHに向けたC 軸にとり、x z 面がab 面に垂直
+3
+になるように x 軸を取ると３個のCH結合のいずれについても h 軸はab 面に平行になる。そこで、
+h 軸まわり q < p の回転で z 軸が z 軸に重なるように h 軸の正方向を定める。
+３個のCH結合のそれぞれに定義される (x h z ) 系をメチル基に固定の (abc) 系に重ねるためのオイ
+ラー角 (c , q , f ) は、下のようになる。（まずCH軸すなわち z 軸をc軸に重ね、次に h 軸をb軸に
+重ねる。）
+CH(1)：(p , p - t , 0)、 CH(2)：(5p /3, p - t , 0)、 CH(3)：(p /3, p - t , 0)
+ここで、t はHCX結合角で、T 角に取ると cost = -1/3、sint = 8/3 であるから、変換に際して必
+dv
+要な三角関数は次の通りになる。
+sinf = 0, sin2f = 0, sin3f = 0, cosf = 1, cos2f = 1, cos3f = 1
+sinq = 8/3, sin2q = 32/9, sin3q =- 200/27, cosq = 1/3, cos2q = -7/9, cos3q = -23/27
+CH(1) sinc = 0, sin2c = 0, sin3c = 0, cosc = -1, cos2c = 1, cos3c = -1
+CH(2) sinc =- 3/2, sin2c =- 3/2, sin3c = 0, cosc = 1/2, cos2c = -1/2, cos3c = -1
+CH(3) sinc = 3/2, sin2c = 3/2, sin3c = 0, cosc = 1/2, cos2c = -1/2, cos3c = -1
+CH結合の伸縮振動は z 軸方向に沿っているから、振動SFGテンソルの成分は b 、b 、b であ
+xxz h hz zzz
+ると考える。（CH結合まわりの軸対称があるときには b = b になる。）ファイル「変換行列 (xyz)」
+xxz h hz
+および Appl. Spectrosc. の論文に示してある表の (abc) と (xyz) をそれぞれ (x h z ) と (abc) に置き換
+え、３つのCH結合の b 、b 、 b のそれぞれについて、上の関係式を使って b 、b 等への寄
+xxz h hz zzz aaa aab
+与を計算してから、３つのCH に関する和がゼロにならない成分を出してやると、下記の結果が得ら
+CH の配向とテンソル成分 - 3
+3
+(cid:160)
+(cid:160) (cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+
+===== PDF p.4 =====
+れる。このやりかたは、３個のCH結合の分極のベクトル和がメチル基としての分極になると考え、
+さらに、b 、b 、 b がすべてのCH結合で等しいと仮定することを意味する。
+xxz h hz zzz
+b = ( 2/18)(b - 9b + 8b )
+aaa xxz h hz zzz
+b = -( 2/18)(b - 9b + 8b )
+abb xxz h hz zzz
+b = -( 2/18)(b - 9b + 8b )
+bab xxz h hz zzz
+b = -( 2/18)(b - 9b + 8b )
+bba xxz h hz zzz
+b = -(4/9)(b - b )
+caa xxz zzz
+b = -(4/9)(b - b )
+cbb xxz zzz
+b = -(4/9)(b - b )
+aca xxz zzz
+b = -(4/9)(b - b )
+bcb xxz zzz
+b =(1/18)(b + 9b + 8b )
+aac xxz h hz zzz
+b =(1/18)(b + 9b + 8b )
+bbc xxz h hz zzz
+b =(1/9)(8b + b )
+ccc xxz zzz
+b >> b b （b ~ b ~ 0.1 b と推定される。）のときには、b = b ~ (4/9) b 、b ~ (1/9)b
+zzz xxz、 h hz xxz h hz zzz aac bbc zzz ccc zzz
+（全対称振動）、b = b = b = b ~ (4/9)b 、b = -b = -b = -b ~ ( 32/9)b であることを覚
+caa aca cbb bcb zzz aaa bba abb bab zzz
+えておく価値がある。特にCH基では b >> b b であるのにメチル基では b ~ 4b となって、
+zzz xxz、 h hz aac ccc
+分子軸方向成分と垂直方向成分の大小関係が逆転していることは注意すべきことである。
+CH 基の伸縮振動のうち、全対称振動はc軸方向の振動であり、縮重振動はa, b軸方向の振動であ
+3
+る。テンソル成分の下付きは、左から順にSFG光、VIS光、IR 光に対する遷移モーメントの方向又
+は射影成分を表す。よって、振動共鳴を与えるSFGテンソルの成分は次のようになる。
+(cid:160)
+全対称振動に対するSFGテンソルの成分は、b = b , b
+aac bbc ccc
+(cid:160)
+縮重振動に対するSFGテンソルの成分は、b = -b = -b = -b , b = b = b = b
+aaa abb bab bba caa cbb aca bcb
+(cid:160)
+（この関係は、b = b でなくても成り立つことに注意しよう。）
+xxz h hz
+(cid:160)
+4．配向メチル基の b （表面固定系）
+xyz
+表面固定 (xyz) 座標系に対するメチル基の配向をオイラー角 (c , q , f ) で表すときに、ファイル「変
+換行列 (xyz)」および Appl. Spectrosc. 論文に所収の表を使って、表面系でのテンソル成分が次のよう
+に求められる。（傾き角 q に関しては表で使っている sinq 、sin2q 、sin3q の形の三角関数ではなく、
+下記の関係式で変換した sinq 、cosq のべき乗 sinq 、sin2q 、sin3q の形による表式にした。
+sin2q = 2sinq cosq , cos2q = cos2q - sin2q = 2cos2q - 1 = 1 - 2sin2q
+sin3q = 3sinq - 4sin3q , sinq + sin3q = 4(sinq - sin3q )
+cos3q = 4cos3q - 3cosq , cosq - cos3q = 4(cosq - cos3q )
+(cid:160)
+また、縮重振動については、CH結合と表面の相互作用や立体障害などによってC 対称が崩れるケ
+3v
+ースを考慮して、２つの振動モードをa軸方向の振動とb軸方向の振動で区別する形での表式を出し
+た。メチル基が自由回転をする場合には、２つのテンソルを足し合わせればよい。全対称振動につい
+ては、b 、b 、b に対する変換を表から求め、b と b については和をとってやる。縮重振動
+aac bbc ccc aac bbc
+CH の配向とテンソル成分 - 4
+3
+
+===== PDF p.5 =====
+に対しては、b 、b 、b 、b に対するセットと、b 、b 、b 、b に対するセットを別個に
+aaa bba caa aca abb bab cbb bcb
+変換し、上に示した関係により和を取ってある。
+なお、ac 面と xz 面の間の角（内部回転角）を f 、c軸の外向き法線からの傾き角を q 、c軸の
+tilt
+射影とx軸の間の角（面内配向角）を c とするとき、以下に出てくる表式で使われているオイラー
+ip
+角は f = f , q = p - q , c = p + c である。以下に、代表的な配向に対するテンソル成分を示す。
+tilt ip
+4a. 一般式
+はじめに、ごく一般的な表式を示す。配向の条件によって簡単化する際のもとになるものであり、
+また、あらゆる条件に対応できるはずである。
+［全対称振動］（CH基に対するSFGテンソルの表式も下のものと同じである。）
+b >> b 、b のときには b ~ (4/9)b 、b ~ (1/9)b である。
+zzz xxz h hz aac zzz ccc zzz
+(ppp) c = (1/4)(b - b )sin3q (3cosc + cos3c )
+xxx aac ccc
+- b sinq cosc
+aac
+c = (b - b )(sinq - sin3q )cosc
+xzz aac ccc
+c = (b - b )(sinq - sin3q )cosc
+zxz aac ccc
+c = (b - b )(sinq - sin3q )cosc
+zzx aac ccc
+- b sinq cosc
+aac
+c = -(1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+xzx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+zxx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+xxz aac ccc
++ b cosq
+aac
+c = -(b - b )cos3q
+zzz aac ccc
++ b cosq
+aac
+(spp) c = -(1/4)(b - b )sin3q (sinc + sin3c )
+yxx aac ccc
+c = -(b - b )(sinq - sin3q )sinc
+yzz aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+yzx aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+yxz aac ccc
+(ssp) c = (1/4)(b - b )sin3q (cosc - cos3c )
+yyx aac ccc
+- b sinq cosc
+aac
+c = -(1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+yyz aac ccc
++ b cosq
+aac
+(psp) c = -(1/4)(b - b )sin3q (sinc + sin3c )
+xyx aac ccc
+c = -(b - b )(sinq - sin3q )sinc
+zyz aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+xyz aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zyx aac ccc
+(sps) c =(1/4)(b - b )sin3q (cosc - cos3c )
+yxy aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+yzy aac ccc
+CH の配向とテンソル成分 - 5
+3
+
+===== PDF p.6 =====
+(pps) c = -(1/4)(b - b )sin3q (sinc + sin3c )
+xxy aac ccc
++ b sinq sinc
+aac
+c = -(b - b ) (sinq - sin3q )sinc
+zzy aac ccc
++ b sinq sinc
+aac
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+xzy aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zxy aac ccc
+(pss) c = (1/4)(b - b )sin3q (cosc - cos3c )
+xyy aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+zyy aac ccc
+(sss) c = -(1/4)(b - b )sin3q (3sinc - sin3c )
+yyy aac ccc
++ b sinq sinc
+aac
+［縮重振動］(upper: (deg, a) mode, lower: (deg, b) mode)
+下付きの最後がaのもの（b 、b と b ）とbのもの（b 、b と b ）とを別個に扱った。
+caa aaa bba cbb abb bab
+b >> b 、b のときには b ~ (4/9)b 、b ~ ( 32/9)b である。
+zzz xxz h hz caa zzz aaa zzz
+(ppp) c = b {(1/4)[-(4sinq - 3sin3q )cosc + sin3q cos3c ]
+xxx caa
+± (1/4)cos2f [-(2sinq - 3sin3q )cosc - (2sinq - sin3q )cos3c ]
+± (1/2)sin2f sinq cosq (sinc + sin3c )}
++ b {(1/8)cos3f [-3(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa
++ (1/8)sin3f [3sin2q sinc - (1 + 3cos2q )sin3c )
+± (1/8)cosf [(cosq + 3cos3q )cosc - (cosq - cos3q )cos3c ]
+± (1/8)sinf [-(4 - sin2q )sinc + sin2q sin3c ]}
+c = b {(1/2)[(1 ± cos2f )(sinq - 2sin3q )cosc ± sin2f ( -sinq cosq sinc )]}
+xzz caa
++ b {(1/2)[(cos3f ± cosf )(cosq - cos3q )cosc - (sin3f ± sinf )sin2q sinc ]}
+aaa
+c = b {(1/2)[(1 ± cos2f )(sinq - 2sin3q )cosc ± sin2f ( -sinq cosq sinc )]}
+zxz caa
++ b {(1/2)[(cos3f ± cosf )(cosq - cos3q )cosc - (sin3f ± sinf )sin2q sinc ]}
+aaa
+c = b {(1 ± cos2f )(sinq - 2sin3q )cosc ± sin2f ( -sinq cosq sinc )]}
+zzx caa
++ b {(1/2)[(cos3f ± cosf )(cosq - cos3q )cosc + (-sin3f ± sinf )sin2q sinc ]}
+aaa
+c = b {(1/2)[cos3q - (cosq - cos3q )cos2c ]
+zxx caa
+± (1/2)cos2f [-(cosq - cos3q ) + cos3q cos2c ] ± (1/4)sin2f (1 - 3cos2q )sin2c }
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c
+aaa
+± (1/4)cosf [(2sinq - sin3q ) - sin3q cos2c ]}
+c = b {(1/2)[cos3q - (cosq - cos3q )cos2c ]
+xzx caa
+(cid:160)
+± (1/2)cos2f [-(cosq - cos3q ) + cos3q cos2c ] ± (1/4)sin2f (1 - 3cos2q )sin2c }
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c
+aaa
+± (1/4)cosf [(2sinq - sin3q ) - sin3q cos2c ]}
+c = b {-(1/2)(1 ± cos2f )(cosq - cos3q )(1 + cos2c )}
+xxz caa
++ b {(1/4)(cos3f ± cosf )[-sin3q + (2sinq - sin3q )cos2c ]
+aaa
+- (1/2)(sin3f ± sinf )sinq cosq sin2c }
+c = b (1 ± cos2f )(cosq - cos3q )
+zzz caa
+CH の配向とテンソル成分 - 6
+3
+
+===== PDF p.7 =====
++ b (1/2)(cos3f ± cosf )sin3q
+aaa
+(spp) c = b {(1/4)[(2sinq - sin3q )sinc - sin3q sin3c ]
+yxx caa
+± (1/4)cos2f [ -sin3q sinc + (2sinq - sin3q )sin3c ] ± (1/2)sin2f sinq cosq cos3c }
++ b {(1/8)cos3f [(cosq - cos3q )sinc - (3cosq + cos3q )sin3c ]
+aaa
++(1/8)sin3f [sin2q cosc - (1 + 3cos2q )cos3c ]
+± (1/8)cosf [-(3cosq + cos3q )sinc + (cosq - cos3q )sin3c ]
+± (1/8)sinf [-(1 + 3cos2q )cosc + sin2q cos3c ]}
+c = b {(-1/2)(1 ± cos2f )(sinq - 2sin3q )sinc ± (-1/2)sin2f sinq cosq cosc }
+yzz caa
++ b {(-1/2)(cos3f ± cosf )(cosq - cos3q )sinc - (1/2)(sin3f ± sinf )sin2q cosc }
+aaa
+c = b {(1/2)(cosq - cos3q )sin2c
+yzx caa
+± (-1/2)cos2f cos3q sin2c ± (1/4)sin2f [-sin2q + (1 - 3cos2q )cos2c ]}
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c + (-1/2)sin3f sinq cosq cos2c
+aaa
+± (1/4)cosf sin3q sin2c ± (-1/2)sinf sinq cosq }
+c = b {(1/2)(1 ± cos2f )(cosq - cos3q )sin2c ± (1/2)sin2f sin2q cos2c }
+yxz caa
++ b {(-1/4)(cos3f ± cosf )(2sinq - sin3q )sin2c + (-1/2)(sin3f ± sinf )sinq cosq cos2c }
+aaa
+(ssp) c = b {(1/4)sin3q (cosc - cos3c )
+yyx caa
+± (-1/4)cos2f (2sinq - sin3q )(cosc - cos3c ) ± (1/2)sin2f sinq cosq (sinc - sin3c )}
++ b {(-1/8)cos3f [(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa
++ (1/8)sin3f [sin2q sinc + (1 + 3cos2q )sin3c ]
+± (1/8)cosf [-(5cosq - cos3q )cosc + (cosq - cos3q )cos3c ]
+± (1/8)sinf [(4cos2q - sin2q )sinc - sin2q sin3c ]}
+c = b {(-1/2)(1 ± cos2f )(cosq - cos3q )(1 - cos2c )}
+yyz caa
++ b {(-1/4)(cos3f ± cosf )[sin3q + (2sinq - sin3q )cos2c ]
+aaa
++ (1/2)(sin3f ± sinf )sinq cosq sin2c }
+(psp) c = b {(1/4)[(2sinq - sin3q )sinc - sin3q sin3c ]
+xyx caa
+± (1/4)cos2f [-sin3q sinc + (2sinq - sin3q )sin3c ] ± (1/2)sin2f sinq cosq cos3c }
++ b {(1/8)cos3f [(cosq - cos3q )sinc - (3cosq + cos3q )sin3c ]
+aaa
++ (1/8)sin3f [sin2q cosc - (1 + 3cos2q )cos3c ]
+± (1/8)cosf [-(3cosq + cos3q )sinc + (cosq - cos3q )sin3c ]
+± (1/8)sinf [-(1 + 3cos2q )cosc + sin2q cos3c ]}
+c = b {(-1/2)(1 ± cos2f )(sinq - 2sin3q )sinc ± (-1/2)sin2f sinq cosq cosc }
+zyz caa
++ b {(-1/2)(cos3f ± cosf )(cosq - cos3q )sinc - (1/2)(sin3f ± sinf )sin2q cosc }
+aaa
+c = b {(1/2)(1 ± cos2f )(cosq - cos3q )sin2c ± (1/2)sin2f sin2q cos2c }
+xyz caa
++ b {(-1/4)(cos3f ± cosf )(2sinq - sin3q )sin2c
+aaa
+- (1/2)(sin3f ± sinf )sinq cosq cos2c }
+c = b {(-1/2)[-(cosq - cos3q ) ± cos2f cos3q ]sin2c
+zyx caa
+± (1/4)sin2f [-sin2q + (1 - 3cos2q )cos2c ]}
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c
+aaa
+± (1/4)cosf sin3q sin2c ± (-1/2)sinf sinq cosq }
+CH の配向とテンソル成分 - 7
+3
+
+===== PDF p.8 =====
+(sps) c = b {(-1/4)[(2sinq - sin3q )cosc + sin3q cos3c ]
+yxy caa
+± (1/4)cos2f [sin3q cosc + (2sinq - sin3q )cos3c ] ± (-1/2)sin2f sinq cosq sin3c }
++ b {(-1/8)cos3f [(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa
++ (1/8)sin3f [sin2q sinc + (1 + 3cos2q )sin3c ]
+± (1/8)cosf [(3cosq + cos3q )cosc + (cosq - cos3q )cos3c ]
+± (-1/8)sinf [(1 + 3cos2q )sinc + sin2q sin3c ]}
+c = b {(1/2)[(cos3q + (cosq - cos3q )cos2c ]
+yzy caa
+± (-1/2)cos2f [(cosq - cos3q ) + cos3q cos2c ] ± (-1/4)sin2f (1 - 3cos2q )sin2c }
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2)sin3f sinq cosq sin2c
+aaa
+± (1/4)cosf [(2sinq - sin3q ) + sin3q cos2c ]}
+(pps) c = b {(-1/4)sin3q (sinc + sin3c )
+xxy caa
+± (1/4)cos2f (2sinq - sin3q )(sinc + sin3c ) ± (1/2)sin2f sinq cosq (cosc + cos3c )}
++ b {(1/8)cos3f [(cosq - cos3q )sinc - (3cosq + cos3q )sin3c ]
+aaa
++ (1/8)sin3f [sin2q cosc - (1 + 3cos2q )cos3c ]
+± (1/8)cosf [(5cosq - cos3q )sinc + (cosq - cos3q )sin3c ]
+± (1/8)sinf [-(sin2q - 4cos2q )cosc + sin2q cos3c ]}
+c = b {-(1 ± cos2f )(sinq - sin3q )sinc ± sin2f (-sinq cosq cosc )}
+zzy caa
++ b {(-1/2)(cos3f ± cosf )(cosq - cos3q )sinc + (1/2)(-sin3f ± sinf )sin2q cosc }
+aaa
+c = b {(1/2)(cosq - cos3q )sin2c
+zxy caa
+± (-1/2)cos2f cos3q sin2c ± (1/4)sin2f [sin2q + (1 - 3cos2q )cos2c ]}
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c
+aaa
+± (1/4)cosf sin3q sin2c ± (1/2)sinf sinq cosq }
+c = b {(1/2)(cosq - cos3q )sin2c
+xzy caa
+± (-1/2)cos2f cos3q sin2c ± (1/4)sin2f [sin2q + (1-3cos2q )cos2c ]}
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c
+aaa
+± (1/4)cosf sin3q sin2c ± (1/2)sinf sinq cosq }
+(pss) c = b {(-1/4)[(2sinq - sin3q )cosc + sin3q cos3c ]
+xyy caa
+± (1/4)cos2f [sin3q cosc + (2sinq - sin3q )cos3c ] ± (-1/2)sin2f sinq cosq sin3c }
++ b {(-1/8)cos3f [(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa
++ (1/8)sin3f [sin2q sinc + (1 + 3cos2q )sin3c ]
+± (1/8)cosf [(3cosq + cos3q )cosc + (cosq - cos3q )cos3c ]
+± (-1/8)sinf [(1 + 3cos2q )sinc + sin2q sin3c ]}
+c = b {(1/2)[cos3q + (cosq - cos3q )cos2c ]
+zyy caa
+± (-1/2)cos2f [(cosq - cos3q ) + cos3q cos2c ] ± (-1/4)sin2f (1 - 3cos2q )sin2c }
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2)sin3f sinq cosq sin2c
+aaa
+± (1/4)cosf [(2sinq - sin3q ) + sin3q cos2c ]}
+(sss) c = b {(1/4)[(4sinq - 3sin3q )sinc + sin3q sin3c ]
+yyy caa
+± (1/4)cos2f [(2sinq - 3sin3q )sinc - (2sinq - sin3q )sin3c ]
+± (1/2)sin2f sinq cosq (cosc - cos3c )}
++ b {(1/8)cos3f [3(cosq - cos3q )sinc + (3cosq + cos3q )sin3c ]
+aaa
+CH の配向とテンソル成分 - 8
+3
+
+===== PDF p.9 =====
++ (1/8)sin3f [3sin2q cosc + (1 + 3cos2q )cos3c ]
+± (-1/8)cosf [(cosq + 3cos3q )sinc + (cosq - cos3q )sin3c ]
+± (-1/8)sinf [(4 - sin2q )cosc + sin2q cos3c ]}
+4b. 自由回転・ランダムなねじれ角
+メチル基の内部回転（torsion）が自由回転になっている場合には、内部回転角 f が0から2p の間
+の任意の値を等しい確率で取り得る。 (cid:242) 2p cos(nf )df =(cid:242) 2p sin(nf )df =0 (n = 1, 2, 3) であるから、縮重
+0 0
+振動のテンソル成分は大幅に整理されて下記のようになる。（回転が凍結されて角 f が0あるいはp
+に固定されている状態とは違った表式になることに注意したい。）なお、ac 面と xz 面の間の角（内
+部回転角）を f 、c軸の外向き法線からの傾き角を q 、c軸の射影とx軸の間の角（面内配向角）を c
+tilt ip
+とするとき、下で使われているオイラー角は、f = f 、q = p - q 、c = p + c である。
+tilt ip
+［全対称振動］ 4.a 節と同じ表式である。
+［縮重振動］ b >> b 、b のときには b ~ (4/9)b 、b ~ ( 32/9)b である。
+zzz xxz h hz caa zzz aaa zzz
+(ppp) c = b (1/4)[- (4sinq - 3sin3q )cosc + sin3q cos3c ]
+xxx caa
+c = b (1/2)(sinq - 2sin3q )cosc
+xzz caa
+c = b (1/2)(sinq - 2sin3q )cosc
+zxz caa
+c = b (sinq - sin3q )cosc
+zzx caa
+c = b (1/2)[cos3q - (cosq - cos3q )cos2c ]
+zxx caa
+c = b (1/2)[cos3q - (cosq - cos3q )cos2c ]
+xzx caa
+c = b (cosq - cos3q )
+zzz caa
+c = b (-1/2)(cosq - cos3q )(1 + cos2c )
+xxz caa
+(spp) c = b (1/4)[(2sinq - sin3q )sinc - sin3q sin3c ]
+(cid:160) yxx caa
+c = b (-1/2) (sinq - 2sin3q )sinc
+yzz caa
+c = b (1/2)(cosq - cos3q )sin2c
+yzx caa
+c = b (1/2)(cosq - cos3q )sin2c
+yxz caa
+(ssp) c = b (1/4)sin3q (cosc - cos3c )
+yyx caa
+c = b (-1/2)(cosq - cos3q )(1 - cos2c )
+yyz caa
+(psp) c = b (1/4)[(2sinq - sin3q )sinc - sin3q sin3c ]
+xyx caa
+c = b (-1/2)(sinq - 2sin3q )sinc
+zyz caa
+c = b (1/2) (cosq - cos3q )sin2c
+xyz caa
+(cid:160)
+c = b (1/2)(cosq - cos3q )sin2c
+zyx caa
+(sps) c = b (-1/4)[(2sinq - sin3q )cosc + sin3q cos3c ]
+yxy caa
+c = b (1/2)[(cos3q + (cosq - cos3q )cos2c ]
+yzy caa
+(pps) c = b (-1/4)sin3q (sinc + sin3c )
+xxy caa
+CH の配向とテンソル成分 - 9
+3
+
+===== PDF p.10 =====
+c = b (-sinq + sin3q )sinc
+zzy caa
+c = b (1/2)(cosq - cos3q )sin2c
+zxy caa
+c = b (1/2)(cosq - cos3q )sin2c
+xzy caa
+(pss) c = b (-1/4)[(2sinq - sin3q )cosc + sin3q cos3c ]
+xyy caa
+c = b (1/2)[(cos3q + (cosq - cos3q )cos2c ]
+zyy caa
+(sss) c = b (1/4)[(4sinq - 3sin3q )sinc + sin3q sin3c ]
+yyy caa
+4c. 3個の H 原子が等価な時（内部回転は凍結されている）、
+又は、C 対称が崩れても振動数は分裂しない時
+3v
+この場合には、内部回転角 f が３つの値、即ち、f 、f + 2p /3、f + 4p /3 ( = f - 2p /3) のメチル基が
+同数ずつ存在する。三角関数の和の法則を使って、３つの配置のサイン、コサインを f で表してか
+ら足し合わせると、(cid:229) 1 = 3, (cid:229) sinf = (cid:229) cosf = (cid:229) sin2f = (cid:229) cos2f = 0、(cid:229) sin3f = 3sin3f 、(cid:229) cos3f = 3cos3f と
+なる。これを 4a節の結果に代入し、メチル基１個当たりのテンソルに換算した。
+なお、ac 面と xz 面の間の角（内部回転角）を f 、c軸の外向き法線からの傾き角を q 、c軸の
+tilt
+射影とx軸の間の角（面内配向角）を c とするとき、下記のテンソル成分の表式で使われているオ
+ip
+イラー角は、f = f , q = p - q , c = p + c である。
+tilt ip
+［全対称振動］ 4.a 節と同じ表式である。
+［縮重振動］ b >> b 、b のときには b ~ (4/9)b 、b ~ ( 32/9)b である。
+zzz xxz h hz caa zzz aaa zzz
+(ppp) c = b (1/4)[-(4sinq - 3sin3q )cosc + sin3q cos3c ]
+xxx caa
++ b (1/8){cos3f [-3(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa{
++ sin3f [3sin2q sinc - (1 + 3cos2q )sin3c ])
+c = b (1/2)(sinq - 2sin3q )cosc
+xzz caa
++ b (1/2)[cos3f (cosq - cos3q )cosc - sin3f sin2q sinc ]
+aaa
+c = b (1/2)(sinq - 2sin3q )cosc
+zxz caa
++ b (1/2)[cos3f (cosq - cos3q )cosc - sin3f sin2q sinc ]
+aaa
+c = b (sinq - sin3q )cosc
+zzx caa
++ b (1/2)[cos3f (cosq - cos3q )cosc - sin3f sin2q sinc ]
+aaa
+c = b (1/2)[cos3q - (cosq - cos3q )cos2c ]
+zxx caa
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c )}
+aaa
+c = b (1/2)[cos3q - (cosq - cos3q )cos2c ]
+xzx caa
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c )}
+aaa
+c = b (cosq - cos3q )
+zzz caa
++ b (1/2)cos3f sin3q
+aaa
+c = b (-1/2)(cosq - cos3q )(1 + cos2c )]
+xxz caa
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c }
+aaa
+(spp) c = b {(1/4)[(2sinq - sin3q )sinc - sin3q sin3c ]
+yxx caa
+(cid:160)
++ b {(1/8)cos3f [(cosq - cos3q )sinc - (3cosq + cos3q )sin3c ]
+aaa
+CH の配向とテンソル成分 - 10
+3
+
+===== PDF p.11 =====
++ (1/8)sin3f [sin2q cosc - (1 + 3cos2q )cos3c ]}
+c = b (-1/2)(sinq - 2sin3q )sinc
+yzz caa
++ b {(-1/2)cos3f (cosq - cos3q )sinc - (1/2)sin3f sin2q cosc }
+aaa
+c = b (1/2)(cosq - cos3q )sin2c
+yzx caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+c = b (1/2)(cosq - cos3q )sin2c
+yxz caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+(ssp) c = b (1/4)sin3q (cosc - cos3c )
+yyx caa
++ b {(-1/8)cos3f [(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa
++ (1/8)sin3f [sin2q sinc + (1 + 3cos2q )sin3c ]}
+c = b (-1/2)(cosq - cos3q )(1 - cos2c )
+yyz caa
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2) sin3f sinq cosq sin2c }
+aaa
+(psp) c = b {(1/4)[(2sinq - sin3q )sinc - sin3q sin3c ]
+xyx caa
++ b {(1/8)cos3f [(cosq - cos3q )sinc + (3cosq + cos3q )sin3c ]
+aaa
++ (1/8)sin3f [sin2q cosc + (1 + 3cos2q )cos3c ]]}
+c = b (-1/2)(sinq - 2sin3q )sinc
+zyz caa
++ b {(-1/2)cos3f (cosq - cos3q )sinc - (1/2)sin3f sin2q cosc }
+aaa
+c = b (1/2) (cosq - cos3q )sin2c
+xyz caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+c = b (1/2)(cosq - cos3q )sin2c
+zyx caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+(sps) c = b (-1/4)[(2sinq - sin3q )cosc + sin3q cos3c ]
+yxy caa
++ b {(-1/8)cos3f [(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa
++ (1/8)sin3f [sin2q sinc + (1 + 3cos2q )sin3c ]}
+c = b (1/2)[(cos3q + (cosq - cos3q )cos2c ]
+yzy caa
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2)sin3f sinq cosq sin2c }
+aaa
+(pps) c = b (-1/4)sin3q (sinc + sin3c )
+xxy caa
++ b {(1/8)cos3f [(cosq - cos3q )sinc - (3cosq + cos3q )sin3c ]
+aaa
++ (1/8)sin3f [sin2q cosc - (1 + 3cos2q )cos3c ]}
+c = b (-sinq + sin3q )sinc
+zzy caa
++ b {(-1/2)cos3f (cosq - cos3q )sinc - (1/2)sin3f sin2q cosc }
+aaa
+c = b (1/2) (cosq - cos3q )sin2c
+zxy caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+c = b (1/2) (cosq - cos3q )sin2c
+xzy caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+(pss) c = b (-1/4)[(2sinq - sin3q )cosc + sin3q cos3c ]
+xyy caa
++ b {(-1/8)cos3f [(cosq - cos3q )cosc + (3cosq + cos3q )cos3c ]
+aaa
++ (1/8)sin3f [sin2q sinc - (1 + 3cos2q )sin3c ]}
+CH の配向とテンソル成分 - 11
+3
+
+===== PDF p.12 =====
+c = b (1/2)[cos3q + (cosq - cos3q )cos2c ]
+zyy caa
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2)sin3f sinq cosq sin2c }
+aaa
+(sss) c = b (1/4)[(4sinq - 3sin3q )sinc + sin3q sin3c ]
+yyy caa
++ b {(1/8)cos3f [3(cosq - cos3q )sinc - (3cosq + cos3q )sin3c ]
+aaa
++ (1/8)sin3f [3sin2q cosc + (1 + 3cos2q )cos3c ]}
+4d. ２個の H 原子が等価な時（内部回転は凍結されている）
+この場合には、内部回転角が f のメチル基が f + 2p /3 及び f + 4p /3 ( = f - 2p /3) のメチル基から
+区別され、テンソルも別物になる。（メチル基そのもののテンソルは同じであるとしてしまうと、4c 節
+で示したものと同じ表式になる。）三角関数の和の法則を使って、２つの配置のサイン、コサインを f
+で表してから足し合わせると下の結果を得る。
+(cid:229) 1 = 2, (cid:229) sinf = -sinf , (cid:229) cosf = -cosf , (cid:229) sin2f = -sin2f , (cid:229) cos2f = -cos2f ,
+(cid:229) sin3f = 2sin3f , (cid:229) cos3f = 2cos3f
+内部回転角 f のメチル基については 4a 節に記したものをそのままあてはめ、等価な２つのメチ
+ル基に対しては上を 4a 節の結果に代入した結果を使う。原理的には、振動モードについても線形結
+合がどうなるかを考察する必要がある。
+２種類のメチル基の性質に大きな違いがない限り、トータルなテンソルは 4c 節に記した結果と同
+じになる。
+5．表面配向による SFGテンソルの違い
+（以下の記述で使われる角 c は、ac 面と xz 面の間の角（内部回転角）を f 、c軸の外向き法線か
+らの傾き角を q 、c軸の射影とx軸の間の角（面内配向角）を c とするときの c にあたる。そ
+tilt ip ip
+して、テンソル成分の表式に使われているオイラー角とは、f = f , q = p - q , c = p + c の関係に
+tilt ip
+なる。）
+メチル基の面内配向は角 c で定義される。光の進行方向を正方向に取った入射面と表面の交線が
+表面に対するメチル基C 軸の射影がなす角をこの配向角と定義することによって、測定データを解
+3
+析するためのテンソルを導くことが出来、また、試料回転に対するSFG 信号の挙動を調べることが
+出来る。一方、表面に固定した軸 — 例えば LB 膜の引き上げ軸や結晶軸 — とメチル基の軸の射影
+がなす角を c と定義すると、表面固有のテンソル成分を求めることになる。但し、5d 節で記すC 対
+s
+称の場合には、２つの角、即ち、入射面と表面の交線が鏡映対称面と表面の交線（director）に対して
+なす角、及び、メチル基の軸の射影が鏡映面・表面交線に対してなす角の両方を定義した方が、デー
+タを解釈する上で分かりやすい。C 対称の表面のSFG実験では、入射面が対称面に重なった場合に
+s
+自由回転メチルの (spp)、(psp)、(pps)、 (sss)光は生成しない。また、メチル基の内部回転が凍結する
+と、縮重振動についてのみ (spp)、(psp)、(pps)、(sss)光が観測される。
+以下では、代表的な配向形式におけるテンソル成分を考察してみよう。簡単のために、メチル基の
+内部回転は凍結しているが３個のHは等価であるとする。すなわち、4c 節で考えたケースを扱う。
+5a 節で示すように、メチル基が内部回転を止めている場合には、三角錐の頂点が表面に向いてい
+るか、それとも、底辺が表面に平行になっているかによって、縮重振動バンドのSFGテンソルの値
+CH の配向とテンソル成分 - 12
+3
+
+===== PDF p.13 =====
+がかなり違ってくることが重要なポイントであろう。
+5a．ランダム（２次元）配向表面の SFGテンソル
+メチル基の面内配向がランダムになっている場合には、面内配向角 c が0から2p の間の任意の値
+を等しい確率で取り得る。 (cid:242) 2p cos(nc )dc =(cid:242) 2p sin(nc )dc =0 (n = 1, 2, 3) であるから、テンソル成分は
+0 0
+大幅に整理されて下記のようになる。
+なお、ac 面と xz 面の間の角（内部回転角）を f 、c軸の外向き法線からの傾き角を q 、c軸の
+tilt
+射影とx軸の間の角（面内配向角）を c とするとき、下のテンソル成分の表式に使われているオイ
+ip
+ラー角は、f = f , q = p - q , c = p + c である。
+tilt ip
+［全対称振動］ b >> b , b のときには b ~ (4/9)b , b ~ (1/9)b である。
+zzz xxz h hz aac zzz ccc zzz
+(ppp) c = -(1/2)(b - b )(cosq - cos3q )
+xzx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q ) + b cosq
+xxz aac ccc aac
+c = -(1/2)(b - b )(cosq - cos3q )
+zxx aac ccc
+c = - (b - b )cos3q + b cosq
+zzz aac ccc aac
+(spp) (none)
+(ssp) c = -(1/2)(b - b )(cosq - cos3q ) + b cosq
+yyz aac ccc aac
+(psp) (none)
+(sps) c = -(1/2)(b - b )(cosq - cos3q )
+yzy aac ccc
+(pps) (none)
+(cid:160)
+(pss) c = -(1/2)(b - b )(cosq - cos3q )
+zyy aac ccc
+(sss) (none)
+［縮重振動］ b >> b 、b のときには b ~ (4/9)b 、b ~ ( 32/9)b である。
+zzz xxz h hz caa zzz aaa zzz
+(ppp) c = b (1/2)cos3q - b (1/4)cos3f sin3q
+zxx caa aaa
+c = b (1/2)cos3q - b (1/4)cos3f sin3q
+xzx caa aaa
+c = b (-1/2)(cosq - cos3q ) - b (1/4)cos3f sin3q
+xxz caa aaa
+c = b (cosq - cos3q ) + b (1/2)cos3f sin3q
+zzz caa aaa
+(spp) (none)
+(ssp) c = b (-1/2)(cosq - cos3q ) - b (1/4)cos3f sin3q
+yyz caa aaa
+(psp) (none)
+(sps) c = b (1/2)cos3q - b (1/4)cos3f sin3q
+yzy caa aaa
+(pps) (none)
+CH の配向とテンソル成分 - 13
+3
+(cid:160)
+
+===== PDF p.14 =====
+(pss) c = b (1/2)cos3q - b (1/4)cos3f sin3q
+zyy caa aaa
+(sss) (none)
+5b．C 配向表面の SFGテンソル
+3v
+この場合には、角 c について３つの値、即ち、c 、c + 2p /3、c + 4p /3 ( = c - 2p /3) を取るメチル基
+が同じ確率で存在する。三角関数の和の法則を使って、３つの配向のサイン、コサインを c で表し
+てから足し合わせると下の結果を得る。
+(cid:229) 1 = 3, (cid:229) sinc = (cid:229) cosc = (cid:229) sin2c = (cid:229) cos2c = 0, (cid:229) sin3c = 3sin3c , (cid:229) cosc = 3cos3c
+上を4b 節の結果に代入すると、下記の結果が得られて、(a) 表面の回転に対してスペクトルは６回
+対称を示すこと、(b) メチル基が自由回転をしていても (spp)、(psp)、(psp)、(pss) 信号が得られるこ
+と、(c) tilt 角が90˚ のときにも、基板の向きによっては、(spp)、(psp)、(pps)、(sss) 信号が得られる
+こと、がわかる。
+なお、ac 面と xz 面の間の角（内部回転角）を f 、c軸の外向き法線からの傾き角を q 、c軸の
+tilt
+射影とx軸の間の角（面内配向角）を c とするとき、下のテンソル成分の表式に使われているオイ
+ip
+ラー角は、f = f , q = p - q , c = p + c である。
+tilt ip
+傾き角がゼロのときには、全対称振動の (spp)、(psp)、(pps)、(sps)、(pss)、(sss) 信号が出ない。一
+方、縮重振動では、内部回転角によってはこれらの信号が出てくる。
+［全対称振動］ b >> b , b のときには b ~ (4/9)b , b ~ (1/9)b である。
+zzz xxz h hz aac zzz ccc zzz
+(ppp) c = (1/4)(b - b )sin3q cos3c
+xxx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )
+xzx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )
+zxx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q ) + b cosq
+xxz aac ccc aac
+c = -(b - b )cos3q + b cosq
+zzz aac ccc aac
+(spp) c = -(1/4)(b - b )sin3q sin3c
+yxx aac ccc
+(ssp) c = -(1/4)(b - b )sin3q cos3c
+yyx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q ) + b cosq
+yyz aac ccc aac
+(psp) c = -(1/4)(b - b )sin3q sin3c
+xyx aac ccc
+(sps) c = -(1/4)(b - b )sin3q cos3c
+yxy aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )
+yzy aac ccc
+(pps) c = -(1/4)(b - b )sin3q sin3c
+xxy aac ccc
+(pss) c = -(1/2)(b - b )(cosq - cos3q )
+zyy aac ccc
+c = -(1/4)(b - b )sin3q cos3c
+xyy aac ccc
+(sss) c = (1/4)(b - b )sin3q sin3c
+yyy aac ccc
+CH の配向とテンソル成分 - 14
+3
+
+===== PDF p.15 =====
+［縮重振動］ b >> b , b のときには b ~ (4/9)b , b ~ (4(cid:214) 2/9)b である。
+zzz xxz h hz caa zzz aaa zzz
+(ppp) c = b (1/4)sin3q cos3c + b (1/8)[cos3f (3cosq + cos3q )cos3c - sin3f (1 + 3cos2q )sin3c ]
+xxx caa aaa
+c = b (1/2)cos3q - b (1/4)cos3f sin3q
+zxx caa aaa
+c = b (1/2)cos3q - b (1/4)cos3f sin3q
+xzx caa aaa
+c = b (-1/2)(cosq - cos3q ) - b (1/4)cos3f sin3q
+xxz caa aaa
+c = b (-1/2)(cosq - cos3q ) + b (1/4)cos3f sin3q
+zzz caa aaa
+(spp) c = b {(-1/4)sin3q sin3c - b (1/8)[cos3f (3cosq + cos3q )sin3c + sin3f (1 + 3cos2q )cos3c ]
+yxx caa aaa
+(ssp) c = b (-1/4)sin3q cos3c - b (1/8)[cos3f (3cosq + cos3q )cos3c - sin3f (1 + 3cos2q )sin3c ]
+yyx caa aaa
+c = b (-1/2)(cosq - cos3q ) - b (1/4)cos3f sin3q
+yyz caa aaa
+(psp) c = b {(-1/4)sin3q sin3c - b (1/8)[cos3f (3cosq + cos3q )sin3c + sin3f (1 + 3cos2q )cos3c ]
+xyx caa aaa
+(sps) c = b (-1/4)sin3q cos3c - b (1/8)[cos3f (3cosq + cos3q )cos3c - sin3f (1 + 3cos2q )sin3c ]
+yxy caa aaa
+c = b (1/2)cos3q - b (1/4)cos3f sin3q
+yzy caa aaa
+(pps) c = b {(-1/4)sin3q sin3c - b (1/8)[cos3f (3cosq + cos3q )sin3c + sin3f (1 + 3cos2q )cos3c ]
+xxy caa aaa
+(pss) c = b (-1/4)sin3q cos3c - b (1/8)[cos3f (3cosq + cos3q )cos3c - sin3f (1 + 3cos2q )sin3c ]
+xyy caa aaa
+c = b (1/2)cos3q - b (1/4)cos3f sin3q
+zyy caa aaa
+(sss) c = b (1/4)sin3q sin3c + b {(1/8)[cos3f (3cosq + cos3q )sin3c + sin3f (1 + 3cos2q )cos3c ]
+yyy caa aaa
+5c．C 配向、C 配向表面の SFGテンソル
+4v 6v
+この場合には、(cid:229) sinc = (cid:229) cosc = (cid:229) sin2c = (cid:229) cos2c = (cid:229) sin3c = (cid:229) cosc = 0であるから、5a 節で示したも
+のと同じ表式になる。
+5d．C 配向表面の SFGテンソル
+s
+表面に垂直な面に関して鏡映対称がある場合である。引き上げ方向に関して配向するLB 膜のメチ
+ル基のように、引き上げ方向に関してメチル基が左右にV字形に並ぶだ場合が当てはまる。鏡映対称
+面と表面の交線に対してメチル軸の表面への射影がなす角を +b と -b とし、交線がx軸となす配向
+角を a とするとき、配向角 c が a + b のメチル基と a - b のメチル基が同数ずつ存在する。分子
+ip
+面と xy 面の間の角（内部回転角）を f 、c軸の外向き法線からの傾き角を q 、c軸の射影とx軸の
+tilt
+間の角（面内配向角）を c とするとき、下のテンソル成分の表式に使われているオイラー角は、f = f ,
+ip
+q = p - q , c = p + c である。すなわち、下の関係が成り立つ。
+tilt ip
+sinc = -sinc , cosc = -cosc
+ip ip
+sin2c = sin2c , cos2c = cos2c
+ip ip
+sin3c = -sin3c , cos3c = -cos3c
+ip ip
+これに加えて、下に記す三角関数の和の法則を使って、２つの配置のサイン、コサインを c で表して
+から足し合わせたものを4a 節の結果に代入すると求める表式が得られる。
+(cid:229) 1 = 2, (cid:229) sinc = 2sina cosb , (cid:229) cosc = 2cosa cosb ,
+ip ip
+CH の配向とテンソル成分 - 15
+3
+
+===== PDF p.16 =====
+(cid:229) sin2c = 2sin2a cos2b , (cid:229) cos2c = 2cos2a cos2b ,
+ip ip
+(cid:229) sin3c = 2sin3a cos3b , (cid:229) cos3c = 2cos3a cos3b
+ip ip
+b = 0 とすれば表面固定系でのテンソル成分になり、同時に、SFG実験で入射面が対称面に重なる
+ようにした場合には全対称バンドの (spp)、(psp)、(pps)、(sss)光が生成しないことがわかる。また、
+メチル基が自由回転をしている場合には縮重バンドでも (spp)、(psp)、(pps)、(sss)光が生成しない。
+5e．C 配向表面の SFGテンソル
+2v
+メチル基の対が、表面の法線に関して分子軸がV字形になった形で並ぶ場合が当てはまる。この場
+合には、配向角が c のメチル基と c + p のメチル基が存在する。三角関数の和の法則を使って、2
+つの配置のサイン、コサインを c で表してから足し合わせると下の結果を得る。
+なお、ac 面と xz 面の間の角（内部回転角）を f 、c軸の外向き法線からの傾き角を q 、c軸の
+tilt
+射影とx軸の間の角（面内配向角）を c とするとき、下のテンソル成分の表式に使われているオイ
+ip
+ラー角は、f = f 、q = p - q 、c = p + c である。
+tilt ip
+(cid:229) 1 = 2、(cid:229) sinc = 0、(cid:229) cosc = 0、(cid:229) sin2c = 2sin2c 、(cid:229) cos2c = 2cos2c 、(cid:229) sin3c = 0、(cid:229) cos3c = 0
+［全対称振動］ b >> b , b のときには b ~ (4/9)b , b ~ (1/9)b である。
+zzz xxz h hz aac zzz ccc zzz
+(ppp) c = -(1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+xzx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+zxx aac ccc
+c = -(1/2)(b - b )(cosq - cos3q )(1 + cos2c ) + b cosq
+xxz aac ccc aac
+c = - (b - b )cos3q + b cosq
+zzz aac ccc aac
+(spp) c = (1/2)(b - b )(cosq - cos3q )sin2c
+yzx aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+yxz aac ccc
+(ssp) c = -(1/2)(b - b )(cosq - cos3q )(1 - cos2c ) + b cosq
+yyz aac ccc aac
+(psp) c = (1/2)(b - b )(cosq - cos3q )sin2c
+xyz aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zyx aac ccc
+(sps) c = -(1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+yzy aac ccc
+(pps) c = (1/2)(b - b )(cosq - cos3q )sin2c
+xzy aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zxy aac ccc
+(pss) c = -(1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+zyy aac ccc
+(sss) (none)
+［縮重振動］ b >> b 、b のときには b ~ (4/9)b 、b ~ ( 32/9)b である。
+zzz xxz h hz caa zzz aaa zzz
+(ppp) c = b (1/2)[cos3q - (cosq - cos3q )cos2c ]
+zxx caa
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c )}
+aaa
+c = b (1/2)[cos3q - (cosq - cos3q )cos2c ]
+xzx caa
+CH の配向とテンソル成分 - 16
+3
+(cid:160)
+
+===== PDF p.17 =====
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c )}
+aaa
+c = b (-1/2)[(cosq - cos3q ) + (cosq - cos3q )cos2c ]
+xxz caa
++ b {(1/4)cos3f [-sin3q + (2sinq - sin3q )cos2c ] - (1/2)sin3f sinq cosq sin2c )}
+aaa
+c = b (cosq - cos3q )
+zzz caa
++ b (1/2)cos3f sin3q
+aaa
+(spp) c = b (1/2)(cosq - cos3q )sin2c
+yzx caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c )}
+aaa
+c = b (1/2)(cosq - cos3q )sin2c
+yxz caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c )}
+aaa
+(ssp) c = b (-1/2)(cosq - cos3q )(1-cos2c )
+yyz caa
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2)sin3f sinq cosq sin2c }
+aaa
+(psp) c = b (1/2)(cosq - cos3q )sin2c
+xyz caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+c = b (1/2)(cosq - cos3q )sin2c
+zyx caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+(sps) c = b (1/2)[(cos3q + (cosq - cos3q )cos2c ]
+yzy caa
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2)sin3f sinq cosq sin2c }
+aaa
+(pps) c = b (1/2)(cosq - cos3q )sin2c
+zxy caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+c = b (1/2)(cosq - cos3q )sin2c
+xzy caa
++ b {(-1/4)cos3f (2sinq - sin3q )sin2c - (1/2)sin3f sinq cosq cos2c }
+aaa
+(pss) c = b (1/2)[(cos3q + (cosq - cos3q )cos2c ]
+zyy caa
++ b {(-1/4)cos3f [sin3q + (2sinq - sin3q )cos2c ] + (1/2)sin3f sinq cosq sin2c }
+aaa
+(sss) (none)
+6．表面電場から SFG 分極へ
+SFG分極 P(w ) は、下式によって入射光の表面電場（入射光の電場 E(i)(w ) および E(i)(w ) に反
+SF ir vis
+射光の電場 E(r)(w ) および E(r)(w ) を加えたベクトル和）と、下式で関係付けられる。
+ir vis
+P(w )=(cid:229) c SF E (w )E (w ) (6.1)
+i SF ijk j vis k IR
+j,k
+式中、下付きの i、j、k は、左から順にSFG光、vis 光、ir 光の電場に対する座標軸成分の方向を表
+す ( i, j, k = x, y, z)。一般に、入射角 q を持つ入射光の電場 E(i) を p 偏光成分と s 偏光成分に分け
+I
+て区別する（E(i) = E(i) + E(i)）。このとき、光電場の振幅の x、y、z 成分を偏光成分の電場振幅で表す
+p s
+と、下のようになる。
+E(i) = E(i) cosq , E(i) = E(i), E(i) = -E(i) sinq (6.2)
+x p i y s z p i
+同様に、反射角 q の反射光 E(r) については下式になる。
+r
+CH の配向とテンソル成分 - 17
+3
+(cid:160)
+
+===== PDF p.18 =====
+E(r) = -E(r) cosq , E(r) = E(r), E(r) = -E(r) sinq (6.3)
+x p r y s z p r
+また、E(r) と E(i) はフレネルの反射係数を通して次の関係にある。
+n cosq - n cosq n cosq - n cosq
+E(r) = 1 i 2 t E(i)、E (r) = 2 i 1 t E (i) (6.4)
+s n cosq +n cosq s p n cosq +n cosq p
+1 i 2 t 2 i 1 t
+n とn は、入射側及び透過側にある媒質の屈折率 q は屈折角である。よって、表面電場 E(surf) の
+1 2 t
+座標成分は下式で表される。
+2n cosq cosq
+E(surf) = 1 i t E (i) (6.5a)
+x n cosq +n cosq p
+2 i 1 t
+2n cosq
+E(surf) = 1 i E(i) (6.5b)
+y n cosq +n cosq s
+1 i 2 t
+2n cosq sinq nn
+E(surf) =- 1 i t ( 1 2)2E (i) (6.5c)
+z n cosq +n cosq n' p
+2 i 1 t
+(6.5c) 式で、n’ はSFG信号を出す表面層の屈折率である。赤外光および可視光電場の座標成分を (6.5)
+式により求め、その結果を (6.1) 式に代入すれば、分極ベクトルの大きさが求め得られる。
+7．SFG 分極から SFG電場へ
+SFG分極P(w ) がもとになって生成するSFG電場 E(w ) は、「反射方向」と「透過方向」の２
+SF SF
+方向に伝播する。そして、反射方向に出て行く SFG 光の電場 E(r)(w ) と透過方向に出て行く SFG 光
+SF
+の電場 E(t)(w ) の振幅に対しては、下式が成り立つ。
+SF
+w P(w )
+E(r)(w )=4p i SF y SF (7.1a)
+s SF c n cosq +n cosq
+1 i 2 t
+(cid:160) (cid:160)
+n
+w P(w )cosq - ( 2)2P(w )sinq
+E (r)(w )=- 4p i SF x SF t n' z SF t (7.1b)
+p SF c n cosq +n cosq
+2 i 1 t
+w P(w )
+E(t)(w )=4p i SF y SF (7.2a)
+s SF c n cosq +n cosq
+1 i 2 t
+(cid:160)
+n
+w
+P(w )cosq +( 1)2P(w )sinq
+E (t)(w )=- 4p i SF x SF i n' z SF i (7.2b)
+(cid:160) p SF c n cosq +n cosq
+2 i 1 t
+(cid:160)
+フレネルのL係数を導入すると、式の表現が簡単化される。
+E(r)(w )= L (r)P(w ), E(r)(w )= L (r)P(w )+L (r)P(w ) (7.3a)
+s SF s,y y SF p SF p,x x SF p,z z SF
+E(t)(w )= L (t)P(w ), E(t)(w )= L (t)P(w )+L (t)P(w ) (7.3b)
+s SF s,y y SF p SF p,x x SF p,z z SF
+w 1
+L (r) =- 4p i SF (7.4a)
+s,y c n cosq +n cosq
+1 i 2 t
+w cosq
+L (r) =- 4p i SF t (7.4b)
+p,x c n cosq +n cosq
+2 i 1 t
+CH の配向とテンソル成分 - 18
+(cid:160) 3
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.19 =====
+n
+w ( 2)2P(w )sinq
+L (r) =4p i SF n' z SF t (7.4c)
+p,z c n cosq +n cosq
+2 i 1 t
+w 1
+L (t) =- 4p i SF (7.5a)
+s,y c n cosq +n cosq
+1 i 2 t
+w cosq
+L (t) =- 4p i SF i (7.5b)
+p,x c n cosq +n cosq
+2 i 1 t
+n
+w ( 1)2P(w )sinq
+L (t) =- 4p i SF n' z SF i (7.5c)
+p,z c n cosq +n cosq
+2 i 1 t
+なお、(7.1b) 式および (7.4b) 式の分極の成分にかかる係数の符号については、z軸の取り方で変わっ
+てしまうため、不明確なところが残っている。
+おわり
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+CH の配向とテンソル成分 - 19
+3

@@ -1,0 +1,21 @@
+{
+  "batch": "B124",
+  "pages": [
+    1,
+    2
+  ],
+  "end": "L系数/电场振幅标题前",
+  "scope": "reviewed preparation only",
+  "math_fragments": 59,
+  "numbered_equations": 0,
+  "old_unreviewed_tail_unchanged": true,
+  "control_characters": 0,
+  "render_overflows": 0,
+  "visual_review": "已目视参考渲染",
+  "issues": [
+    "Q077",
+    "Q078",
+    "关联Q039/Q053/Q072"
+  ],
+  "adopted_source_corrections": false
+}

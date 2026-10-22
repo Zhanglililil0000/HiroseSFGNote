@@ -1,0 +1,246 @@
+2 層膜の SFG - 25
+ 
+€ 
+=
+b(1m rm'm)(1 m r1m'a
+2
+)]L
++
+m/2
+1+ r1 m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z2 = 0)
+(upper sign for x and y components, lower sign for z component)
+(2.25) 式を参照して、
+€ 
+E
++
+2,p (hm' + hm
++
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+tm'm,vis,α
+e
+iβ m',vishm'
+(1 + rm2,vis,α
+e
+2 iβ m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+e
+iβ m',irhm '
+(1+ rm'm,ir,β
+)(1+ rm2 ,ir,β
+e
+2iβ m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×{
+e
+iβ m,SFhm
+(1 − rm'm,SF,p
+)(1− r
+1m',SF,p
+e
+2iβ m',SFhm'
+)L
++
+m/2,pxχ xαβ
+1 + r
+1m',SF,p
+rm'm,SF,p
+e
+2iβm ', SFhm' + (rm'm,SF,p
++ r
+1m',SF ,p
+e
+2iβ m',SFhm '
+)rm2,SF,p
+e
+2 iβ m,SFhm
+€ 
++
+e
+iβm, SFhm
+(1+ rm'm,SF,p
+)(1+ r
+1 m',SF,p
+e
+2iβm ', SFhm'
+)L
++
+m/2 ,pz χ zαβ
+1 + r
+1m',SF,p
+rm'm,SF ,p
+e
+2iβm ', SFhm' + (rm'm,SF,p
++ r
+1m',SF,p
+e
+2 iβ m',SFhm '
+)rm2,SF,p
+e
+2 iβ m,SFhm
+} (nm" = nm) (2.42a)
+€ 
+E
++
+2,s (h m' + h m
++
+)net = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+tm'm,vis,α
+e
+iβ m',vishm'
+(1 + rm2,vis,α
+e
+2 iβ m,vishm
+)
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1 m',ir,β
+e
+iβ m',irhm '
+(1+ rm'm,ir,β
+)(1+ rm2 ,ir,β
+e
+2iβ m,irhm
+)
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+e
+iβ m,SFhm
+(1 − rm'm,SF,s
+)(1 − r
+1m',SF,s
+e
+2 iβ m',SFhm '
+)L
++
+m/2',sy χyαβ
+1+ r
+1 m',SF ,s
+rm'm,SF ,s
+e
+2 iβ m',SFhm' + (rm'm,SF,s
++ r
+1m',SF,s
+e
+2iβ m', SFhm'
+)rm2 ,SF,s
+e
+2 iβ m,SFhm
+(2.42b)
+m' 層の分極からの SFG：
+ファイル「一般式」の( 2.1 ) 式 ~ (2.4) 式において、下の定義を使う。
+€ 
+a0 = e
+ikm'
+z
+1
+/cosθ m'
+,
+€ 
+a0 * = e
+iβ m'
+hm '
+/cosθ m'e
+−ikm '
+z
+1
+/cosθ m'
+しかし、本稿の (2.10) 式 ~ (2.17) 式ひいては (2.27) 式 ~ (2.30) 式を導くために使う光路は、一つの層の
+内部での多重反射を考慮していない。すなわち、位相部分の扱いには不備がある。その不備は、指数関数の
+引数で h/cosθ および z/cosθ の形になっている部分を β× h および β× z と置き換えることで修正できるの
+で、その置き換えを行った結果を以下では記す。手始めに、以下では
+€ 
+a0 = e
+iβm '
+z
+1
+,
+€ 
+a0 * = e
+iβ m'
+hm 'e
+−iβm '
+z
+1 とする。
+また、上で行ったと同様に下のように置く。

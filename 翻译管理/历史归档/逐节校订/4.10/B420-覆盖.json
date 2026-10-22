@@ -1,0 +1,124 @@
+{
+  "batch": "B420",
+  "source_sha256": "d734ad0e42503a08065d0beb0964a16668ad9b7d7667355dbc59629378d9ef20",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          6,
+          728.2
+        ]
+      ],
+      "source_lines": [
+        "R_{c}(\\chi  = \\pi ) R_{\\eta }( \\theta  = \\alpha /2) R_{\\zeta }(\\phi  = 0),   R_{c}(\\chi  = 0) R_{\\eta }( \\theta  = \\alpha /2) R_{\\zeta }(\\phi  = 0)(Eu-5)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          744.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = 0、\\sin 2\\chi  = 0、\\sin 3\\chi  = 0  \\cos \\chi  = ±1、\\cos 2\\chi  = +1、\\cos 3\\chi  = ±1"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          88.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0  \\cos \\phi  = +1、\\cos 2\\phi  = +1、\\cos 3\\phi  = +1"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          104.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\theta  = \\sin (\\alpha /2)、  \\cos \\theta  = \\cos (\\alpha /2)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          186.2
+        ]
+      ],
+      "source_lines": [
+        "R_{c}(\\chi  = \\pi ) R_{\\eta }(\\theta  = \\alpha  - \\pi /2) R_{\\zeta }(\\phi  = 0)、R_{c}(\\chi  = 0) R_{\\eta }(\\theta  = \\alpha  - \\pi /2) R_{\\zeta }(\\phi  = 0) (Eu-6)"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          203.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = 0、\\sin 2\\chi  = 0、\\sin 3\\chi  = 0、\\cos \\chi  = ±1、\\cos 2\\chi  = +1、\\cos 3\\chi  = ±1"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          219.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0、\\cos \\phi  = +1、\\cos 2\\phi  = +1、\\cos 3\\phi  = +1"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          236.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\theta  = -\\cos \\alpha ,、\\cos \\theta  = \\sin \\alpha"
+      ]
+    },
+    {
+      "locations": [
+        [
+          7,
+          638.2
+        ]
+      ],
+      "source_lines": [
+        "\\cos \\theta  = \\sin \\alpha \\cos (\\tau /2),   \\sin \\theta  = \\sqrt{1-\\sin ^{2}\\alpha \\cos ^{2}(\\tau /2)}(Eu-8)"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "manual_vector_and_prose_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pages": [
+    6,
+    7,
+    8
+  ],
+  "tensor_left_sides": [],
+  "source_images_visually_checked": true,
+  "translation_sha256": "a07b000c0bd070cd778dec9568f2a648f901ae2f2af9221c1a7af1494dee42f8"
+}

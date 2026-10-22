@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-21",
+  "section": "4.7",
+  "batches": "B365—B366",
+  "source_total_pages": 24,
+  "verified_scope": "PDF p1—2，第1、2部分、原图及局部导读",
+  "independent_figures": 1,
+  "math_fragments": 85,
+  "math_syntax_errors": 0,
+  "formula_overflows": 0,
+  "source_issue": "Q180，原称保留",
+  "source_corrections_adopted": false,
+  "next_batch": "B367，PDF p3第3部分引言及完整表(3a-1)",
+  "translation_sha256": "fe23a848c430965b5d47816f18e890e2fb9e311706b66e676e6762c7f3b7c9cf"
+}

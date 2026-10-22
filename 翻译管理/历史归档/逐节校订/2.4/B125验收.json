@@ -1,0 +1,17 @@
+{
+  "batch": "B125",
+  "source_pages_visually_checked": [
+    2,
+    3
+  ],
+  "six_coefficients_checked": true,
+  "z_chains_complete": true,
+  "reviewed_scope_math_fragments": 82,
+  "strict_math_errors": 0,
+  "render_overflow": false,
+  "render_screenshot_visually_checked": true,
+  "previous_preparation_body_unchanged": true,
+  "unreviewed_tail_unchanged": true,
+  "source_corrections_adopted": false,
+  "whole_section_complete": false
+}

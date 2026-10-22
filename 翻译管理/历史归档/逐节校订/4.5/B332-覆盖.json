@@ -1,0 +1,317 @@
+{
+  "batch": "B332",
+  "date": "2026-10-21",
+  "pages": [
+    7,
+    8
+  ],
+  "scope": "正文自由旋转：全对称模式",
+  "source_lines": [
+    "p07l09",
+    "p07l10",
+    "p07l11",
+    "p07l12",
+    "p07l13",
+    "p07l14",
+    "p07l15",
+    "p07l16",
+    "p07l17",
+    "p07l18",
+    "p07l19",
+    "p07l20",
+    "p07l21",
+    "p07l22",
+    "p07l23",
+    "p07l24",
+    "p07l25",
+    "p07l26",
+    "p07l27",
+    "p07l28",
+    "p07l29",
+    "p07l30",
+    "p07l31",
+    "p07l32",
+    "p08l01",
+    "p08l02",
+    "p08l03",
+    "p08l04",
+    "p08l05",
+    "p08l06",
+    "p08l07",
+    "p08l08",
+    "p08l09",
+    "p08l10",
+    "p08l11",
+    "p08l12",
+    "p08l13"
+  ],
+  "formulas": [
+    {
+      "source_lines": [
+        "p07l13"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} + \\beta _{yyz} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha ) + 4\\beta _{aac}\\cos \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l14"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} - \\beta _{yyz} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l15"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} + \\beta _{yyz} - 2\\beta _{zzz} = -2(\\beta _{aac} - \\beta _{ccc})[3(\\cos \\alpha - \\cos ^{3}\\alpha ) - 2\\cos \\alpha ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l18"
+      ],
+      "latex_lines": [
+        "\\chi _{XZX}= (1/2)(\\beta _{aac} - \\beta _{ccc})[(\\cos \\alpha - \\cos ^{3}\\alpha )(3 + \\cos 2\\phi ) - 2\\cos \\alpha ](\\cos \\theta - \\cos ^{3}\\theta )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l19"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXX}= (1/2)(\\beta _{aac} - \\beta _{ccc})[(\\cos \\alpha - \\cos ^{3}\\alpha )(3 + \\cos 2\\phi ) - 2\\cos \\alpha ](\\cos \\theta - \\cos ^{3}\\theta )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l20",
+        "p07l21",
+        "p07l22"
+      ],
+      "latex_lines": [
+        "\\chi _{XXZ}= (1/2)(\\beta _{aac} - \\beta _{ccc})\\{[(\\cos \\alpha - \\cos ^{3}\\alpha )(3 + \\cos 2\\phi ) - 2\\cos \\alpha ](\\cos \\theta - \\cos ^{3}\\theta )",
+        "- 2(\\cos \\alpha - \\cos ^{3}\\alpha )\\cos \\theta \\}",
+        "+ 2\\beta _{aac}\\cos \\alpha \\cos \\theta"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l23"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZZ} = -(\\beta _{aac} - \\beta _{ccc})[(\\cos \\alpha - \\cos ^{3}\\alpha )(1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta ) + 2\\cos ^{3}\\alpha \\cos ^{3}\\theta ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l24"
+      ],
+      "latex_lines": [
+        "\\chi _{YZX}= -(1/2)(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin 2\\phi \\sin ^{2}\\theta"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l25",
+        "p07l26",
+        "p07l27"
+      ],
+      "latex_lines": [
+        "\\chi _{YYZ}= (1/2)(\\beta _{aac} - \\beta _{ccc})\\{[(\\cos \\alpha - \\cos ^{3}\\alpha )(3 + \\cos 2\\phi ) - 2\\cos \\alpha ](\\cos \\theta - \\cos ^{3}\\theta )",
+        "- 2(\\cos \\alpha - \\cos ^{3}\\alpha )\\cos \\theta \\}",
+        "+ 2\\beta _{aac}\\cos \\alpha \\cos \\theta"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l28"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYX}= -(1/2)(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin 2\\phi \\sin ^{2}\\theta"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l29"
+      ],
+      "latex_lines": [
+        "\\chi _{YZY}= (1/2)(\\beta _{aac} - \\beta _{ccc})[(\\cos \\alpha - \\cos ^{3}\\alpha )(3 + \\cos 2\\phi ) - 2\\cos \\alpha ](\\cos \\theta - \\cos ^{3}\\theta )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l30"
+      ],
+      "latex_lines": [
+        "\\chi _{XZY}= -(1/2)(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin 2\\phi \\sin ^{2}\\theta"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l31"
+      ],
+      "latex_lines": [
+        "\\chi _{ZXY}= -(1/2)(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin 2\\phi \\sin ^{2}\\theta"
+      ]
+    },
+    {
+      "source_lines": [
+        "p07l32"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYY}= (1/2)(\\beta _{aac} - \\beta _{ccc})[(\\cos \\alpha - \\cos ^{3}\\alpha )(3 + \\cos 2\\phi ) - 2\\cos \\alpha ](\\cos \\theta - \\cos ^{3}\\theta )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p08l03"
+      ],
+      "latex_lines": [
+        "\\chi _{XX} = -(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )[\\cos \\theta - (\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p08l04"
+      ],
+      "latex_lines": [
+        "\\chi _{XZX}= -(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )[\\cos \\theta - (\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p08l05"
+      ],
+      "latex_lines": [
+        "\\chi _{XXZ}= (\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p08l06"
+      ],
+      "latex_lines": [
+        "\\chi _{ZZZ} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p08l08"
+      ],
+      "latex_lines": [
+        "\\chi _{YYZ}= (\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p08l10"
+      ],
+      "latex_lines": [
+        "\\chi _{YZY}= -(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )[\\cos \\theta - (\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p08l12"
+      ],
+      "latex_lines": [
+        "\\chi _{ZYY}= -(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )[\\cos \\theta - (\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi )]"
+      ]
+    }
+  ],
+  "tensor_components": [
+    {
+      "symbol": "chi",
+      "indices": "XZX",
+      "source": "p07l18"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXX",
+      "source": "p07l19"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXZ",
+      "source": "p07l20"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZZ",
+      "source": "p07l23"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZX",
+      "source": "p07l24"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYZ",
+      "source": "p07l25"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYX",
+      "source": "p07l28"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZY",
+      "source": "p07l29"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZY",
+      "source": "p07l30"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZXY",
+      "source": "p07l31"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYY",
+      "source": "p07l32"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XZX",
+      "source": "p08l04"
+    },
+    {
+      "symbol": "chi",
+      "indices": "XXZ",
+      "source": "p08l05"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZZZ",
+      "source": "p08l06"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YYZ",
+      "source": "p08l08"
+    },
+    {
+      "symbol": "chi",
+      "indices": "YZY",
+      "source": "p08l10"
+    },
+    {
+      "symbol": "chi",
+      "indices": "ZYY",
+      "source": "p08l12"
+    }
+  ],
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true
+}

@@ -1,0 +1,32 @@
+{
+  "batches": [
+    {
+      "batch": "B362",
+      "pages": [
+        1
+      ],
+      "scope": "原题、全文导读、对称性降低与模式、S/GR/FR/GS矩阵及定义",
+      "display_blocks": 6
+    },
+    {
+      "batch": "B363",
+      "pages": [
+        2
+      ],
+      "scope": "FS矩阵、GF五分量、本征值与D展开、谱带分裂及Td近似",
+      "display_blocks": 8
+    },
+    {
+      "batch": "B364",
+      "pages": [
+        3
+      ],
+      "scope": "L矩阵、嵌套分式、归一化与模式极限及结论",
+      "display_blocks": 9
+    }
+  ],
+  "display_blocks": 23,
+  "numbered_equations": 0,
+  "matrix_groups": 5,
+  "bmatrix_occurrences": 7
+}

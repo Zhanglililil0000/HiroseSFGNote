@@ -1,0 +1,21 @@
+{
+  "batch": "B380",
+  "pages": [
+    15,
+    16
+  ],
+  "scope": "5d",
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批原页对照、译校与参考排版完成",
+  "render": {
+    "batch": "B380",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "312a634bf2f93e0c0802d97db983fd91ca6a90201278a2af8af787e4df49d1b8",
+  "validation_limit": "保留原式疑点；未声称已完成独立物理验证。"
+}

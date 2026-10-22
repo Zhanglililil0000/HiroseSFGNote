@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-19",
+  "pages": 12,
+  "source_sha256": "63c635f8fde9e43fd6e7e9b1be2504119bf4354fb7a1f3deba48f3024eb28384",
+  "batches": [
+    "B115",
+    "B116",
+    "B117",
+    "B118",
+    "B119",
+    "B120",
+    "B121",
+    "B122"
+  ],
+  "numbered_total": 21,
+  "numbered_unique": 21,
+  "numbered_missing": [],
+  "D_complete_derivations": 6,
+  "figures": 5,
+  "all_equations_editable": true,
+  "all_local_references_valid": true,
+  "control_characters": 0,
+  "render_overflows": 0,
+  "rendered_batches": 8,
+  "issues_retained": [
+    "Q073",
+    "Q074",
+    "Q075",
+    "Q076",
+    "关联2.2 Q044/Q047/Q053—Q058/Q072"
+  ],
+  "adopted_provisional_text": "E-2.3-001，加重反射→多重反射",
+  "author_formula_corrections_adopted": false,
+  "related_parent_transcription_repair": "B123",
+  "whole_preview": {
+    "math_fragments": 308,
+    "images": 5,
+    "formula_overflows": 0,
+    "page_overflow": false
+  }
+}

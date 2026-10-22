@@ -1,0 +1,15 @@
+{
+  "batch": "B246",
+  "date": "2026-10-20",
+  "pages": [
+    11,
+    12
+  ],
+  "tags": [
+    "2.22"
+  ],
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "figure_panels": 7,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76"
+}

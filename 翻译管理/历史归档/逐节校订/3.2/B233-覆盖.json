@@ -1,0 +1,23 @@
+{
+  "batch": "B233",
+  "date": "2026-10-20",
+  "pages": [
+    3
+  ],
+  "tags": [
+    "2.5",
+    "2.6"
+  ],
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "unresolved": [
+    "Q113",
+    "Q115"
+  ],
+  "old_translation_repairs": [
+    "恢复矩阵乘法顺序",
+    "补回两式逆矩阵中间行"
+  ],
+  "next": "B234：p3—4的m层E−源式2.7—2.8，接完整跨页三行并核对因子"
+}

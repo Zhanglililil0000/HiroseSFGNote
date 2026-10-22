@@ -1,0 +1,16 @@
+{
+  "batch": "B092",
+  "date": "2026-10-19",
+  "page": 11,
+  "equation": "4.30b",
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅公式及状态行改变，其他正文相同",
+  "math_syntax_pass": 817,
+  "render_overflow": false,
+  "visual_review": "参考渲染与高清原式独立对照通过",
+  "section_4_numbered_equations_editable": 33,
+  "section_4_formula_image_references": 0,
+  "new_issues": 0,
+  "adopted_source_corrections": 0,
+  "next": "B093，5.1a—5.2c的L系数"
+}

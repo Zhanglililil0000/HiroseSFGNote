@@ -1,0 +1,194 @@
+{
+  "batch": "B327",
+  "date": "2026-10-21",
+  "pages": [
+    3,
+    4
+  ],
+  "scope": "分子张量：两个零角或π角",
+  "source_lines": [
+    "p03l31",
+    "p03l32",
+    "p03l33",
+    "p04l01",
+    "p04l02",
+    "p04l03",
+    "p04l04",
+    "p04l05",
+    "p04l06",
+    "p04l07",
+    "p04l08",
+    "p04l09",
+    "p04l10",
+    "p04l11",
+    "p04l12",
+    "p04l13",
+    "p04l14",
+    "p04l15",
+    "p04l16"
+  ],
+  "formulas": [
+    {
+      "source_lines": [
+        "p04l02"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha ) + 2\\beta _{aac}\\cos \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l03"
+      ],
+      "latex_lines": [
+        "\\beta _{yyz} = +2\\beta _{aac}\\cos \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l04"
+      ],
+      "latex_lines": [
+        "\\beta _{zzz} = +2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha ) + 2\\beta _{ccc}\\cos \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l05"
+      ],
+      "latex_lines": [
+        "\\beta _{zxx} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l06"
+      ],
+      "latex_lines": [
+        "\\beta _{xzx} = -2(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha )"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l10"
+      ],
+      "latex_lines": [
+        "\\beta _{xxz} = 2[-2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha ) \\pm \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l11"
+      ],
+      "latex_lines": [
+        "\\beta _{yyz} = -(\\pm 2) \\beta _{aaa}\\sin \\alpha"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l12"
+      ],
+      "latex_lines": [
+        "\\beta _{zzz} = 2[2\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha ) \\pm \\beta _{aaa}\\sin ^{3}\\alpha ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l13"
+      ],
+      "latex_lines": [
+        "\\beta _{zxx} = -2[\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha ) \\pm \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l14"
+      ],
+      "latex_lines": [
+        "\\beta _{xzx} = -2[\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha ) \\pm \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l15"
+      ],
+      "latex_lines": [
+        "\\beta _{zyy} = 2[\\beta _{caa}\\cos \\alpha - (\\pm ) \\beta _{aaa}\\sin \\alpha ]"
+      ]
+    },
+    {
+      "source_lines": [
+        "p04l16"
+      ],
+      "latex_lines": [
+        "\\beta _{yzy} = 2[\\beta _{caa}\\cos \\alpha - (\\pm ) \\beta _{aaa}\\sin \\alpha ]"
+      ]
+    }
+  ],
+  "tensor_components": [
+    {
+      "symbol": "beta",
+      "indices": "xxz",
+      "source": "p04l02"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yyz",
+      "source": "p04l03"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zzz",
+      "source": "p04l04"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zxx",
+      "source": "p04l05"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xzx",
+      "source": "p04l06"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xxz",
+      "source": "p04l10"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yyz",
+      "source": "p04l11"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zzz",
+      "source": "p04l12"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zxx",
+      "source": "p04l13"
+    },
+    {
+      "symbol": "beta",
+      "indices": "xzx",
+      "source": "p04l14"
+    },
+    {
+      "symbol": "beta",
+      "indices": "zyy",
+      "source": "p04l15"
+    },
+    {
+      "symbol": "beta",
+      "indices": "yzy",
+      "source": "p04l16"
+    }
+  ],
+  "source_corrections_adopted": false,
+  "verification_method": "数字PDF字体/字形/基线转录及逐行覆盖核验，全部页图浏览，异常与跨页续式重点复核",
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "source_images_visually_checked": true
+}

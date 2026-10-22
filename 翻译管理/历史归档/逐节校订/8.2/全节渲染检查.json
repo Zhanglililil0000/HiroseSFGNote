@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-22",
+  "math": 42,
+  "scrollWidth": 1100,
+  "height": 2820,
+  "overs": [],
+  "images": [
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/8.2/p1-%E5%8D%95%E8%B0%B1%E5%B8%A6.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/8.2/p1-%E5%A4%9A%E8%B0%B1%E5%B8%A6.png",
+      "loaded": true
+    },
+    {
+      "src": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/8.2/p2-%E7%A7%AF%E5%88%86.png",
+      "loaded": true
+    }
+  ],
+  "headings": [
+    {
+      "text": "光谱模拟",
+      "y": 201
+    },
+    {
+      "text": "说明",
+      "y": 1082
+    },
+    {
+      "text": "从和频光谱估算分子数变化",
+      "y": 1750
+    },
+    {
+      "text": "说明",
+      "y": 1925
+    }
+  ],
+  "screenshots": 6
+}

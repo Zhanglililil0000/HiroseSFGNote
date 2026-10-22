@@ -1,0 +1,51 @@
+===== PDF p.1 =====
+付録 D: SFGテンソル成分
+別のファイルに詳しいことは記してある。ここでは、独立なノンゼロ成分の個数によって区分けし
+た表を示しておく。
+1個
+D : b = -b = -b = -b
+3h xxx xyy yyx yxy
+T : b = b = b = -b = -b = -b
+d xxz zxx xzx yyz zyy yzy
+O: b = b = b = -b = -b = -b
+xyz xzy zxy yxz yzx zyx
+2個
+C : b = -b = -b = -b ; b = -b = -b = -b
+3h xxx xyy yyx yxy yyy yxx xxy xyx
+T: b = b = b = -b = -b = -b ; b = b = b = -b = -b = -b
+xyz xzy zxy yxz yzx zyx xxz zxx xzx yyz zyy yzy
+3個
+D : b = -b ; b = -b ; b = -b
+2d xxz yyz zxx zyy xzx yzy
+D, D: b = -b ; b = -b ; b = -b
+4 6 xyz yxz xzy yzx zxy zyx
+4個
+C , C , C , ..C : b ; b = b ; b = b ; b = b
+4v 5v 6v ¥ v zzz xxz yyz zxx zyy xzx yzy
+D: b = -2b = -2b = -2b = -2b = -2b = -2b ; b = -b ; b = -b ; b = -b
+3 zzz xxz yyz zxx zyy xzx yzy xyz yxz xzy yzx zxy zyx
+5個
+C : b ; b = b ; b = b ; b = b ; b = -b = -b = -b
+3v zzz xxz yyz zxx zyy xzx yzy xxx xyy yyx yxy
+6個
+D: b ; b ; b ; b ; b ; b ;
+2 xyz yzx zxy yxz zyx xzy
+S : b = -b ; b = -b ; b = -b ; b = b ; b = b ; b = b
+4 xxz yyz zxx zyy xzx yzy xyz yxz xzy yzx zxy zyx
+7個
+C : b ; b ; b ; b ; b ; b ; b
+2v yyy yxx yzz xxy zzy xyx zyz
+C, C, … C : b ; b = b ; b = b ; b = b ; b = -b ; b = -b ; b = -b
+4 6 ¥ zzz xxz yyz zxx zyy xzx yzy xyz yxz xzy yzx zxy zyx
+9個
+C: b ; b = b ; b = b ; b = b ; b = -b ; b = -b ; b = -b ;
+3 zzz xxz yyz zxx zyy xzx yzy xyz yxz xzy yzx zxy zyx
+b = -b = -b = -b ; b = -b = -b = -b
+xxx xyy yyx yxy yyy yxxy xxy xyx
+13個
+C: b ; b ; b ; b ; b ; b ; b ; b ; b ; b ; b ; b ; b
+2 yyy yxx xxy xyx yzz zzy zyz xyz yxz yxz xzy zxy zyx
+14個
+C: b ; b ; b ; b ; b ; b ; b ; b ; b ; b ; b ; b ; b ; b
+s xxx xyy yyx yxy xzz zzx zxz yyy yxx xxy xyx yzz zzy zyz
+Heinz 付録D - 1

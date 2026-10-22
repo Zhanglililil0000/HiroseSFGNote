@@ -1,0 +1,346 @@
+[
+  {
+    "batch": "B335",
+    "source": "p11l20",
+    "pairs": [
+      [
+        "[",
+        "]",
+        0,
+        1
+      ]
+    ],
+    "latex": "\\chi _{YZX}= -\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin ^{2}\\theta \\sin 2\\phi \\pm (1/2)\\beta _{aaa}(2\\sin \\alpha + \\sin ^{3}\\alpha )]\\sin ^{2}\\theta \\sin 2\\phi"
+  },
+  {
+    "batch": "B335",
+    "source": "p11l24",
+    "pairs": [
+      [
+        "[",
+        "]",
+        0,
+        1
+      ]
+    ],
+    "latex": "\\chi _{ZYX}= -\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin ^{2}\\theta \\sin 2\\phi \\pm (1/2)\\beta _{aaa}(2\\sin \\alpha + \\sin ^{3}\\alpha )]\\sin ^{2}\\theta \\sin 2\\phi"
+  },
+  {
+    "batch": "B335",
+    "source": "p11l28",
+    "pairs": [
+      [
+        "[",
+        "]",
+        0,
+        1
+      ]
+    ],
+    "latex": "\\chi _{XZY}= -\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin ^{2}\\theta \\sin 2\\phi \\pm (1/2)\\beta _{aaa}(2\\sin \\alpha + \\sin ^{3}\\alpha )]\\sin ^{2}\\theta \\sin 2\\phi"
+  },
+  {
+    "batch": "B335",
+    "source": "p11l30",
+    "pairs": [
+      [
+        "[",
+        "]",
+        0,
+        1
+      ]
+    ],
+    "latex": "\\chi _{ZXY}= -\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )\\sin ^{2}\\theta \\sin 2\\phi \\pm (1/2)\\beta _{aaa}(2\\sin \\alpha + \\sin ^{3}\\alpha )]\\sin ^{2}\\theta \\sin 2\\phi"
+  },
+  {
+    "batch": "B337",
+    "source": "p15l18",
+    "pairs": [
+      [
+        "[",
+        "]",
+        1,
+        2
+      ]
+    ],
+    "latex": "\\chi _{XXZ}= (1/2)[\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )(1 \\pm \\cos 2\\phi _{A}) - \\beta _{aaa}(\\sin \\alpha - \\sin ^{3}\\alpha )(\\cos 3\\phi _{A}\\pm \\cos \\phi _{A})] \\times (1 + \\cos 2\\phi )(\\cos \\theta - \\cos ^{3}\\theta ) + \\beta _{aaa}\\sin \\alpha \\cos \\alpha (\\sin 3\\phi _{A}\\pm \\sin \\phi _{A})](\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi"
+  },
+  {
+    "batch": "B338",
+    "source": "p17l19",
+    "pairs": [
+      [
+        "(",
+        ")",
+        5,
+        4
+      ],
+      [
+        "\\{",
+        "\\}",
+        1,
+        0
+      ]
+    ],
+    "latex": "\\chi _{ZYY}= (1/2)(\\beta _{aac} - \\beta _{ccc}\\{[(\\cos \\alpha - \\cos ^{3}\\alpha )(3 + \\cos 2\\phi ) - 2\\cos \\alpha ](\\cos \\theta - \\cos ^{3}\\theta )"
+  },
+  {
+    "batch": "B341",
+    "source": "p24l10",
+    "pairs": [
+      [
+        "(",
+        ")",
+        9,
+        8
+      ]
+    ],
+    "latex": "\\chi _{XYY}= (1/4)(\\beta _{aac} - \\beta _{ccc})(\\cos \\alpha - \\cos ^{3}\\alpha \\{[-3\\sin ^{3}\\theta + (2\\sin \\theta - \\sin ^{3}\\theta )\\cos 2\\phi ](\\cos \\chi - \\cos 3\\chi ) - 2\\sin \\theta \\cos \\theta (\\sin \\chi - \\sin 3\\chi )\\sin 2\\phi \\} + (1/2)(\\beta _{aac} - \\beta _{ccc})\\cos \\alpha \\sin ^{3}\\theta (\\cos \\chi - \\cos 3\\chi )"
+  },
+  {
+    "batch": "B342",
+    "source": "p26l18",
+    "pairs": [
+      [
+        "(",
+        ")",
+        6,
+        7
+      ]
+    ],
+    "latex": "\\chi _{XXZ}= (1/2)\\beta _{caa}(\\cos \\alpha - \\cos ^{3}\\alpha )\\{-2\\cos \\theta + 3(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi ) + [(\\cos \\theta - \\cos ^{3}\\theta ) - (\\cos \\theta + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi + 2\\cos ^{2}\\theta \\sin 2\\chi \\sin 2\\phi )\\}"
+  },
+  {
+    "batch": "B343",
+    "source": "p27l22",
+    "pairs": [
+      [
+        "(",
+        ")",
+        7,
+        6
+      ]
+    ],
+    "latex": "\\chi _{ZXX}= -(1/4\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )\\{2[\\cos \\theta (1 + \\cos 2\\chi \\cos 2\\phi ) - (\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi )] + (1 - 3\\cos ^{2}\\theta )\\sin 2\\chi \\sin 2\\phi \\}"
+  },
+  {
+    "batch": "B343",
+    "source": "p27l26",
+    "pairs": [
+      [
+        "(",
+        ")",
+        5,
+        4
+      ]
+    ],
+    "latex": "\\chi _{XXZ}= -(1/2\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )[-(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi )(1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ]"
+  },
+  {
+    "batch": "B343",
+    "source": "p28l14",
+    "pairs": [
+      [
+        "(",
+        ")",
+        7,
+        8
+      ]
+    ],
+    "latex": "\\chi _{XXY}= -(1/4)\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha ))\\{[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\phi ) - \\sin \\theta (1 - \\cos 2\\phi )](\\sin \\chi + \\sin 3\\chi ) + 2\\sin \\theta \\cos \\theta (\\cos \\chi + \\cos 3\\chi )\\sin 2\\phi \\}"
+  },
+  {
+    "batch": "B343",
+    "source": "p28l26",
+    "pairs": [
+      [
+        "[",
+        "]",
+        1,
+        2
+      ]
+    ],
+    "latex": "\\chi _{YYY}= -(1/4)\\beta _{caa}(\\cos \\alpha - 2\\cos ^{3}\\alpha )\\{[(\\sin \\theta - \\sin ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi )(1 + \\cos 2\\phi ) + \\sin \\theta (\\sin \\chi + \\sin 3\\chi )(1 - \\cos 2\\phi )] + 2\\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi )\\sin 2\\phi ]\\}"
+  },
+  {
+    "batch": "B344",
+    "source": "p30l03",
+    "pairs": [
+      [
+        "(",
+        ")",
+        7,
+        6
+      ]
+    ],
+    "latex": "\\chi _{YYY}= (1/4 \\beta _{caa}\\cos \\alpha \\{[\\sin \\theta (\\sin \\chi + \\sin 3\\chi )(1 + \\cos 2\\phi ) + (\\sin \\theta - \\sin ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi )(1 - \\cos 2\\phi )] - 2\\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi )\\sin 2\\phi \\}"
+  },
+  {
+    "batch": "B346",
+    "source": "p35l13",
+    "pairs": [
+      [
+        "(",
+        ")",
+        10,
+        11
+      ]
+    ],
+    "latex": "\\chi _{YYZ}= (1/2)(\\beta _{aac} + \\beta _{bbc})\\cos \\theta - (1/4)(\\beta _{aac} + \\beta _{bbc} - 2\\beta _{ccc})(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi ) - (1/4)(\\beta _{aac} - \\beta _{bbc})\\{[(\\cos \\theta - \\cos ^{3}\\theta ) + (\\cos \\theta + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi - 2\\cos ^{2}\\theta \\sin 2\\chi )\\sin 2\\phi \\}"
+  },
+  {
+    "batch": "B347",
+    "source": "p37l19",
+    "pairs": [
+      [
+        "[",
+        "]",
+        1,
+        2
+      ]
+    ],
+    "latex": "\\chi _{YYY}= (1/4)\\beta _{caa}\\{[(1 + \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi ) + (1 - \\cos 2\\phi )\\sin \\theta (\\sin \\chi + \\sin 3\\chi )] + 2\\sin 2\\phi \\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi )]\\}"
+  },
+  {
+    "batch": "B348",
+    "source": "p38l27",
+    "pairs": [
+      [
+        "[",
+        "]",
+        1,
+        2
+      ]
+    ],
+    "latex": "\\chi _{YYY}= (1/4)\\beta _{cbb}\\{[(1 + \\cos 2\\phi )\\sin \\theta (\\sin \\chi + \\sin 3\\chi ) + (1 - \\cos 2\\phi )(\\sin \\theta - \\sin ^{3}\\theta )(3\\sin \\chi - \\sin 3\\chi )] - 2\\sin 2\\phi \\sin \\theta \\cos \\theta (\\cos \\chi - \\cos 3\\chi )]\\}"
+  },
+  {
+    "batch": "B351",
+    "source": "p46l26",
+    "pairs": [
+      [
+        "\\{",
+        "\\}",
+        1,
+        2
+      ]
+    ],
+    "latex": "\\chi _{YYX}= (1/4)\\beta _{caa}\\{[-(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\phi ) + \\sin \\theta (1 - \\cos 2\\phi )](\\cos \\chi - \\cos 3\\chi ) + 2\\sin \\theta \\cos \\theta (\\sin \\chi - \\sin 3\\chi )\\sin 2\\phi \\} - (1/4)\\beta _{bca}[(2\\sin \\theta - \\sin ^{3}\\theta )(\\cos \\chi - \\cos 3\\chi )]\\sin 2\\phi - 2\\sin 2\\theta (\\sin \\chi + \\sin 3\\chi )\\cos 2\\phi \\}"
+  },
+  {
+    "batch": "B354",
+    "source": "p54l22",
+    "pairs": [
+      [
+        "(",
+        ")",
+        10,
+        11
+      ]
+    ],
+    "latex": "\\chi _{XXZ}= (1/2)(\\beta _{aac} + \\beta _{bbc})\\cos \\theta - (1/4)(\\beta _{aac} + \\beta _{bbc} - 2\\beta _{ccc})(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi ) - (1/4)(\\beta _{aac} - \\beta _{bbc})\\{ [(\\cos \\theta - \\cos ^{3}\\theta ) - (\\cos \\theta + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi + 2\\cos ^{2}\\theta \\sin 2\\chi )\\sin 2\\phi \\}"
+  },
+  {
+    "batch": "B354",
+    "source": "p55l03",
+    "pairs": [
+      [
+        "(",
+        ")",
+        10,
+        11
+      ]
+    ],
+    "latex": "\\chi _{YYZ}= (1/2)(\\beta _{aac} + \\beta _{bbc})\\cos \\theta - (1/4)(\\beta _{aac} + \\beta _{bbc} - 2\\beta _{ccc})(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\chi ) - (1/4)(\\beta _{aac} - \\beta _{bbc})[\\cos 2\\phi [(\\cos \\theta - \\cos ^{3}\\theta ) + (\\cos \\theta + \\cos ^{3}\\theta )\\cos 2\\chi ] - 2\\sin 2\\phi \\cos ^{2}\\theta \\sin 2\\chi )]"
+  },
+  {
+    "batch": "B355",
+    "source": "p56l28",
+    "pairs": [
+      [
+        "[",
+        "]",
+        0,
+        1
+      ]
+    ],
+    "latex": "\\chi _{XYZ}= (1/2)\\beta _{caa}(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi (1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ]"
+  },
+  {
+    "batch": "B359",
+    "source": "p64l24",
+    "pairs": [
+      [
+        "[",
+        "]",
+        4,
+        5
+      ]
+    ],
+    "latex": "\\chi _{XXZ}= (1/2)(\\beta _{aac} + \\beta _{bbc})\\cos \\theta - (1/4)(\\beta _{aac} + \\beta _{bbc} - 2\\beta _{ccc})(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\chi ) - (1/4)(\\beta _{aac} - \\beta _{bbc})\\{[(\\cos \\theta - \\cos ^{3}\\theta ) - (\\cos \\theta + \\cos ^{3}\\theta )\\cos 2\\chi ]\\cos 2\\phi + 2\\cos ^{2}\\theta \\sin 2\\chi \\sin 2\\phi \\} - (1/2)\\beta _{abc}\\{[(\\cos \\theta - \\cos ^{3}\\theta ) - (\\cos \\theta + \\cos ^{3}\\theta )\\cos 2\\chi ]\\sin 2\\phi - 2\\cos ^{2}\\theta \\sin 2\\chi \\cos 2\\phi ]\\} - \\beta _{acc}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )\\cos \\phi - \\sin \\theta \\cos \\theta \\sin 2\\chi \\sin \\phi ] - \\beta _{bcc}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )\\sin \\phi + \\sin \\theta \\cos \\theta \\sin 2\\chi \\cos \\phi ]"
+  },
+  {
+    "batch": "B360",
+    "source": "p68l38",
+    "pairs": [
+      [
+        "[",
+        "]",
+        1,
+        0
+      ]
+    ],
+    "latex": "\\chi _{ZZZ} = \\beta _{caa}(\\cos \\theta - \\cos ^{3}\\theta )(1 + \\cos 2\\phi ) + \\beta _{bca}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\phi + (1/4)\\beta _{aaa}\\sin ^{3}\\theta (3\\cos \\phi + \\cos 3\\phi ) + (1/4)\\beta _{bba} \\sin ^{3}\\theta (\\cos \\phi - \\cos 3\\phi ) +\\beta _{cca}(\\sin \\theta - \\sin ^{3}\\theta )\\cos \\phi"
+  },
+  {
+    "batch": "B360",
+    "source": "p69l21",
+    "pairs": [
+      [
+        "[",
+        "]",
+        5,
+        4
+      ]
+    ],
+    "latex": "\\chi _{YXZ}= (1/2)\\beta _{caa}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi (1 + \\cos 2\\phi ) + \\sin ^{2}\\theta \\cos 2\\chi \\sin 2\\phi ] + (1/2)\\beta _{bca}[(\\cos \\theta - \\cos ^{3}\\theta )\\sin 2\\chi \\sin 2\\phi - \\sin ^{2}\\theta \\cos 2\\chi (1 + \\cos 2\\phi )] + (1/8)\\beta _{aaa}[\\sin \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi ) - [(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\cos \\phi + \\cos 3\\phi ) - 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi + \\sin 3\\phi )] + (1/8)\\beta _{bba}[\\sin \\theta \\sin 2\\chi (3\\cos \\phi + \\cos 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi ) + 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi + \\sin 3\\phi )] - (1/2)\\beta _{cca}\\sin ^{3}\\theta \\sin 2\\chi \\cos \\phi"
+  },
+  {
+    "batch": "B361",
+    "source": "p73l36",
+    "pairs": [
+      [
+        "[",
+        "]",
+        6,
+        5
+      ]
+    ],
+    "latex": "\\chi _{XXZ}= -(1/2)\\beta _{cbb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(1 - \\cos 2\\phi ) + \\sin ^{2}\\theta \\sin 2\\chi \\sin 2\\phi ] - (1/2)\\beta _{cab}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )\\sin 2\\phi - \\sin ^{2}\\theta \\sin 2\\chi (1 - \\cos 2\\phi )] + (1/8)\\beta _{aab}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi ) - 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )] + (1/8)\\beta _{bbb}[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(3\\sin \\phi - \\sin 3\\phi ) + \\sin \\theta (1 - \\cos 2\\chi )(\\sin \\phi + \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\cos \\phi - \\cos 3\\phi )] + (1/2)\\beta _{ccb}\\sin ^{3}\\theta (1 + \\cos 2\\chi )\\sin \\phi + (1/4)\\beta _{abb}[[(\\sin \\theta - \\sin ^{3}\\theta )(1 + \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi ) - \\sin \\theta (1 - \\cos 2\\chi )(\\cos \\phi - \\cos 3\\phi ) - 2\\sin \\theta \\cos \\theta \\sin 2\\chi (\\sin \\phi - \\sin 3\\phi )]"
+  },
+  {
+    "batch": "B361",
+    "source": "p77l16",
+    "pairs": [
+      [
+        "[",
+        "]",
+        6,
+        7
+      ]
+    ],
+    "latex": "\\chi _{ZXY}= (1/4)\\beta _{cbb}\\{2[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\phi ) + \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi - [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\} - (1/4)\\beta _{cab}[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi + \\sin ^{2}\\theta (1 + \\cos 2\\chi )(1 + \\cos 2\\phi ) - 2\\cos ^{2}\\theta (1 - \\cos 2\\chi \\cos 2\\phi )] + (1/8)\\beta _{aab}\\{-(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta [2\\cos \\phi + \\cos 2\\chi (\\cos \\phi + \\cos 3\\phi )]\\} + (1/8)\\beta _{bbb}[\\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )] + (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi \\sin \\phi - \\sin \\theta \\cos \\theta (1 + \\cos 2\\chi )\\cos \\phi ] + (1/4)\\beta _{abb}\\{\\sin \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi ) - 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi - \\sin 3\\phi )]\\}"
+  },
+  {
+    "batch": "B361",
+    "source": "p77l24",
+    "pairs": [
+      [
+        "[",
+        "]",
+        6,
+        7
+      ]
+    ],
+    "latex": "\\chi _{XZY}= (1/4)\\beta _{cbb}\\{2[(\\cos \\theta - \\cos ^{3}\\theta )(1 - \\cos 2\\phi ) + \\cos \\theta \\cos 2\\phi ]\\sin 2\\chi - [\\sin ^{2}\\theta + (1 - 3\\cos ^{2}\\theta )\\cos 2\\chi ]\\sin 2\\phi \\} - (1/4)\\beta _{cab}[2\\cos ^{3}\\theta \\sin 2\\chi \\sin 2\\phi + \\sin ^{2}\\theta (1 + \\cos 2\\chi )(1 + \\cos 2\\phi ) - 2\\cos ^{2}\\theta (1 + \\cos 2\\chi \\cos 2\\phi )] + (1/8)\\beta _{aab}\\{-(2\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta [2\\cos \\phi + \\cos 2\\chi (\\cos \\phi + \\cos 3\\phi )]\\} + (1/8)\\beta _{bbb}[\\sin \\theta \\sin 2\\chi (\\sin \\phi + \\sin 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (3\\sin \\phi - \\sin 3\\phi ) + 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\cos \\phi - \\cos 3\\phi )] + (1/2)\\beta _{ccb}[(\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi \\sin \\phi - \\sin \\theta \\cos \\theta (1 + \\cos 2\\chi )\\cos \\phi ] + (1/4)\\beta _{abb}\\{\\sin \\theta \\sin 2\\chi (\\cos \\phi + \\cos 3\\phi ) - (\\sin \\theta - \\sin ^{3}\\theta )\\sin 2\\chi (\\cos \\phi - \\cos 3\\phi ) - 2\\sin \\theta \\cos \\theta \\cos 2\\chi (\\sin \\phi - \\sin 3\\phi )]\\}"
+  }
+]

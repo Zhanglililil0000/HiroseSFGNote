@@ -1,0 +1,21 @@
+{
+  "batch": "B335",
+  "date": "2026-10-21",
+  "scope": "正文等角零/π：简并模式",
+  "pages": [
+    11,
+    12
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "b6958a08e2dd881c5701b1cf0dbc747527b9991afea0d64cb29a9c11c01b2f99",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B335",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

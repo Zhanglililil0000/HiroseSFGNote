@@ -1,0 +1,22 @@
+{
+  "batch": "B299",
+  "date": "2026-10-21",
+  "pages": [
+    4,
+    5
+  ],
+  "scope": "第4部分引入、三角恒等式、一般式条件及内部角偏移",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B299",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "a225ef10eed923c2b235d8c592e78d6f5e14cf9c0d98463fd095c267a947f777",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-19",
+  "batches": [
+    "B058",
+    "B059"
+  ],
+  "sourcePages": "p1序论及p1末—p2坐标定义；不含式2.1",
+  "mathFragments": 31,
+  "sourceHash": "24c9c3fcfe8b0aad0d5f5fc0a570391b7bed5336320f2800e8be0a2997ed4aad",
+  "unrevisedTailUnchanged": true,
+  "horizontalOverflow": false,
+  "sectionComplete": false
+}

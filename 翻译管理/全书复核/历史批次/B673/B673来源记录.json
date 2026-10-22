@@ -1,0 +1,37 @@
+{
+  "access_date": "2026-10-22",
+  "sources": [
+    {
+      "title": "A Mathematical Model for the Narrowing of Spectral Lines by Exchange or Motion",
+      "author": "P. W. Anderson",
+      "date": "1954",
+      "doi": "10.1143/JPSJ.9.316",
+      "url": "https://www.jstage.jst.go.jp/article/jpsj1946/9/3/9_3_316/_article",
+      "read_scope": "公开摘要；未通读受限全文",
+      "supports": "随机频率调制的运动/交换窄化框架"
+    },
+    {
+      "title": "To Spin or not to Spin",
+      "author": "Susie Riegel / Nanalysis",
+      "date": "2015-05-27",
+      "url": "https://www.nanalysis.com/nmready-blog/2015/5/27/to-spin-or-not-to-spin",
+      "read_scope": "厂商原创技术说明正文",
+      "supports": "常规样品管旋转的空间场平均及实验适用范围"
+    },
+    {
+      "title": "Avance Beginners Guide — Sample Tube",
+      "author": "Bruker",
+      "url": "https://2210pc.chem.uic.edu/nmr/downloads/bruker/en-US/html/Avance%20Beginners%20Guide/en-US/18014398881662987.html",
+      "read_scope": "原厂手册小节，UIC托管镜像",
+      "supports": "X/Y场不均匀平均与旋转边带"
+    },
+    {
+      "title": "NMR Spectroscopy for Solids",
+      "author": "Bruker",
+      "url": "https://www.bruker.com/en/resources/library/application-notes-mr/nmr-spectroscopy-for-solids.html",
+      "read_scope": "液体运动、Magic Angle Spinning相关段落",
+      "supports": "固体MAS的特定角度与各向异性平均；不可替作者指定MAS"
+    }
+  ],
+  "reliance": "仅依据已打开原始来源；不使用检索摘要替代正文；不推定作者具体实验"
+}

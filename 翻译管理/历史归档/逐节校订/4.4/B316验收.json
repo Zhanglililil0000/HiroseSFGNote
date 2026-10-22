@@ -1,0 +1,22 @@
+{
+  "batch": "B316",
+  "date": "2026-10-21",
+  "pages": [
+    3,
+    4
+  ],
+  "scope": "第4部分三角恒等式、一般取向全部27个张量分量，补回旧译(spp)缺项",
+  "source_sha256": "1666fe24701663a09a661d5f4e0c910daa6c8d7bb1d3c180805c3c73debccf69",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B316",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "ab593b88ff8cc20c88ff2b521a3073a4a63b83c13a435ebe56c50af172fe994f",
+  "scope_limit": "确认原文覆盖、翻译转录与参考排版；原文理论疑点未因此得到验证。"
+}

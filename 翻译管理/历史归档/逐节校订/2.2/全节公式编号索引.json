@@ -1,0 +1,888 @@
+[
+  {
+    "page": 2,
+    "equation": "2.1",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 2,
+    "equation": "2.2",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 3,
+    "equation": "2.3",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 3,
+    "equation": "2.4",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 3,
+    "equation": "2.5",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 3,
+    "equation": "2.6",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.1",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.2",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.3",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.4",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.5",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.6",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.7",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.8",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 6,
+    "equation": "4.9",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 7,
+    "equation": "4.10",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-01.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.11",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-01.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.12",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-01.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.13",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-02.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.14",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-02.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.15",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-02.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.16",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-03.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.17",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-03.png"
+    ]
+  },
+  {
+    "page": 7,
+    "equation": "4.18",
+    "representation": "数学转写",
+    "images": [
+      "B069-p07-03.png"
+    ]
+  },
+  {
+    "page": 8,
+    "equation": "4.19",
+    "representation": "数学转写",
+    "images": [
+      "B069-p08-04.png"
+    ]
+  },
+  {
+    "page": 8,
+    "equation": "4.20",
+    "representation": "数学转写",
+    "images": [
+      "B069-p08-04.png"
+    ]
+  },
+  {
+    "page": 8,
+    "equation": "4.21",
+    "representation": "数学转写",
+    "images": [
+      "B069-p08-04.png"
+    ]
+  },
+  {
+    "page": 8,
+    "equation": "4.22",
+    "representation": "数学转写",
+    "images": [
+      "B069-p08-05.png"
+    ]
+  },
+  {
+    "page": 8,
+    "equation": "4.23",
+    "representation": "数学转写",
+    "images": [
+      "B069-p08-05.png"
+    ]
+  },
+  {
+    "page": 9,
+    "equation": "4.24",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 9,
+    "equation": "4.25",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 9,
+    "equation": "4.26a",
+    "representation": "数学转写",
+    "images": [
+      "B069-p09-06.png"
+    ]
+  },
+  {
+    "page": 9,
+    "equation": "4.26b",
+    "representation": "数学转写",
+    "images": [
+      "B069-p09-08.png"
+    ]
+  },
+  {
+    "page": 10,
+    "equation": "4.27",
+    "representation": "数学转写",
+    "images": [
+      "B069-p10-09.png"
+    ]
+  },
+  {
+    "page": 10,
+    "equation": "4.28a",
+    "representation": "数学转写",
+    "images": [
+      "B069-p10-10.png"
+    ]
+  },
+  {
+    "page": 10,
+    "equation": "4.28b",
+    "representation": "数学转写",
+    "images": [
+      "B069-p10-11.png"
+    ]
+  },
+  {
+    "page": 10,
+    "equation": "4.29",
+    "representation": "数学转写",
+    "images": [
+      "B069-p10-13.png"
+    ]
+  },
+  {
+    "page": 11,
+    "equation": "4.30a",
+    "representation": "数学转写",
+    "images": [
+      "B069-p11-14.png"
+    ]
+  },
+  {
+    "page": 11,
+    "equation": "4.30b",
+    "representation": "数学转写",
+    "images": [
+      "B069-p11-15.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.1a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-01.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.1b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-01.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.1c",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-01.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.2a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-01.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.2b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-01.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.2c",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-01.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.3a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-02.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.3b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-02.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.3c",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-02.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.4a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-02.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.4b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-02.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.4c",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-02.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.5a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-03.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.5b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-03.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.5c",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-03.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.6a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-04.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.6b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-04.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.7a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-04.png"
+    ]
+  },
+  {
+    "page": 12,
+    "equation": "5.7b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p12-04.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.8a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-05.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.8b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-05.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.9a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-05.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.9b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-05.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.10a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-06.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.10b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-06.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.11a",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-06.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.11b",
+    "representation": "数学转写",
+    "images": [
+      "B070-p13-06.png"
+    ]
+  },
+  {
+    "page": 13,
+    "equation": "5.12",
+    "representation": "数学转写",
+    "images": [
+      "B071-p13-02.png"
+    ]
+  },
+  {
+    "page": 14,
+    "equation": "5.13a",
+    "representation": "数学转写",
+    "images": [
+      "B071-p14-05.png"
+    ]
+  },
+  {
+    "page": 14,
+    "equation": "5.13b",
+    "representation": "数学转写",
+    "images": [
+      "B071-p14-05.png"
+    ]
+  },
+  {
+    "page": 16,
+    "equation": "5.14a",
+    "representation": "数学转写",
+    "images": [
+      "B071-p16-17.png"
+    ]
+  },
+  {
+    "page": 16,
+    "equation": "5.14b",
+    "representation": "数学转写",
+    "images": [
+      "B071-p16-17.png"
+    ]
+  },
+  {
+    "page": 17,
+    "equation": "5.15a",
+    "representation": "数学转写",
+    "images": [
+      "B072-p17-04.png"
+    ]
+  },
+  {
+    "page": 17,
+    "equation": "5.15b",
+    "representation": "数学转写",
+    "images": [
+      "B072-p17-04.png"
+    ]
+  },
+  {
+    "page": 18,
+    "equation": "5.16a",
+    "representation": "数学转写",
+    "images": [
+      "B072-p18-07.png"
+    ]
+  },
+  {
+    "page": 18,
+    "equation": "5.16b",
+    "representation": "数学转写",
+    "images": [
+      "B072-p18-07.png"
+    ]
+  },
+  {
+    "page": 19,
+    "equation": "5.17a",
+    "representation": "数学转写",
+    "images": [
+      "B072-p19-11.png"
+    ]
+  },
+  {
+    "page": 19,
+    "equation": "5.17b",
+    "representation": "数学转写",
+    "images": [
+      "B072-p19-11.png"
+    ]
+  },
+  {
+    "page": 20,
+    "equation": "5.18a",
+    "representation": "数学转写",
+    "images": [
+      "B072-p20-15.png"
+    ]
+  },
+  {
+    "page": 20,
+    "equation": "5.18b",
+    "representation": "数学转写",
+    "images": [
+      "B072-p20-15.png"
+    ]
+  },
+  {
+    "page": 23,
+    "equation": "5.19a",
+    "representation": "数学转写",
+    "images": [
+      "B073-p23-09.png"
+    ]
+  },
+  {
+    "page": 24,
+    "equation": "5.19b",
+    "representation": "数学转写",
+    "images": [
+      "B073-p24-11.png"
+    ]
+  },
+  {
+    "page": 25,
+    "equation": "5.20a",
+    "representation": "数学转写",
+    "images": [
+      "B074-p25-04.png"
+    ]
+  },
+  {
+    "page": 25,
+    "equation": "5.20b",
+    "representation": "数学转写",
+    "images": [
+      "B074-p25-04.png"
+    ]
+  },
+  {
+    "page": 26,
+    "equation": "5.21a",
+    "representation": "数学转写",
+    "images": [
+      "B074-p26-07.png"
+    ]
+  },
+  {
+    "page": 26,
+    "equation": "5.21b",
+    "representation": "数学转写",
+    "images": [
+      "B074-p26-07.png"
+    ]
+  },
+  {
+    "page": 27,
+    "equation": "5.22a",
+    "representation": "数学转写",
+    "images": [
+      "B074-p27-11.png"
+    ]
+  },
+  {
+    "page": 27,
+    "equation": "5.22b",
+    "representation": "数学转写",
+    "images": [
+      "B074-p27-11.png"
+    ]
+  },
+  {
+    "page": 28,
+    "equation": "5.23a",
+    "representation": "数学转写",
+    "images": [
+      "B075-p28-05.png"
+    ]
+  },
+  {
+    "page": 28,
+    "equation": "5.23b",
+    "representation": "数学转写",
+    "images": [
+      "B075-p28-05.png"
+    ]
+  },
+  {
+    "page": 29,
+    "equation": "5.24a",
+    "representation": "数学转写",
+    "images": [
+      "B075-p29-10.png"
+    ]
+  },
+  {
+    "page": 29,
+    "equation": "5.24b",
+    "representation": "数学转写",
+    "images": [
+      "B075-p29-10.png"
+    ]
+  },
+  {
+    "page": 30,
+    "equation": "5.25a",
+    "representation": "数学转写",
+    "images": [
+      "B075-p30-15.png"
+    ]
+  },
+  {
+    "page": 30,
+    "equation": "5.25b",
+    "representation": "数学转写",
+    "images": [
+      "B075-p30-15.png"
+    ]
+  },
+  {
+    "page": 34,
+    "equation": "5.26a",
+    "representation": "数学转写",
+    "images": [
+      "B076-p34-12.png"
+    ]
+  },
+  {
+    "page": 34,
+    "equation": "5.26b",
+    "representation": "数学转写",
+    "images": [
+      "B076-p34-13.png"
+    ]
+  },
+  {
+    "page": 35,
+    "equation": "A.1",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 35,
+    "equation": "A.2",
+    "representation": "数学转写",
+    "images": [
+      "B077-p35-01.png"
+    ]
+  },
+  {
+    "page": 35,
+    "equation": "A.3",
+    "representation": "数学转写",
+    "images": [
+      "B077-p35-02.png"
+    ]
+  },
+  {
+    "page": 35,
+    "equation": "A.4",
+    "representation": "数学转写",
+    "images": [
+      "B077-p35-03.png"
+    ]
+  },
+  {
+    "page": 35,
+    "equation": "A.5",
+    "representation": "数学转写",
+    "images": [
+      "B077-p35-03.png"
+    ]
+  },
+  {
+    "page": 35,
+    "equation": "A.6a",
+    "representation": "数学转写",
+    "images": [
+      "B077-p35-04.png"
+    ]
+  },
+  {
+    "page": 35,
+    "equation": "A.6b",
+    "representation": "数学转写",
+    "images": [
+      "B077-p35-04.png"
+    ]
+  },
+  {
+    "page": 36,
+    "equation": "A.7",
+    "representation": "数学转写",
+    "images": [
+      "B077-p36-05.png"
+    ]
+  },
+  {
+    "page": 36,
+    "equation": "A.8",
+    "representation": "数学转写",
+    "images": [
+      "B077-p36-06.png"
+    ]
+  },
+  {
+    "page": 36,
+    "equation": "A.9a",
+    "representation": "数学转写",
+    "images": [
+      "B077-p36-07.png"
+    ]
+  },
+  {
+    "page": 36,
+    "equation": "A.9b",
+    "representation": "数学转写",
+    "images": [
+      "B077-p36-07.png"
+    ]
+  },
+  {
+    "page": 37,
+    "equation": "A.10a",
+    "representation": "数学转写",
+    "images": [
+      "B077-p37-09.png"
+    ]
+  },
+  {
+    "page": 37,
+    "equation": "A.10b",
+    "representation": "数学转写",
+    "images": [
+      "B077-p37-09.png"
+    ]
+  },
+  {
+    "page": 37,
+    "equation": "A.11a",
+    "representation": "数学转写",
+    "images": [
+      "B077-p37-09.png"
+    ]
+  },
+  {
+    "page": 37,
+    "equation": "A.11b",
+    "representation": "数学转写",
+    "images": [
+      "B077-p37-09.png"
+    ]
+  },
+  {
+    "page": 37,
+    "equation": "A.12",
+    "representation": "数学转写",
+    "images": [
+      "B077-p37-10.png"
+    ]
+  },
+  {
+    "page": 38,
+    "equation": "B.1",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 38,
+    "equation": "B.2",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 39,
+    "equation": "C.1",
+    "representation": "数学转写",
+    "images": []
+  },
+  {
+    "page": 42,
+    "equation": "C.2",
+    "representation": "数学转写",
+    "images": [
+      "B080-p42-03.png"
+    ]
+  },
+  {
+    "page": 44,
+    "equation": "C.3",
+    "representation": "数学转写",
+    "images": [
+      "B080-p44-07.png"
+    ]
+  }
+]

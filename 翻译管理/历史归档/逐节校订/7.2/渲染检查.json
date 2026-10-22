@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-22",
+  "math": 67,
+  "results": [
+    {
+      "batch": "B625",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "batch": "B626",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "batch": "B627",
+      "width": 1100,
+      "scrollWidth": 1100,
+      "overs": [],
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ]
+    }
+  ]
+}

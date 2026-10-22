@@ -1,0 +1,203 @@
+2 層膜の SFG - 50
+€ 
+×
+t
+1m',ir,β
+{(1 + r
+1m',ir,β
+rm'm,ir,β
+e
+2iβ m',irhm'
+)(1 + rmm",ir,β
+rm"2,ir,β
+e
+2iβm", irhm"
+)
++(rm'm,ir,β + r1m',ir,βe
+2iβ m',irhm'
+)(rmm",ir,β + rm"2,ir,β e
+2iβm", irhm"
+)e
+2iβm, irhm
+}
+€ 
+×{[(1 + rmm",vis,α
+rm"2,vis,α e
+2iβ m"vishm"
+) + rm'm,vis,α
+(rmm",vis,α + rm"2,vis,α e
+2 iβ m"vishm"
+)e
+2iβmvishm
+]
+€ 
+× exp[iz1
+(km',vis cosθ m',vis (1− tanθ m',SF tanθm',vis)]
+€ 
++[rm'm,vis,α
+(1+ rmm",vis ,α
+rm"2,vis,α e
+2 iβ m"vishm"
+) + (rmm",vis,α + rm"2,vis,α e
+2 iβ m"vishm"
+)e
+2iβ mvishm
+]
+€ 
+× exp[iz1
+(km',vis cosθ m',vis (−1 − tanθm',SF tanθm',vis )]}
+€ 
+×{[(1 + rmm",ir,β
+rm"2,ir,β e
+2iβm", irhm"
+) + rm'm,ir,β
+(rmm",ir,β + rm"2,ir,βe
+2 iβ m",irhm"
+)e
+2iβ m, irhm
+]
+€ 
+× exp[iz1
+(km',ir cosθm',ir (1 − tanθm',SF tanθ m',ir )]
+€ 
++[rm'm,ir,β
+(1+ rmm",ir,β
+rm"2,ir,β e
+2iβ m"irhm"
+) + (rmm",ir,β + rm"2,ir,βe
+2 iβ m"irhm"
+)e
+2 iβ mirhm
+]
+€ 
+× exp[iz1
+(km',ir cosθm',ir (−1− tanθm',SF tanθm',ir)]} (3.32)
+m 層の m'/m 界面から深さ z2 の点：
+E
++
+and E
+-
+(by reflection and transmission) sources
+€ 
+Pa
+*
+(hm' + z 2
+) = χ aαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1 m',vis ,α
+tm'm,vis,α
+e
+iβm ', vishm'
+{(1 + r
+1m',vis,α
+rm'm,vis,α
+e
+2 iβ m',vishm'
+)(1 + rmm",vis,α
+rm"2,vis,α
+e
+2 iβ m",vishm"
+)
++(rm'm,vis,α + r1 m',vis,α e
+2 iβ m',vishm'
+)(rmm",vis,α + rm"2,vis,α e
+2 iβ m",vishm"
+)e
+2iβm, vishm
+}
+€ 
+×
+t
+1m',ir,β
+tm'm,ir,β
+e
+iβ m',irhm'
+{(1 + r
+1m',ir,β
+rm'm,ir,β
+e
+2iβ m',irhm'
+)(1 + rmm",ir,β
+rm"2,ir,β
+e
+2iβm", irhm"
+)
++(rm'm,ir,β + r1m',ir,βe
+2iβ m',irhm'
+)(rmm",ir,β + rm"2,ir,β e
+2iβm", irhm"
+)e
+2iβm, irhm
+}
+€ 
+×{(1+ rmm",vis,α
+rm"2 ,vis,α e
+2iβm"vishm"
+) exp[iz 2
+(km,vis cosθm,vis (1 + tanθ m,SF tanθm,vis)]
+€ 
++(rmm",vis ,α + rm"2,vis,α e
+2iβ m"vishm"
+)e
+2iβ mvishm exp[iz2
+(km,vis cosθm,vis (−1+ tanθm,SF tanθm,vis )]}
+€ 
+×{(1+ rmm",ir,β
+rm"2,ir,βe
+2 iβ m",irhm"
+) exp[iz2
+(km,ir cosθm,ir (1+ tanθm,SF tanθ m,ir )]
+€ 
++(rmm",ir,β + rm"2,ir,β e
+2iβm"irhm"
+)e
+2 iβ mirhm exp[iz 2
+(km,ir cosθm,ir (−1 + tanθm,SF tanθm,ir)]} (3.33)
+E
++
+(by reflection and transmission) and E
+-
+sources
+€ 
+Pa
+*
+(hm' + z 2
+) = χ aαβ E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1 m',vis ,α
+tm'm,vis,α
+e
+iβm ', vishm'
+{(1 + r
+1m',vis,α
+rm'm,vis,α
+e
+2 iβ m',vishm'
+)(1 + rmm",vis,α
+rm"2,vis,α
+e
+2 iβ m",vishm"
+)
++(rm'm,vis,α + r1 m',vis,α e
+2 iβ m',vishm'
+)(rmm",vis,α + rm"2,vis,α e
+2 iβ m",vishm"
+)e
+2iβm, vishm
+}

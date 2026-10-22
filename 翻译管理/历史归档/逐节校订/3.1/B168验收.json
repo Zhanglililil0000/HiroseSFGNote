@@ -1,0 +1,21 @@
+{
+  "batch": "B168",
+  "date": "2026-10-20",
+  "pages": [
+    4,
+    5
+  ],
+  "units": "m/2界面m侧源分类(a)及跨页完整式2.5",
+  "tags": [
+    "2.5"
+  ],
+  "source_images_visually_checked": true,
+  "formula_factors_checked_after_layout_normalization": true,
+  "source_corrections_adopted": false,
+  "unchanged_tail": "m′/m界面m′侧及以后",
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "next": "B169：m′/m界面m′侧式2.6—2.7"
+}

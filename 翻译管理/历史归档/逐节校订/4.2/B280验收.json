@@ -1,0 +1,22 @@
+{
+  "batch": "B280",
+  "date": "2026-10-21",
+  "pages": [
+    4,
+    5
+  ],
+  "scope": "第4部分引入、三角恒等式、模式分组与角度关系",
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校与参考排版验收完成",
+  "render": {
+    "batch": "B280",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "1645724f73a01a3a2df8836e0c7bc26577a10a9aa6a7c129d9a5c8b7f79d6f03",
+  "scope_limit": "确认原文覆盖及转录；不将原文疑点视为理论已验证。"
+}

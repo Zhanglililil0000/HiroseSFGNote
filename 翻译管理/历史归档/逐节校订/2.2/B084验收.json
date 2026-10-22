@@ -1,0 +1,22 @@
+{
+  "batch": "B084",
+  "date": "2026-10-19",
+  "pages": [
+    8,
+    9
+  ],
+  "equations": [
+    "4.22",
+    "4.23",
+    "4.24"
+  ],
+  "editable_equations_added": 3,
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅公式组和状态行改变，其他正文相同",
+  "strict_syntax_math_fragments": 793,
+  "render_overflow": false,
+  "visual_review": "B084-参考渲染.png与p8高清原式及p9编号对照",
+  "new_issue": "Q060；原式并置保留",
+  "new_errata": 0,
+  "next": "B085，式4.26a起"
+}

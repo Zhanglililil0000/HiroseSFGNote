@@ -1,0 +1,24 @@
+{
+  "batch": "B311",
+  "date": "2026-10-21",
+  "pages": [
+    22,
+    23,
+    24,
+    25
+  ],
+  "scope": "5e双取向求和与三种模式全部分量，含p25表末续行",
+  "source_sha256": "7b504fd900466755a92ea78e178b3ecd481a6cd4b7396bd20c497be657d6174a",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校及参考排版验收完成",
+  "render": {
+    "batch": "B311",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "89ed787c7c32e351325639446ba4a3c32bd22a7ebde97cc2116178bf368c899b",
+  "scope_limit": "确认原文覆盖及翻译转录；原文理论疑点未因此得到验证。"
+}

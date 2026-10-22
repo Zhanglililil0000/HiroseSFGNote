@@ -1,0 +1,23 @@
+{
+  "batch": "B340",
+  "date": "2026-10-21",
+  "scope": "附录A：分子张量一般式",
+  "pages": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "source_sha256": "735006638f86ac942e5e1b786272928c4525cca7d1e6889fa9bbc185dbf98cdf",
+  "translation_sha256": "e9b03824834a49e6eefbd4a3bcededb6da6736de2ecf9de94d191f4c0fa23527",
+  "status": "本批译校、覆盖及参考排版验收完成",
+  "render": {
+    "batch": "B340",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "source_corrections_adopted": false,
+  "scope_limit": "原文覆盖、转录与参考排版核验，不代表原文理论推导已获独立证明。"
+}

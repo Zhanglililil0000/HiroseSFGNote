@@ -1,0 +1,105 @@
+{
+  "content_batch": "B676",
+  "packaging_batch": "B677",
+  "passed": true,
+  "failedRequests": [],
+  "pages": [
+    {
+      "path": "开始阅读.html",
+      "images": 0,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 0
+    },
+    {
+      "path": "合稿准备/index.html",
+      "images": 0,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 0
+    },
+    {
+      "path": "合稿准备/序言.html",
+      "images": 0,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 0
+    },
+    {
+      "path": "合稿准备/第1章.html",
+      "images": 0,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 979
+    },
+    {
+      "path": "合稿准备/第2章.html",
+      "images": 16,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 2307
+    },
+    {
+      "path": "合稿准备/第3章.html",
+      "images": 8,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 775
+    },
+    {
+      "path": "合稿准备/第4章.html",
+      "images": 7,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 7406
+    },
+    {
+      "path": "合稿准备/第5章.html",
+      "images": 151,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 3759
+    },
+    {
+      "path": "合稿准备/第6章.html",
+      "images": 31,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 902
+    },
+    {
+      "path": "合稿准备/第7章.html",
+      "images": 48,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 536
+    },
+    {
+      "path": "合稿准备/第8章.html",
+      "images": 66,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 329
+    },
+    {
+      "path": "合稿准备/附件.html",
+      "images": 0,
+      "missingImages": [],
+      "mathErrors": 0,
+      "pageOverflow": false,
+      "math": 68
+    }
+  ],
+  "scope": "独立交付目录内12个页面加载、327处图片及字体请求；正文未重译"
+}

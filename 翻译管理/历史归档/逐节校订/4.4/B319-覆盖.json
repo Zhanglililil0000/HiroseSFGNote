@@ -1,0 +1,12 @@
+{
+  "batch": "B319",
+  "date": "2026-10-21",
+  "pages": [
+    6,
+    7
+  ],
+  "scope": "5d镜面几何、求和关系、全部27个分量及末尾选择规则",
+  "source_sha256": "1666fe24701663a09a661d5f4e0c910daa6c8d7bb1d3c180805c3c73debccf69",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false
+}

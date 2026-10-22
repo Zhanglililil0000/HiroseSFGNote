@@ -1,0 +1,27 @@
+<!doctype html><meta charset="utf-8"><link rel="stylesheet" href="file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E7%BF%BB%E8%AF%91%E7%AE%A1%E7%90%86/%E6%8E%92%E7%89%88%E5%B7%A5%E5%85%B7/katex.min.css"><style>body{max-width:970px;margin:24px auto;font:18px/1.8 "Microsoft YaHei",sans-serif;padding:0 24px}img{max-width:100%;height:auto}blockquote{margin:16px 0;padding:10px 18px;background:#f3f6f8;border-left:4px solid #9ab} .katex{font-size:1em}.katex-display{padding:10px 0;overflow-x:auto}td,th{border:1px solid #ccc;padding:5px}table{border-collapse:collapse;display:block;overflow-x:auto;max-width:100%}</style><!-- B651：PDF p1；最小二乘原理与条件分类。 -->
+
+<h1>8.3 拟合概述</h1>
+<p>原题：フィッティング概説。底本：<code>日语原版/Chapter8/chap8-3.pdf</code>，9页；译校日期：2026-10-22。底本本页未另署姓名，文中保留“作者”自称。</p>
+<h2>最小二乘法</h2>
+<p>用和频谱强度分布的表达式优化参数，使其重现实验谱。假设初始参数已接近正确值，对实测强度与计算值之差作泰勒展开，保留一阶项，以线性近似求解联立方程，得到参数修正量。各测量点的一阶偏导数组成雅可比矩阵。（原文说概略见附录B，详细讨论见专著。）</p>
+<p>拟合时，反复“修正参数—重新计算”，直到修正量小到可忽略，即逐次近似。作者所写MathCad程序通过复制、粘贴指定的程序块，按所需次数堆叠，执行这一过程。</p>
+<p>本稿针对分子谱线展宽与红外激发光展宽的若干条件，列出雅可比矩阵元素。MathCad程序分别处理1—4条振动谱带；两条谱带时，还考虑把二者均匀宽度设为相同的情形，原文以费米共振引起的谱带为例。</p>
+<h3>振动谱带的条件</h3>
+<ul>
+<li><strong>A：</strong> 仅有均匀宽度。</li>
+<li><strong>B：</strong> 同时含均匀与非均匀宽度，后者假设为高斯分布。</li>
+<li><strong>B1：</strong> 固定非均匀宽度，优化其他参数。</li>
+<li><strong>B2：</strong> 非均匀宽度也作为待优化参数。</li>
+</ul>
+<h3>红外激发光的条件</h3>
+<ul>
+<li><strong>a：</strong> 红外谱宽相对于振动谱带可忽略。</li>
+<li><strong>b：</strong> 红外谱宽与振动谱带相当或更大。</li>
+<li><strong>b1：</strong> 同一脉冲内不同波数成分完全相干。</li>
+<li><strong>b2：</strong> 同一脉冲内不同波数成分不相干。</li>
+</ul>
+<p>下面给出九类实验条件的解析式。原文说相应MathCad程序放在不同文件夹中。每个文件夹又分别包含：对观测到1—4条谱带、偏振相同且波长采样间隔相同的1—4份数据同时分析的程序；以及对两份不同偏振数据同时分析的程序。</p>
+<p>文件夹名开头表示上述条件的组合，末尾表示强度的计算次序：对红外宽度先积分电场再平方，记为 <code>sqr(Integ)</code>；先平方电场再积分，记为 <code>Integ(sqr)</code>。振动谱带含非均匀宽度时，原文用 <code>Voight</code> 函数计算，固定非均匀宽度的方式记为 <code>Voightx</code>，将其作为参数的方式记为 <code>Voight</code>。</p>
+<blockquote>
+<p><strong>译者说明：</strong> <code>MathCad</code>、<code>Voight</code>、<code>Voightx</code> 及下文 <code>Integrn</code> 均按底本拼法保留，便于对照原程序名。原稿这里只介绍程序位置，没有随本PDF给出那些程序代码，译文不补造代码或声称已经运行。后文使用的分子宽度和红外强度宽度须分别辨认。</p>
+</blockquote>

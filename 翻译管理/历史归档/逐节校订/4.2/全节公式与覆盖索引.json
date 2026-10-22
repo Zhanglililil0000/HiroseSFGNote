@@ -1,0 +1,415 @@
+{
+  "numbered": [
+    "6.1",
+    "6.2",
+    "6.3",
+    "6.4",
+    "6.5a",
+    "6.5b",
+    "6.5c",
+    "7.1a",
+    "7.1b",
+    "7.2a",
+    "7.2b",
+    "7.3a",
+    "7.3b",
+    "7.4a",
+    "7.4b",
+    "7.4c",
+    "7.5a",
+    "7.5b",
+    "7.5c"
+  ],
+  "table_component_occurrences": 178,
+  "batches": [
+    {
+      "batch": "B277",
+      "pages": [
+        1,
+        2
+      ],
+      "scope": "原目录、引言、第1部分欧拉角；第2部分未校订",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B278",
+      "pages": [
+        2,
+        3
+      ],
+      "scope": "第2部分全部定义、七项内部旋转角条件及跨页角度关系",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B279",
+      "pages": [
+        3,
+        4
+      ],
+      "scope": "第3部分CH键坐标、三角函数表、11个分子张量分量及模式归属",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B280",
+      "pages": [
+        4,
+        5
+      ],
+      "scope": "第4部分引入、三角恒等式、模式分组与角度关系",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B281",
+      "pages": [
+        5,
+        6
+      ],
+      "scope": "4a全对称振动八种偏振组合、全部27个张量分量",
+      "surface_tensor_left_sides": [
+        "xxx",
+        "xzz",
+        "zxz",
+        "zzx",
+        "xzx",
+        "zxx",
+        "xxz",
+        "zzz",
+        "yxx",
+        "yzz",
+        "yzx",
+        "yxz",
+        "yyx",
+        "yyz",
+        "xyx",
+        "zyz",
+        "xyz",
+        "zyx",
+        "yxy",
+        "yzy",
+        "xxy",
+        "zzy",
+        "xzy",
+        "zxy",
+        "xyy",
+        "zyy",
+        "yyy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B282",
+      "pages": [
+        6,
+        7
+      ],
+      "scope": "4a简并振动公式组1，按偏振组合逐项对照",
+      "surface_tensor_left_sides": [
+        "xxx",
+        "xzz",
+        "zxz",
+        "zzx",
+        "zxx",
+        "xzx",
+        "xxz",
+        "zzz"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B283",
+      "pages": [
+        7
+      ],
+      "scope": "4a简并振动公式组2，按偏振组合逐项对照",
+      "surface_tensor_left_sides": [
+        "yxx",
+        "yzz",
+        "yzx",
+        "yxz",
+        "yyx",
+        "yyz"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B284",
+      "pages": [
+        7,
+        8
+      ],
+      "scope": "4a简并振动公式组3，按偏振组合逐项对照",
+      "surface_tensor_left_sides": [
+        "xyx",
+        "zyz",
+        "xyz",
+        "zyx",
+        "yxy",
+        "yzy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B285",
+      "pages": [
+        8,
+        9
+      ],
+      "scope": "4a简并振动公式组4，按偏振组合逐项对照",
+      "surface_tensor_left_sides": [
+        "xxy",
+        "zzy",
+        "zxy",
+        "xzy",
+        "xyy",
+        "zyy",
+        "yyy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B286",
+      "pages": [
+        9,
+        10
+      ],
+      "scope": "4b自由内部旋转条件、平均积分与27个分量",
+      "surface_tensor_left_sides": [
+        "xxx",
+        "xzz",
+        "zxz",
+        "zzx",
+        "zxx",
+        "xzx",
+        "zzz",
+        "xxz",
+        "yxx",
+        "yzz",
+        "yzx",
+        "yxz",
+        "yyx",
+        "yyz",
+        "xyx",
+        "zyz",
+        "xyz",
+        "zyx",
+        "yxy",
+        "yzy",
+        "xxy",
+        "zzy",
+        "zxy",
+        "xzy",
+        "xyy",
+        "zyy",
+        "yyy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B287",
+      "pages": [
+        10,
+        11,
+        12
+      ],
+      "scope": "4c三重配置求和、每个甲基归一化与27个简并分量",
+      "surface_tensor_left_sides": [
+        "xxx",
+        "xzz",
+        "zxz",
+        "zzx",
+        "zxx",
+        "xzx",
+        "zzz",
+        "xxz",
+        "yxx",
+        "yzz",
+        "yzx",
+        "yxz",
+        "yyx",
+        "yyz",
+        "xyx",
+        "zyz",
+        "xyz",
+        "zyx",
+        "yxy",
+        "yzy",
+        "xxy",
+        "zzy",
+        "zxy",
+        "xzy",
+        "xyy",
+        "zyy",
+        "yyy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B288",
+      "pages": [
+        12,
+        13
+      ],
+      "scope": "4d两种甲基的区别与第5部分完整引入，含跨页续句",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B289",
+      "pages": [
+        13,
+        14
+      ],
+      "scope": "5a面内随机平均与全对称/简并两张分量表",
+      "surface_tensor_left_sides": [
+        "xzx",
+        "xxz",
+        "zxx",
+        "zzz",
+        "yyz",
+        "yzy",
+        "zyy",
+        "zxx",
+        "xzx",
+        "xxz",
+        "zzz",
+        "yyz",
+        "yzy",
+        "zyy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B290",
+      "pages": [
+        14,
+        15
+      ],
+      "scope": "5b三重表面取向求和、原文三项结论与全部表内分量",
+      "surface_tensor_left_sides": [
+        "xxx",
+        "xzx",
+        "zxx",
+        "xxz",
+        "zzz",
+        "yxx",
+        "yyx",
+        "yyz",
+        "xyx",
+        "yxy",
+        "yzy",
+        "xxy",
+        "zyy",
+        "xyy",
+        "yyy",
+        "xxx",
+        "zxx",
+        "xzx",
+        "xxz",
+        "zzz",
+        "yxx",
+        "yyx",
+        "yyz",
+        "xyx",
+        "yxy",
+        "yzy",
+        "xxy",
+        "xyy",
+        "zyy",
+        "yyy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B291",
+      "pages": [
+        15,
+        16
+      ],
+      "scope": "5c全式与5d镜面对称定义、跨页求和及选择规则",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B292",
+      "pages": [
+        16,
+        17
+      ],
+      "scope": "5e两种配置、求和及全对称/简并张量表全部分量",
+      "surface_tensor_left_sides": [
+        "xzx",
+        "zxx",
+        "xxz",
+        "zzz",
+        "yzx",
+        "yxz",
+        "yyz",
+        "xyz",
+        "zyx",
+        "yzy",
+        "xzy",
+        "zxy",
+        "zyy",
+        "zxx",
+        "xzx",
+        "xxz",
+        "zzz",
+        "yzx",
+        "yxz",
+        "yyz",
+        "xyz",
+        "zyx",
+        "yzy",
+        "zxy",
+        "xzy",
+        "zyy"
+      ],
+      "numbered_labels": []
+    },
+    {
+      "batch": "B293",
+      "pages": [
+        17,
+        18
+      ],
+      "scope": "第6部分场分解、菲涅尔振幅关系与6.1—6.5c",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": [
+        "6.1",
+        "6.2",
+        "6.3",
+        "6.4",
+        "6.5a",
+        "6.5b",
+        "6.5c"
+      ]
+    },
+    {
+      "batch": "B294",
+      "pages": [
+        18,
+        19
+      ],
+      "scope": "第7部分全部7.1a—7.5c及作者末尾符号不确定性说明",
+      "surface_tensor_left_sides": [],
+      "numbered_labels": [
+        "7.1a",
+        "7.1b",
+        "7.2a",
+        "7.2b",
+        "7.3a",
+        "7.3b",
+        "7.4a",
+        "7.4b",
+        "7.4c",
+        "7.5a",
+        "7.5b",
+        "7.5c"
+      ]
+    }
+  ]
+}

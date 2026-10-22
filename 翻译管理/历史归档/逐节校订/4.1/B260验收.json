@@ -1,0 +1,28 @@
+{
+  "batch": "B260",
+  "date": "2026-10-20",
+  "pages": [
+    12,
+    13
+  ],
+  "tags": [
+    "1.31a",
+    "1.31b",
+    "1.31c",
+    "1.32",
+    "1.33",
+    "1.34"
+  ],
+  "source_sha256": "ddd8bdf08396ce91fbd9c8dd58f5c25ca86c6b6f7c6b8172db442fc06e25e07e",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "status": "译校及排版验收完成",
+  "render": {
+    "batch": "B260",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "scope": "对照原文页图与文本；原文疑点保留并注释，验收不等于确认原文推导正确。"
+}

@@ -1,0 +1,170 @@
+2 層膜の SFG - 35
+(b): 透過方向
+E
++
+sources からの寄与は、ファイル「一般式」の (2.6) 式と本稿の (2.29) 式により、下で表される。
+€ 
+E
++
+2 (hm' + hm
++
+) = t m2e
+iβ m
+hm
+αβ
+∑ (1+ r1m'
+rm'me
+2iβm '
+hm'
+)L
++
+m/mPa
+*
+€ 
+×{exp[iz2
+(−β m,SF + β m,vis + βm,ir )]+ rm2,ir,β e
+2iβm, irhm
+exp[iz2
+(−βm,SF + βm,vis − βm,ir)]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+exp[iz2
+(−βm,SF − β m,vis + βm,ir )]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,ir +β m, vis) hm
+exp[iz2
+(−βm,SF − βm,vis − β m,ir )]}
+E
+-
+sources からの寄与は、ファイル「一般式」の (2.8) 式と本稿の (2.30) 式により、下で表される。
+€ 
+E
++
+2 (hm' + hm
++
+) = − tm2e
+iβm
+hm
+αβ
+∑ (rm'm + r1 m'e
+2 iβ m'
+hm '
+)L
+−
+m/mPa
+*
+€ 
+×{exp[iz2
+(βm,SF + βm,vis + β m,ir )]+ rm2 ,ir,β e
+2iβ m, irhm
+exp[iz2
+(βm,SF + βm,vis − β m,ir )]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+exp[iz2
+(βm,SF − βm,vis + β m,ir )]
+€ 
++rm2,vis,α
+rm2,ir,β e
+2i(β m,ir +β m, vis) hm
+exp[iz2
+(βm,SF − β m,vis − βm,ir)]}
+ここで、E
++ に由来する SFG 光については z2 について 0 から hm まで（z2 = 0 → hm）、E
+- に由来する SFG
+光については z2 について hm から 0 まで（z2 = hm → 0）積分し、さらに関係式
+tm2pL
++
+m/m,px = L
++
+m/2',px
+, tm2,sL
++
+m/m,sy = L
++
+m/2',sy
+, tm2,pL
++
+m/m,pz = L
++
+m/2',pz
+(nm" = nm)
+tm2pL
+-
+m/m,px = L
++
+m/2',px
+, tm2,sL
+-
+m/m,sy = L
++
+m/2',sy
+, tm2,pL
+-
+m/m,pz = -L
++
+m/2',pz
+(nm" = nm)
+を考慮して整理すると、下式を得る。
+€ 
+E
++
+2 (hm' + hm
++
+) = e
+iβ m
+hm
+αβ
+∑ L
++
+m/2Pa
+*
+i
+δ
+€ 
+×{[(1 + r1m',SF rm'm,SFe
+2 iβ m',SFhm '
+)
+e
+i( −βm, SF+β m,vis+β m,ir )hm −1
+βm,SF − βm,vis − β m,ir
+ 
+€ 
+m(rm'm,SF + r1m',SFe
+2 iβ m',SFhm'
+)
+e
+i( βm, SF+β m,vis+β m,ir ) hm − 1
+βm,SF + βm,vis + βm,ir
+]
+€ 
++rm2,ir,β e
+2iβm,ir hm
+[(1+ r1m',SFrm'm,SFe
+2iβ m', SFhm'
+)
+e
+i( −β m,SF +βm, vis−βm, ir) hm − 1
+βm,SF − β m,vis + βm,ir
+ 
+€ 
+m(rm'm,SF + r1m',SFe
+2 iβ m',SFhm'
+)
+e
+i( βm, SF+β m,vis−β m, ir )hm −1
+βm,SF + βm,vis − β m,ir
+]
+€ 
++rm2,vis,α e
+2 iβ m,vishm
+[(1 + r1m',SF rm'm,SFe
+2iβ m',SFhm '
+)
+e
+i( −βm, SF−βm, vis+β m, ir )hm −1
+β m,SF + β m,vis − βm,ir

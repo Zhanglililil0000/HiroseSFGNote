@@ -1,0 +1,854 @@
+{
+  "1": [
+    {
+      "y": 121.2,
+      "tex": "1. 座標軸："
+    },
+    {
+      "y": 137.2,
+      "tex": "分子固定 (abc) 系"
+    },
+    {
+      "y": 154.2,
+      "tex": "(CH_{2}基)    c軸をHCHの外向き２等分線方向、a 軸を分子面内でH—Hに平行に取る。"
+    },
+    {
+      "y": 170.2,
+      "tex": "(HCCH基)   a 軸を(水素化されている)炭素原子の方向に、c軸を2回軸に取る。"
+    },
+    {
+      "y": 186.2,
+      "tex": "★２個のHCC面が同一平面のときにはC_{2v }対称で、ac面がこの平面である。立体障害"
+    },
+    {
+      "y": 203.2,
+      "tex": "によって２個のCH結合がもとの HCCH面に関して同じ方向にずれているときには、"
+    },
+    {
+      "y": 219.2,
+      "tex": "a軸とc軸もずれることになる。"
+    },
+    {
+      "y": 236.2,
+      "tex": "★２個のHCC面が角度を持つときには、分子はC_{2 }対称を持ちac面は２つの平面を２等"
+    },
+    {
+      "y": 252.2,
+      "tex": "分する平面（鋭角をなす方を２等分する面、すなわち、立体障害がないとしたときのHCCH"
+    },
+    {
+      "y": 268.2,
+      "tex": "面）の上にある。"
+    },
+    {
+      "y": 301.2,
+      "tex": "CH固定 (\\xi \\eta \\zeta ) 系：\\zeta   軸をCH方向に取る。"
+    },
+    {
+      "y": 318.2,
+      "tex": "(CH_{2}基) \\xi   軸を、HCH面内でC_{2} 軸に向かう方向に取る。"
+    },
+    {
+      "y": 531.2,
+      "tex": "(HCCH基) \\xi  軸を、HCC面内でC_{2} 軸に向かう方向に取る。"
+    }
+  ],
+  "2": [
+    {
+      "y": 88.2,
+      "tex": "(ねじれ形：C_{2} 対称)"
+    },
+    {
+      "y": 301.2,
+      "tex": "(平面形：C_{2v} 対称)"
+    },
+    {
+      "y": 334.2,
+      "tex": "HCCCHタイプのユニットに対しても、HCCHユニットと同じ形になる。"
+    },
+    {
+      "y": 367.2,
+      "tex": "表面固定（xyz）系"
+    },
+    {
+      "y": 383.2,
+      "tex": "z軸を、表面の外向き法線方向に取る。"
+    },
+    {
+      "y": 400.2,
+      "tex": "x軸を、立体障害がないとしたときにCH_{2} 基あるいはHCCH基が面をそろえて並ぶ方向に取"
+    },
+    {
+      "y": 416.2,
+      "tex": "る。"
+    },
+    {
+      "y": 449.2,
+      "tex": "2. 配向したCH_{2} 基、HCCH基の表面固定系に対するオイラー角"
+    },
+    {
+      "y": 465.2,
+      "tex": "３つの軸まわりの回転 R_{z}(\\chi ) R_{b’}(\\theta ) R_{c}(\\phi ) により(abc) 系を (xyz) 系に重ねるときの回転角 (\\chi , \\theta , \\phi )"
+    },
+    {
+      "y": 482.2,
+      "tex": "をオイラー角という。"
+    },
+    {
+      "y": 498.2,
+      "tex": "\\theta   は、z軸とc軸の間の角で、x y面とab 面の間の二面角でもある。"
+    },
+    {
+      "y": 514.2,
+      "tex": "\\phi   は、xy面とab面の交線とb軸の間の角で、z軸とc軸が作る面と分子面がなす角でもある。"
+    },
+    {
+      "y": 531.2,
+      "tex": "\\chi  は、xy面とab面の交線とy軸の間の角で、z軸とc軸が作る面とxz面がなす角でもある。"
+    },
+    {
+      "y": 564.2,
+      "tex": "表面が同一の官能基で覆われている場合には、隣り合って角突き合いをしているCH結合のペアをユ"
+    },
+    {
+      "y": 580.2,
+      "tex": "ニットに取れば、CH_{2 }基であろうとHCCH基であろうと、２個のCH結合は互いにねじれの位置にあ"
+    },
+    {
+      "y": 596.2,
+      "tex": "る。また、ペアに固定した座標系と表面固定座標系を一致させることが出来る。（しかし、CH_{2 }基に"
+    },
+    {
+      "y": 613.2,
+      "tex": "よるペアとHCCH基によるペアでは必要とする角度に違いがあるため、これを出す段階に苦心があ"
+    },
+    {
+      "y": 629.2,
+      "tex": "る。）"
+    },
+    {
+      "y": 646.2,
+      "tex": "水素化された部分の配列が90˚ 向きを変えるためには、ステップが必要である。そして、そのステ"
+    },
+    {
+      "y": 662.2,
+      "tex": "ップの中段にはCH基が存在する。"
+    },
+    {
+      "y": 679.2,
+      "tex": ""
+    },
+    {
+      "y": 695.2,
+      "tex": "2a. 配向したCH_{2 }基のオイラー角"
+    },
+    {
+      "y": 711.2,
+      "tex": "水素化ダイヤモンド表面のCH_{2 }基は、相互の間に立体障害がなければ、表面に垂直でしかも分子面"
+    },
+    {
+      "y": 728.2,
+      "tex": "を平行にして並ぶ。一方、水素原子間の立体障害により垂直軸（c軸）まわりのねじれ角 \\gamma  と傾き角 \\theta"
+    },
+    {
+      "y": 744.2,
+      "tex": "の両方を持っているとすれば、CH_{2 }基に対する回転操作としては次のようなものが考えられる。なお、"
+    }
+  ],
+  "3": [
+    {
+      "y": 88.2,
+      "tex": "現実問題としての平面分子の配向の記述は、z軸からの主軸の傾き角と分子面（and/or ２つの表面の交"
+    },
+    {
+      "y": 104.2,
+      "tex": "線の方向）と表面の２面角で表現する方がわかりやすい。よって、下では必要に応じて分子面（ac面）"
+    },
+    {
+      "y": 121.2,
+      "tex": "と表面（xy面）の間の2面角 \\tau  とオイラー角との関係も併せて記すことにする。"
+    },
+    {
+      "y": 154.2,
+      "tex": "下記の結果を出す際の基本方式は、(1)  a軸、b軸、c軸方向の単位ベクトルを (xyz) 座標系で見た"
+    },
+    {
+      "y": 170.2,
+      "tex": "座標成分として表す。この作業を、２面角を使ったものとオイラー角を使ったものと両方で行う。(2)  b"
+    },
+    {
+      "y": 186.2,
+      "tex": "軸とz軸がなす角は２面角と一致する。よって、この２つの軸に沿った単位ベクトルの内積の絶対値"
+    },
+    {
+      "y": 203.2,
+      "tex": "が \\cos \\tau   であることから、オイラー角と２面角の関係が得られる。（２面角は鋭角に取るから、\\cos \\tau  > 0"
+    },
+    {
+      "y": 219.2,
+      "tex": "である。）(3)下に示すオイラー角による表式と２面角を使った表式が一致するように、オイラー角を決"
+    },
+    {
+      "y": 236.2,
+      "tex": "めてやる。"
+    },
+    {
+      "y": 253.2,
+      "tex": ""
+    },
+    {
+      "y": 270.2,
+      "tex": "Ø \\cos \\chi \\cos \\phi \\cos \\theta -\\sin \\chi \\sin \\phi ø"
+    },
+    {
+      "y": 285.2,
+      "tex": "e_{a}=Œ -\\sin \\chi \\cos \\phi \\cos \\theta -\\cos \\chi \\sin \\phi œ 、"
+    },
+    {
+      "y": 300.2,
+      "tex": "º Œ \\cos \\phi \\sin \\theta ß œ"
+    },
+    {
+      "y": 320.2,
+      "tex": "Ø \\cos \\chi \\sin \\phi \\cos \\theta +\\sin \\chi \\cos \\phi ø"
+    },
+    {
+      "y": 335.2,
+      "tex": "e_{b}=Œ -\\sin \\chi \\sin \\phi \\cos \\theta +\\cos \\chi \\cos \\phi œ 、"
+    },
+    {
+      "y": 350.2,
+      "tex": "º Œ \\sin \\phi \\sin \\theta ß œ"
+    },
+    {
+      "y": 369.2,
+      "tex": "Ø -\\cos \\chi \\sin \\theta ø"
+    },
+    {
+      "y": 384.2,
+      "tex": "e_{c}=Œ +\\sin \\chi \\sin \\theta œ 、"
+    },
+    {
+      "y": 399.2,
+      "tex": "º Œ +\\cos \\theta ß œ"
+    },
+    {
+      "y": 416.2,
+      "tex": "e_{z}·e_{b} = \\sin \\phi \\sin \\theta"
+    },
+    {
+      "y": 449.2,
+      "tex": "（R_{c}(\\phi )：b軸がz軸に垂直になるように、すなわち、z軸とc軸が作る面に垂直にする。）"
+    },
+    {
+      "y": 465.2,
+      "tex": "（R_{b’}(±\\theta )：c軸をz軸に重ねる、すなわち、xy面とab面を重ねる。）"
+    },
+    {
+      "y": 482.2,
+      "tex": "（R_{z}(\\chi )：b軸をy軸に重ねる、すなわち、xz面と分子面を重ねる。）"
+    },
+    {
+      "y": 514.2,
+      "tex": "z 軸まわりのねじれだけがある場合：隣り合うCH_{2 }基が同じ向きにねじれることで H — H 間隔を広"
+    },
+    {
+      "y": 531.2,
+      "tex": "げる。"
+    },
+    {
+      "y": 564.2,
+      "tex": "R_{z}(\\chi  = \\gamma ) R_{b’}(\\theta  = 0) R_{c}(\\phi  = 0) または  R_{z}(\\chi  = -\\gamma ) R_{b’}(\\theta  = 0) R_{c}(\\phi  = 0)、\\tau  = \\pi /2(Eu-1)"
+    },
+    {
+      "y": 580.2,
+      "tex": "\\sin \\chi  = \\sin \\gamma 、\\sin 2\\chi  = \\sin 2\\gamma 、\\sin 3\\chi  = \\sin 3\\gamma \\cos \\chi  = \\cos \\gamma 、\\cos 2\\chi  = \\cos 2\\gamma 、\\cos 3\\chi  = \\cos 3\\gamma"
+    },
+    {
+      "y": 596.2,
+      "tex": "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0  \\cos \\phi  = 1、\\cos 2\\phi  = -1、\\cos 3\\phi  = 1"
+    },
+    {
+      "y": 613.2,
+      "tex": "(\\sin \\gamma  /-\\sin \\gamma ), (\\sin 2\\gamma  /-\\sin 2\\gamma ), (\\sin 3\\gamma  /-\\sin 3\\gamma )  pairs"
+    },
+    {
+      "y": 646.2,
+      "tex": "隣り合うCH_{2 }基がともに +\\gamma  または -\\gamma  のどちらかをとり、互い違いにはならない。"
+    },
+    {
+      "y": 678.2,
+      "tex": "(cid:160) （傾きだけがある場合-1：隣り合うCH_{2 }基がx軸まわりに回転し、表面に向けて ±y軸方向に倒れる"
+    },
+    {
+      "y": 695.2,
+      "tex": "ことでH — H 間隔を広げる。）"
+    }
+  ],
+  "4": [
+    {
+      "y": 90.2,
+      "tex": "Ø 1ø Ø 0ø Ø 0ø"
+    },
+    {
+      "y": 105.2,
+      "tex": "e_{a}=Œ 0œ 、e_{b}=Œ \\cos \\theta œ 、e_{c}=Œ -\\sin \\theta œ 、　e_{z}·e_{b} = \\sin \\theta"
+    },
+    {
+      "y": 120.2,
+      "tex": "º Œ 0ß œ º Œ \\sin \\theta ß œ º Œ +\\cos \\theta ß œ"
+    },
+    {
+      "y": 154.2,
+      "tex": "R_{z}(\\chi  = -\\pi /2) R_{b’}(-\\theta ) R_{c}(\\phi  = \\pi /2)　または  R_{z}(\\chi  = -\\pi /2) R_{b’}(\\theta ) R_{c}(\\phi  = \\pi /2)、(Eu-2a)"
+    },
+    {
+      "y": 170.2,
+      "tex": "\\tau  = \\pi /2 - \\theta 　( 厳密には\\cos \\tau  = \\sin \\theta  )"
+    },
+    {
+      "y": 186.2,
+      "tex": "\\sin \\chi  = -1、\\sin 2\\chi  = 0、\\sin 3\\chi  = +1  \\cos \\chi  = 0、\\cos 2\\chi  = -1、\\cos 3\\chi  = 0"
+    },
+    {
+      "y": 203.2,
+      "tex": "\\sin \\phi  = +1、\\sin 2\\phi  = 0、\\sin 3\\phi  = -1  \\cos \\phi  = 0、\\cos 2\\phi  = -1、\\cos 3\\phi  = 0"
+    },
+    {
+      "y": 219.2,
+      "tex": "(\\sin \\theta  /-\\sin \\theta ）pairs"
+    },
+    {
+      "y": 252.2,
+      "tex": "隣り合うCH_{2 }基は交互に +\\theta  と -\\theta   をとる。"
+    },
+    {
+      "y": 285.2,
+      "tex": "（傾きだけがある場合-2：隣り合うCH_{2 }基がy軸まわりに回転し、表面に向けて ±x軸方向に倒れる"
+    },
+    {
+      "y": 301.2,
+      "tex": "ことで H — H 間隔を広げる。）"
+    },
+    {
+      "y": 336.2,
+      "tex": "Ø \\cos \\theta ø Ø 0ø Ø +\\sin \\theta ø"
+    },
+    {
+      "y": 351.2,
+      "tex": "e_{a}=Œ 0œ 、e_{b}=Œ 1œ 、e_{c}=Œ 0œ 、　e_{z}·e_{b} = 0"
+    },
+    {
+      "y": 366.2,
+      "tex": "º Œ -\\sin \\theta ß œ º Œ 0ß œ º Œ +\\cos \\theta ß œ"
+    },
+    {
+      "y": 400.2,
+      "tex": "R_{z}(\\chi  = \\pi ) R_{b’}(\\theta ) R_{c}(\\phi  = \\pi )　または  R_{z}(\\chi  = -\\pi ) R_{b’}(-\\theta ) R_{c}(\\phi  = \\pi )、\\tau  = \\pi /2(Eu-2b)"
+    },
+    {
+      "y": 416.2,
+      "tex": "\\sin \\chi  = 0、\\sin 2\\chi  = 0、\\sin 3\\chi  = 0\\cos \\chi  = -1、\\cos 2\\chi  = +1、\\cos 3\\chi  = -1"
+    },
+    {
+      "y": 432.2,
+      "tex": "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0\\cos \\phi  = -1、\\cos 2\\phi  = +1、\\cos 3\\phi  = -1"
+    },
+    {
+      "y": 449.2,
+      "tex": "(cid:160) (cid:160) (cid:160) either \\sin \\theta  /or -\\sin \\theta"
+    },
+    {
+      "y": 482.2,
+      "tex": "隣り合うCH_{2 }基は、交互に +\\theta  または -\\theta  のどちらかをとり、逆符号のものが隣り合わせにはならない。"
+    },
+    {
+      "y": 514.2,
+      "tex": "（ねじれと傾きの両方がある場合）"
+    },
+    {
+      "y": 531.2,
+      "tex": "実際の配向には、次の (a) から (c) に記すケースが考えられる。オイラー角は、それぞれのケースで"
+    },
+    {
+      "y": 547.2,
+      "tex": "違う。"
+    },
+    {
+      "y": 564.2,
+      "tex": "(a)  y軸方向への傾き（分子軸がyz面の上にあり、xy面への射影はy軸と重なる）。"
+    },
+    {
+      "y": 580.2,
+      "tex": "ねじれと同時にy 軸方向への傾きがある場合である。"
+    },
+    {
+      "y": 615.2,
+      "tex": "Ø \\cos \\gamma ø Ø -\\sin \\gamma ø Ø 0ø"
+    },
+    {
+      "y": 630.2,
+      "tex": "e_{a}=Œ \\sin \\gamma \\cos \\theta œ 、e_{b}=Œ \\cos \\gamma \\cos \\theta œ 、e_{c}=Œ -\\sin \\theta œ 、　e_{z}·e_{b} = \\cos \\gamma \\sin \\theta"
+    },
+    {
+      "y": 645.2,
+      "tex": "º Œ \\sin \\gamma \\sin \\theta ß œ º Œ \\cos \\gamma \\sin \\theta ß œ º Œ +\\cos \\theta ß œ"
+    },
+    {
+      "y": 678.2,
+      "tex": "\\sin \\chi  = -1、\\cos \\chi  = 0（すなわち \\chi  = 3\\pi /2、- \\pi /2)"
+    },
+    {
+      "y": 695.2,
+      "tex": "(cid:160) (cid:160) (cid:160) \\sin \\phi  = \\cos \\gamma 、\\cos \\phi  = \\sin \\gamma （すなわち \\phi  = \\pi /2 - \\gamma )、\\cos \\gamma  = \\cos \\tau /\\sin \\theta"
+    },
+    {
+      "y": 728.2,
+      "tex": "\\sin \\chi  = -1、\\sin 2\\chi  = 0、\\sin 3\\chi  = -1\\cos \\chi  = 0、\\cos 2\\chi  = -1、\\cos 3\\chi  = 0"
+    },
+    {
+      "y": 753.2,
+      "tex": "\\sin \\phi  = \\cos \\gamma  = \\cos \\tau /\\sin \\theta 、 \\sin 2\\phi  = \\sin 2\\gamma  = 2\\cos \\tau \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{2}\\theta ,"
+    }
+  ],
+  "5": [
+    {
+      "y": 97.2,
+      "tex": "\\cos \\phi  = \\sin \\gamma  = \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin \\theta 、 　\\cos 2\\phi  = -\\cos 2\\gamma  = (\\sin ^{2}\\theta  - 2\\cos ^{2}\\tau )/\\sin ^{2}\\theta 、"
+    },
+    {
+      "y": 130.2,
+      "tex": "\\sin 3\\phi  = -\\cos 3\\gamma  = \\cos \\tau (3\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )/\\sin ^{3}\\theta 、\\cos 3\\phi  = -\\sin 3\\gamma  = (\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{3}\\theta"
+    },
+    {
+      "y": 155.2,
+      "tex": "(Eu-3a)"
+    },
+    {
+      "y": 170.2,
+      "tex": "either (\\sin \\gamma 、\\sin 2\\gamma 、\\sin 3\\gamma ) 　set or 　(-\\sin 2\\gamma 、-\\sin 2\\gamma 、-\\sin 3\\gamma )  set"
+    },
+    {
+      "y": 186.2,
+      "tex": "(\\sin \\theta  /- \\sin \\theta ) pair"
+    },
+    {
+      "y": 219.2,
+      "tex": "隣り合うCH_{2 }基は同じく +\\gamma   または -\\gamma   のどちらかをとり、\\theta    が交互に符号を交替する。"
+    },
+    {
+      "y": 252.2,
+      "tex": "(b)  x軸方向への傾き（分子軸がxz面の上にあり、xy面射影はx軸と重なる）である。"
+    },
+    {
+      "y": 268.2,
+      "tex": "ねじれと同時にx 軸方向への傾きがある場合である。"
+    },
+    {
+      "y": 303.2,
+      "tex": "Ø \\cos \\gamma \\cos \\theta ø Ø -\\sin \\gamma \\cos \\theta ø Ø \\sin \\theta ø"
+    },
+    {
+      "y": 318.2,
+      "tex": "e_{a}=Œ \\sin \\gamma œ 、e_{b}=Œ \\cos \\gamma œ 、e_{c}=Œ 0œ 、　e_{z}·e_{b} = \\sin \\gamma \\sin \\theta"
+    },
+    {
+      "y": 333.2,
+      "tex": "º Œ -\\cos \\gamma \\sin \\theta ß œ º Œ \\sin \\gamma \\sin \\theta ß œ º Œ \\cos \\theta ß œ"
+    },
+    {
+      "y": 367.2,
+      "tex": "\\sin \\chi  = 0、\\cos \\chi  = -1（すなわち \\chi  = \\pi )"
+    },
+    {
+      "y": 383.2,
+      "tex": "\\sin \\phi  = \\sin \\gamma , \\cos \\phi  = -\\cos \\gamma （すなわち\\phi  = \\pi  - \\gamma ),  \\sin \\gamma  = \\cos \\tau /\\sin \\theta"
+    },
+    {
+      "y": 416.2,
+      "tex": "(cid:160) \\sin \\chi  = 0, \\sin 2\\chi  = 0, \\sin 3\\chi  = 0,  \\cos \\chi  = -1, \\cos 2\\chi  = +1, \\cos 3\\chi  = -1"
+    },
+    {
+      "y": 441.2,
+      "tex": "\\sin \\phi  = \\sin \\gamma  = \\cos \\tau /\\sin \\theta ,  \\sin 2\\phi  = -\\sin 2\\gamma  = -2\\cos \\tau \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{2}\\theta ,"
+    },
+    {
+      "y": 474.2,
+      "tex": "\\cos \\phi  = -\\cos \\gamma  = -\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin \\theta ,\\cos 2\\phi  = \\cos 2\\gamma  = (\\sin ^{2}\\theta  - 2\\cos ^{2}\\tau )/\\sin ^{2}\\theta ,"
+    },
+    {
+      "y": 498.2,
+      "tex": "\\sin 3\\phi  = \\sin 3\\gamma  = \\cos t(3\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )/\\sin ^{3}\\theta ,"
+    },
+    {
+      "y": 523.2,
+      "tex": "\\cos 3\\phi  = -\\cos 3\\gamma  = -(\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{3}\\theta (Eu-3b)"
+    },
+    {
+      "y": 547.2,
+      "tex": "(+\\gamma , +\\theta ) set,　(+\\gamma , -\\theta ) set,　(-\\gamma , +\\theta ) set,　or  (-\\gamma , -\\theta ) set"
+    },
+    {
+      "y": 580.2,
+      "tex": "隣り合うCH_{2 }基は同じく +\\gamma   または -\\gamma   のどちらかをとり、\\theta   も同じ符号をとる。"
+    },
+    {
+      "y": 613.2,
+      "tex": "(c) ねじれと傾きがあるが、xy 面への分子軸の射影がx軸と角 \\gamma    をなしている。"
+    },
+    {
+      "y": 629.2,
+      "tex": "上のケース (b) から  \\chi * だけの回転として考えることが出来る。"
+    },
+    {
+      "y": 664.2,
+      "tex": "(cid:160) (cid:160) (cid:160) Ø \\cos \\chi *\\cos \\gamma \\cos \\theta -\\sin \\chi *\\sin \\gamma ø Ø -\\cos \\chi *\\sin \\gamma \\cos \\theta -\\sin \\chi *\\cos \\gamma ø"
+    },
+    {
+      "y": 679.2,
+      "tex": "e_{a}=Œ +\\sin \\chi *\\cos \\gamma \\cos \\theta -\\cos \\chi *\\sin \\gamma œ 、e_{b}=Œ -\\sin \\chi *\\sin \\gamma \\cos \\theta +\\cos \\chi *\\cos \\gamma œ 、"
+    },
+    {
+      "y": 694.2,
+      "tex": "º Œ -\\cos \\gamma \\sin \\theta ß œ º Œ \\sin \\gamma \\sin \\theta ß œ"
+    },
+    {
+      "y": 713.2,
+      "tex": "Ø \\cos \\chi *\\sin \\theta ø"
+    },
+    {
+      "y": 728.2,
+      "tex": "e_{c}=Œ \\sin \\chi *\\sin \\theta œ 、　e_{z}·e_{b} = \\sin \\gamma \\sin \\theta"
+    },
+    {
+      "y": 743.2,
+      "tex": "º Œ \\cos \\theta ß œ"
+    }
+  ],
+  "6": [
+    {
+      "y": 104.2,
+      "tex": "\\sin \\chi  = \\sin \\chi *、\\cos \\chi  = -\\cos \\chi *（すなわち \\chi  = \\pi  - \\chi *)"
+    },
+    {
+      "y": 121.2,
+      "tex": "\\sin \\phi  = \\sin \\gamma 、\\cos \\phi  = -\\cos \\gamma （すなわち \\phi  = \\pi  - \\gamma )、\\sin \\gamma  = \\cos \\tau /\\sin \\theta"
+    },
+    {
+      "y": 154.2,
+      "tex": "\\sin \\chi  = \\sin \\chi *、\\sin 2\\chi  = -\\sin 2\\chi *、\\sin 3\\chi  = \\sin 3\\chi *"
+    },
+    {
+      "y": 170.2,
+      "tex": "\\cos \\chi  = -\\cos \\chi *、\\cos 2\\chi  = +\\cos 2\\chi *、\\cos 3\\chi  = -\\cos 3\\chi *"
+    },
+    {
+      "y": 195.2,
+      "tex": "\\sin \\phi  = \\sin \\gamma  =  \\cos \\tau /\\sin \\theta 、 \\sin 2\\phi  = -\\sin 2\\gamma  = -2\\cos \\tau \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{2}\\theta 、"
+    },
+    {
+      "y": 228.2,
+      "tex": "\\cos \\phi  = -\\cos \\gamma  = -\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin \\theta 、\\cos 2\\phi  = \\cos 2\\gamma  = (\\sin ^{2}\\theta  - 2\\cos ^{2}\\tau )/\\sin ^{2}\\theta 、"
+    },
+    {
+      "y": 252.2,
+      "tex": "\\sin 3\\phi  = \\sin 3\\gamma  = \\cos \\tau  (3\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )/\\sin ^{3}\\theta 、"
+    },
+    {
+      "y": 277.2,
+      "tex": "\\cos 3\\phi  = -\\cos 3\\gamma  = -(\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{3}\\theta (Eu-3c)"
+    },
+    {
+      "y": 301.2,
+      "tex": "either (\\sin \\gamma 、\\sin 2\\gamma 、in3\\gamma ) 　set or　 (-\\sin 2\\gamma 、-\\sin 2\\gamma 、-\\sin 3\\gamma )  set"
+    },
+    {
+      "y": 318.2,
+      "tex": "for either one of the (+\\gamma , +\\theta ) set、　(+\\gamma , -\\theta ) set、　(-\\gamma , +\\theta ) set、　or  (-\\gamma , -\\theta ) set"
+    },
+    {
+      "y": 350.2,
+      "tex": "隣り合うCH_{2 }基は同じく +\\gamma   または -\\gamma   のどちらかをとり、\\theta    も同じ符号をとる。\\chi * の符号が交代"
+    },
+    {
+      "y": 367.2,
+      "tex": "する。"
+    },
+    {
+      "y": 400.2,
+      "tex": "2b. 配向したHCCH基のオイラー角"
+    },
+    {
+      "y": 416.2,
+      "tex": "HCCH ユニットが平面形 (C_{2v}) を取っているときには、「ねじれ」を考えなくて良いので、xz面に"
+    },
+    {
+      "y": 432.2,
+      "tex": "対してac面がなすa軸まわりの回転角 \\tau   が与えられれば用が足りる。隣り合うペアについて見ると、"
+    },
+    {
+      "y": 449.2,
+      "tex": "下のようになる。"
+    },
+    {
+      "y": 482.2,
+      "tex": "R_{z}(\\chi  = -\\pi /2) R_{b’}(\\theta  = -\\tau ) R_{c}(\\phi  = \\pi /2)、R_{z}(\\chi  = -\\pi /2) R_{b’}(\\theta  = +\\tau ) R_{c}(\\phi  = \\pi /2)、 \\tau  = \\pi /2 - \\theta (Eu-4)"
+    },
+    {
+      "y": 498.2,
+      "tex": "\\sin \\chi  = -1、\\sin 2\\chi  = 0、\\sin 3\\chi  = +1\\cos \\chi  = 0、\\cos 2\\chi  = -1、\\cos 3\\chi  = 0"
+    },
+    {
+      "y": 514.2,
+      "tex": "(cid:160) \\sin \\phi  = +1、\\sin 2\\phi  = 0、\\sin 3\\phi  = -1\\cos \\phi  = 0、\\cos 2\\phi  = -1、\\cos 3\\phi  = 0"
+    },
+    {
+      "y": 531.2,
+      "tex": "\\sin \\theta  = -(±)\\sin \\tau \\cos \\theta  = \\cos \\tau"
+    },
+    {
+      "y": 547.2,
+      "tex": "(cid:160) (-\\sin \\tau  /+\\sin \\tau ）pair"
+    },
+    {
+      "y": 580.2,
+      "tex": "隣り合うHCCH基は交互に -\\tau   と +\\tau    をとる。"
+    },
+    {
+      "y": 596.2,
+      "tex": "(cid:160) HCCH ユニットがねじれ形 (C_{2}) を取っているときには、xz面とac面ひいては２つの座標系そのも"
+    },
+    {
+      "y": 613.2,
+      "tex": "のが一致していると考えて良いであろう。"
+    },
+    {
+      "y": 646.2,
+      "tex": "CH固定 (\\xi \\eta \\zeta ) 系を分子固定 (abc) 系に重ねるためのオイラー角"
+    },
+    {
+      "y": 678.2,
+      "tex": "CH_{2} 基"
+    },
+    {
+      "y": 695.2,
+      "tex": "HCH角を \\alpha   とするとき、２個のCH結合の (\\xi \\eta \\zeta ) 座標に対して次の回転操作になる。"
+    },
+    {
+      "y": 728.2,
+      "tex": "R_{c}(\\chi  = \\pi ) R_{\\eta }( \\theta  = \\alpha /2) R_{\\zeta }(\\phi  = 0),   R_{c}(\\chi  = 0) R_{\\eta }( \\theta  = \\alpha /2) R_{\\zeta }(\\phi  = 0)(Eu-5)"
+    },
+    {
+      "y": 744.2,
+      "tex": "\\sin \\chi  = 0、\\sin 2\\chi  = 0、\\sin 3\\chi  = 0  \\cos \\chi  = ±1、\\cos 2\\chi  = +1、\\cos 3\\chi  = ±1"
+    }
+  ],
+  "7": [
+    {
+      "y": 88.2,
+      "tex": "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0  \\cos \\phi  = +1、\\cos 2\\phi  = +1、\\cos 3\\phi  = +1"
+    },
+    {
+      "y": 104.2,
+      "tex": "\\sin \\theta  = \\sin (\\alpha /2)、  \\cos \\theta  = \\cos (\\alpha /2)"
+    },
+    {
+      "y": 137.2,
+      "tex": "HCCH基 (平面形、C_{2v }対称)"
+    },
+    {
+      "y": 154.2,
+      "tex": "HCH角を \\alpha  とするとき、2個のCH結合の (\\xi \\eta \\zeta ) 座標に対して次の回転操作になる。"
+    },
+    {
+      "y": 186.2,
+      "tex": "R_{c}(\\chi  = \\pi ) R_{\\eta }(\\theta  = \\alpha  - \\pi /2) R_{\\zeta }(\\phi  = 0)、R_{c}(\\chi  = 0) R_{\\eta }(\\theta  = \\alpha  - \\pi /2) R_{\\zeta }(\\phi  = 0) (Eu-6)"
+    },
+    {
+      "y": 203.2,
+      "tex": "\\sin \\chi  = 0、\\sin 2\\chi  = 0、\\sin 3\\chi  = 0、\\cos \\chi  = ±1、\\cos 2\\chi  = +1、\\cos 3\\chi  = ±1"
+    },
+    {
+      "y": 219.2,
+      "tex": "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0、\\cos \\phi  = +1、\\cos 2\\phi  = +1、\\cos 3\\phi  = +1"
+    },
+    {
+      "y": 236.2,
+      "tex": "\\sin \\theta  = -\\cos \\alpha ,、\\cos \\theta  = \\sin \\alpha"
+    },
+    {
+      "y": 268.2,
+      "tex": "HCCH基 (ねじれ形、C_{2 }対称)"
+    },
+    {
+      "y": 285.2,
+      "tex": "分子固定系に対するCH基の配向を定義するときに、構造化学で一般的に用いられるCCH角 \\alpha   と"
+    },
+    {
+      "y": 301.2,
+      "tex": "２個のCCH面の間の２面角（面の交線の上の点から２つの面上に引いた垂線がなす角）\\tau   を用いると"
+    },
+    {
+      "y": 318.2,
+      "tex": "き、２個のCH結合の (\\xi \\eta \\zeta ) 座標に対する回転操作の変換関係は次のようにして求められる。"
+    },
+    {
+      "y": 350.2,
+      "tex": "\\xi   軸と \\zeta   軸はCCH面の上に乗っていること、及び、CCH面とac面との間の２面角は \\tau /2 である"
+    },
+    {
+      "y": 367.2,
+      "tex": "ことに注意して、(\\xi \\eta \\zeta )座標系の３つの軸方向の単位ベクトルを (abc) 座標系で表すと下式を得る。（a"
+    },
+    {
+      "y": 383.2,
+      "tex": "軸の正方向・b軸側に傾いているCH基に対するものと、それとは反対向きに傾いているCH基に対す"
+    },
+    {
+      "y": 400.2,
+      "tex": "るものを左右に並べて示す。）"
+    },
+    {
+      "y": 434.2,
+      "tex": "Ø -\\sin \\alpha ø Ø +\\sin \\alpha ø"
+    },
+    {
+      "y": 449.2,
+      "tex": "e_{\\xi }=Œ -\\cos \\alpha \\sin (\\tau /2)œ e_{\\xi }=Œ +\\cos \\alpha \\sin (\\tau /2)œ (Eu-7a)"
+    },
+    {
+      "y": 464.2,
+      "tex": "º Œ -\\cos \\alpha \\cos (\\tau /2)ß œ º Œ -\\cos \\alpha \\cos (\\tau /2)ß œ"
+    },
+    {
+      "y": 484.2,
+      "tex": "Ø 0ø Ø 0ø"
+    },
+    {
+      "y": 499.2,
+      "tex": "e_{\\eta }=Œ -\\cos (\\tau /2)œ e_{\\eta }=Œ +\\cos (\\tau /2)œ (Eu-7b)"
+    },
+    {
+      "y": 514.2,
+      "tex": "º Œ +\\sin (\\tau /2)ß œ º Œ +\\sin (\\tau /2)ß œ"
+    },
+    {
+      "y": 533.2,
+      "tex": "Ø -\\cos \\alpha ø Ø +\\cos \\alpha ø"
+    },
+    {
+      "y": 548.2,
+      "tex": "e_{\\zeta }=Œ +\\sin \\alpha \\sin (\\tau /2)œ e_{\\zeta }=Œ -\\sin \\alpha \\sin (\\tau /2)œ (Eu-7c)"
+    },
+    {
+      "y": 563.2,
+      "tex": "º Œ +\\sin \\alpha \\cos (\\tau /2)ß œ º Œ +\\sin \\alpha \\cos (\\tau /2)ß œ"
+    },
+    {
+      "y": 596.2,
+      "tex": "e_{\\zeta  }とe_{c} の間の角 \\theta  は内積 e_{z}·e_{c} = \\cos \\theta  から求められる。"
+    },
+    {
+      "y": 638.2,
+      "tex": "\\cos \\theta  = \\sin \\alpha \\cos (\\tau /2),   \\sin \\theta  = \\sqrt{1-\\sin ^{2}\\alpha \\cos ^{2}(\\tau /2)}(Eu-8)"
+    },
+    {
+      "y": 678.2,
+      "tex": "e_{\\zeta }とe_{c} の両方に垂直な単位ベクトルe_{\\eta ' }は、ベクトル積 e_{\\zeta } \\cdot  e_{c} の向きを正方向にすると"
+    },
+    {
+      "y": 713.2,
+      "tex": "Ø +\\sin \\alpha \\sin (\\tau /2)/\\sin \\theta ø Ø -\\sin \\alpha \\sin (\\tau /2)/\\sin \\theta ø"
+    },
+    {
+      "y": 728.2,
+      "tex": "e_{\\eta '}=Œ +\\cos \\alpha /\\sin \\theta œ e_{\\eta '}=Œ -\\cos \\alpha /\\sin \\theta œ (Eu-9)"
+    },
+    {
+      "y": 743.2,
+      "tex": "º Œ +0ß œ º Œ +0ß œ"
+    }
+  ],
+  "8": [
+    {
+      "y": 104.2,
+      "tex": "となり、e_{\\eta '} とe_{\\eta  } の間の角  \\phi   とe_{\\eta ' }とe_{b} の間の角 \\chi   は次のように与えられる。"
+    },
+    {
+      "y": 139.2,
+      "tex": "\\sin (\\tau /2)\\sin (\\tau /2)"
+    },
+    {
+      "y": 146.2,
+      "tex": "\\sin \\phi =\\sin \\phi ="
+    },
+    {
+      "y": 153.2,
+      "tex": "\\sin \\theta \\sin \\theta"
+    },
+    {
+      "y": 172.2,
+      "tex": "\\cos \\alpha \\cos (\\tau /2)\\cos \\alpha \\cos (\\tau /2)"
+    },
+    {
+      "y": 179.2,
+      "tex": "\\cos \\phi =-\\cos \\phi =-(Eu-10)"
+    },
+    {
+      "y": 186.2,
+      "tex": "\\sin \\theta \\sin \\theta"
+    },
+    {
+      "y": 205.2,
+      "tex": "\\sin \\alpha \\sin (\\tau /2)\\sin \\alpha \\sin (\\tau /2)"
+    },
+    {
+      "y": 212.2,
+      "tex": "\\sin \\chi =\\sin \\chi =-"
+    },
+    {
+      "y": 219.2,
+      "tex": "\\sin \\theta \\sin \\theta"
+    },
+    {
+      "y": 238.2,
+      "tex": "\\cos \\alpha \\cos \\alpha"
+    },
+    {
+      "y": 245.2,
+      "tex": "\\cos \\chi =\\cos \\chi =-(Eu-11)"
+    },
+    {
+      "y": 252.2,
+      "tex": "\\sin \\theta \\sin \\theta"
+    },
+    {
+      "y": 285.2,
+      "tex": "２個のCH結合に対して、\\phi  « \\phi 、\\chi  « \\chi  + \\pi  の関係にあることがわかる。座標変換に当たっては、\\chi   に"
+    },
+    {
+      "y": 301.2,
+      "tex": "関する三角関数のうちで \\chi  と3\\chi  の関数は２個のCH結合に対して逆符号になることに注意しよう。"
+    },
+    {
+      "y": 318.2,
+      "tex": "平面形HCCHに対する (abc) 座標系をここと同じように取るときには、\\chi   に関する部分が \\chi   «  \\pi  - \\chi"
+    },
+    {
+      "y": 334.2,
+      "tex": "となる。"
+    },
+    {
+      "y": 367.2,
+      "tex": "上で求めたオイラー角の表式を使えば、ファイル「分子固定から空間固定へ.doc」により、CH結合"
+    },
+    {
+      "y": 383.2,
+      "tex": "に対するSFGテンソル成分を使ってCH_{2} 基とHCCH基の分子固定SFGテンソルを表す表式を得るこ"
+    },
+    {
+      "y": 400.2,
+      "tex": "とが出来る。また、ファイル「CH_{2} の配向とテンソル成分.doc」も参考になるであろう。"
+    }
+  ]
+}

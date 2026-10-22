@@ -1,0 +1,368 @@
+===== PDF p.1 =====
+CH 基および HCCH基のオイラー角
+2
+1. 座標軸：
+分子固定 (abc) 系
+(CH 基) c軸をHCHの外向き２等分線方向、a 軸を分子面内でH—Hに平行に取る。
+2
+(HCCH基) a 軸を(水素化されている)炭素原子の方向に、c軸を2回軸に取る。
+★２個のHCC 面が同一平面のときにはC 対称で、ac 面がこの平面である。立体障害
+2v
+によって２個のCH結合がもとの HCCH面に関して同じ方向にずれているときには、
+a軸とc軸もずれることになる。
+★２個のHCC 面が角度を持つときには、分子はC 対称を持ちac 面は２つの平面を２等
+2
+分する平面（鋭角をなす方を２等分する面、すなわち、立体障害がないとしたときのHCCH
+面）の上にある。
+CH 固定 (x h z ) 系：z 軸をCH方向に取る。
+(CH 基) x 軸を、HCH面内でC 軸に向かう方向に取る。
+2 2
+z
+c
+z
+H
+x
+H
+x b
+C
+a
+(HCCH基) x 軸を、HCC 面内でC 軸に向かう方向に取る。
+2
+c
+z
+z
+x x
+H
+H
+b
+C
+C
+a
+HCCHオイラー角 - 1
+
+===== PDF p.2 =====
+(ねじれ形：C 対称)
+2
+z z
+c
+H
+H
+x x
+b
+C
+C
+a
+(平面形：C 対称)
+2v
+HCCCHタイプのユニットに対しても、HCCHユニットと同じ形になる。
+表面固定（xyz）系
+z軸を、表面の外向き法線方向に取る。
+x軸を、立体障害がないとしたときにCH 基あるいはHCCH基が面をそろえて並ぶ方向に取
+2
+る。
+2. 配向した CH 基、HCCH 基の表面固定系に対するオイラー角
+2
+３つの軸まわりの回転 R (c ) R (q ) R (f ) により(abc) 系を (xyz) 系に重ねるときの回転角 (c , q , f )
+z b’ c
+をオイラー角という。
+q は、z軸とc軸の間の角で、x y面とab 面の間の二面角でもある。
+f は、xy面とab面の交線とb軸の間の角で、z軸とc軸が作る面と分子面がなす角でもある。
+c は、xy面とab面の交線とy軸の間の角で、z軸とc軸が作る面とxz面がなす角でもある。
+表面が同一の官能基で覆われている場合には、隣り合って角突き合いをしているCH結合のペアをユ
+ニットに取れば、CH 基であろうとHCCH基であろうと、２個のCH結合は互いにねじれの位置にあ
+2
+る。また、ペアに固定した座標系と表面固定座標系を一致させることが出来る。（しかし、CH 基に
+2
+よるペアとHCCH基によるペアでは必要とする角度に違いがあるため、これを出す段階に苦心があ
+る。）
+水素化された部分の配列が90˚ 向きを変えるためには、ステップが必要である。そして、そのステ
+ップの中段にはCH基が存在する。
+2a. 配向した CH 基のオイラー角
+2
+水素化ダイヤモンド表面のCH 基は、相互の間に立体障害がなければ、表面に垂直でしかも分子面
+2
+を平行にして並ぶ。一方、水素原子間の立体障害により垂直軸（c軸）まわりのねじれ角 g と傾き角 q
+の両方を持っているとすれば、CH 基に対する回転操作としては次のようなものが考えられる。なお、
+2
+HCCHオイラー角 - 2
+
+===== PDF p.3 =====
+現実問題としての平面分子の配向の記述は、z軸からの主軸の傾き角と分子面（and/or ２つの表面の交
+線の方向）と表面の２面角で表現する方がわかりやすい。よって、下では必要に応じて分子面（ac 面）
+と表面（xy面）の間の2面角 t とオイラー角との関係も併せて記すことにする。
+下記の結果を出す際の基本方式は、(1) a軸、b軸、c軸方向の単位ベクトルを (xyz) 座標系で見た
+座標成分として表す。この作業を、２面角を使ったものとオイラー角を使ったものと両方で行う。(2) b
+軸とz軸がなす角は２面角と一致する。よって、この２つの軸に沿った単位ベクトルの内積の絶対値
+が cost であることから、オイラー角と２面角の関係が得られる。（２面角は鋭角に取るから、cost > 0
+である。）(3)下に示すオイラー角による表式と２面角を使った表式が一致するように、オイラー角を決
+めてやる。
+Ø cosc cosf cosq - sinc sinf ø
+Œ œ
+e =Œ - sinc cosf cosq - cosc sinf œ 、
+a
+Œ œ
+º cosf sinq ß
+Ø cosc sinf cosq +sinc cosf ø
+Œ œ
+e =Œ - sinc sinf cosq +cosc cosf œ 、
+b
+Œ œ
+º sinf sinq ß
+Ø - cosc sinq ø
+Œ œ
+e =Œ +sinc sinq œ 、
+c
+Œ œ
+º +cosq ß
+e·e = sinf sinq
+z b
+（R (f )：b軸がz軸に垂直になるように、すなわち、z軸とc軸が作る面に垂直にする。）
+c
+（R (±q )：c軸をz軸に重ねる、すなわち、xy面とab面を重ねる。）
+b’
+（R (c )：b軸をy軸に重ねる、すなわち、xz面と分子面を重ねる。）
+z
+z 軸まわりのねじれだけがある場合：隣り合うCH 基が同じ向きにねじれることで H — H 間隔を広
+2
+げる。
+R (c = g ) R (q = 0) R (f = 0) または R (c = -g ) R (q = 0) R (f = 0)、t = p /2 (Eu-1)
+z b’ c z b’ c
+sinc = sing 、sin2c = sin2g 、sin3c = sin3g cosc = cosg 、cos2c = cos2g 、cos3c = cos3g
+sinf = 0、sin2f = 0、sin3f = 0 cosf = 1、cos2f = -1、cos3f = 1
+(sing /-sing ), (sin2g /-sin2g ), (sin3g /-sin3g ) pairs
+(cid:160)
+隣り合うCH 基がともに +g または -g のどちらかをとり、互い違いにはならない。
+2
+(cid:160)
+（傾きだけがある場合-1：隣り合うCH 基がx軸まわりに回転し、表面に向けて ±y軸方向に倒れる
+2
+ことでH — H 間隔を広げる。）
+(cid:160)
+HCCHオイラー角 - 3
+
+===== PDF p.4 =====
+Ø ø Ø ø Ø ø
+1 0 0
+Œ œ Œ œ Œ œ
+e =Œ 0œ 、e =Œ cosq œ 、e =Œ - sinq œ 、 e·e = sinq
+a b c z b
+Œ œ Œ œ Œ œ
+º 0ß º sinq ß º +cosq ß
+R (c = -p /2) R (-q ) R (f = p /2) または R (c = -p /2) R (q ) R (f = p /2)、 (Eu-2a)
+z b’ c z b’ c
+t = p /2 - q ( 厳密にはcost = sinq )
+sinc = -1、sin2c = 0、sin3c = +1 cosc = 0、cos2c = -1、cos3c = 0
+sinf = +1、sin2f = 0、sin3f = -1 cosf = 0、cos2f = -1、cos3f = 0
+(sinq /-sinq ）pairs
+隣り合うCH 基は交互に +q と -q をとる。
+2
+（傾きだけがある場合-2：隣り合うCH 基がy軸まわりに回転し、表面に向けて ±x軸方向に倒れる
+2
+ことで H — H 間隔を広げる。）
+Ø cosq ø Ø 0 ø Ø +sinq ø
+Œ œ Œ œ Œ œ
+e =Œ 0 œ 、e =Œ 1œ 、e =Œ 0 œ 、 e·e = 0
+a b c z b
+Œ œ Œ œ Œ œ
+º - sinq ß º 0ß º +cosq ß
+R (c = p ) R (q ) R (f = p ) または R (c = -p ) R (-q ) R (f = p )、t = p /2 (Eu-2b)
+z b’ c z b’ c
+sinc = 0、sin2c = 0、sin3c = 0 cosc = -1、cos2c = +1、cos3c = -1
+sinf = 0、sin2f = 0、sin3f = 0 cosf = -1、cos2f = +1、cos3f = -1
+(cid:160) (cid:160) (cid:160)
+either sinq /or -sinq
+隣り合うCH 基は、交互に +q または -q のどちらかをとり、逆符号のものが隣り合わせにはならない。
+2
+（ねじれと傾きの両方がある場合）
+実際の配向には、次の (a) から (c) に記すケースが考えられる。オイラー角は、それぞれのケースで
+違う。
+(a) y軸方向への傾き（分子軸がyz面の上にあり、xy面への射影はy軸と重なる）。
+ねじれと同時にy 軸方向への傾きがある場合である。
+Ø cosg ø Ø - sing ø Ø 0 ø
+Œ œ Œ œ Œ œ
+e =Œ sing cosq œ 、e =Œ cosg cosq œ 、e =Œ - sinq œ 、 e·e = cosg sinq
+a b c z b
+Œ œ Œ œ Œ œ
+º sing sinq ß º cosg sinq ß º +cosq ß
+sinc = -1、cosc = 0（すなわち c = 3p /2、- p /2)
+(cid:160) (cid:160) (cid:160)
+sinf = cosg 、cosf = sing （すなわち f = p /2 - g )、cosg = cost /sinq
+sinc = -1、sin2c = 0、sin3c = -1 cosc = 0、cos2c = -1、cos3c = 0
+sinf = cosg = cost /sinq 、 sin2f = sin2g = 2cost sin2q - cos2t /sin2q ,
+HCCHオイラー角 - 4
+(cid:160) (cid:160) (cid:160)
+(cid:160)
+
+===== PDF p.5 =====
+cosf = sing = sin2q - cos2t /sinq 、 cos2f = -cos2g = (sin2q - 2cos2t )/sin2q 、
+sin3f = -cos3g = cost (3sin2q - 4cos2t )/sin3q 、cos3f = -sin3g = (sin2q - 4cos2t ) sin2q - cos2t /sin3q
+(Eu-3a)
+either (sing 、sin2g 、sin3g ) set or (-sin2g 、-sin2g 、-sin3g ) set
+(sinq /- sinq ) pair
+隣り合うCH 基は同じく +g または -g のどちらかをとり、q が交互に符号を交替する。
+2
+(b) x軸方向への傾き（分子軸がxz面の上にあり、xy面射影はx軸と重なる）である。
+ねじれと同時にx 軸方向への傾きがある場合である。
+Ø cosg cosq ø Ø - sing cosq ø Ø sinq ø
+Œ œ Œ œ Œ œ
+e =Œ sing œ 、e =Œ cosg œ 、e =Œ 0 œ 、 e·e = sing sinq
+a b c z b
+Œ œ Œ œ Œ œ
+º - cosg sinq ß º sing sinq ß º cosq ß
+sinc = 0、cosc = -1（すなわち c = p )
+sinf = sing , cosf = -cosg （すなわちf = p - g ), sing = cost /sinq
+(cid:160) sinc = 0, sin2c = 0, sin3c = 0, cosc = -1, cos2c = +1, cos3c = -1
+sinf = sing = cost /sinq , sin2f = -sin2g = -2cost sin2q - cos2t /sin2q ,
+(cid:160)
+cosf = -cosg = - sin2q - cos2t /sinq , cos2f = cos2g = (sin2q - 2cos2t )/sin2q ,
+sin3f = sin3g = cost(3sin2q - 4cos2t )/sin3q ,
+cos3f = -cos3g = -(sin2q - 4cos2t ) sin2q - cos2t /sin3q (Eu-3b)
+(+g , +q ) set, (+g , -q ) set, (-g , +q ) set, or (-g , -q ) set
+隣り合うCH 基は同じく +g または -g のどちらかをとり、q も同じ符号をとる。
+2
+(c) ねじれと傾きがあるが、xy 面への分子軸の射影が x軸と角 g をなしている。
+上のケース (b) から c * だけの回転として考えることが出来る。
+(cid:160) (cid:160) (cid:160)
+Ø cosc *cosg cosq - sinc *sing ø Ø - cosc *sing cosq - sinc *cosg ø
+Œ œ Œ œ
+e =Œ +sinc *cosg cosq - cosc *sing œ 、e =Œ - sinc *sing cosq +cosc *cosg œ 、
+a b
+Œ œ Œ œ
+º - cosg sinq ß º sing sinq ß
+Ø cosc *sinq ø
+Œ œ
+e =Œ sinc *sinq œ 、 e·e = sing sinq
+c z b
+Œ œ
+º cosq ß
+(cid:160)
+HCCHオイラー角 - 5
+(cid:160)
+(cid:160)
+(cid:160) (cid:160)
+(cid:160)
+
+===== PDF p.6 =====
+sinc = sinc *、cosc = -cosc *（すなわち c = p - c *)
+sinf = sing 、cosf = -cosg （すなわち f = p - g )、sing = cost /sinq
+sinc = sinc *、sin2c = -sin2c *、sin3c = sin3c *
+cosc = -cosc *、cos2c = +cos2c *、cos3c = -cos3c *
+sinf = sing = cost /sinq 、 sin2f = -sin2g = -2cost sin2q - cos2t /sin2q 、
+cosf = -cosg = - sin2q - cos2t /sinq 、 cos2f = cos2g = (sin2q - 2cos2t )/sin2q 、
+sin3f = sin3g = cost (3sin2q - 4cos2t )/sin3q 、
+cos3f = -cos3g = -(sin2q - 4cos2t ) sin2q - cos2t /sin3q (Eu-3c)
+either (sing 、sin2g 、in3g ) set or (-sin2g 、-sin2g 、-sin3g ) set
+for either one of the (+g , +q ) set、 (+g , -q ) set、 (-g , +q ) set、 or (-g , -q ) set
+隣り合うCH 基は同じく +g または -g のどちらかをとり、q も同じ符号をとる。c * の符号が交代
+2
+する。
+2b. 配向した HCCH 基のオイラー角
+HCCH ユニットが平面形 (C ) を取っているときには、「ねじれ」を考えなくて良いので、xz面に
+2v
+対してac 面がなすa軸まわりの回転角 t が与えられれば用が足りる。隣り合うペアについて見ると、
+下のようになる。
+R (c = -p /2) R (q = -t ) R (f = p /2)、R (c = -p /2) R (q = +t ) R (f = p /2)、 t = p /2 - q (Eu-4)
+z b’ c z b’ c
+sinc = -1、sin2c = 0、sin3c = +1 cosc = 0、cos2c = -1、cos3c = 0
+(cid:160) sinf = +1、sin2f = 0、sin3f = -1 cosf = 0、cos2f = -1、cos3f = 0
+sinq = -(±)sint cosq = cost
+(cid:160) (-sint /+sint ）pair
+隣り合うHCCH基は交互に -t と +t をとる。
+(cid:160) HCCH ユニットがねじれ形 (C ) を取っているときには、xz面とac 面ひいては２つの座標系そのも
+2
+のが一致していると考えて良いであろう。
+CH 固定 (x h z ) 系を分子固定 (abc) 系に重ねるためのオイラー角
+CH 基
+2
+HCH角を a とするとき、２個のCH結合の (x h z ) 座標に対して次の回転操作になる。
+R (c = p ) R ( q = a /2) R (f = 0), R (c = 0) R ( q = a /2) R (f = 0) (Eu-5)
+c h z c h z
+sinc = 0、sin2c = 0、sin3c = 0 cosc = ±1、cos2c = +1、cos3c = ±1
+HCCHオイラー角 - 6
+
+===== PDF p.7 =====
+sinf = 0、sin2f = 0、sin3f = 0 cosf = +1、cos2f = +1、cos3f = +1
+sinq = sin(a /2)、 cosq = cos(a /2)
+HCCH 基 (平面形、C 対称)
+2v
+HCH角を a とするとき、2個のCH結合の (x h z ) 座標に対して次の回転操作になる。
+R (c = p ) R (q = a - p /2) R (f = 0)、R (c = 0) R (q = a - p /2) R (f = 0) (Eu-6)
+c h z c h z
+sinc = 0、sin2c = 0、sin3c = 0、 cosc = ±1、cos2c = +1、cos3c = ±1
+sinf = 0、sin2f = 0、sin3f = 0、 cosf = +1、cos2f = +1、cos3f = +1
+sinq = -cosa ,、 cosq = sina
+HCCH 基 (ねじれ形、C 対称)
+2
+分子固定系に対するCH基の配向を定義するときに、構造化学で一般的に用いられるCCH 角 a と
+２個のCCH 面の間の２面角（面の交線の上の点から２つの面上に引いた垂線がなす角）t を用いると
+き、２個のCH結合の (x h z ) 座標に対する回転操作の変換関係は次のようにして求められる。
+x 軸と z 軸はCCH 面の上に乗っていること、及び、CCH 面とac 面との間の２面角は t /2 である
+ことに注意して、(x h z )座標系の３つの軸方向の単位ベクトルを (abc) 座標系で表すと下式を得る。（a
+軸の正方向・b軸側に傾いているCH基に対するものと、それとは反対向きに傾いているCH基に対す
+るものを左右に並べて示す。）
+Ø - sina ø Ø +sina ø
+Œ œ Œ œ
+e =Œ - cosa sin(t /2)œ e =Œ +cosa sin(t /2)œ (Eu-7a)
+x x
+Œ œ Œ œ
+º - cosa cos(t /2)ß º - cosa cos(t /2)ß
+Ø ø Ø ø
+0 0
+Œ œ Œ œ
+e =Œ - cos(t /2)œ e =Œ +cos(t /2)œ (Eu-7b)
+h h
+Œ œ Œ œ
+º +sin(t /2)ß º +sin(t /2)ß
+Ø - cosa ø Ø +cosa ø
+Œ œ Œ œ
+e =Œ +sina sin(t /2)œ e =Œ - sina sin(t /2) œ (Eu-7c)
+z z
+Œ œ Œ œ
+º +sina cos(t /2)ß º +sina cos(t /2)ß
+e とe の間の角 q は内積 e·e = cosq から求められる。
+z c z c
+cosq = sina cos(t /2), sinq = 1- sin2a cos2(t /2) (Eu-8)
+eとe の両方に垂直な単位ベクトルe は、ベクトル積 e · e の向きを正方向にすると
+z c h ' z c
+Ø +sina sin(t /2)/sinq ø Ø - sina sin(t /2)/sinq ø
+Œ œ Œ œ
+e =Œ +cosa /sinq œ e =Œ - cosa /sinq œ (Eu-9)
+h ' h '
+Œ œ Œ œ
+º +0 ß º +0 ß
+HCCHオイラー角 - 7
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160)
+(cid:160) (cid:160)
+
+===== PDF p.8 =====
+となり、e とe の間の角 f とe とe の間の角 c は次のように与えられる。
+h ' h h ' b
+sin(t /2) sin(t /2)
+sinf = sinf =
+sinq sinq
+cosa cos(t /2) cosa cos(t /2)
+cosf =- cosf =- (Eu-10)
+sinq sinq
+sina sin(t /2) sina sin(t /2)
+sinc = sinc =-
+sinq sinq
+cosa cosa
+cosc = cosc =- (Eu-11)
+sinq sinq
+２個のCH結合に対して、f « f 、c « c + p の関係にあることがわかる。座標変換に当たっては、c に
+関する三角関数のうちで c と3c の関数は２個のCH結合に対して逆符号になることに注意しよう。
+平面形HCCHに対する (abc) 座標系をここと同じように取るときには、c に関する部分が c « p - c
+となる。
+上で求めたオイラー角の表式を使えば、ファイル「分子固定から空間固定へ.doc」により、CH結合
+に対するSFGテンソル成分を使ってCH 基とHCCH基の分子固定SFGテンソルを表す表式を得るこ
+2
+とが出来る。また、ファイル「CH の配向とテンソル成分.doc」も参考になるであろう。
+2
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+HCCHオイラー角 - 8

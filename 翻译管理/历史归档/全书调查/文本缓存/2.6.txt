@@ -1,0 +1,1149 @@
+===== PDF p.1 =====
+多層膜における膜内電場（Born & Wolf の伝播行列法による定式化）
+1. 序論
+1.1. はじめに
+多層膜には３個以上の界面が存在するので、反射・透過が複雑に起こってそれが内部の電場にも
+反映する。このようなケースの取扱いは Born & Wol fの教科書の 1.6 節で扱われている。また、O. S.
+Heavens, "Optical properties of thin solid films" (Dover Pub., 1965) でも扱われている。ただし、両者には次
+のような違いがあるので注意しなければならない。
+(1) 正方向に進む波の位相を、B & Wでは kr - w t としているのに対して Heavensは w t - kr とする。
+これは、波の位相が互いに 180˚ 違っていることを意味する。
+(2) Heavens の教科書では、膜内部を進行する波の位相を考える際に誤解がある。例えば、(4.66) 式
+や (4.68) 式に誤りがある。即ち、屈折率が n の媒質内を d だけ進んだ波が媒質２との界面に達し
+1 1
+たときの連続境界条件を扱う際に、媒質２側の電場の位相に対する表式が、媒質１側の屈折率が n で
+2
+あるとした表式になっている。
+(3) 座標軸および基本式の取り方にも、Heavens の教科書には多分混乱がある。B & W の教科書では、
+入射面を1.6 節に限って yz 面としているが、入射面を xz 面とするとベクトル積等で符号があちらこ
+ちらで入れ替わる。
+(4) B & W の教科書では、p 偏光に対する反射係数が一般に用いられているものと逆符号に定義され
+ている。一般に用いられる表式では、入射角がブリュスター角より小さいときの電場振幅の x 成分に
+対する表式を、s 偏光（ y 成分だけを持つ）に対する表式に対応させるように取っている。これに対
+して、B & W の教科書では、界面での連続条件を考える際により合理的な H（p偏光の磁場は y 成
+y
+分しか持たない）の振幅反射係数に対してこの条件付けを行っている。なお、B & W の教科書では、s 偏
+光をTE 波、p 偏光をTM 波と呼んでいる。
+ここでは、(4) に記した違いを別にして、B & W の手法を拡張する形で話を進める。
+1.2. Born & Wolfの考え方
+座標軸：入射面を xz 面に取り、入射光の進行方向が x軸成分、z 軸成分とも正になるようににする。
+光の進行方向の単位ベクトルを s とするとき、入射光に対しては s > 0、反射光に対しては s < 0 で
+z z
+ある。以後、s > 0である光に関する量は上付きに + を付け、s < 0である光に関する量は上付きに - を
+z z
+付けることにする。入射角を q とするときに下式が成立する。
+[s + = sinq , s + = 0, s + = cosq ], [s - = sinq , s - = 0, s - = -cosq ] (1.1)
+x y z x y z
+光の電場を E、磁場を H とするときに、下の関係式が成立する。
+E =- m /e s· H, H = e /m s· E (1.2)
+ここで、屈折率 n は、n= m e であり、m = 1とするとn= e であるから、(1.1) 式と (1.2) 式から
+下の関係式を得る。
+膜内電場 - 1
+(cid:160) (cid:160)
+(cid:160) (cid:160)
+
+===== PDF p.2 =====
+E+ = +(cosq /n)H + E- = -(cosq /n)H- (1.3a)
+x y x y
+E+ = -(1/n)(H+cosq - H+sinq ) E- = +(1/n)(H- cosq + H- sinq ) (1.3b)
+y x z y x z
+E+ = -(sinq /n)H+ E- = -(sinq /n)H- (1.3c)
+z y z y
+H+ = -nE+cosq H- = +nE- cosq (1.4a)
+x y x y
+H+ = +n(E+ cosq - E+sinq ) H- = -n(E- cosq + E- sinq ) (1.4b)
+y x z y x z
+H+ = +nE+sinq H- = +nE- sinq (1.4c)
+z y z y
+s 偏光では電場が y 成分だけを持ち、p 偏光では磁場が y 成分だけを持つ。
+また、
+E+ = -(sinq /cosq )E+ E- = +(sinq /cosq )q - (1.5a)
+z x z x
+E+ + E- =-(sinq /cosq )(E+ - E- ) (1.5b)
+z z x x
+2. 伝播 (propagation) 式
+光の波動に付随する（associated with）物理量の振幅を U(z)、V(z) と表すときに、これらが光が媒
+質中を進行するときに受ける変化を追跡しよう。媒質の間の界面の両側で連続である（値が変わらな
+い）量を U(z)、V(z) に選ぶと、その変化は行列を使って表すことが出来る。このときに得られる結果
+は、次の特徴を持つ。
+(1) 厚みを持つ膜の内部での多重反射が反映される。
+(2) 途中の媒質中の任意の位置での値を求めることが出来る。
+(3) 最終的には、媒質の屈折率およびそれぞれの界面における反射係数、透過係数を使って各部位にお
+ける電場振幅を表すことが出来る。
+(4) しかし、行列を使って扱っているものは振幅に対する係数であるから、誘導放出を除いて、SFGの
+ように新たに光が付け加わる（倍数されるのではなく）光源が内部に存在する系に対しては使えない。
+（ここで用いるのと同様な手法は、レンズ・ミラー系を経由する光線の振る舞いに対しても使われる。）
+ある媒質中を光が z = 0 から z まで進むときに、下の関係が成立する。
+Ø U(0)ø Ø U(z)ø Ø U(z)ø Ø U(0)ø
+Œ œ = MŒ œ , Œ œ =NŒ œ (2.1)
+º V(0)ß º V(z)ß º V(z)ß º V(0)ß
+MN = E, |M| = |N| = 1
+光が複数の媒質中を通過する場合には、界面の上下で値が連続な量をU 及び V として選ぶので、下
+のように表せる。
+（媒質1：z = 0 ~ z 、媒質2：z = z ~ z 、媒質3：z = z ~ z 、…、媒質n：z = z ~ z として）
+1 1 2 2 3 n-1 n
+Ø U(0)ø Ø U(z )ø
+Œ œ = M (z )M (z - z )(cid:215)(cid:215) (cid:215) M (z - z )Œ n œ (2.2a)
+º V(0)ß 1 1 2 2 1 n n n-1 º V(z )ß
+n
+Ø U(z )ø Ø U(0)ø
+Œ n œ =N (z - z )(cid:215)(cid:215) (cid:215) N (z - z )N (z )Œ œ (2.2b)
+º V(z )ß n n n-1 2 2 1 1 1 º V(0)ß
+n
+膜内電場 - 2
+(cid:160) (cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.3 =====
+以下では平面波を考える。
+s 偏光に対しては、Uy = E+ + E- , Vy = H+ + H- = -n(E+ - E- )cosq と取るとき、
+y y x x y y
+b = kcosq として、
+Ø i ø
+Œ cosb z - sinb zœ
+My(z) = Œ ncosq œ (2.3a)
+º Œ - incosq sinb z cosb z ß œ
+Ø i ø
+Œ cosb z sinb zœ
+Ny(z) = Œ ncosq œ (2.3b)
+º Œ incosq sinb z cosb z ß œ
+p 偏光に対しては、Ux = H+ + H- = (E+ - E- )(n/cosq ), Vx = E+ + E- と取ると、
+y y x x x
+Ø n ø
+Œ cosb z - i sinb zœ
+Mx(z) = Œ
+cosq
+œ (2.4a)
+Œ cosq œ
+Œ - i sinb z cosb z œ
+º n ß
+Ø n ø
+Œ cosb z i sinb zœ
+Nx(z) = Œ
+cosq
+œ (2.4b)
+Œ cosq œ
+Œ i sinb z cosb z œ
+º n ß
+となる。
+［条件式］：最後の媒質中では入射光と同じ方向に進む光（+ 光）だけがあるという事実から、U(0) と
+V(0) の関係が決められる。
+SFG において必要となるのは電場振幅である。そこで B & W の取扱いを拡張して、次の書き換え
+(cid:160)
+を行う。
+Ø Uyø Ø E + ø Ø 1 1 ø Ø E + ø
+Œ œ =(Ly) - 1Œ yœ =Œ œ Œ yœ (2.5a)
+º Œ Vyß œ º Œ E- ß œ º ncosq -ncosq ß º Œ E- ß œ
+y y
+(cid:160)
+Ø 1 ø
+Ø Œ E + y ø œ =Ly Ø Œ Uyø œ = 1 Œ Œ 1 ncosq œ œ Ø Œ Uyø œ (2.5b)
+º Œ E- ß œ º Œ Vyß œ 2Œ 1 œ º Œ Vyß œ
+y Œ 1 - œ
+º ncosq ß
+Ø Œ Uxø œ =(Lx) - 1 Ø Œ E + x ø œ = Ø Œ Œ co n sq - co n sq ø œ œ Ø Œ E + x ø œ (2.6a)
+(cid:160) º Œ Vxß œ º Œ E- x ß œ º Œ 1 1 ß œ º Œ E- x ß œ
+Ø cosq ø
+Ø
+Œ E
++
+x
+ø
+œ =Lx
+Ø
+Œ
+Uxø
+œ = 1
+Œ
+Œ n
+1 œ
+œ
+Ø
+Œ
+Uxø
+œ (2.6b)
+(cid:160) º Œ E- x ß œ º Œ Vxß œ 2 º Œ Œ - co n sq 1 ß œ œ º Œ Vxß œ
+膜内電場 - 3
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.4 =====
+Ø Uaø Ø
+E
++ ø Ø
+E
++ ø Ø Uaø
+Œ œ =(La) - 1Œ aœ , Œ aœ =LaŒ œ (a = x, y) と表すと、(2.2a) 式と (2.2b) 式は次のように書き換え
+º Œ Vaß œ º Œ E- ß œ º Œ E- ß œ º Œ Vaß œ
+a a
+られる。
+Ø E+ (0) ø Ø Ua(0) ø Ø Ua(1) ø Ø E+ (1) ø
+Œ a œ =La Œ œ =La Ma Œ œ =La Ma (La )-1Œ a œ
+º Œ E - (0)ß œ 0 º Œ Va(0)ß œ 0 1 º Œ Va(1)ß œ 0 1 1 º Œ E - (1)ß œ
+a a
+Ø E+ (n) ø
+=[La
+0
+Ma
+1
+(La
+1
+)-1][La
+1
+Ma
+2
+(La
+2
+)-1](cid:215) (cid:215)(cid:215)[La
+n-1
+Ma
+n
+(La
+n
+)- 1]
+º
+Œ
+Œ E -
+a
+(n)ß
+œ
+œ
+a
+Ø + ø
+E (n)
+= Ma Ma ··· Ma Œ a œ (2.7a)
+1 2 n º Œ E- (n)ß œ
+a
+Ø E+ (n) ø Ø Ua(n) ø Ø Ua(n- 1) ø Ø E+ (n- 1) ø
+º
+Œ
+Œ E -
+a
+(n)ß
+œ
+œ
+=La
+n º
+Œ
+Œ Va(n)ß
+œ
+œ
+=La
+n
+Na
+n º
+Œ
+Œ Va(n- 1)ß
+œ
+œ
+=La
+n
+Na
+n
+(La
+n-1
+)- 1
+º
+Œ
+Œ E -
+a
+(n- 1)ß
+œ
+œ
+a a
+Ø E+ (0) ø
+=[La
+n
+Na
+n
+(La
+n-1
+)-1][La
+n-1
+Na
+n-1
+(La
+n-2
+)-1](cid:215) (cid:215)(cid:215)[La
+1
+Na
+1
+(La
+0
+)- 1]
+º
+Œ
+Œ E -
+a
+(0)ß
+œ
+œ
+a
+Ø + ø
+E (0)
+= Na Na ··· Na Na Œ a œ (2.7b)
+n n-1 1 0 º Œ E- (0)ß œ
+a
+(2.3) ~ (2.6 )式より、行列 Ma, Na の表式として下式を得る。（t = t , t = (cosq /cosq )t である。）
+i i ij,y ij,s ij, x j i ij,p
+(cid:160) 1 Ø exp(- ib z) r exp(ib z)ø
+My = Ly My(Ly)-1 = Œ i i-1,i,s i œ (2.8a)
+i i-1 i i t i-1,i,y º Œ r i-1,i,s exp(- ib i z) exp(ib i z) ß œ
+Ny = LyNy(Ly )-1 = 1 Ø Œ exp(- ib i z) r i,i-1,s exp(ib i z)ø œ (2.8b)
+i i i i-1 t i-1,i,y º Œ r i,i-1,s exp(- ib i z) exp(ib i z) ß œ
+(cid:160) 1 Ø exp(- ib z) r exp(ib z)ø
+Mx = Lx Mx(Lx)-1 = Œ i i-1,i,p i œ (2.9a)
+i i-1 i i t i-1,i,x º Œ r i-1,i,p exp(- ib i z) exp(ib i z) ß œ
+(cid:160)
+1 Ø exp(ib z) r exp(ib z)ø
+Nx = LxNx(Lx )-1 = Œ i i,i-1,p i œ (2.9b)
+i i i i-1 t i,i-1,x º Œ r i,i-1,p exp(- ib i z) exp(- ib i z) ß œ
+但し、b = kcosq である。
+i i I
+(cid:160)
+3. 界面の数と伝播行列
+(cid:160) 媒質を入射側から順に0, 1, 2, ··· と番号付けするときに、界面の数が 2 以上の場合には途中の層
+は厚みが決まっていることになる。入射光がn種類の媒質を経由してから外に出てくるとして、途中
+で通過する層の膜厚を h, h,··· ,h とする。
+1 2 n - 1
+3.1. 界面が 1個の場合
+(cid:160)
+膜内電場 - 4
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.5 =====
+1 Ø eib 1z1 r eib 1z1 ø
+Ny = LyNy(Ly)-1 = Œ 10,s œ (3.1a)
+1 1 1 0 t
+10,y
+º Œ r
+10,s
+e- ib 1z1 e- ib 1z1 ß œ
+Nx = LxNx(Lx)-1 = 1 Ø Œ eib 1z1 r 10,p eib 1z1 ø œ (3.1b)
+1 1 1 0 t 10,x º Œ r 10,p e-ib 1z1 e- ib 1z1 ß œ
+3.2. 界面が 2個の場合
+1 Ø (eib 1h1+r r e- ib 1h1)eib 2z2 (r eib 1h1+r e- ib 1h1)eib 2z2 ø
+NyNy = Œ 21,s10,s 10,s 21,s œ (3.2a)
+2 1 t
+21,y
+t
+10,y
+º Œ (r
+21,s
+eib 1h1+r
+10,s
+e- ib 1h1)e- ib 2z2 (r
+21,s
+r
+10,s
+eib 1h1+e- ib 1h1)e- ib 2z2 ß œ
+NxNx = 1 Ø Œ (eib 1h1+r 21,p r 10,p e- ib 1h1)eib 2z2 (r 10,p eib 1h1+r 21,p e- ib 1h1)eib 2z2 ø œ (3.2b)
+2 1 t 21,x t 10,x º Œ (r 21,p eib 1h1+r 10,p e- ib 1h1)e- ib 2z2 (r 21,p r 10,p eib 1h1+e- ib 1h1)e- ib 2z2 ß œ
+3.3. 界面が 3個の場合
+1
+NyNyNy = ·
+3 2 1 t t t
+32,y 21,y 10,y
+(1,1)要素: [(eib 1 h 1+r r e - ib 1 h 1)eib 2 h 2 +(r eib 1 h 1+r e - ib 1 h 1)r e -ib 2 h 2]eib 3 z 3
+21,s10,s 21,s 10,s 32,s
+(1,2)要素: [(r eib 1 h 1+r e - ib 1 h 1)eib 2 h 2 +(r r eib 1 h 1+e - ib 1 h 1)r e -ib 2 h 2]eib 3 z 3
+10,s 21,s 21,s 10,s 32,s
+(2,1)要素: [(eib 1 h 1+r r e - ib 1 h 1)r eib 2 h 2 +(r eib 1 h 1+r e - ib 1 h 1)e -ib 2 h 2]e - ib 3 z 3
+21,s10,s 32,s 21,s 10,s
+(2,2)要素: [(r eib 1 h 1+r e - ib 1 h 1)r eib 2 h 2 +(r r eib 1 h 1+e - ib 1 h 1)e -ib 2 h 2]e - ib 3 z 3 (3.3a)
+10,s 21,s 32,s 21,s10,s
+(cid:160) 1
+NxNxNx = ·
+3 2 1 t t t
+32,x 21,x 10,x
+(1,1)要素: [(eib 1 h 1+r r e - ib 1 h 1)eib 2 h 2 +(r eib 1 h 1+r e - ib 1 h 1)r e - ib 2 h 2]eib 3 z 3
+21,p 10,p 21,p 10,p 32,p
+(cid:160) (1,2)要素: [(r eib 1 h 1+r e - ib 1 h 1)eib 2 h 2 +(r r eib 1 h 1+e - ib 1 h 1)r e - ib 2 h 2]eib 3 z 3
+10,p 21,p 21,p10,p 32,p
+(2,1)要素: [(eib 1 h 1+r r e - ib 1 h 1)r eib 2 h 2 +(r eib 1 h 1+r e -ib 1 h 1)e - ib 2 h 2]e - ib 3 z 3
+21,p 10,p 32,p 21,p 10,p
+(2,2)要素: [(r eib 1 h 1+r e - ib 1 h 1)r eib 2 h 2 +(r r eib 1 h 1+e -ib 1 h 1)e - ib 2 h 2]e - ib 3 z 3 (3.3b)
+10,p 21,p 32,p 21,p10,p
+(cid:160) 3.4. 界面が 4個の場合
+1
+NyNyNyNy = ·
+4 3 2 1 t t t t
+43,y 32,y 21,y 10,y
+(cid:160)
+[(eib 1h1+r r e- ib 1h1)(eib 3h3+r r e- ib 3h3)eib 2h2
+(1,1)要素: 21,s10,s 43,s 32,s
++(r eib 1h1+r e- ib 1h1)(r eib 3h3 +r e- ib 3h3)e- ib 2h2]eib 4z4
+21,s 10,s 32,s 43,s
+[(r eib 1h1+r e- ib 1h1)(eib 3h3+r r e- ib 3h3)eib 2h2
+(1,2)要素: 10,s 21,s 43,s 32,s
+(cid:160) +(r r eib 1h1+e- ib 1h1)(r eib 3h3 +r e- ib 3h3)e- ib 2h2]eib 4z4
+21,s10,s 32,s 43,s
+(cid:160)
+(cid:160) [(eib 1h1+r r e- ib 1h1)(r eib 3h3 +r e- ib 3h3)eib 2h2
+(2,1)要素: 21,s10,s 43,s 32,s
+(cid:160) +(r eib 1h1+r e- ib 1h1)(r r eib 3h3 +e- ib 3h3)e- ib 2h2]e-ib 4z4
+21,s 10,s 43,s 32,s
+(cid:160)
+(cid:160)
+(cid:160) 膜内電場 - 5
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.6 =====
+[(r eib 1h1+r e- ib 1h1)(r eib 3h3 +r e- ib 3h3)eib 2h2
+(2,2)要素: 10,s 21,s 43,s 32,s (3.4a)
++(r r eib 1h1+e- ib 1h1)(r r eib 3h3 +e- ib 3h3)e- ib 2h2]e-ib 4z4
+21,s10,s 43,s 32,s
+1
+NxNxNxNx = ·
+4 3 2 1 t t t t
+43,x 32,x 21,x 10,x
+[(eib 1h1+r r e- ib 1h1)(eib 3h3+r r e- ib 3h3)eib 2h2
+21,p 10,p 43,p 32,p
+(1,1)要素:
++(r eib 1h1+r e- ib 1h1)(r eib 3h3+r e- ib 3h3)e- ib 2h2]eib 4z4
+21,p 10,p 32,p 43,p
+[(r eib 1h1+r e- ib 1h1)(eib 3h3+r r e- ib 3h3)eib 2h2
+10,p 21,p 43,p 32,p
+(1,2)要素:
++(r r eib 1h1+e- ib 1h1)(r eib 3h3+r e- ib 3h3)e- ib 2h2]eib 4z4
+21,p10,p 32,p 43,p
+[(eib 1h1+r r e- ib 1h1)(r eib 3h3+r e- ib 3h3)eib 2h2
+21,p 10,p 43,p 32,p
+(2,1)要素:
++(r eib 1h1+r e- ib 1h1)(r r eib 3h3 +e- ib 3h3)e- ib 2h2]e-ib 4z4
+21,p 10,p 43,p 32,p
+[(r eib 1h1+r e- ib 1h1)(r eib 3h3+r e- ib 3h3)eib 2h2
+10,p 21,p 43,p 32,p
+(2,2)要素: (3.4b)
++(r r eib 1h1+e-ib 1h1)(r r eib 3h3+e- ib 3h3)e-ib 2h2]e- ib 4z4
+21,p10,s 43,p 32,p
+4. 層数と膜内電場
+入射側及び膜内部には E+ と E- が存在するのに対して、最後の媒質内には E+ しか存在しない。E-
+= 0 であることを利用して、まず E+(0) と E-(0) の間の関係を導くことが出来る。次いで、この間系
+を (2.7b) 式の右辺に代入することによって、途中の媒質内部での電場を計算することが出来る。単純
+(cid:160) に２種の媒質が平らな界面を通して接しているときには、(2.7) 式と (2.9) 式より
+(cid:160) Ø Œ E + a (z 1 ) ø œ = 1 Ø Œ eib 1z1 r 10,a eib 1z1 ø œ Ø Œ E + a (0) ø œ
+º Œ E-
+a
+(z
+1
+)ß œ t
+10,a
+º Œ r
+10,a
+e- ib 1z1 e- ib 1z1 ß œ º Œ E-
+a
+(0)ß œ
+(cid:160)
+であるが、E- (z ) = 0 により、
+a 1
+(cid:160) E- (0) = -r E+(0) = +r E+(0) (4.1a)
+a 10,a a 01,a a
+E+(z ) = [(1 - r 2)/t ]exp(ib z )E+(0) = t exp(ib z )E+(0) (1 - r 2 = t t ) (4.2a)
+a 1 10,a 10,a 1 1 a 01,a 1 1 a 10,a 10,a01,a
+(cid:160) が得られ、通常の反射光と透過光に対する表式と一致する。また、
+Ø E + (0)+E - (0) ø Ø (1+r )ø
+Œ a a œ =Œ 01,a œ E + (0) (4.1b)
+(cid:160) º Œ E+ (0)- E- (0)ß œ º Œ (1-r ) ß œ a
+a a 01,a
+Ø Œ E + a (z 1 )+E - a (z 1 ) ø œ =t Ø Œ eib 1 z 1 ø œ E + (0) (4.2b)
+º Œ E+
+a
+(z
+1
+)- E-
+a
+(z
+1
+)ß œ 01 º Œ eib 1z1 ß œ a
+である。以後、下付きの a (a = x, y) を省略する。
+膜内電場 - 6
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.7 =====
+4.1. 単一膜（1/m/2）における膜内電場
+(2.7b) 式と (3.2) 式より、膜を下付き m で表して、
+E - (0)=- r m1 +r 2m e2ib m h m E + (0)= r 1m +r m2 e2ib m h m E + (0) (4.3a)
+1+r r e2ib m h m 1+r r e2ib m h m
+m1 2m 1m m2
+膜内部で入射点から z だけ入った点の電場は、
+1
+Ø E + (z ) ø 1 Ø eib m z 1 r eib m z 1 ø Ø E + (0) ø
+Œ 1 œ = Œ 10 œ Œ œ
+º Œ E- (z
+1
+)ß œ t
+10
+º Œ r
+10
+e- ib mz1 e-ib mz1 ß œ º Œ E- (0)ß œ
+1 Ø (1- r 2)eib m z 1 ø
+= Œ m1 œ E + (0)
+t
+m1
+(1+r
+m1
+r
+2m
+e2ib m h m)º Œ -r
+2m
+(1- r
+m1
+2)e2ib 1h1e- ib 1z1 ß œ
+t Ø eib m z 1 ø
+= 1m Œ œ E + (0) (4.4a)
+1+r
+1m
+r
+m2
+e2ib m h m º Œ r
+m2
+e2ib 1h1e-ib 1z1 ß œ
+出射点から媒質 2 中を z だけ進んだ点の電場としては、
+2
+E + (z 2 )= ( t 1- t r m1 (1 2) + (1 r - r r 2m 2 e ) 2 e ib ib m h m m h m ) eib 2 z 2E + (0)= 1+ t 1m r t m r 2 ei e b 2 m h ib m m h m eib 2 z 2E + (0) (4.5a)
+m1 2m m1 2m 1m m2
+を得る。(4.3a) 式と (4.4a) 式は多重反射を取り入れたときの反射光及び透過光の振幅を表す式と一致
+する。(4.3a) 式 ~ (4.5a) 式より、
+(cid:160) Ø E + (0)+E - (0) ø 1 Ø (1+r )(1+r e2ib m h m) ø
+Œ œ = Œ 1m m2 œ E + (0) (4.3b)
+º Œ E+(0)- E- (0)ß œ 1+r
+1m
+r
+m2
+e2ib m h m º Œ (1-r
+1m
+)(1- r
+m2
+e2ib mhm) ß œ
+Ø E + (z )+E - (z ) ø t Ø eib m z 1 +r e2ib 1 h 1e - ib 1 z 1 ø
+Œ 1 1 œ = 1m Œ m2 œ E + (0) (4.4b)
+º Œ E+(z
+1
+)- E- (z
+1
+)ß œ 1+r
+1m
+r
+m2
+e2ib m h m º Œ eib mz1-r
+m2
+e2ib 1h1e- ib 1z1 ß œ
+(cid:160)
+Ø Œ E + (z 2 )+E - (z 2 ) ø œ = t 1m t m2 eib m h m Ø Œ eib 2 z 2 ø œ E + (0) (4.5b)
+(cid:160) º Œ E+(z
+2
+)- E- (z
+2
+)ß œ 1+r
+1m
+r
+m2
+e2ib m h m º Œ eib 2z2 ß œ
+(cid:160) が導かれる。
+膜厚がゼロの極限 (h fi 0) では下式のようになる。
+m
+Ø E + (0)+E - (0) ø 1 Ø (1+r )(1+r )ø
+Œ œ = Œ 1m m2 œ E + (0) (4.6a)
+º Œ E+(0)- E- (0)ß œ 1+r r º (1-r )(1- r ) ß
+1m m2 1m m2
+(cid:160)
+Ø E + (z )+E - (z ) ø t Ø 1+r ø
+Œ 1 1 œ = 1m Œ m2œ E + (0) (4.6b)
+º Œ E+(z )- E- (z )ß œ 1+r r º 1-r ß
+1 1 1m m2 m2
+膜内電場 - 7
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.8 =====
+Ø E + (z )+E - (z ) ø t t Ø eib 2 z 2 ø
+Œ 2 2 œ = 1m m2 Œ œ E + (0) (4.6c)
+º Œ E+(z
+2
+)- E- (z
+2
+)ß œ 1+r
+1m
+r
+m2
+º Œ eib 2z2 ß œ
+SFG分極は入射する赤外光と可視光の電場の E+ と E- の和によって作られるが、p 偏光では
+E+ + E- = -(E+ - E- )(sinq /cosq ) の関係を使って z 成分の和を求める。
+z z x x
+4.2. ２層膜（1/m'/m/2）における膜内電場
+入射側から順に膜厚を h と h として、(3.3) 式他より下を得る。
+m' m
+E - (0)= (r 1m' +r m'm e2ib m' h m')+(r 1m' r m'm +e2ib m' h m')r m2 e2ib m h m E + (0) (4.7a)
+(1+r r e2ib m' h m')+(r +r e2ib m' h m')r e2ib m h m
+1m' m'm m'm 1m' m2
+Ø E + (z ) ø 1 Ø eib m' z 1 r eib m' z 1 ø Ø E + (0) ø
+Œ 1 œ = Œ m'1 œ Œ œ
+º Œ E- (z
+1
+)ß œ t
+m'1
+º Œ r
+m'1
+e- ib m'z1 e- ib m'z1 ß œ º Œ E- (0)ß œ
+t E + (0) Ø (1+r r e2ib m h m)eib m' z 1 ø
+= 1m' Œ m'm m2 œ (4.8a)
+(1+r
+1m'
+r
+m'm
+e2ib m' h m')+(r
+m'm
++r
+1m'
+e2ib m' h m')r
+m2
+e2ib m h m º Œ (r
+m'm
++r
+m2
+e2ib mhm)e2ib m'hm'e-ib m'z1 ß œ
+Ø Œ E + (z 2 ) ø œ = t 1m' t m'm eib m' h m'E + (0) Ø Œ eib m z 2 ø œ (4.9a)
+º Œ E- (z
+2
+)ß œ (1+r
+1m'
+r
+m'm
+e2ib m' h m')+(r
+m'm
++r
+1m'
+e2ib m' h m')r
+m2
+e2ib m h m º Œ r
+m2
+e2ib mhme-ib mz2 ß œ
+(cid:160) Ø Œ E + (z 3 ) ø œ = t 1m' t m'm t m2 eib m' h m'eib m h mE + (0) Ø Œ eib 2z3 ø œ (4.10a)
+º Œ E- (z )ß œ (1+r r e2ib m' h m')+(r +r e2ib m' h m')r e2ib m h m º Œ 0 ß œ
+3 1m' m'm m'm 1m' m2
+よって、
+Ø E + (0)+E - (0) ø E + (0)
+Œ œ =
+º Œ E+(0)- E- (0)ß œ (1+r r e2ib m' h m')+(r +r e2ib m' h m')r e2ib m h m
+1m' m'm m'm 1m' m2
+Ø (1+r )[(1+r e2ib m' h m')+r (r +e2ib m' h m')e2ib m h m] ø
+· Œ 1m' m'm m2 m'm œ (4.7b)
+º Œ (1-r )[(1- r e2ib m'hm')+r (r - e2ib m'hm')e2ib mhm] ß œ
+1m' m'm m2 m'm
+(cid:160)
+Ø E + (z )+E - (z ) ø t E + (0)
+Œ 1 1 œ = 1m'
+º Œ E+(z )- E- (z )ß œ (1+r r e2ib m' h m')+(r +r e2ib m' h m')r e2ib m h m
+1 1 1m' m'm m'm 1m' m2
+(cid:160) Ø (1+r r e2ib m h m)eib m' z 1 +(r +r e2ib m h m)e2ib m' h m'e - ib m' z 1 ø
+· Œ m'm m2 m'm m2 œ (4.8b)
+º Œ (1+r r e2ib mhm)eib m'z1 - (r +r e2ib mhm)e2ib m'hm'e-ib m'z1ß œ
+m'm m2 m'm m2
+(cid:160)
+Ø Œ E + (z 2 )+E - (z 2 ) ø œ = t 1m' t m'm eib m' h m'E + (0) Ø Œ eib m z 2 +r m2 e2ib m h me - ib m z 2 ø œ (4.9b)
+º Œ E+(z
+2
+)- E- (z
+2
+)ß œ (1+r
+1m'
+r
+m'm
+e2ib m' h m')+(r
+m'm
++r
+1m'
+e2ib m' h m')r
+m2
+e2ib m h m º Œ eib mz2 - r
+m2
+e2ib mhme- ib mz2 ß œ
+(cid:160)
+Ø Œ E + (z 3 )+E - (z 3 ) ø œ = t 1m' t m'm t m2 eib m' h m'eib m h mE + (0) Ø Œ eib 2 z 3 ø œ (4.10b)
+º Œ E+(z
+3
+)- E- (z
+3
+)ß œ (1+r
+1m'
+r
+m'm
+e2ib m' h m')+(r
+m'm
++r
+1m'
+e2ib m' h m')r
+m2
+e2ib m h m º Œ eib 2z3 ß œ
+(cid:160)
+膜内電場 - 8
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.9 =====
+表面部の膜厚がゼロの極限 (h fi 0) では下式のようになる。
+m'
+Ø E + (0)+E - (0) ø E + (0) Ø (1+r )(1+r )(1+r e2ib m h m) ø
+Œ œ = Œ 1m' m'm m2 œ (4.11a)
+º Œ E+(0)- E- (0)ß œ (1+r
+1m'
+r
+m'm
+)+(r
+m'm
++r
+1m'
+)r
+m2
+e2ib m h m º Œ (1-r
+1m'
+)(1- r
+m'm
+)(1- r
+m2
+e2ib mhm )ß œ
+Ø E + (z )+E - (z ) ø t E + (0) Ø (1+r )(1+r e2ib m h m) ø
+Œ 1 1 œ = 1m' Œ m'm m2 œ (4.12a)
+º Œ E+(z
+1
+)- E- (z
+1
+)ß œ (1+r
+1m'
+r
+m'm
+)+(r
+m'm
++r
+1m'
+)r
+m2
+e2ib m h m º Œ (1- r
+m'm
+)(1- r
+m2
+e2ib mhm)ß œ
+Ø E + (z )+E - (z ) ø t t E + (0) Ø eib m z 2 +r e2ib m h me -ib m z 2 ø
+Œ 2 2 œ = 1m' m'm Œ m2 œ (4.13a)
+º Œ E+(z
+2
+)- E- (z
+2
+)ß œ (1+r
+1m'
+r
+m'm
+)+(r
+m'm
++r
+1m'
+)r
+m2
+e2ib m h m º Œ eib mz2 - r
+m2
+e2ib mhme- ib mz2ß œ
+Ø Œ E + (z 3 )+E - (z 3 ) ø œ = t 1m' t m'm t m2 eib m h mE + (0) Ø Œ eib 2 z 3 ø œ (4.14a)
+º Œ E+(z
+3
+)- E- (z
+3
+)ß œ (1+r
+1m'
+r
+m'm
+)+(r
+m'm
++r
+1m'
+)r
+m2
+e2ib m h m º Œ eib 2z3 ß œ
+裏面部の膜厚がゼロの極限 (h fi 0) では下式のようになる。
+m
+Ø E + (0)+E - (0) ø E + (0) Ø (1+r )[(1+r r )+(r +r )e2ib m' h m'] ø
+Œ œ = Œ 1m' m'm m2 m'm m2 œ
+º Œ E+(0)- E- (0)ß œ (1+r
+m'm
+r
+m2
+)+r
+1m'
+(r
+m'm
++r
+m2
+)e2ib m' h m' º Œ (1-r
+1m'
+)[(1+r
+m'm
+r
+m2
+)- (r
+m'm
++r
+m2
+)e2ib m'hm'] ß œ
+(4.11b)
+Ø E + (z )+E - (z ) ø t E + (0) Ø (1+r r )eib m' z 1 +(r +r )e2ib m' h m'e - ib m' z 1 ø
+Œ 1 1 œ = 1m' Œ m'm m2 m'm m2 œ
+º Œ E+(z
+1
+)- E- (z
+1
+)ß œ (1+r
+m'm
+r
+m2
+)+r
+1m'
+(r
+m'm
++r
+m2
+)e2ib m' h m' º Œ (1+r
+m'm
+r
+m2
+)eib m'z1 - (r
+m'm
++r
+m2
+)e2ib m'hm'e- ib m'z1ß œ
+(4.12b)
+Ø Œ E + (z 2 )+E - (z 2 ) ø œ = t 1m' t m'm eib m' h m'E + (0) Ø Œ 1+r m2 ø œ (4.13b)
+º Œ E+(z )- E- (z )ß œ (1+r r )+r (r +r )e2ib m' h m' º 1- r ß
+2 2 m'm m2 1m' m'm m2 m2
+(cid:160) Ø Œ E + (z 3 )+E - (z 3 ) ø œ = t 1m' t m'm t m2 eib m' h m'E + (0) Ø Œ eib 2 z 3 ø œ (4.14b)
+º Œ E+(z
+3
+)- E- (z
+3
+)ß œ (1+r
+m'm
+r
+m2
+)+r
+1m'
+(r
+m'm
++r
+m2
+)e2ib m' h m' º Œ eib 2z3 ß œ
+(cid:160)
+4.3. ３層膜（1/m'/m/m"/2）における膜内電場
+(cid:160) 膜厚を入射側から順に h 、h 、h として、
+m' m m''
+(cid:160) Ø E + (0) ø 1
+Œ œ =
+º Œ E- (0)ß œ (1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+1m'm'm mm" m"2 m'm 1m' mm'' m"2
+Ø (1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m ø
+· Œ 1m'm'm mm" m"2 m'm 1m' mm" m"2 œ
+º Œ (r +r e2ib m'hm')(1+r r e2ib m"hm")+(r r +e2ib m'hm')(r +r e2ib m"hm")e2ib mhm ß œ
+1m' m'm mm" m"2 1m' m'm mm" m"2
+(4.15a)
+(cid:160) Ø E + (z ) ø t E + (0)
+Œ 1 œ = 1m'
+º Œ E- (z)ß œ (1+r r e2ib m' h m' )(1+ r r e2ib m" h m") + (r + r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+1 1m' m'm mm" m"2 m'm 1m' mm" m"2
+Ø [(1+r r e2ib m" h m")+r (r +r e2ib m" h m")e2ib m h m]eib m' z 1 ø
+· Œ mm" m"2 m'm mm" m"2 œ (4.16a)
+(cid:160) º Œ [r (1+r r e2ib m"hm")+(r +r e2ib m"hm")e2ib mhm]e2ib m'hm'e-ib m'z1ß œ
+m'm mm" m"2 mm" m"2
+(cid:160)
+膜内電場 - 9
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.10 =====
+Ø Œ E + (z 2 ) ø œ = t 1m' t m'm eib m' h m'E + (0)
+º Œ E- (z )ß œ (1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+2 1m' m'm mm" m"2 m'm 1m' mm" m"2
+Ø (1+r r e2ib m" h m")eib m z 2 ø
+· Œ mm" m"2 œ (4.17a)
+º Œ (r +r e2ib m"hm")e2ib mhme- ib mz2ß œ
+mm" m"2
+Ø Œ E + (z 3 ) ø œ = t 1m' t m'm t mm"' ei(b m' h m' +b m h m )E + (0)
+º Œ E- (z )ß œ (1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+3 1m' m'm mm"' m"2 m'm 1m' mm" m"2
+Ø eib
+m"
+z
+3
+ø
+· Œ œ (4.18a)
+º Œ r e2ib m"hm"e- ib m"z3ß œ
+m"2
+Ø Œ E + (z 4 ) ø œ = t 1m' t m'm t mm" t m"2 ei(b m' h m' +b m h m +b m" h m" )E + (0)
+º Œ E- (z )ß œ (1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+4 1m'm'm mm" m"2 m'm 1m' mm" m"2
+Ø eib 2'z4 ø
+· Œ œ (4.19a)
+º Œ 0 ß œ
+よって、
+Ø E + (0)+E - (0) ø
+Œ œ
+º Œ E+(0)- E- (0)ß œ
+1
+=
+(cid:160) (1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+1m'm'm mm" m"2 m'm 1m' mm" m"2
+Ø (1+r )[(1+r e2ib m' h m')(1+r r e2ib m" h m")+(r +e2ib m' h m')(r +r e2ib m" h m")e2ib m h m] ø
+· Œ 1m' m'm mm" m"2 m'm mm" m"2 œ
+(cid:160) º Œ (1- r )[(1- r e2ib m'hm')(1+r r e2ib m"hm")+(r - e2ib m'hm')(r +r e2ib m"hm")e2ib mhm]ß œ
+1m' m'm mm" m"2 m'm mm" m"2
+(4.15b)
+Ø E + (z )+E - (z ) ø
+Œ 1 1 œ
+(cid:160) º Œ E+(z )- E- (z )ß œ
+1 1
++
+t E (0)
+= 1m'
+(cid:160) (1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+1m'm'm mm" m"2 m'm 1m' mm" m"2
+Ø (eib m' z 1 +r eib m' (2h m' - z 1 ))(1+r r e2ib m" h m")+(r eib m' z 1 +eib m' (2h m' -z 1 ))(r +r e2ib m" h m")e2ib m h m ø
+· Œ m'm mm" m"2 m'm mm" m"2 œ
+º Œ (eib m'z1 - r eib m'(2hm' -z1))(1+r r e2ib m"hm")+(r eib m'z1 - eib m'(2hm' -z1))(r +r e2ib m"hm")e2ib mhm ß œ
+m'm mm" m"2 m'm mm" m"2
+(cid:160) (4.16b)
+Ø E + (z )+E - (z ) ø
+Œ 2 2 œ
+(cid:160) º Œ E+(z )- E- (z )ß œ
+2 2
+t t eib m' h m'E + (0)
+= 1m' m'm
+(1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+1m'm'm mm" m"2 m'm 1m' mm" m"2
+Ø (1+r r e2ib m" h m")eib m z 2 +(r +r e2ib m" h m")e2ib m h me - ib m z 2 ø
+· Œ mm" m"2 mm" m"2 œ (4.17b)
+º Œ (1+r r e2ib m"hm")eib mz2 - (r +r e2ib m"hm")e2ib mhme- ib mz2ß œ
+mm" m"2 mm" m"2
+(cid:160)
+Ø E + (z )+E - (z ) ø
+Œ 3 3 œ
+(cid:160) º Œ E+(z )- E- (z )ß œ
+3 3
+(cid:160) 膜内電場 - 10
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.11 =====
+t t t ei(b m' h m' +b m h m )E + (0)
+= 1m' m'm mm"
+(1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+1m'm'm mm" m"2 m'm 1m' mm" m"2
+Ø eib m" z 3 +r e2ib m" h m"e -ib m" z 3 ø
+· Œ m"2 œ (4.18b)
+º Œ eib m"z3 - r e2ib m"hm"e- ib m"z3ß œ
+m"2
+Ø E + (z )+E - (z ) ø
+Œ 4 4 œ
+º Œ E+(z )- E- (z )ß œ
+4 4
+t t t t ei(b m' h m' +b m h m +b m" h m" )E + (0)
+= 1m' m'm mm" m"2
+(1+r r e2ib m' h m')(1+r r e2ib m" h m")+(r +r e2ib m' h m')(r +r e2ib m" h m")e2ib m h m
+1m'm'm mm" m"2 m'm 1m' mm" m"2
+Ø eib
+2'
+z
+4
++e - ib
+2
+z
+4
+ø
+· Œ œ (4.19b)
+º Œ eib 2'z4 - e- ib 2z4ß œ
+ここで、SFG に必要なケースが多いと思われるもの、即ち、薄膜基板の両面に SFG 分極が生じる
+場合を取り上げて、表面部の膜内部での光路長がゼロのとき (h fi 0) あるいは表面部と裏面部の両方
+m'
+の膜厚がゼロのとき (h , h fi 0) を考えてみよう。
+m' m''
+表面部の膜厚がゼロのとき (h fi 0)
+m'
+Ø + ø
+E (0) 1
+Œ œ =
+º Œ E- (0)ß œ (1+r r )(1+r r e2ib m" h m")+(r +r )(r +r e2ib m" h m")e2ib m h m
+1m'm'm mm" m"2 1m' m'm mm" m"2
+(cid:160) Ø (1+r r )(1+r r e2ib m" h m")+(r +r )(r +r e2ib m" h m")e2ib m h m ø
+· Œ 1m'm'm mm" m"2 1m' m'm mm" m"2 œ (4.20a)
+º Œ (r +r )(1+r r e2ib m"hm")+(1+r r )(r +r e2ib m"hm")e2ib mhmß œ
+1m' m'm mm" m"2 1m'm'm mm" m"2
+(cid:160)
+Ø E + (0)+E - (0) ø 1
+Œ œ =
+º Œ E+(0)- E- (0)ß œ (1+r r )(1+r r e2ib m" h m")+(r +r )(r +r e2ib m" h m")e2ib m h m
+1m' m'm mm" m"2 1m' m'm mm" m"2
+(cid:160) Ø (1+r )(1+r )[(1+r r e2ib m" h m")+(r +r e2ib m" h m")e2ib m h m ø
+· Œ 1m' m'm mm" m"2 mm" m"2 œ (4.20b)
+º Œ (1- r )(1- r )][(1+r r e2ib m"hm")- (r +r e2ib m"hm")e2ib mhm]ß œ
+1m' m'm mm" m"2 mm" m"2
+(cid:160)
+Ø E + (z )+E - (z ) ø t E + (0)
+Œ 1 1 œ = 1m'
+(cid:160) º Œ E+(z )- E- (z )ß œ (1+r r )(1+r r e2ib m" h m")+(r +r )(r +r e2ib m" h m")e2ib m h m
+1 1 1m' m'm mm" m"2 1m' m'm mm" m"2
+Ø (1+r )[(1+r r e2ib m" h m")+(r +r e2ib m" h m")e2ib m h m] ø
+· Œ m'm mm" m"2 mm" m"2 œ (4.21)
+º Œ (1- r )[(1+r r e2ib m"hm")- (r +r e2ib m"hm")e2ib mhm]ß œ
+m'm mm" m"2 mm" m"2
+Ø E + (z )+E - (z ) ø t t E + (0)
+Œ 2 2 œ = 1m' m'm
+º Œ E+(z )- E- (z )ß œ (1+r r )(1+r r e2ib m" h m")+(r +r )(r +r e2ib m" h m")e2ib m h m
+2 2 1m' m'm mm" m"2 1m' m'm mm" m"2
+Ø (1+r r e2ib m" h m")eib m z 2 +(r +r e2ib m" h m")e2ib m h me - ib m z 2 ø
+· Œ mm" m"2 mm" m"2 œ (4.22)
+º Œ (1+r r e2ib m"hm")eib mz2 - (r +r e2ib m"hm")e2ib mhme- ib mz2ß œ
+mm" m"2 mm"' m"2
+(cid:160) Ø Œ E + (z 3 )+E + (z 3 ) ø œ = t 1m' t m'm t mm" eib m h mE + (0)
+º Œ E+(z )- E- (z )ß œ (1+r r )(1+r r e2ib m" h m")+(r +r )(r +r e2ib m" h m")e2ib m h m
+3 3 1m' m'm mm" m"2 1m' m'm mm" m"2
+(cid:160)
+膜内電場 - 11
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.12 =====
+Ø eib m" z 3 +r e2ib m" h m"e -ib m" z 3 ø
+· Œ m"2 œ (4.23)
+º Œ eib m"z3 - r e2ib m"hm"e- ib m"z3ß œ
+m"2
+Ø Œ E + (z 4 )+E - (z 4 ) ø œ = t 1m' t m'm t mm" t m"2 ei(b m h m +b m" h m" )E + (0)
+º Œ E+(z )- E- (z )ß œ (1+r r )(1+r r e2ib m" h m")+(r +r )(r +r e2ib m" h m")e2ib m h m
+4 4 1m' m'm mm" m"2 1m' m'm mm" m"2
+Ø eib
+2
+z
+4
+ø
+· Œ œ (4.24)
+º Œ eib 2z4ß œ
+表面部と裏面部の両方の膜厚がゼロのとき (h , h fi 0)
+m' m''
+Ø + ø
+E (0) 1
+Œ œ =
+º Œ E- (0)ß œ (1+r r )(1+r r )+(r +r )(r +r )e2ib m h m
+1m'm'm mm" m"2 1m' m'm mm" m"2
+Ø (1+r r )(1+r r )+(r +r )(r +r )e2ib m h m ø
+· Œ 1m'm'm mm" m"2 1m' m'm mm" m"2 œ (4.25a)
+º Œ (r +r )(1+r r )+(1+r r )(r +r )e2ib mhmß œ
+1m' m'm mm" m"2 1m' m'm mm" m"2
+Ø E + (0)+E - (0) ø 1
+Œ œ =
+º Œ E+(0)- E- (0)ß œ (1+r r )(1+r r )+(r +r )(r +r )e2ib m h m
+1m' m'm mm" m"2 1m' m'm mm" m"2
+Ø [(1+r )(1+r )[(1+r r )+(r +r )e2ib m h m] ø
+· Œ 1m' m'm mm" m"2 mm" m"2 œ (4.25b)
+º Œ [(1- r )(1- r )[(1+r r )- (r +r )e2ib mhm]ß œ
+1m' m'm mm" m"2 mm" m"2
+(cid:160) Ø E + (z )+E - (z ) ø t E + (0)
+Œ 1 1 œ = 1m'
+º Œ E+(z )- E- (z )ß œ (1+r r )(1+r r )+(r +r )(r +r )e2ib m h m
+1 1 1m' m'm mm" m"2 1m' m'm mm" m"2
+Ø (1+r )[(1+r r )+(r +r )e2ib m h m] ø
+· Œ m'm mm" m"2 mm" m"2 œ (4.26)
+(cid:160) º Œ (1- r )[(1+r r )- (r +r )e2ib mhm]ß œ
+m'm mm" m"2 mm" m"2
+(cid:160) Ø E + (z )+E - (z ) ø t t E + (0)
+Œ 2 2 œ = 1m'm'm
+º Œ E+(z )- E- (z )ß œ (1+r r )(1+r r )+(r +r )(r +r )e2ib m h m
+2 2 1m' m'm mm" m"2 1m' m'm mm" m"2
+Ø (1+r r )eib m z 2 +(r +r )e2ib m h me - ib m z 2 ø
+· Œ mm" m"2 mm" m"2 œ (4.27)
+º Œ (1+r r )eib mz2 - (r +r )e2ib mhme-ib mz2ß œ
+mm" m"2 mm" m"2
+(cid:160) Ø Œ E + (z 3 )+E - (z 3 ) ø œ = t 1m' t m'm t mm" eib m h mE + (0) Ø Œ eib m'' z 3 +r m''2 e - ib m'' z 3 ø œ
+º Œ E+(z
+3
+)- E- (z
+3
+)ß œ (1+r
+1m'
+r
+m'm
+)(1+r
+mm"
+r
+m"2
+)+(r
+1m'
++r
+m'm
+)(r
+mm"
++r
+m"2
+)e2ib m h m º Œ eib m''z3 - r
+m''2
+e- ib m''z3ß œ
+(cid:160) (4.28)
+Ø Œ E + (z 4 )+E - (z 4 ) ø œ = t 1m' t m'm t mm" t m"2 eib m h mE + (0) Ø Œ eib 2 z 4 ø œ (4.29)
+º Œ E+(z
+4
+)+E- (z
+4
+)ß œ (1+r
+1m'
+r
+m'm
+)(1+r
+mm"
+r
+m"2
+)+(r
+1m'
++r
+m'm
+)(r
+mm"
++r
+m"2
+)e2ib m h m º Œ eib 2z4ß œ
+(cid:160)
+以上で終わり。
+(cid:160)
+(cid:160)
+膜内電場 - 12
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)

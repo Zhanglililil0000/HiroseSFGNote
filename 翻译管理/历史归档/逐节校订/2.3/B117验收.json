@@ -1,0 +1,14 @@
+{
+  "batch": "B117",
+  "page": 4,
+  "numbered": [
+    "C.1"
+  ],
+  "logical_units": 6,
+  "remaining_text_unchanged": true,
+  "math_syntax": "268 math fragments in whole file passed; content scope is B117 only",
+  "render_overflows": 0,
+  "visual_review": "已目视参考渲染",
+  "new_issues": [],
+  "source_corrections_adopted": false
+}

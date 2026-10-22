@@ -1,0 +1,906 @@
+===== PDF p.1 =====
+座標変換におけるテンソル成分の変換行列
+SFGテンソルについて、ファイル「変換行列（基底）」で示した変換係数を使い、下で定義されるオイラー角による座標回転に限定して直交座標系での座標
+成分ごとの変換係数に戻した。
+座標回転（オイラー角で表したとき）におけるベクトルの変換行列: D = R ()R ()R()
+Z y z
+ a b c
+x cos coscos - sinsin cos sincos + sincos -cossin
+y -sin coscos - cossin -sin sincos + coscos sinsin
+ z cossin  sinsin cos
+
+なお、次の関係式を使って、三角関数sin2、cos2、sin3、cos3をsin、cosのべき乗に書き換えることができる。
+
+ sin2 = 2sincos,
+cos2 = cos2- sin2 = 2cos2 - 1 = 1- 2sin2,
+sin3 = 3sin - 4sin3, sin+ sin3 = 4(sin - sin3),
+cos3 = 4cos3 - 3cos, cos - cos3 = 4(cos - cos3)
+
+変換行列（XYZ) - 1
+
+===== PDF p.2 =====
+（SFGテンソルA-1）
+  
+aaa bba abb
+ xxx (1/4)cos(3coscos + cos3cos3) (1/4)cos(coscos - cos3cos3) (1/4)cos(coscos - cos3cos3)
+- (1/64)(cos - cos3)(3cos + cos3)(3cos + cos3) - (1/64)(cos - cos3)(3cos + cos3)(cos - cos3) - (1/64)(cos - cos3)(3cos + cos3)(cos - cos3)
+- (1/4)(3sinsin + sin3sin3) - (1/4)(sinsin - sin3sin3) - (1/4)(sinsin - sin3sin3)
++ (3/32)(1 - cos2)(sin + sin3)(sin + sin3) + (1/32)(1 - cos2)(sin + sin3)(sin - 3sin3) + (3/32)(1 - cos2)(sin + sin3)(sin - 3sin3)
+ xyy (1/4)cos(coscos - cos3cos3) -(1/4)cos(coscos - cos3cos3) (1/4)cos(3coscos + cos3cos3)
+- (1/64)(cos - cos3)(cos - cos3)(3cos + cos3) - (1/64)(cos - cos3)(cos - cos3)(cos - cos3) - (1/64)(cos - cos3)(cos - cos3)(cos - cos3)
+- (1/4)(sinsin - sin3sin3) + (1/8)(1 + cos2)(sinsin - sin3sin3) - (1/8)(1 + cos2)(3sinsin + sin3sin3)
++ (1/32)(1 - cos2)(sin - 3sin3)(sin + sin3) - (1/32)(1 - cos2)(sin + sin3)(sin + sin3) - (1/32)(1 - cos2)(sin + sin3)(sin + sin3)
+ xzz (1/16)(cos - cos3)cos(3cos + cos3) (1/16)(cos - cos3)cos(cos - cos3) (1/16)(cos - cos3)cos(cos - cos3)
+- (1/8)(1 - cos2)sin(sin + sin3) + (1/8)(1 - cos2)sin(sin + sin3)  - (1/8)(1 - cos2)sin(3sin - sin3)
+ yxy (1/4)cos(coscos - cos3cos3) -(1/4)cos(coscos - cos3cos3) -(1/4)cos(coscos - cos3cos3)
+- (1/64)(cos - cos3)(cos - cos3)(3cos + cos3) - (1/64)(cos - cos3)(cos - cos3)(cos - cos3) - (1/64)(cos - cos3)(cos - cos3)(cos - cos3)
+- (1/4)(sinsin - sin3sin3) + (1/8)(1 + cos2)(sinsin - sin3sin3) + (1/8)(1 + cos2)(sinsin - sin3sin3)
++ (1/32)(1 - cos2)(sin - 3sin3)(sin + sin3) - (1/32)(1 - cos2)(sin + sin3)(sin + sin3) - (1/32)(1 - cos2)(sin + sin3)(sin + sin3)
+ zzx (1/16)(cos - cos3)cos(3cos + cos3) (1/16)(cos - cos3)cos(cos - cos3) (1/16)(cos - cos3)cos(cos - cos3)
+- (1/8)(1 - cos2)sin(sin + sin3) - (1/8)(1 - cos2)sin(3sin - sin3) + (1/8)(1 - cos2)sin(sin + sin3)
+ yyx (1/4)cos(coscos - cos3cos3) (1/4)cos(3coscos + cos3cos3) -(1/4)cos(coscos - cos3cos3)
+- (1/64)(cos - cos3)(cos - cos3)(3cos + cos3) - (1/64)(cos - cos3)(cos - cos3)(cos - cos3) - (1/64)(cos - cos3)(cos - cos3)(cos - cos3)
+- (1/4)(sinsin - sin3sin3) - (1/8)(1 + cos2)(3sinsin + sin3sin3) + (1/8)(1 + cos2)(sinsin - sin3sin3)
++ (1/32)(1 - cos2)(sin - 3sin3)(sin + sin3) - (1/32)(1 - cos2)(sin + sin3)(sin + sin3) -(1/32)(1 - cos2)(sin + sin3)(sin + sin3)
+ zxz (1/16)(cos - cos3)cos(3cos + cos3) (1/16)(cos - cos3)cos(cos - cos3) (1/16)(cos - cos3)cos(cos - cos3)
+- (1/8)(1 - cos2)sin(sin + sin3) + (1/8)(1 - cos2)sin(sin + sin3) + (1/8)(1 - cos2)sin(sin + sin3)
+変換行列（XYZ) - 2
+
+===== PDF p.3 =====
+（SFGテンソルA-2）
+  
+bab cac acc
+ xxx (1/4)cos(coscos - cos3cos3) (1/16)(cos - cos3)(3cos + cos3)cos (1/16)(cos - cos3)(3cos + cos3)cos
+- (1/64)(cos-cos3)(3cos + cos3)(cos - cos3) - (1/8)(1 - cos2)(sin + sin3)sin - (1/8)(1 - cos2)(sin + sin3)sin
+- (1/4)(sinsin - sin3sin3)
++ (3/32)(1 - cos2)(sin + sin3)(sin - 3sin3)
+ xyy - (1/4)cos(coscos - cos3cos3) (1/16)(cos - cos3)(cos - cos3)cos (1/16)(cos - cos3)(cos - cos3)cos
+- (1/64)(cos - cos3)(cos - cos3)(cos - cos3) + (1/8)(1 - cos2)(sin + sin3)sin - (1/8)(1 - cos2)(3sin - sin3)sin
++ (1/8)(1 + cos2)(sinsin - sin3sin3)
+- (1/32)(1 - cos2)(sin + sin3)(sin + sin3)
+ xzz (1/16)(cos - cos3)cos(cos - cos3) -(1/4)(cos - cos3)coscos [cos - (1/4)(cos - cos3)]coscos
++ (1/8)(1 - cos2)sin(sin + sin3) - (1/2)(1 + cos2)sinsin
+ yxy (1/4)cos(3coscos + cos3cos3) (1/16)(cos - cos3)(cos - cos3)cos (1/16)(cos - cos3)(cos - cos3)cos
+- (1/64)(cos - cos3)(cos - cos3)(cos - cos3) - (1/8)(1 - cos2)(3sin - sin3)sin + (1/8)(1 - cos2)(sin + sin3)sin
+- (1/8)(1 + cos2)(3sinsin + sin3sin3)
+- (1/32)(1 - cos2)(sin + sin3)(sin + sin3)
+ zzx (1/16)(cos - cos3)cos(cos - cos3) -(1/4)(cos - cos3)coscos - (1/4)(cos - cos3)coscos
+ - cos2)sin(sin + sin3)
+ yyx -(1/4)cos(coscos - cos3cos3) (1/16)(cos - cos3)(cos - cos3)cos (1/16)(cos - cos3)(cos - cos3)cos
+- (1/64)(cos - cos3)(cos - cos3)(cos - cos3) + (1/8)(1 - cos2)(sin + sin3)sin + (1/8)(1 - cos2)(sin + sin3)sin
++ (1/8)(1 + cos2)(sinsin - sin3sin3)
+- (1/32)(1 - cos2)(sin + sin3)(sin + sin3)
+ zxz (1/16)(cos - cos3)cos(cos - cos3) [cos - (1/4)(cos - cos3)]coscos - (1/4)(cos - cos3)coscos
+- (1/8)(1 - cos2) sin(3sin - sin3) - (1/2)(1 + cos2)sinsin
+変換行列（XYZ) - 3
+
+===== PDF p.4 =====
+（SFGテンソルA-3）
+  
+cca aab bbb
+ xxx (1/16)(cos - cos3)(3cos + cos3)cos (1/4)cos(cossin + cos3sin3) (1/4)cos(3cossin - cos3sin3)
+- (1/8)(1 - cos2)(sin + sin3)sin - (1/64)(cos - cos3)(3cos + cos3)(sin + sin3) - (1/64)(cos - cos3)(3cos + cos3)(3sin - sin3)
++ (1/4)(sincos sin3cos3) + (1/4)(3sincos - sin3cos3)
+- (1/32)(1 - cos2)(sin + sin3)(cos + cos3) - (3/32)(1 - cos2)(sin + sin3)(cos - cos3)
+ xyy (1/16)(cos - cos3)(cos - cos3)cos -(1/4)cos(cossin + cos3sin3) (1/4)cos(cossin + cos3sin3)
++ (1/8)(1 - cos2)(sin + sin3)sin - (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/64)(cos - cos3)(cos - cos3)(3sin - sin3)
+- (1/8)(1 + cos2)(sincos + sin3cos3) + (1/4)(sincos + sin3cos3)
++ (1/32)(1 - cos2)(sin + sin3)(cos - cos3) -(1/32)(1 - cos2)(sin - 3sin3)(cos - cos3)
+ xzz -(1/4)(cos - cos3)coscos (1/16)(cos - cos3)cos(sin + sin3) (1/16)(cos - cos3)cos(3sin - sin3)
+- (1/8)(1 - cos2)sin(cos - cos3) + (1/8)(1 - cos2)sin(cos - cos3)
+ yxy (1/16)(cos - cos3)(cos - cos3)cos -(1/4)cos(cossin + cos3sin3) (1/4)cos(cossin + cos3sin3)
++ (1/8)(1 - cos2)(sin + sin3)sin - (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/64)(cos - cos3)(cos - cos3)(3sin - sin3)
+- (1/8)(1 + cos2)(sincos + sin3cos3) + (1/4)(sincos + sin3cos3)
++ (1/32)(1 - cos2)(sin + sin3)(cos - cos3) - (1/32)(1 - cos2)(sin - 3sin3)(cos - cos3)
+ zzx [cos - (1/4)(cos - cos3)]coscos (1/16)(cos- - cos3)cos(sin + sin3) (1/16)(cos - cos3)cos(3sin - sin3)
+- (1/2)(1 + cos2)sinsin + (1/8)(1 - cos2)sin(3cos + cos3) + (1/8)(1 - cos2)sin(cos - cos3)
+ yyx (1/16)(cos - cos3)(cos - cos3)cos (1/4)cos(3cossin - cos3sin3) (1/4)cos(cossin + cos3sin3)
+- (1/8)(1 - cos2)(3sin - sin3)sin - (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/64)(cos - cos3)(cos - cos3)(3sin - sin3)
++ (1/8)(1 + cos2)(3sincos - sin3cos3) + (1/4)(sincos + sin3cos3)
++ (1/32)(1 - cos2)(sin + sin3)(cos - cos3) - (1/32)(1 - cos2)(sin - 3sin3)(cos - cos3)
+ zxz -(1/4)(cos - cos3)coscos (1/16)(cos - cos3)cos(sin + sin3) (1/16)(cos - cos3)cos(3sin - sin3)
+- (1/8)(1 - cos2)sin(cos - cos3) + (1/8)(1 - cos2)sin(cos - cos3)
+変換行列（XYZ) - 4
+
+===== PDF p.5 =====
+（SFGテンソルA-4）
+  
+aba baa bcc
+ xxx (1/4)cos(cossin + cos3sin3) (1/4)cos(cossin + cos3sin3) (1/16)(cos - cos3)(3cos + cos3)sin
+- (1/64)(cos-cos3)(3cos + cos3)(sin + sin3) - (1/64)(cos - cos3)(3cos + cos3)(sin + sin3) + (1/8)(1 - cos2)(sin + sin3)cos
++ (1/4)(sincos + sin3cos3) + (1/4)(sincossin3cos3)
+- (1/32)(1 - cos2)(sin + sin3)(cos + 3cos3) - (1/32)(1 - cos2)(sin + sin3)(cos + 3cos3)
+ xyy -(1/4)cos(cossin + cos3sin3) (1/4)cos(3cossin - cos3sin3) (1/16)(cos - cos3)(cos - cos3)sin
+- (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/64)(cos - cos3)(cos - cos3)(sin + sin3) + (1/8)(1 - cos2)(3sin - sin3)cos
+- (1/8)(1 + cos2)(sincos + sin3cos3) + (1/8)(1 + cos2)(3sincos - sin3cos3)
++ (1/32)(1 - cos2)(sin + sin3)(cos - cos3) + (1/32)(1 - cos2)(sin + sin3)(cos - cos3)
+ xzz (1/16)(cos - cos3)cos(sin + sin3) (1/16)(cos-cos3)cos(sin + sin3) [cos - (1/4)(cos - cos3)]cossin
+- (1/8)(1 - cos2)sin(cos - cos3) - (1/8)(1 - cos2)sin(3cos + cos3) + (1/2)(1 + cos2)sincos
+ yxy (1/4)cos(3cossin - cos3sin3) -(1/4)cos(cossin + cos3sin3) (1/16)(cos - cos3)(cos - cos3)sin
+- (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/8)(1 - cos2)(sin + sin3)cos
++ (1/8)(1 + cos2)(3sincos - sin3cos3) - (1/8)(1 + cos2)(sincos + sin3cos3)
++ (1/32)(1 - cos2)(sin + sin3)(cos - cos3) + (1/32)(1 - cos2)(sin + sin3)(cos - cos3)
+ zzx (1/16)(cos - cos3)cos(sin + sin3) (1/16)(cos - cos3)cos(sin + sin3) -(1/4)(cos - cos3)cossin
+- (1/8)(1 - cos2)sin(cos - cos3) - (1/8)(1 - cos2)sin(cos - cos3)
+ yyx -(1/4)cos(cossin + cos3sin3) -(1/4)cos(cossin + cos3sin3) (1/16)(cos - cos3)(cos - cos3)sin
+- (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/64)(cos - cos3)(cos - cos3)(sin + sin3) - (1/8)(1 - cos2)(sin + sin3)cos
+- (1/8)(1 + cos2)(sincos + sin3cos3) - (1/8)(1 + cos2)(sincos + 3sin3cos3)
++ (1/32)(1 - cos2)(sin + sin3)(cos - cos3) + (1/32)(1 - cos2)(sin + sin3)(cos - cos3)
+ zxz (1/16)(cos - cos3)cos(sin + sin3) (1/16)(cos - cos3)cos(sin + sin3) -(1/4)(cos- - cos3)cossin
++ (1/8)(1 - cos2)sin(3cos + cos3) - (1/8)(1 - cos2)sin(cos - cos3)
+変換行列（XYZ) - 5
+
+===== PDF p.6 =====
+（SFGテンソルA-5）
+  
+cbc ccb aac
+ xxx (1/16)(cos-cos3)(3cos + cos3)sin (1/16)(cos - cos3)(3cos + cos3)sin -(1/8)sin(cos - cos3)(1 - cos2)
++ (1/8)(1 - cos2)(sin + sin3)cos + (1/8)(1 - cos2)(sin + sin3)cos - (1/32)(sin + sin3)(3cos + cos3)(1 + cos2)
++ (1/8)sin2(sin + sin3)sin2
+ xyy (1/16)(cos - cos3)(cos - cos3)sin (1/16)(cos - cos3)(cos - cos3)sin (1/8)sin(cos - cos3)(1 - cos2)
+- (1/8)(1 - cos2)(sin + sin3)cos - (1/8)(1 - cos2)(sin + sin3)cos - (1/32)(sin + sin3)(cos - cos3)(1 + cos2)
++ (1/8)sin2(sin - sin3)sin2
+ xzz -(1/4)(cos - cos3)cossin -(1/4)(cos - cos3)cossin (1/8)(sin + sin3)cos(1 + cos2)
+- (1/4)sin2sinsin2
+ yxy (1/16)(cos - cos3)(cos - cos3)sin (1/16)(cos - cos3)(cos - cos3)sin (1/8)sin(cos - cos3)(1 - cos2)
++ (1/8)(1 - cos2)(3sin - sin3)cos - (1/8)(1 - cos2)(sin + sin3)cos - (1/32)(sin + sin3)(cos - cos3)(1 + cos2)
++ (1/8)sin2(sin - sin3)sin2
+ zzx -(1/4)(cos- - cos3)cossin [cos - (1/4)(cos - cos3)]cossin -[(1/2)sin - (1/8)(sin + sin3)]cos(1 + cos2)
++ (1/2)(1 + cos2)sincos
+ yyx (1/16)(cos - cos3)(cos - cos3)sin (1/16)(cos - cos3)(cos - cos3)sin -(1/8)sin(3cos + cos3)(1 - cos2)
+- (1/8)(1 - cos2)(sin + sin3)cos + (1/8)(1 - cos2)(3sin - sin3)cos - (1/32)(sin + sin3)(cos - cos3)(1 + cos2)
+- (1/8)sin2(sin + sin3)sin2
+ zxz [cos - (1/4)(cos - cos3)]cossin -(1/4)(cos - cos3)cossin (1/8)(sin + sin3)cos(1 + cos2)
++ (1/2)(1 + cos2)sincos - (1/4)sin2sinsin2
+変換行列（XYZ) - 6
+
+===== PDF p.7 =====
+（SFGテンソルA-6）
+  
+bbc bcb cbb
+ xxx -(1/8)sin(cos - cos3)(1 + cos2) -(1/8)sin(cos - cos3)(1 + cos2) -(1/8)sin(cos - cos3)(1 + cos2)
+- (1/32)(sin + sin3)(3cos + cos3)(1 - cos2) - (1/32)(sin + sin3)(3cos + cos3)(1 - cos2) - (1/32)(sin + sin3)(3cos + cos3)(1 - cos2)
+- (1/8)sin2(sin + sin3)sin2 - (1/8)sin2(sin + sin3)sin2 - (1/8)sin2(sin + sin3)sin2
+ xyy (1/8)sin(cos - cos3)(1 + cos2) (1/8)sin(cos - cos3)(1 + cos2) -(1/8)sin(3cos + cos3)(1 + cos2)
+- (1/32)(sin + sin3)(cos - cos3)(1 - cos2) - (1/32)(sin + sin3)(cos - cos3)(1 - cos2) - (1/32)(sin + sin3)(cos - cos3)(1 - cos2)
+- (1/8)sin2(sin - sin3)sin2 - (1/8)sin2(sin - sin3)sin2 + (1/8)sin2(sin + sin3)sin2
+ xzz (1/8)(sin + sin3)cos(1 - cos2) (1/8)(sin + sin3)cos(1 - cos2) -[(1/2)sin - (1/8)(sin + sin3)]cos(1 - cos2)
++ (1/4)sin2sinsin2 + (1/4)sin2sinsin2
+ yxy (1/8)sin(cos - cos3)(1 + cos2) -(1/8)sin(3cos + cos3)(1 + cos2) (1/8)sin(cos - cos3)(1 + cos2)
+- (1/32)(sin + sin3)(cos - cos3)(1 - cos2) - (1/32)(sin + sin3)(cos - cos3)(1 - cos2) - (1/32)(sin + sin3)(cos - cos3)(1 - cos2)
+- (1/8)sin2(sin - sin3)sin2 + (1/8)sin2(sin + sin3)sin2 - (1/8)sin2(sin - sin3)sin2
+ zzx -[(1/2)sin - (1/8)(sin + sin3)]cos(1 - cos2) (1/8)(sin + sin3)cos(1 - cos2) (1/8)(sin + sin3)cos(1 - cos2)
++ (1/4)sin2sinsin2 + (1/4)sin2sinsin2
+ yyx -(1/8)sin(3cos + cos3)(1 + cos2) (1/8)sin(cos - cos3)(1 + cos2) (1/8)sin(cos - cos3)(1 + cos2)
+- (1/32)(sin + sin3)(cos - cos3)(1 - cos2) - (1/32)(sin + sin3)(cos - cos3)(1 - cos2) - (1/32)(sin + sin3)(cos - cos3)(1 - cos2)
++ (1/8)sin2(sin + sin3)sin2 - (1/8)sin2(sin - sin3)sin2 - (1/8)sin2(sin - sin3)sin2
+ zxz (1/8)(sin + sin3)cos(1 - cos2) -[(1/2)sin - (1/8)(sin + sin3)]cos(1 - cos2) (1/8)(sin + sin3)cos(1 - cos2)
++ (1/4)sin2sinsin2 + (1/4)sin2sinsin2
+変換行列（XYZ) - 7
+
+===== PDF p.8 =====
+（SFGテンソルA-7）
+  
+caa aca ccc
+ xxx -(1/8)sin(cos - cos3)(1 - cos2) -(1/8)sin(cos - cos3)(1 - cos2) -[(1/4)sin - (1/16)(sin + sin3)](3cos + cos3)
+- (1/32)(sin + sin3)(3cos + cos3)(1 + cos2) - (1/32)(sin + sin3)(3cos + cos3)(1 + cos2)
++ (1/8)sin2(sin + sin3)sin2 + (1/8)sin2(sin + sin3)sin2
+ xyy -(1/8)sin(3cos + cos3)(1 - cos2) (1/8)sin(cos - cos3)(1 - cos2) -[(1/4)sin - (1/16)(sin + sin3)](cos - cos3)
+- (1/32)(sin + sin3)(cos - cos3)(1 + cos2) - (1/32)(sin + sin3)(cos - cos3)(1 + cos2)
+- (1/8)sin2(sin + sin3)sin2 + (1/8)sin2(sin - sin3)sin2
+ xzz -[(1/2)sin - (1/8)(sin + sin3)]cos(1 + cos2) (1/8)(sin + sin3)cos(1 + cos2) -(1/4)(sin + sin3)cos
+- (1/4)sin2sinsin2
+ yxy (1/8)sin(cos - cos3)(1 - cos2) -(1/8)sin(3cos + cos3)(1 - cos2) -[(1/4)sin - (1/16)(sin + sin3)](cos - cos3)
+- (1/32)(sin + sin3)(cos - cos3)(1 + cos2) - (1/32)(sin + sin3)(cos - cos3)(1 + cos2)
++ (1/8)sin2(sin - sin3)sin2 - (1/8)sin2(sin + sin3)sin2
+ zzx (1/8)(sin + sin3)cos(1 + cos2) (1/8)(sin + sin3)cos(1 + cos2) -(1/4)(sin + sin3)cos
+- (1/4)sin2sinsin2 - (1/4)sin2sinsin2
+ yyx (1/8)sin(cos - cos3)(1 - cos2) (1/8)sin(cos - cos3)(1 - cos2) -[(1/4)sin - (1/16)(sin + sin3)](cos - cos3)
+- (1/32)(sin + sin3)(cos - cos3)(1 + cos2) - (1/32)(sin + sin3)(cos - cos3)(1 + cos2)
++ (1/8)sin2(sin - sin3)sin2 + (1/8)sin2(sin - sin3)sin2
+ zxz (1/8)(sin + sin3)cos(1 + cos2) -[(1/2)sin - (1/8)(sin + sin3)]cos(1 + cos2) -(1/4)(sin + sin3)cos
+- (1/4)sin2sinsin2
+変換行列（XYZ) - 8
+
+===== PDF p.9 =====
+（SFGテンソルA-8）
+  
+abc bac bca
+ xxx (1/8)sin(cos - cos3)sin2 (1/8)sin(cos - cos3)sin2 (1/8)sin(cos - cos3)sin2
+- (1/32)(sin + sin3)(3cos + cos3)sin2 - (1/32)(sin + sin3)(3cos + cos3)sin2 - (1/32)(sin + sin3)(3cos + cos3)sin2
+- (1/8)sin2(sin + sin3)cos2 - (1/8)sin2(sin + sin3)cos2 - (1/8)sin2(sin + sin3)cos2
+ xyy -(1/8)sin(cos - cos3)sin2 -(1/8)sin(cos - cos3)sin2 -(1/8)sin(cos - cos3)sin2
+- (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2
++ (1/4)sin2sin - (1/4)sin2sin - (1/4)sin2sin
+- (1/8)sin2(sin - sin3)cos2 - (1/8)sin2(sin - sin3)cos2 - (1/8)sin2(sin - sin3)cos2
+ xzz (1/8)(sin + sin3)cossin2 (1/8)(sin + sin3)cossin2 (1/8)(sin + sin3)cossin2
+- (1/4)sin2sin(1 - cos2) + (1/4)sin2sin(1 + cos2) + (1/4)sin2sin(1 + cos2)
+ yxy -(1/8)sin(cos - cos3)sin2 -(1/8)sin(cos - cos3)sin2 (1/8)sin(3cos + cos3)sin2
+- (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2
+- (1/4)sin2sin + (1/4)sin2sin + (1/8)sin2(sin + sin3)cos2
+- (1/8)sin2(sin - sin3)cos2 - (1/8)sin2(sin - sin3)cos2
+ zzx -[(1/2)sin - (1/8)(sin + sin3)]cossin2 -[(1/2)sin - (1/8)(sin + sin3)]cossin2 (1/8)(sin + sin3)cossin2
+- (1/4)sin2sin(1 - cos2)
+ yyx (1/8)sin(3cos + cos3)sin2 (1/8)sin(3cos + cos3)sin2 -(1/8)sin(cos - cos3)sin2
+- (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2
++ (1/8)sin2(sin + sin3)cos2 + (1/8)sin2(sin + sin3)cos2 + (1/4)sin2sin
+- (1/8)sin2(sin - sin3)cos2
+ zxz (1/8)(sin + sin3)cossin2 (1/8)(sin + sin3)cossin2 -[(1/2)sin- - (1/8)(sin + sin3)]cossin2
++ (1/4)sin2sin(1 + cos2) - (1/4)sin2sin(1 - cos2)
+変換行列（XYZ) - 9
+
+===== PDF p.10 =====
+（SFGテンソルA-9）
+  
+cba cab acb
+ xxx (1/8)sin(cos - cos3)sin2 (1/8)sin(cos - cos3)sin2 (1/8)sin(cos - cos3)sin2
+- (1/32)(sin + sin3)(3cos + cos3)sin2 - (1/32)(sin + sin3)(3cos + cos3)sin2 - (1/32)(sin + sin3)(3cos + cos3)sin2
+- (1/8)sin2(sin + sin3)cos2 - (1/8)sin2(sin + sin3)cos2 - (1/8)sin2(sin + sin3)cos2
+ xyy (1/8)sin(3cos + cos3)sin2 (1/8)sin(3cos + cos3)sin2 -(1/8)sin(cos - cos3)sin2
+- (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2
++ (1/8)sin2(sin + sin3)cos2 + (1/8)sin2(sin + sin3)cos2 + (1/4)sin2sin
+- (1/8)sin2(sin - sin3)cos2
+ xzz -[(1/2)sin - (1/8)(sin + sin3)]cossin2 -[(1/2)sin - (1/8)(sin + sin3)]cossin2 (1/8)(sin + sin3)cossin2
+- (1/4)sin2sin(1 - cos2)
+ yxy -(1/8)sin(cos - cos3)sin2 -[(1/8)sin + (1/32)(sin + sin3)](cos - cos3)sin2 (1/8)sin(3cos + cos3)sin2
+- (1/32)(sin + sin3)(cos - cos3)sin2 + (1/4)sin2sin - (1/32)(sin + sin3)(cos - cos3)sin2
+- (1/4)sin2sin - (1/8)sin2(sin - sin3)cos2 + (1/8)sin2(sin + sin3)cos2
+- (1/8)sin2(sin - sin3)cos2
+ zzx (1/8)(sin + sin3)cossin2 (1/8)(sin + sin3)cossin2 (1/8)(sin + sin3)cossin2
+- (1/4)sin2sin(1 - cos2) + (1/4)sin2sin(1 + cos2) + (1/4)sin2sin(1 + cos2)
+ yyx -(1/8)sin(cos - cos3)sin2 -(1/8)sin(cos - cos3)sin2 -(1/8)sin(cos - cos3)sin2
+- (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2 - (1/32)(sin + sin3)(cos - cos3)sin2
++ (1/4)sin2sin - (1/4)sin2sin - (1/4)sin2sin
+- (1/8)sin2(sin - sin3)cos2 - (1/8)sin2(sin - sin3)cos2 - (1/8)sin2(sin - sin3)cos2
+ zxz (1/8)(sin + sin3)cossin2 (1/8)(sin + sin3)cossin2 -[(1/2)sin - (1/8)(sin + sin3)]cossin2
++ (1/4)sin2sin(1 + cos2) - (1/4)sin2sin(1 - cos2)
+変換行列（XYZ) - 10
+
+===== PDF p.11 =====
+（SFGテンソルB-1）
+  
+aaa bba abb
+ yxx -(1/4)cossincos + sin3cos3) (1/4)cossincos + sin3cos3) -(1/4)cossincos - sin3cos3)
++ (1/64)(cos-cos3)(sin + sin3)(3cos + cos3) + (1/64)(cos - cos3)(sin + sin3)(cos - cos3) + (1/64)(cos - cos3)(sin + sin3)(cos - cos3)
+- (1/4)(cossin + cos3sin3) + (1/8)(1 + cos2)(cossin + cos3sin3) - (1/8)(1 + cos2)(3cossin - cos3sin3)
++ (1/32)(1 - cos2)(cos + 3cos3)(sin + sin3) - (1/32)(1 - cos2)(cos - cos3)(sin + sin3) - (1/32)(1 - cos2)(cos - cos3)(sin + sin3)
+ yyy -(1/4)cossincos - sin3cos3) -(1/4)cossincos + sin3cos3) -(1/4)cossincos + sin3cos3)
++ (1/64)(cos - cos3)(3sin - sin3)(3cos + cos3) + (1/64)(cos - cos3)(3sin - sin3)(cos - cos3) + (1/64)(cos - cos3)(3sin - sin3)(cos - cos3)
+- (1/4)(3cossin - cos3sin3) - (1/4)(cossin + cos3sin3) - (1/4)(cossin + cos3sin3)
++ (3/32)(1 - cos2)(cos - cos3)(sin + sin3) + (1/32)(1 - cos2)(cos - cos3)(sin - 3sin3) + (1/32)(1 - cos2)(cos - cos3)(sin - 3sin3)
+ yzz -(1/16)(cos - cos3)sin(3cos + cos3) -(1/16)(cos - cos3)sin(cos - cos3) -(1/16)(cos - cos3)sin(cos - cos3)
+ - (1/8)(1 - cos2)cos(sin + sin3) + (1/8)(1 - cos2)cos(sin + sin3) - (1/8)(1 - cos2)cos(3sin - sin3)
+ xxy -(1/4)cossincos + sin3cos3) -(1/4)cossincos - sin3cos3) (1/4)cossincos + sin3cos3)
++ (1/64)(cos - cos3)(sin + sin3)(3cos + cos3) + (1/64)(cos - cos3)(sin- + sin3)(cos - cos3) + (1/64)(cos - cos3)(sin + sin3)(cos - cos3)
+- (1/4)(cossin + cos3sin3) - (1/8)(1 + cos2)(3cossin - cos3sin3) + (1/8)(1 + cos2)(cossin + cos3sin3)
++ (1/32)(1 - cos2)(cos + 3cos3)(sin + sin3) - (1/32)(1 - cos2)(cos - cos3)(sin + sin3) - (1/32)(1 - cos2)(cos - cos3)(sin + sin3)
+ zyz -(1/16)(cos - cos3)sin(3cos + cos3) -(1/16)(cos - cos3)sin(cos - cos3) -(1/16)(cos - cos3)sin(cos - cos3)
+- (1/8)(1 - cos2)cos(sin + sin3) + (1/8)(1 - cos2)cos(sin + sin3) + (1/8)(1 - cos2)cos(sin + sin3)
+ xyx -(1/4)cossincos + sin3cos3) (1/4)cossincos + sin3cos3) (1/4)cossincos + sin3cos3)
++ (1/64)(cos - cos3)(sin + sin3)(3cos + cos3) + (1/64)(cos - cos3)(sin + sin3)(cos - cos3) + (1/64)(cos - cos3)(sin + sin3)(cos - cos3)
+- (1/4)(cossin + cos3sin3) + (1/8)(1 + cos2)(cossin + cos3sin3) + (1/8)(1 + cos2)(cossin + cos3sin3)
++ (1/32)(1 - cos2)(cos + 3cos3)(sin + sin3) - (1/32)(1 - cos2)(cos - cos3)(sin + sin3) - (1/32)(1 - cos2)(cos - cos3)(sin + sin3)
+ zzy -(1/16)(cos - cos3)sin(3cos + cos3) -(1/16)(cos - cos3)sin(cos - cos3) -(1/16)(cos - cos3)sin(cos - cos3)
+- (1/8)(1 - cos2)cos(sin + sin3) - (1/8)(1 - cos2)cos(3sin - sin3) + (1/8)(1 - cos2)cos(sin + sin3)
+変換行列（XYZ) - 11
+
+===== PDF p.12 =====
+（SFGテンソルB-2）
+  
+bab cac acc
+ yxx (1/4)cossincos + sin3cos3) -(1/16)(cos - cos3)(sin + sin3)cos -(1/16)(cos - cos3)(sin + sin3)cos
++ (1/64)(cos - cos3)(sin + sin3)(cos - cos3) + (1/8)(1 - cos2)(cos - cos3)sin - (1/8)(1 - cos2)(3cos + cos3)sin
++ (1/8)(1 + cos2)(cossin + cos3sin3)
+- (1/32)(1 - cos2)(cos - cos3)(sin + sin3)
+ yyy -(1/4)cossincos + sin3cos3) -(1/16)(cos - cos3)(3sin - sin3)cos -(1/16)(cos - cos3)(3sin - sin3)cos
++ (1/64)(cos - cos3)(3sin - sin3)(cos - cos3) - (1/8)(1 - cos2)(cos - cos3)sin - (1/8)(1 - cos2)(cos - cos3)sin
+- (1/4)(cossin + cos3sin3)
++ (1/32)(1 - cos2)(cos - cos3)(sin - 3sin3)
+ yzz -(1/16)(cos - cos3)sin(cos - cos3) (1/4)(cos - cos3)sincos [-cos + (1/4)(cos - cos3)]sincos
++ (1/8)(1 - cos2)cos(sin + sin3) - (1/2)(1 + cos2)cossin
+ xxy (1/4)cossincos + sin3cos3) -(1/16)(cos - cos3)(sin + sin3)cos -(1/16)(cos - cos3)(sin + sin3)cos
++ (1/64)(cos - cos3)(sin + sin3)(cos - cos3) + (1/8)(1 - cos2)(cos - cos3)sin + (1/8)(1 - cos2)(cos - cos3)sin
++ (1/8)(1 + cos2)(cossin + cos3sin3)
+- (1/32)(1 - cos2)(cos - cos3)(sin + sin3)
+ zyz -(1/16)(cos - cos3)sin(cos - cos3) [-cos + (1/4)(cos - cos3)]sincos (1/4)(cos - cos3)sincos
+ - (1/8)(1 - cos2)cos(3sin - sin3) - (1/2)(1 + cos2)cossin
+ xyx -(1/4)cossincos - sin3cos3) -(1/16)(cos - cos3)(sin + sin3)cos -(1/16)(cos - cos3)(sin + sin3)cos
++ (1/64)(cos-cos3)(sin + sin3)(cos - cos3) - (1/8)(1 - cos2)(3cos + cos3)sin + (1/8)(1 - cos2)(cos - cos3)sin
+- (1/8)(1 + cos2)(3cossin - cos3sin3)
+- (1/32)(1 - cos2)(cos - cos3)(sin + sin3)
+ zzy -(1/16)(cos - cos3)sin(cos - cos3) (1/4)(cos - cos3)sincos (1/4)(cos - cos3)sincos
++ (1/8)(1 - cos2)cos(sin + sin3)
+変換行列（XYZ) - 12
+
+===== PDF p.13 =====
+（SFGテンソルB-3）
+  
+cca aab bbb
+ yxx -(1/16)(cos - cos3)(sin + sin3)cos (1/4)cossinsin - sin3sin3) -(1/4)cossinsin - sin3sin3)
++ (1/8)(1 - cos2)(cos - cos3)sin + (1/64)(cos - cos3)(sin + sin3)(sin + sin3) + (1/64)(cos - cos3)(sin + sin3)(3sin - sin3)
+- (1/8)(1 + cos2)(coscos - cos3cos3) + (1/4)(coscos - cos3cos3)
++ (1/32)(1 - cos2)(cos - cos3)(cos - cos3) - (1/32)(1 - cos2)(cos + 3cos3)(cos - cos3)
+ yyy -(1/16)(cos - cos3)(3sin - sin3)cos -(1/4)cossinsin - sin3sin3) -(1/4)cossinsin + sin3sin3)
+- (1/8)(1 - cos2)(cos - cos3)sin + (1/64)(cos - cos3)(3sin - sin3)(sin + sin3) + (1/64)(cos - cos3)(3sin - sin3)(3sin - sin3)
++ (1/4)(coscos - cos3cos3) + (1/4)(3coscos + cos3cos3)
+- (1/32)(1 - cos2)(cos - cos3)(cos + 3cos3) - (3/32)(1 - cos2)(cos - cos3)(cos - cos3)
+ yzz (1/4)(cos - cos3)sincos -(1/16)(cos - cos3)sin(sin + sin3) -(1/16)(cos - cos3)sin(3sin - sin3)
+ - (1/8)(1- - cos2)cos(cos - cos3) + (1/8)(1 - cos2)cos(cos - cos3)
+ xxy -(1/16)(cos - cos3)(sin + sin3)cos -(1/4)cossinsin + sin3sin3) -(1/4)cossinsin - sin3sin3)
+- (1/8)(1 - cos2)(3cos + cos3)sin + (1/64)(cos - cos3)(sin + sin3)(sin + sin3) + (1/64)(cos - cos3)(sin + sin3)(3sin - sin3)
++ (1/8)(1 + cos2)(3coscos + cos3cos3) + (1/4)(coscos - cos3cos3)
++ (1/32)(1 - cos2)(cos - cos3)(cos - cos3) - (1/32)(1 - cos2)(cos + 3cos3)(cos - cos3)
+ zyz (1/4)(cos - cos3)sincos -(1/16)(cos - cos3)sin(sin + sin3) -(1/16)(cos - cos3)sin(3sin - sin3)
+- (1/8)(1 - cos2)cos(cos - cos3) (1/8)(1 - cos2)cos(cos - cos3)
+ xyx -(1/16)(cos - cos3)(sin + sin3)cos (1/4)cossinsin - sin3sin3) -(1/4)cossinsin - sin3sin3)
++ (1/8)(1 - cos2)(cos - cos3)sin + (1/64)(cos - cos3)(sin + sin3)(sin + sin3) + (1/64)(cos - cos3)(sin + sin3)(3sin - sin3)
+- (1/8)(1 + cos2)(coscos - cos3cos3) + (1/4)(coscos - cos3cos3)
++ (1/32)(1 - cos2)(cos - cos3)(cos - cos3) - (1/32)(1 - cos2)(cos + 3cos3)(cos - cos3)
+ zzy [-cos + (1/4)(cos - cos3)]sincos -(1/16)(cos - cos3)sin(sin + sin3) -(1/16)(cos - cos3)sin(3sin - sin3)
+- (1/2)(1 + cos2)cossin  + (1/8)(1 - cos2)cos(3cos + cos3)  + (1/8)(1 - cos2)cos(cos - cos3)
+変換行列（XYZ) - 13
+
+===== PDF p.14 =====
+（SFGテンソルB-4）
+  
+aba baa bcc
+ yxx (1/4)cossinsin - sin3sin3) -(1/4)cossinsin + sin3sin3) -(1/16)(cos - cos3)(sin + sin3)sin
++ (1/64)(cos - cos3)(sin + sin3)(sin + sin3) + (1/64)(cos - cos3)(sin + sin3)(sin + sin3) + (1/8)(1 - cos2)(3cos + cos3)cos
+- (1/8)(1 + cos2)(coscos - cos3cos3) + (1/8)(1 + cos2)(3coscos + cos3cos3)
++ (1/32)(1 - cos2)(cos - cos3)(cos - cos3) + (1/32)(1 - cos2)(cos - cos3)(cos - cos3)
+ yyy -(1/4)cossinsin - sin3sin3) -(1/4)cossinsin - sin3sin3) -(1/16)(cos - cos3)(3sin - sin3)sin
++ (1/64)(cos - cos3)(3sin - sin3)(sin + sin3) + (1/64)(cos - cos3)(3sin - sin3)(sin + sin3) + (1/8)(1 - cos2)(cos - cos3)cos
++ (1/4)(coscos - cos3cos3) + (1/4)(coscos - cos3cos3)
+- (1/32)(1 - cos2)(cos - cos3)(cos + 3cos3) - (1/32)(1 - cos2)(cos - cos3)(cos + 3cos3)
+ yzz -(1/16)(cos - cos3)sin(sin + sin3) -(1/16)(cos - cos3)sin(sin + sin3) -[cos - (1/4)(cos - cos3)]sinsin
+ - (1/8)(1 - cos2)cos(cos - cos3) + (1/8)(1 - cos2)cos(3cos + cos3) + (1/2)(1 + cos2)coscos
+ xxy (1/4)cossinsin - sin3sin3) (1/4)cossinsin - sin3sin3) -(1/16)(cos - cos3)(sin + sin3)sin
++ (1/64)(cos - cos3)(sin + sin3)(sin + sin3) + (1/64)(cos - cos3)(sin + sin3)(sin + sin3) - (1/8)(1 - cos2)(cos - cos3)cos
+- (1/8)(1 + cos2)(coscos - cos3cos3) - (1/8)(1 + cos2)(coscos - cos3cos3)
++ (1/32)(1 - cos2)(cos - cos3)(cos - cos3) + (1/32)(1 - os2)(cos - cos3)(cos - cos3)
+ zyz -(1/16)(cos - cos3)sin(sin + sin3) -(1/16)(cos - cos3)sin(sin + sin3) (1/4)(cos - cos3)sinsin
++ (1/8)(1 - cos2)cos(3cos + cos3)  - (1/8)(1 - cos2)cos(cos - cos3)
+ xyx -(1/4)cossinsin + sin3sin3) (1/4)cossinsin - sin3sin3) -(1/16)(cos - cos3)(sin + sin3)sin
++ (1/64)(cos - cos3)(sin + sin3)(sin + sin3) + (1/64)(cos - cos3)(sin + sin3)(sin + sin3) - (1/8)(1 - cos2)(cos - cos3)cos
++ (1/8)(1 + cos2)(3coscos + cos3cos3) - (1/8)(1 + cos2)(coscos - cos3cos3)
++ (1/32)(1 - cos2)(cos - cos3)(cos - cos3) + (1/32)(1 - cos2)(cos - cos3)(cos - cos3)
+ zzy -(1/16)(cos - cos3)sin(sin + sin3) -(1/16)(cos - cos3)sin(sin + sin3) (1/4)(cos - cos3)sinsin
+- (1/8)(1 - cos2)cos(cos - cos3)  - (1/8)(1 - cos2)cos(cos - cos3)
+変換行列（XYZ) - 14
+
+===== PDF p.15 =====
+（SFGテンソルB-5）
+  
+cbc ccb aac
+ yxx -(1/16)(cos - cos3)(sin + sin3)sin -(1/16)(cos - cos3)(sin + sin3)sin -(1/8)sin(sin + sin3)(1 - cos2)
+- (1/8)(1 - cos2)(cos - cos3)cos - (1/8)(1 - cos2)(cos - cos3)cos + (1/32)(sin + sin3)(sin + sin3)(1 + cos2)
++ (1/8)sin2(cos + cos3)sin2
+ yyy -(1/16)(cos - cos3)(3sin - sin3)sin -(1/16)(cos - cos3)(3sin - sin3)sin (1/8)sin(sin + sin3)(1 - cos2)
++ (1/8)(1 - cos2)(cos - cos3)cos + (1/8)(1 - cos2)(cos - cos3)cos + (1/32)(sin + sin3)(3sin-sin3)(1 + cos2)
++ (1/8)sin2(cos - cos3)sin2
+ yzz (1/4)(cos - cos3)sinsin (1/4)(cos - cos3)sinsin -(1/8)(sin + sin3)sin(1 + cos2)
+- (1/4)sin2cossin2
+ xxy -(1/16)(cos - cos3)(sin + sin3)sin -(1/16)(cos - cos3)(sin + sin3)sin (1/8)sin(3sin - sin3)(1 - cos2)
+- (1/8)(1 - cos2)(cos - cos3)cos + (1/8)(1 - cos2)(3cos + cos3)cos + (1/32)(sin + sin3)(sin + sin3)(1 + cos2)
+- (1/8)sin2(cos - cos3)sin2
+ zyz -[cos - (1/4)(cos - cos3)]sinsin (1/4)(cos - cos3)sinsin -(1/8)(sin + sin3)sin(1 + cos2)
++ (1/2)(1 + cos2)coscos - (1/4)sin2cossin2
+ xyx -(1/16)(cos - cos3)(sin + sin3)sin -(1/16)(cos - cos3)(sin + sin3)sin -(1/8)sin(sin + sin3)(1 - cos2)
++ (1/8)(1 - cos2)(3cos + cos3)cos - (1/8)(1 - cos2)(cos - cos3)cos + (1/32)(sin + sin3)(sin + sin3)(1 + cos2)
++ (1/8)sin2(cos + cos3)sin2
+ zzy (1/4)(cos - cos3)sinsin -[cos - (1/4)(cos - cos3)]sinsin [(1/2)sin - (1/8)(sin + sin3)]sin(1 + cos2)
++ (1/2)(1 + cos2)coscos
+変換行列（XYZ) - 15
+
+===== PDF p.16 =====
+（SFGテンソルB-6）
+  
+bbc bcb cbb
+ yxx -(1/8)sin(sin + sin3)(1 + cos2) -(1/8)sin(sin + sin3)(1 + cos2) (1/8)sin(3sin-sin3)(1 + cos2)
++ (1/32)(sin + sin3)(sin + sin3)(1 - cos2) + (1/32)(sin + sin3)(sin + sin3)(1 - cos2) + (1/32)(sin + sin3)(sin + sin3)(1 - cos2)
+- (1/8)sin2(cos + cos3)sin2 - (1/8)sin2(cos + cos3)sin2 + (1/8)sin2(cos - cos3)sin2
+ yyy (1/8)sin(sin + sin3)(1 + cos2) (1/8)sin(sin + sin3)(1 + cos2) (1/8)sin(sin + sin3)(1 + cos2)
++ (1/32)(sin + sin3)(3sin - sin3)(1 - cos2) + (1/32)(sin + sin3)(3sin - sin3)(1 - cos2) + (1/32)(sin + sin3)(3sin - sin3)(1 - cos2)
+- (1/8)sin2(cos - cos3)sin2 - (1/8)sin2(cos - cos3)sin2 - (1/8)sin2(cos - cos3)sin2
+ yzz -(1/8)(sin + sin3)sin(1 - cos2) -(1/8)(sin + sin3)sin(1 - cos2) [(1/2)sin-(1/8)(sin + sin3)]sin(1 - cos2)
++ (1/4)sin2cossin2 + (1/4)sin2cossin2
+ xxy (1/8)sin(3sin-sin3)(1 + cos2) -(1/8)sin(sin + sin3)(1 + cos2) -(1/8)sin(sin + sin3)(1 + cos2)
++ (1/32)(sin + sin3)(sin + sin3)(1 - cos2) + (1/32)(sin + sin3)(sin + sin3)(1 - cos2) + (1/32)(sin + sin3)(sin + sin3)(1 - cos2)
++ (1/8)sin2(cos - cos3)sin2 - (1/8)sin2(cos + cos3)sin2 - (1/8)sin2(cos + cos3)sin2
+ zyz -(1/8)(sin + sin3)sin(1 - cos2) [(1/2)sin-(1/8)(sin + sin3)]sin(1 - cos2) -(1/8)(sin + sin3)sin(1 - cos2)
++ (1/4)sin2cossin2 + (1/4)sin2cossin2
+ xyx -(1/8)sin(sin + sin3)(1 + cos2) (1/8)sin(3sin-sin3)(1 + cos2) -(1/8)sin(sin + sin3)(1 + cos2)
++ (1/32)(sin + sin3)(sin + sin3)(1 - cos2) + (1/32)(sin + sin3)(sin + sin3)(1 - cos2) + (1/32)(sin + sin3)(sin + sin3)(1 - cos2)
+- (1/8)sin2(cos + cos3)sin2 + (1/8)sin2(cos - cos3)sin2 - (1/8)sin2(cos + cos3)sin2
+ zzy [(1/2)sin - (1/8)(sin + sin3)]sin(1 - cos2) -(1/8)(sin + sin3)sin(1 - cos2) -(1/8)(sin + sin3)sin(1 - cos2)
++ (1/4)sin2cossin2 + (1/4)sin2cossin2
+変換行列（XYZ) - 16
+
+===== PDF p.17 =====
+（SFGテンソルB-7）
+  
+caa aca ccc
+ yxx (1/8)sin(3sin - sin3)(1 - cos2) -(1/8)sin(sin + sin3)(1 - cos2) [(1/4)sin - (1/16)(sin + sin3)](sin + sin3)
++ (1/32)(sin + sin3)(sin + sin3)(1 + cos2) + (1/32)(sin + sin3)(sin + sin3)(1 + cos2)
+- (1/8)sin2(cos - cos3)sin2 + (1/8)sin2(cos + cos3)sin2
+ yyy (1/8)sin(sin + sin3)(1 - cos2) (1/8)sin(sin + sin3)(1 - cos2) [(1/4)sin - (1/16)(sin + sin3)](3sin - sin3)
++ (1/32)(sin + sin3)(3sin - sin3)(1 + cos2) + (1/32)(sin + sin3)(3sin-sin3)(1 + cos2)
++ (1/8)sin2(cos - cos3)sin2 + (1/8)sin2(cos - cos3)sin2
+ yzz [(1/2)sin - (1/8)(sin + sin3)]sin(1 + cos2) -(1/8)(sin + sin3)sin(1 + cos2) (1/4)(sin + sin3)sin
+- (1/4)sin2cossin2
+ xxy -(1/8)sin(sin + sin3)(1 - cos2) -(1/8)sin(sin + sin3)(1 - cos2) [(1/4)sin-(1/16)(sin + sin3)](sin + sin3)
++ (1/32)(sin + sin3)(sin + sin3)(1 + cos2) + (1/32)(sin + sin3)(sin + sin3)(1 + cos2)
++ (1/8)sin2(cos + cos3)sin2 + (1/8)sin2(cos + cos3)sin2
+ zyz -(1/8)(sin + sin3)sin(1 + cos2) [(1/2)sin - (1/8)(sin + sin3)]sin(1 + cos2) (1/4)(sin + sin3)sin
+-(1/4)sin2cossin2
+ xyx -(1/8)sin(sin + sin3)(1 - cos2) (1/8)sin(3sin - sin3)(1 - cos2) [(1/4)sin - (1/16)(sin + sin3)](sin + sin3)
++ (1/32)(sin + sin3)(sin + sin3)(1 + cos2) + (1/32)(sin + sin3)(sin + sin3)(1 + cos2)
++ (1/8)sin2(cos + cos3)sin2 - (1/8)sin2(cos - cos3)sin2
+ zzy -(1/8)(sin + sin3)sin(1 + cos2) -(1/8)(sin + sin3)sin(1 + cos2) (1/4)(sin + sin3)sin
+- (1/4)sin2cossin2 - (1/4)sin2cossin2
+変換行列（XYZ) - 17
+
+===== PDF p.18 =====
+（SFGテンソル B-8）
+  
+abc bac bca
+ yxx (1/8)sin(sin + sin3)sin2 (1/8)sin(sin + sin3)sin2 (1/8)sin(sin + sin3)sin2
++ (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2
++ (1/4)sin2cos - (1/4)sin2cos - (1/4)sin2cos
+- (1/8)sin2(cos + cos3)cos2 - (1/8)sin2(cos + cos3)cos2 - (1/8)sin2(cos + cos3)cos2
+ yyy -(1/8)sin(sin + sin3)sin2 -(1/8)sin(sin + sin3)sin2 -(1/8)sin(sin + sin3)sin2
++ (1/32)(sin + sin3)(3sin - sin3)sin2 + (1/32)(sin + sin3)(3sin - sin3)sin2 + (1/32)(sin + sin3)(3sin - sin3)sin2
+- (1/8)sin2(cos - cos3)cos2 - (1/8)sin2(cos - cos3)cos2 - (1/8)sin2(cos - cos3)cos2
+ yzz -(1/8)(sin + sin3)sinsin2 -(1/8)(sin + sin3)sinsin2 -(1/8)(sin + sin3)sinsin2
+- (1/4)sin2cos(1 - cos2) + (1/4)sin2cos(1 + cos2) + (1/4)sin2cos(1 + cos2)
+ xxy -(1/8)sin(3sin - sin3)sin2 -(1/8)sin(3sin - sin3)sin2 (1/8)sin(sin + sin3)sin2
++ (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2
++ (1/8)sin2(cos - cos3)cos2 + (1/8)sin2(cos - cos3)cos2 + (1/4)sin2cos
+- (1/8)sin2(cos + cos3)cos2
+ zyz -(1/8)(sin + sin3)sinsin2 -(1/8)(sin + sin3)sinsin2 [(1/2)sin - (1/8)(sin + sin3)]sinsin2
++ (1/4)sin2cos(1 + cos2) - (1/4)sin2cos(1 - cos2)
+ xyx (1/8)sin(sin + sin3)sin2 (1/8)sin(sin + sin3)sin2 -(1/8)sin(3sin - sin3)sin2
++ (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2
+- (1/4)sin2cos + (1/4)sin2cos + (1/8)sin2(cos - cos3)cos2
+- (1/8)sin2(cos + cos3)cos2 - (1/8)sin2(cos + cos3)cos2
+ zzy [(1/2)sin - (1/8)(sin + sin3)]sinsin2 [(1/2)sin - (1/8)(sin + sin3)]sinsin2 -(1/8)(sin + sin3)sinsin2
+- (1/4)sin2cos(1 - cos2)
+変換行列（XYZ) - 18
+
+===== PDF p.19 =====
+（SFGテンソル B-9）
+  
+cba cab acb
+ yxx -(1/8)sin(3sin - sin3)sin2 -(1/8)sin(3sin - sin3)sin2 (1/8)sin(sin + sin3)sin2
++ (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2
++ (1/8)sin2(cos - cos3)cos2 + (1/8)sin2(cos - cos3)cos2 + (1/4)sin2cos
+- (1/8)sin2(cos + cos3)cos2
+ yyy -(1/8)sin(sin + sin3)sin2 -(1/8)sin(sin + sin3)sin2 -(1/8)sin(sin + sin3)sin2
++ (1/32)(sin + sin3)(3sin - sin3)sin2 + (1/32)(sin + sin3)(3sin - sin3)sin2 + (1/32)(sin + sin3)(3sin - sin3)sin2
+- (1/8)sin2(cos - cos3)cos2 - (1/8)sin2(cos - cos3)cos2 - (1/8)sin2(cos - cos3)cos2
+ yzz [(1/2)sin-(1/8)(sin + sin3)] sinsin2 [(1/2)sin-(1/8)(sin + sin3)]sinsin2 -(1/8)(sin + sin3)sinsin2
+- (1/4)sin2cos(1 - cos2)
+ xxy (1/8)sin(sin + sin3)sin2 (1/8)sin(sin + sin3)sin2 (1/8)sin(sin + sin3)sin2
++ (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2
++ (1/4)sin2cos - (1/4)sin2cos - (1/4)sin2cos
+- (1/8)sin2(cos + cos3)cos2 - (1/8)sin2(cos + cos3)cos2 - (1/8)sin2(cos + cos3)cos2
+ zyz -(1/8)(sin + sin3)sinsin2 -(1/8)(sin + sin3)sinsin2 [(1/2)sin - (1/8)(sin + sin3)] sinsin2
++ (1/4)sin2cos(1 + cos2) - (1/4)sin2cos(1 - cos2)
+ xyx (1/8)sin(sin + sin3)sin2 (1/8)sin(sin + sin3)sin2 -(1/8)sin(3sin - sin3)sin2
++ (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2 + (1/32)(sin + sin3)(sin + sin3)sin2
+- (1/4)sin2cos + (1/4)sin2cos + (1/8)sin2(cos - cos3)cos2
+- (1/8)sin2(cos + cos3)cos2 - (1/8)sin2(cos + cos3)cos2
+ zzy -(1/8)(sin + sin3)sinsin2 -(1/8)(sin + sin3)sinsin2 -(1/8)(sin + sin3)sinsin2
+- (1/4)sin2cos(1 - cos2) + (1/4)sin2cos(1 + cos2) + (1/4)sin2cos(1 + cos2)
+変換行列（XYZ) - 19
+
+===== PDF p.20 =====
+（SFGテンソルC-1）
+  
+aaa bba abb
+ zxx (1/8)sin(1- - cos2)(cos - cos3) -(1/8)sin(1 - cos2)(cos - cos3) (1/8)sin(1 - cos2)(3cos + cos3)
++ (1/32)(sin + sin3)(1 + cos2)(3cos + cos3) + (1/32)(sin + sin3)(1 + cos2)(cos - cos3) + (1/32)(sin + sin3)(1 + cos2)(cos - cos3)
+- (1/8)sin2sin2(sin + sin3) - (1/8)sin2sin2(sin - sin3) + (1/8)sin2sin2(sin + sin3)
+ zyy (1/8)sin(1 + cos2)(cos - cos3) -(1/8)sin(1 + cos2)(cos - cos3) (1/8)sin(1 + cos2)(3cos + cos3)
++ (1/32)(sin + sin3)(1 - cos2)(3cos + cos3) + (1/32)(sin + sin3)(1 - cos2)(cos - cos3) + (1/32)(sin + sin3)(1 - cos2)(cos - cos3)
++ (1/8)sin2sin2(sin + sin3) + (1/8)sin2sin2(sin - sin3) - (1/8)sin2sin2(sin + sin3)
+ zzz [(1/4)sin - (1/16)(sin + sin3)](3cos + cos3) [(1/4)sin-(1/16)(sin + sin3)](cos - cos3) [(1/4)sin - (1/16)(sin + sin3)](cos - cos3)
+ yyz (1/8)sin(1 + cos2)(cos - cos3) (1/8)sin(1 + cos2)(3cos + cos3) -(1/8)sin(1 + cos2)(cos - cos3)
++ (1/32)(sin + sin3)(1 - cos2)(3cos + cos3) + (1/32)(sin + sin3)(1 - cos2)(cos - cos3) + (1/32)(sin + sin3)(1 - cos2)(cos - cos3)
++ (1/8)sin2sin2(sin + sin3) - (1/8)sin2sin2(sin + sin3) + (1/8)sin2sin2(sin - sin3)
+ xzx (1/8)sin(1 - cos2)(cos - cos3) -(1/8)sin(1 - cos2)(cos - cos3) -(1/8)sin(1 - cos2)(cos - cos3)
++ (1/32)(sin + sin3)(1 + cos2)(3cos + cos3) + (1/32)(sin + sin3)(1 + cos2)(cos - cos3) + (1/32)(sin + sin3)(1 + cos2)(cos - cos3)
+- (1/8)sin2sin2(sin + sin3) - (1/8)sin2sin2(sin - sin3) - (1/8)sin2sin2(sin - sin3)
+ yzy (1/8)sin(1 + cos2)(cos - cos3) -(1/8)sin(1 + cos2)(cos - cos3) -(1/8)sin(1 + cos2)(cos - cos3)
++ (1/32)(sin + sin3)(1 - cos2)(3cos + cos3) + (1/32)(sin + sin3)(1 - cos2)(cos - cos3) + (1/32)(sin + sin3)(1 - cos2)(cos - cos3)
++ (1/8)sin2sin2(sin + sin3) + (1/8)sin2sin2(sin - sin3) + (1/8)sin2sin2(sin - sin3)
+ xxz (1/8)sin(1 - cos2)(cos - cos3) (1/8)sin(1 - cos2)(3cos + cos3) -(1/8)sin(1 - cos2)(cos - cos3)
++ (1/32)(sin + sin3)(1 + cos2)(3cos + cos3) + (1/32)(sin + sin3)(1 + cos2)(cos - cos3) + (1/32)(sin + sin3)(1 + cos2)(cos - cos3)
+- (1/8)sin2sin2(sin + sin3) + (1/8)sin2sin2(sin + sin3) - (1/8)sin2sin2(sin - sin3)
+変換行列（XYZ) - 20
+
+===== PDF p.21 =====
+（SFGテンソルC-2）
+  
+bab cac acc
+ zxx -(1/8)sin(1 - cos2)(cos - cos3) -(1/8)(sin + sin3)(1 + cos2)cos [(1/2)sin - (1/8)(sin + sin3)](1 + cos2)cos
++ (1/32)(sin + sin3)(1 + cos2)(cos - cos3) + (1/4)sin2sin2sin
+- (1/8)sin2sin2(sin - sin3)
+ zyy -(1/8)sin(1 + cos2)(cos - cos3) -(1/8)(sin + sin3)(1 - cos2)cos [(1/2)sin - (1/8)(sin + sin3)](1 - cos2)cos
++ (1/32)(sin + sin3)(1 - cos2)(cos - cos3) - (1/4)sin2sin2sin
++ (1/8)sin2sin2(sin - sin3)
+ zzz [(1/4)sin-(1/16)(sin + sin3)](cos - cos3) (1/4)(sin + sin3)cos (1/4)(sin + sin3)cos
+ yyz -(1/8)sin(1 + cos2)(cos - cos3) -(1/8)(sin + sin3)(1 - cos2)cos -(1/8)(sin + sin3)(1 - cos2)cos
++ (1/32)(sin + sin3)(1 - cos2)(cos - cos3) - (1/4)sin2sin2sin - (1/4)sin2sin2sin
++ (1/8)sin2sin2(sin - sin3)
+ xzx (1/8)sin(1 - cos2)(3cos + cos3) [(1/2)sin - (1/8)(sin + sin3)](1 + cos2)cos -(1/8)(sin + sin3)(1 + cos2)cos
++ (1/32)(sin + sin3)(1 + cos2)(cos - cos3) + (1/4)sin2sin2sin
++ (1/8)sin2sin2(sin + sin3)
+ yzy (1/8)sin(1 + cos2)(3cos + cos3) [(1/2)sin - (1/8)(sin + sin3)](1 - cos2)cos -(1/8)(sin + sin3)(1 - cos2)cos
++ (1/32)(sin + sin3)(1 - cos2)(cos - cos3) - (1/4)sin2sin2sin
+- (1/8)sin2sin2(sin + sin3)
+ xxz -(1/8)sin(1 - cos2)(cos - cos3) -(1/8)(sin + sin3)(1 + cos2)cos -(1/8)(sin + sin3)(1 + cos2)cos
++ (1/32)(sin + sin3)(1 + cos2)(cos - cos3) + (1/4)sin2sin2sin + (1/4)sin2sin2sin
+- (1/8)sin2sin2(sin - sin3)
+変換行列（XYZ) - 21
+
+===== PDF p.22 =====
+（SFGテンソルC-3）
+  
+cca aab bbb
+ zxx -(1/8)(sin + sin3)(1 + cos2)cos -(1/8)sin(1 - cos2)(sin + sin3) (1/8)sin(1 - cos2)(sin + sin3)
++ (1/4)sin2sin2sin + (1/32)(sin + sin3)(1 + cos2)(sin + sin3) + (1/32)(sin + sin3)(1 + cos2)(3sin - sin3)
++ (1/8)sin2sin2(cos + cos3) + (1/8)sin2sin2(cos - cos3)
+ zyy -(1/8)(sin + sin3)(1 - cos2)cos -(1/8)sin(1 + cos2)(sin + sin3) (1/8)sin(1 + cos2)(sin + sin3)
+- (1/4)sin2sin2sin + (1/32)(sin + sin3)(1 - cos2)(sin + sin3) + (1/32)(sin + sin3)(1 - cos2)(3sin - sin3)
+- (1/8)sin2sin2(cos + cos3) - (1/8)sin2sin2(cos - cos3)
+ zzz (1/4)(sin + sin3)cos [(1/4)sin - (1/16)(sin + sin3)](sin + sin3) [(1/4)sin - (1/16)(sin + sin3)](3sin - sin3)
+ yyz [(1/2)sin-(1/8)(sin + sin3)](1 - cos2)cos (1/8)sin(1 + cos2)(3sin - sin3) (1/8)sin(1 + cos2)(sin + sin3)
++ (1/32)(sin + sin3)(1 - cos2)(sin + sin3) + (1/32)(sin + sin3)(1 - cos2)(3sin - sin3)
++ (1/8)sin2sin2(cos - cos3) - (1/8)sin2sin2(cos - cos3)
+ xzx -(1/8)(sin + sin3)(1 + cos2)cos -(1/8)sin(1 - cos2)(sin + sin3) (1/8)sin(1 - cos2)(sin + sin3)
++ (1/4)sin2sin2sin + (1/32)(sin + sin3)(1 + cos2)(sin + sin3) + (1/32)(sin + sin3)(1 + cos2)(3sin - sin3)
++ (1/8)sin2sin2(cos + cos3) + (1/8)sin2sin2(cos - cos3)
+ yzy -(1/8)(sin + sin3)(1 - cos2)cos -(1/8)sin(1 + cos2)(sin + sin3) (1/8)sin(1 + cos2)(sin + sin3)
+- (1/4)sin2sin2sin + (1/32)(sin + sin3)(1 - cos2)(sin + sin3) + (1/32)(sin + sin3)(1 - cos2)(3sin - sin3)
+- (1/8)sin2sin2(cos + cos3) - (1/8)sin2sin2(cos - cos3)
+ xxz [(1/2)sin - (1/8)(sin + sin3)](1 + cos2)cos (1/8)sin(1 - cos2)(3sin - sin3) (1/8)sin(1 - cos2)(sin + sin3)
++ (1/32)(sin + sin3)(1 + cos2)(sin + sin3) + (1/32)(sin + sin3)(1 + cos2)(3sin - sin3)
+- (1/8)sin2sin2(cos - cos3) + (1/8)sin2sin2(cos - cos3)
+変換行列（XYZ) - 22
+
+===== PDF p.23 =====
+（SFGテンソルC-4）
+  
+aba baa bcc
+ zxx -(1/8)sin(1 - cos2)(sin + sin3) (1/8)sin(1 - cos2)(3sin - sin3) [(1/2)sin - (1/8)(sin + sin3)] (1 + cos2)sin
++ (1/32)(sin + sin3)(1 + cos2)(sin + sin3) + (1/32)(sin + sin3)(1 + cos2)(sin + sin3)
++ (1/8)sin2sin2(cos + cos3) - (1/8)sin2sin2(cos - cos3)
+ zyy -(1/8)sin(1 + cos2)(sin + sin3) (1/8)sin(1 + cos2)(3sin - sin3) [(1/2)sin - (1/8)(sin + sin3)] (1 - cos2)sin
++ (1/32)(sin + sin3)(1 - cos2)(sin- + in3) + (1/32)(sin + sin3)(1 - cos2)(sin + sin3)
+- (1/8)sin2sin2(cos + cos3) + (1/8)sin2sin2(cos - cos3)
+ zzz [(1/4)sin - (1/16)(sin + sin3)](sin + sin3) [(1/4)sin - (1/16)(sin + sin3)](sin + sin3) (1/4)(sin + sin3)sin
+ yyz -(1/8)sin(1 + cos2)(sin + sin3) -(1/8)sin(1 + cos2)(sin + sin3) -(1/8)(sin + sin3)(1 - cos2)sin
++ (1/32)(sin + sin3)(1 - cos2)(sin- + in3) + (1/32)(sin + sin3)(1 - cos2)(sin + sin3) + (1/4)sin2sin2cos
+- (1/8)sin2sin2(cos + cos3) + (1/8)sin2sin2(cos + cos3)
+ xzx (1/8)sin(1 - cos2)(3sin - sin3) -(1/8)sin(1 - cos2)(sin + sin3) -(1/8)(sin + sin3)(1 + cos2)sin
++ (1/32)(sin + sin3)(1 + cos2)(sin + sin3) + (1/32)(sin + sin3)(1 + cos2)(sin + sin3) - (1/4)sin2sin2cos
+- (1/8)sin2sin2(cos - cos3) + (1/8)sin2sin2(cos + cos3)
+ yzy (1/8)sin(1 + cos2)(3sin-sin3) -(1/8)sin(1 + cos2)(sin + sin3) -(1/8)(sin + sin3)(1 - cos2)sin
++ (1/32)(sin + sin3)(1 - cos2)(sin + sin3) + (1/32)(sin + sin3)(1 - cos2)(sin + sin3) + (1/4)sin2sin2cos
++ (1/8)sin2sin2(cos - cos3) - (1/8)sin2sin2(cos + cos3)
+ xxz -(1/8)sin(1 - cos2)(sin + sin3) -(1/8)sin(1 - cos2)(sin + sin3) -(1/8)(sin + sin3)(1 + cos2)sin
++ (1/32)(sin + sin3)(1 + cos2)(sin + sin3) + (1/32)(sin + sin3)(1 + cos2)(sin + sin3) - (1/4)sin2sin2cos
++ (1/8)sin2sin2(cos + cos3) + (1/8)sin2sin2(cos + cos3)
+変換行列（XYZ) - 23
+
+===== PDF p.24 =====
+（SFGテンソルC-5）
+  
+cbc ccb aac
+ zxx -(1/8)(sin + sin3)(1 + cos2)sin -(1/8)(sin + sin3)(1 + cos2)sin -(1/16)(cos-cos3)(1 + cos2)(1 + cos2)
+- (1/4)sin2sin2cos - (1/4)sin2sin2cos + (1/8)(1 - cos2)sin2sin2
+ zyy -(1/8)(sin + sin3)(1 - cos2)sin -(1/8)(sin + sin3)(1 - cos2)sin -(1/16)(cos - cos3)(1 - cos2)(1 + cos2)
++ (1/4)sin2sin2cos + (1/4)sin2sin2cos - (1/8)(1 - cos2)sin2sin2
+ zzz (1/4)(sin + sin3)sin (1/4)(sin + sin3)sin (1/8)(cos - cos3)(1 + cos2)
+ yyz -(1/8)(sin + sin3)(1 - cos2)sin [(1/2)sin - (1/8)(sin + sin3)](1 - cos2)sin (1/2)cos(1 - cos2cos2)
++ (1/4)sin2sin2cos - (1/16)(cos - cos3)(1 - cos2)(1 + cos2)
++ (1/4)(1 + cos2)sin2sin2
+ xzx [(1/2)sin - (1/8)(sin + sin3)](1 + cos2)sin -(1/8)(sin + sin3)(1 + cos2)sin -(1/16)(cos - cos3)(1 + cos2)(1 + cos2)
+- (1/4)sin2sin2cos + (1/8)(1 - cos2)sin2sin2
+ yzy [(1/2)sin - (1/8)(sin + sin3)](1 - cos2)sin -(1/8)(sin + sin3)(1 - cos2)sin -(1/16)(cos - cos3)(1 - cos2)(1 + cos2)
++ (1/4)sin2sin2cos - (1/8)(1 - cos2)sin2sin2
+ xxz -(1/8)(sin + sin3)(1 + cos2)sin [(1/2)sin- - (1/8)(sin + sin3)](1 + cos2)sin (1/2)cos(1 + cos2cos2)
+- (1/4)sin2sin2cos - (1/16)(cos - cos3)(1 + cos2)(1 + cos2)
+- (1/4)(1 + cos2)sin2sin2
+変換行列（XYZ) - 24
+
+===== PDF p.25 =====
+（SFGテンソルC-6）
+  
+bbc bcb cbb
+ zxx -(1/16)(cos - cos3)(1 + cos2)(1 - cos2) -(1/16)(cos - cos3)(1 + cos2)(1 - cos2) (1/2)cos(1 - cos2cos2)
+- (1/8)(1 - cos2)sin2sin2 - (1/8)(1 - cos2)sin2sin2 - (1/16)(cos - cos3)(1 + cos2)(1 - cos2)
++ (1/4)(1 + cos2)sin2sin2
+ zyy -(1/16)(cos - cos3)(1 - cos2)(1 - cos2) -(1/16)(cos - cos3)(1 - cos2)(1 - cos2) (1/2)cos(1 + cos2cos2)
++ (1/8)(1 - cos2)sin2sin2 + (1/8)(1 - cos2)sin2sin2 - (1/16)(cos - cos3)(1 - cos2)(1 - cos2)
+-(1/4)(1 + cos2)sin2sin2
+ zzz (1/8)(cos - cos3)(1 - cos2) (1/8)(cos - cos3)(1 - cos2) (1/8)(cos - cos3)(1 - cos2)
+ yyz (1/2)cos(1 + cos2cos2) -(1/16)(cos - cos3)(1 - cos2)(1 - cos2) -(1/16)(cos - cos3)(1 - cos2)(1 - cos2)
+- (1/16)(cos - cos3)(1 - cos2)(1 - cos2) + (1/8)(1 - cos2)sin2sin2 + (1/8)(1 - cos2)sin2sin2
+- (1/4)(1 + cos2)sin2sin2
+ xzx -(1/16)(cos - cos3)(1 + cos2)(1 - cos2) (1/2)cos(1 - cos2cos2) -(1/16)(cos - cos3)(1 + cos2)(1 - cos2)
+- (1/8)(1 - cos2)sin2sin2 - (1/16)(cos - cos3)(1 + cos2)(1 - cos2) - (1/8)(1 - cos2)sin2sin2
++ (1/4)(1 + cos2)sin2sin2
+ yzy -(1/16)(cos - cos3)(1 - cos2)(1 - cos2) (1/2)cos(1 + cos2cos2) -(1/16)(cos - cos3)(1 - cos2)(1 - cos2)
++ (1/8)(1 - cos2)sin2sin2 - (1/16)(cos - cos3)(1 - cos2)(1 - cos2) + (1/8)(1 - cos2)sin2sin2
+- (1/4)(1 + cos2)sin2sin2
+ xxz (1/2)cos(1 - cos2cos2) -(1/16)(cos - cos3)(1 + cos2)(1 - cos2) -(1/16)(cos - cos3)(1 + cos2)(1 - cos2)
+- (1/16)(cos - cos3)(1 + cos2)(1 - cos2) - (1/8)(1 - cos2)sin2sin2 - (1/8)(1 - cos2)sin2sin2
++ (1/4)(1 + cos2)sin2sin2
+変換行列（XYZ) - 25
+
+===== PDF p.26 =====
+（SFGテンソルC-7）
+  
+caa aca ccc
+ zxx (1/2)cos(1 + cos2cos2) -(1/16)(cos - cos3)(1 + cos2)(1 + cos2) (1/8)(cos - cos3)(1 + cos2)
+- (1/16)(cos - cos3)(1 + cos2)(1 + cos2) + (1/8)(1 - cos2)sin2sin2
+- (1/4)(1 + cos2)sin2sin2
+ zyy (1/2)cos(1 - cos2cos2) -(1/16)(cos - cos3)(1 - cos2)(1 + cos2) (1/8)(cos - cos3)(1 - cos2)
+- (1/16)(cos - cos3)(1 - cos2)(1 + cos2) - (1/8)(1 - cos2)sin2sin2
++ (1/4)(1 + cos2)sin2sin2
+ zzz (1/8)(cos - cos3)(1 + cos2) (1/8)(cos - cos3)(1 + cos2) [cos - (1/4)(cos - cos3)]
+ yyz -(1/16)(cos - cos3)(1 - cos2)(1 + cos2) -(1/16)(cos - cos3)(1 - cos2)(1 + cos2) (1/8)(cos - cos3)(1 - cos2)
+- (1/8)(1 - cos2)sin2sin2 - (1/8)(1 - cos2)sin2sin2
+ xzx -(1/16)(cos - cos3)(1 + cos2)(1 + cos2) (1/2)cos(1 + cos2cos2) (1/8)(cos - cos3)(1 + cos2)
++ (1/8)(1 - cos2)sin2sin2 - (1/16)(cos - cos3)(1 + cos2)(1 + cos2)
+- (1/4)(1 + cos2)sin2sin2
+ yzy -(1/16)(cos - cos3)(1 - cos2)(1 + cos2) (1/2)cos(1 - cos2cos2) (1/8)(cos - cos3)(1 - cos2)
+- (1/8)(1 - cos2)sin2sin2 - (1/16)(cos - cos3)(1 - cos2)(1 + cos2)
++ (1/4)(1 + cos2)sin2sin2
+ xxz -(1/16)(cos - cos3)(1 + cos2)(1 + cos2) -(1/16)(cos - cos3)(1 + cos2)(1 + cos2) (1/8)(cos - cos3)(1 + cos2)
++ (1/8)(1 - cos2)sin2sin2 + (1/8)(1 - cos2)sin2sin2
+変換行列（XYZ) - 26
+
+===== PDF p.27 =====
+（SFGテンソルC-8）
+  
+abc bac bca
+ zxx -(1/16)(cos - cos3)(1 + cos2)sin2 -(1/16)(cos - cos3)(1 + cos2)sin2 -(1/16)(cos - cos3)(1 + cos2)sin2
+- (1/8)(1 - cos2)sin2(1 + cos2) + (1/8)(1 - cos2)sin2(1 - cos2) + (1/8)(1 - cos2)sin2(1 - cos2)
+ zyy -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/16)(cos - cos3)(1 - cos2)sin2
++ (1/8)(1 - cos2)sin2(1 + cos2) - (1/8)(1 - cos2)sin2(1 - cos2) - (1/8)(1 - cos2)sin2(1 - cos2)
+ zzz (1/8)(cos - cos3)sin2 (1/8)(cos - cos3)sin2 (1/8)(cos - cos3)sin2
+ yyz -(1/2)coscos2sin2 -(1/2)coscos2sin2 -(1/16)(cos - cos3)(1 - cos2)sin2
+- (1/16)(cos - cos3)(1 - cos2)sin2 - (1/16)(cos - cos3)(1 - cos2)sin2 + (1/8)(1 - cos2)sin2(1 + cos2)
+- (1/4)(1 + cos2)sin2cos2 - (1/4)(1 + cos2)sin2cos2
+ xzx -(1/16)(cos - cos3)(1 + cos2)sin2 -(1/16)(cos- - cos3)(1 + cos2)sin2 (1/2)coscos2sin2
++ (1/8)(1 - cos2)sin2(1 - cos2) - (1/8)(1 - cos2)sin2(1 + cos2) - (1/16)(cos - cos3)(1 + cos2)sin2
++ (1/4)(1 + cos2)sin2cos2
+ yzy -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/2)coscos2sin2
+- (1/8)(1 - cos2)sin2(1 - cos2) + (1/8)(1 - cos2)sin2(1 + cos2) - (1/16)(cos - cos3)(1 - cos2)sin2
+- (1/4)(1 + cos2)sin2cos2
+ xxz (1/2)coscos2sin2 (1/2)coscos2sin2 -(1/16)(cos - cos3)(1 + cos2)sin2
+- (1/16)(cos - cos3)(1 + cos2)sin2 - (1/16)(cos - cos3)(1 + cos2)sin2 - (1/8)(1 - cos2)sin2(1 + cos2)
++ (1/4)(1 + cos2)sin2cos2 + (1/4)(1 + cos2)sin2cos2
+変換行列（XYZ) - 27
+
+===== PDF p.28 =====
+（SFGテンソルC-9）
+  
+cba cab acb
+ zxx (1/2)coscos2sin2 (1/2)coscos2sin2 -(1/16)(cos - cos3)(1 + cos2)sin2
+- (1/16)(cos - cos3)(1 + cos2)sin2 - (1/16)(cos - cos3)(1 + cos2)sin2 - (1/8)(1 - cos2)sin2(1 + cos2)
++ (1/4)(1 + cos2)sin2cos2 + (1/4)(1 + cos2)sin2cos2
+ zyy -(1/2)coscos2sin2 -(1/2)coscos2sin2 -(1/16)(cos - cos3)(1 - cos2)sin2
+- (1/16)(cos - cos3)(1 - cos2)sin2 - (1/16)(cos - cos3)(1 - cos2)sin2 + (1/8)(1 - cos2)sin2(1 + cos2)
+- (1/4)(1 + cos2)sin2cos2 - (1/4)(1 + cos2)sin2cos2
+ zzz (1/8)(cos - cos3)sin2 (1/8)(cos - cos3)sin2 (1/8)(cos - cos3)sin2
+ yyz -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/16)(cos - cos3)(1 - cos2)sin2
++ (1/8)(1 - cos2)sin2(1 + cos2) - (1/8)(1 - cos2)sin2(1 - cos2) - (1/8)(1 - cos2)sin2(1 - cos2)
+ xzx -(1/16)(cos - cos3)(1 + cos2)sin2 -(1/16)(cos - cos3)(1 + cos2)sin2 (1/2)coscos2sin2
++ (1/8)(1 - cos2)sin2(1 - cos2) - (1/8)(1 - cos2)sin2(1 + cos2) - (1/16)(cos - cos3)(1 + cos2)sin2
++ (1/4)(1 + cos2)sin2cos2
+ yzy -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/16)(cos - cos3)(1 - cos2)sin2 -(1/2)coscos2sin2
+- (1/8)(1 - cos2)sin2(1 - cos2) + (1/8)(1 - cos2)sin2(1 + cos2) - (1/16)(cos - cos3)(1 - cos2)sin2
+- (1/4)(1 + cos2)sin2cos2
+ xxz -(1/16)(cos - cos3)(1 + cos2)sin2 -(1/16)(cos - cos3)(1 + cos2)sin2 -(1/16)(cos - cos3)(1 + cos2)sin2
+- (1/8)(1 - cos2)sin2(1 + cos2) + (1/8)(1 - cos2)sin2(1 - cos2) + (1/8)(1 - cos2)sin2(1 - cos2)
+変換行列（XYZ) - 28
+
+===== PDF p.29 =====
+（SFGテンソルD-1）
+  
+aaa bba abb
+ zxy (1/8)sinsin2(cos - cos3) -(1/8)sinsin2(cos - cos3) (1/8)sinsin2(3cos + cos3)
+- (1/32)(sin + sin3)sin2(3cos + cos3) - (1/32)(sin + sin3)sin2(cos - cos3) - (1/32)(sin + sin3)sin2(cos - cos3)
+- (1/8)sin2cos2(sin + sin3) - (1/8)sin2[2sin + cos2(sin-sin3)] + (1/8)sin2cos2(sin + sin3)
+ xyz (1/8)sinsin2(cos - cos3) (1/8)sinsin2(3cos + cos3) -(1/8)sinsin2(cos - cos3)
+- (1/32)(sin + sin3)sin2(3cos + cos3) - (1/32)(sin + sin3)sin2(cos - cos3) - (1/32)(sin + sin3)sin2(cos - cos3)
+- (1/8)sin2cos2(sin + sin3) + (1/8)sin2cos2(sin + sin3) + (1/8)sin2[2sin - cos2(sin - sin3)]
+ yzx (1/8)sinsin2(cos - cos3) -(1/8)sinsin2(cos - cos3) -(1/8)sinsin2(cos - cos3)
+- (1/32)(sin + sin3)sin2(3cos + cos3) - (1/32)(sin + sin3)sin2(cos - cos3) - (1/32)(sin + sin3)sin2(cos - cos3)
+- (1/8)sin2cos2(sin + sin3) + (1/8)sin2[2sin - cos2(sin - sin3)] - (1/8)sin2[2sin + cos2(sin - sin3)]
+ zyx (1/8)sinsin2(cos - cos3) -(1/8)sinsin2(cos - cos3) (1/8)sinsin2(3cos + cos3)
+- (1/32)(sin + sin3)sin2(3cos + cos3) - (1/32)(sin + sin3)sin2(cos - cos3) - (1/32)(sin + sin3)sin2(cos - cos3)
+- (1/8)sin2cos2(sin + sin3) + (1/8)sin2[2sin - cos2(sin - sin3)] + (1/8)sin2cos2(sin + sin3)
+ xzy (1/8)sinsin2(cos - cos3) -(1/8)sinsin2(cos - cos3) -(1/8)sinsin2(cos - cos3)
+- (1/32)(sin + sin3)sin2(3cos + cos3) - (1/32)(sin + sin3)sin2(cos - cos3) - (1/32)(sin + sin3)sin2(cos - cos3)
+- (1/8)sin2cos2(sin + sin3) - (1/8)sin2[2sin + cos2(sin - sin3)] + (1/8)sin2[2sin - cos2(sin - sin3)]
+ yxz (1/8)sinsin2(cos - cos3) (1/8)sinsin2(3cos + cos3) -(1/8)sinsin2(cos - cos3)
+- (1/32)(sin + sin3)sin2(3cos + cos3) - (1/32)(sin + sin3)sin2(cos - cos3) - (1/32)(sin + sin3)sin2(cos - cos3)
+- (1/8)sin2cos2(sin + sin3) + (1/8)sin2cos2(sin + sin3) - (1/8)sin2[2sin + cos2(sin - sin3)]
+変換行列（XYZ) - 29
+
+===== PDF p.30 =====
+（SFGテンソルD-2）
+  
+bab cac acc
+ zxy -(1/8)sinsin2(cos - cos3) (1/8)(sin + sin3)sin2cos -[(1/2)sin - (1/8)(sin + sin3)]sin2cos
+- (1/32)(sin + sin3)sin2(cos - cos3) - (1/4)sin2(1 - cos2)sin
++ (1/8)sin2[2sin - cos2(sin - sin3)]
+ xyz -(1/8)sinsin2(cos - cos3) (1/8)(sin + sin3)sin2cos (1/8)(sin + sin3)sin2cos
+- (1/32)(sin + sin3)sin2(cos - cos3) + (1/4)sin2(1 + cos2)sin - (1/4)sin2(1 - cos2)sin
+- (1/8)sin2[2sin + cos2(sin - sin3)]
+ yzx (1/8)sinsin2(3cos + cos3) -[(1/2)sin - (1/8)(sin + sin3)]sin2cos (1/8)(sin + sin3)sin2cos
+- (1/32)(sin + sin3)sin2(cos - cos3) + (1/4)sin2(1 + cos2)sin
++ (1/8)sin2cos2(sin + sin3)
+ zyx -(1/8)sinsin2(cos - cos3) (1/8)(sin + sin3)sin2cos -[(1/2)sin - (1/8)(sin + sin3)]sin2cos
+- (1/32)(sin + sin3)sin2(cos - cos3) + (1/4)sin2(1 + cos2)sin
+- (1/8)sin2[2sin + cos2(sin - sin3)]
+ xzy (1/8)sinsin2(3cos + cos3) -[(1/2)sin - (1/8)(sin + sin3)]sin2cos (1/8)(sin + sin3)sin2cos
+- (1/32)(sin + sin3)sin2(cos - cos3) - (1/4)sin2(1 - cos2)sin
++ (1/8)sin2cos2(sin + sin3)
+ yxz -(1/8)sinsin2(cos - cos3) (1/8)(sin + sin3)sin2cos (1/8)(sin + sin3)sin2cos
+- (1/32)(sin + sin3)sin2(cos - cos3) - (1/4)sin2(1 - cos2)sin + (1/4)sin2(1 + cos2)sin
++ (1/8)sin2[2sin - cos2(sin - sin3)]
+変換行列（XYZ) - 30
+
+===== PDF p.31 =====
+（SFGテンソルD-3）
+  
+cca aab bbb
+ zxy (1/8)(sin + sin3)sin2cos -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) (1/8)sinsin2(sin + sin3)
++ (1/4)sin2(1 + cos2)sin + (1/8)sin2[2cos + cos2(cos + cos3)] - (1/32)(sin + sin3)sin2(3sin - sin3)
++ (1/8)sin2cos2(cos - cos3)
+ xyz -[(1/2)sin - (1/8)(sin + sin3)]sin2cos (1/8)sinsin2(3sin - sin3) (1/8)sinsin2(sin + sin3)
+- (1/32)(sin + sin3)sin2(sin + sin3) - (1/32)(sin + sin3)sin2(3sin - sin3)
+- (1/8)sin2cos2(cos - cos3) + (1/8)sin2cos2(cos - cos3)
+ yzx (1/8)(sin + sin3)sin2cos -(1/8)sinsin2(sin + sin3) (1/8)sinsin2(sin + sin3)
+- (1/4)sin2(1 - cos2)sin - (1/32)(sin + sin3)sin2(sin + sin3) - (1/32)(sin + sin3)sin2(3sin - sin3)
+- (1/8)sin2[2cos - cos2(cos + cos3)] + (1/8)sin2cos2(cos - cos3)
+ zyx (1/8)(sin + sin3)sin2cos -(1/8)sinsin2(sin + sin3) (1/8)sinsin2(sin + sin3)
+- (1/4)sin2(1 - cos2)sin - (1/32)(sin + sin3)sin2(sin + sin3) - (1/32)(sin + sin3)sin2(3sin - sin3)
+- (1/8)sin2[2cos - cos2(cos + cos3)] + (1/8)sin2cos2(cos - cos3)
+ xzy (1/8)(sin + sin3)sin2cos -(1/8)sinsin2(sin + sin3) (1/8)sinsin2(sin + sin3)
++ (1/4)sin2(1 + cos2)sin - (1/32)(sin + sin3)sin2(sin + sin3) - (1/32)(sin + sin3)sin2(3sin - sin3)
++ (1/8)sin2[2cos + cos2(cos + cos3)] + (1/8)sin2cos2(cos-cos3)
+ yxz -[(1/2)sin - (1/8)(sin + sin3)]sin2cos (1/8)sinsin2(3sin - sin3) (1/8)sinsin2(sin + sin3)
+- (1/32)(sin + sin3)sin2(sin + sin3) - (1/32)(sin + sin3)sin2(3sin - sin3)
+-(1/8)sin2cos2(cos - cos3) + (1/8)sin2cos2(cos - cos3)
+変換行列（XYZ) - 31
+
+===== PDF p.32 =====
+（SFGテンソルD-4）
+  
+aba baa bcc
+ zxy -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) (1/8)sinsin2(3sin - sin3) -[(1/2)sin - (1/8)(sin + sin3)]sin2sin
+- (1/8)sin2[2cos - cos2(cos + cos3)] - (1/32)(sin + sin3)sin2(sin + sin3)
+- (1/8)sin2cos2(cos - cos3)
+ xyz -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) (1/8)(sin + sin3)sin2sin
++ (1/8)sin2[2cos + cos2(cos + cos3)] - (1/8)sin2[2cos - cos2(cos + cos3)] + (1/4)sin2(1 - cos2)cos
+ yzx (1/8)sinsin2(3sin - sin3) -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) (1/8)(sin + sin3)sin2sin
+- (1/32)(sin + sin3)sin2(sin + sin3) + (1/8)sin2[2cos + cos2(cos + cos3)] - (1/4)sin2(1 + cos2)cos
+- (1/8)sin2cos2(cos - cos3)
+ zyx -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) (1/8)sinsin2(3sin - sin3) -[(1/2)sin - (1/8)(sin + sin3)]sin2sin
++ (1/8)sin2[2cos + cos2(cos + cos3)] - (1/32)(sin + sin3)sin2(sin + sin3)
+- (1/8)sin2cos2(cos - cos3)
+ xzy (1/8)sinsin2(3sin - sin3) -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) (1/8)(sin + sin3)sin2sin
+- (1/32)(sin + sin3)sin2(sin + sin3) - (1/8)sin2[2cos - cos2(cos + cos3)] + (1/4)sin2(1 - cos2)cos
+- (1/8)sin2cos2(cos - cos3)
+ yxz -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) -[(1/8)sin + (1/32)(sin + sin3)]sin2(sin + sin3) (1/8)(sin + sin3)sin2sin
+- (1/8)sin2[2cos - cos2(cos + cos3)] + (1/8)sin2[2cos + cos2(cos + cos3)] - (1/4)sin2(1 + cos2)cos
+変換行列（XYZ) - 32
+
+===== PDF p.33 =====
+（SFGテンソルD-5）
+  
+cbc ccb aac
+ zxy (1/8)(sin + sin3)sin2sin (1/8)(sin + sin3)sin2sin (1/16)(cos - cos3)sin2(1 + cos2)
++ (1/4)sin2(1 - cos2)cos - (1/4)sin2(1 + cos2)cos - (1/8)(1 - cos2)(1 - cos2)sin2
+ xyz (1/8)(sin + sin3)sin2sin -[(1/2)sin - (1/8)(sin + sin3)]sin2sin -(1/2)cossin2cos2
+- (1/4)sin2(1 + cos2)cos + (1/16)(cos - cos3)sin2(1 + cos2)
+- (1/4)(1 + cos2)cos2sin2
+ yzx -[(1/2)sin - (1/8)(sin + sin3)]sin2sin (1/8)(sin + sin3)sin2sin (1/16)(cos - cos3)sin2(1 + cos2)
++ (1/4)sin2(1 - cos2)cos + (1/8)(1 - cos2)(1 + cos2)sin2
+ zyx (1/8)(sin + sin3)sin2sin (1/8)(sin + sin3)sin2sin (1/16)(cos - cos3)sin2(1 + cos2)
+- (1/4)sin2(1 + cos2)cos + (1/4)sin2(1 - cos2)cos + (1/8)(1 - cos2)(1 + cos2)sin2
+ xzy -[(1/2)sin - (1/8)(sin + sin3)]sin2sin (1/8)(sin + sin3)sin2sin (1/16)(cos-cos3)sin2(1 + cos2)
+- (1/4)sin2(1 + cos2)cos - (1/8)(1 - cos2)(1 - cos2)sin2
+ yxz (1/8)(sin + sin3)sin2sin -[(1/2)sin - (1/8)(sin + sin3)]sin2sin -(1/2)cossin2cos2
++ (1/4)sin2(1 - cos2)cos + (1/16)(cos - cos3)sin2(1 + cos2)
+- (1/4)(1 + cos2)cos2sin2
+変換行列（XYZ) - 33
+
+===== PDF p.34 =====
+（SFGテンソルD-6）
+  
+bbc bcb cbb
+ zxy (1/16)(cos - cos3)sin2(1 - cos2) (1/16)(cos - cos3)sin2(1 - cos2) (1/2)cossin2cos2
++ (1/8)(1 - cos2)(1 - cos2)sin2 - (1/8)(1 - cos2)(1 + cos2)sin2 + (1/16)(cos - cos3)sin2(1 - cos2)
++ (1/4)(1 + cos2)cos2sin2
+ xyz (1/2)cossin2cos2 (1/16)(cos - cos3)sin2(1 - cos2) (1/16)(cos - cos3)sin2(1 - cos2)
++ (1/16)(cos - cos3)sin2(1 - cos2) + (1/8)(1 - cos2)(1 - cos2)sin2 - (1/8)(1 - cos2)(1 + cos2)sin2
++ (1/4)(1 + cos2)cos2sin2
+ yzx (1/16)(cos - cos3)sin2(1 - cos2) (1/2)cossin2cos2 (1/16)(cos - cos3)sin2(1 - cos2)
+- (1/8)(1 - cos2)(1 + cos2)sin2 + (1/16)(cos - cos3)sin2(1 - cos2) + (1/8)(1 - cos2)(1 - cos2)sin2
++ (1/4)(1 + cos2)cos2sin2
+ zyx (1/16)(cos - cos3)sin2(1 - cos2) (1/16)(cos - cos3)sin2(1 - cos2) (1/2)cossin2cos2
+-(1/8)(1 - cos2)(1 + cos2)sin2 + (1/8)(1 - cos2)(1 - cos2)sin2 + (1/16)(cos - cos3)sin2(1 - cos2)
++ (1/4)(1 + cos2)cos2sin2
+ xzy (1/16)(cos - cos3)sin2(1 - cos2) (1/2)cossin2cos2 1/16)(cos - cos3)sin2(1 - cos2)
++ (1/8)(1 - cos2)(1 - cos2)sin2 + (1/16)(cos - cos3)sin2(1 - cos2) -(1/8)(1 - cos2)(1 + cos2)sin2
++ (1/4)(1 + cos2)cos2sin2
+ yxz (1/2)cossin2cos2 (1/16)(cos - cos3)sin2(1 - cos2) (1/16)(cos - cos3)sin2(1 - cos2)
++ (1/16)(cos - cos3)sin2(1 - cos2) - (1/8)(1 - cos2)(1 + cos2)sin2 + (1/8)(1 - cos2)(1 - cos2)sin2
++ (1/4)(1 + cos2)cos2sin2
+変換行列（XYZ) - 34
+
+===== PDF p.35 =====
+（SFGテンソルD-7）
+  
+caa aca ccc
+ zxy -(1/2)cossin2cos2 (1/16)(cos - cos3)sin2(1 + cos2) -(1/8)(cos - cos3)sin2
++ (1/16)(cos - cos3)sin2(1 + cos2) + (1/8)(1 - cos2)(1 + cos2)sin2
+- (1/4)(1 + cos2)cos2sin2
+ xyz (1/16)(cos - cos3)sin2(1 + cos2) (1/16)(cos - cos3)sin2(1 + cos2) -(1/8)(cos - cos3)sin2
++ (1/8)(1 - cos2)(1 + cos2)sin2 - (1/8)(1 - cos2)(1 - cos2)sin2
+ yzx (1/16)(cos - cos3)sin2(1 + cos2) -(1/2)cossin2cos2 -(1/8)(cos - cos3)sin2
+- (1/8)(1 - cos2)(1 - cos2)sin2 + (1/16)(cos - cos3)sin2(1 + cos2)
+- (1/4)(1 + cos2)cos2sin2
+ zyx -(1/2)cossin2cos2 (1/16)(cos - cos3)sin2(1 + cos2) -(1/8)(cos - cos3)sin2
++ (1/16)(cos - cos3)sin2(1 + cos2) - (1/8)(1 - cos2)(1 - cos2)sin2
+- (1/4)(1 + cos2)cos2sin2
+ xzy (1/16)(cos - cos3)sin2(1 + cos2) -(1/2)cossin2cos2 -(1/8)(cos - cos3)sin2
++ (1/8)(1 - cos2)(1 + cos2)sin2 + (1/16)(cos - cos3)sin2(1 + cos2)
+- (1/4)(1 + cos2)cos2sin2
+ yxz (1/16)(cos - cos3)sin2(1 + cos2) (1/16)(cos - cos3)sin2(1 + cos2) -(1/8)(cos - cos3)sin2
+- (1/8)(1 - cos2)(1 - cos2)sin2 + (1/8)(1 - cos2)(1 + cos2)sin2
+変換行列（XYZ) - 35
+
+===== PDF p.36 =====
+（SFGテンソルD-8）
+  
+abc bac bca
+ zxy (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2
++ (1/8)(1 - cos2)(1 - cos2)(1 + cos2) - (1/8)(1 - cos2)(1 - cos2)(1 - cos2) + (1/8)(1 - cos2)(1 + cos2)(1 - cos2)
+ xyz -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2 -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2 (1/16)(cos - cos3)sin2sin2
++ (1/4)(1 + cos2)(1 + cos2cos2) - (1/4)(1 + cos2)(1 - cos2cos2) + (1/8)(1 - cos2)(1 - cos2)(1 + cos2)
+ yzx (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2
++ (1/8)(1 - cos2)(1 + cos2)(1 - cos2) - (1/8)(1 - cos2)(1 + cos2)(1 + cos2) + (1/4)(1 + cos2)(1 + cos2cos2)
+ zyx (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2
+- (1/8)(1 - cos2)(1 + cos2)(1 + cos2) + (1/8)(1 - cos2)(1 + cos2)(1 - cos2) - (1/8)(1- - cos2)(1 - cos2)(1 - cos2)
+ xzy (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2
+- (1/8)(1 - cos2)(1 - cos2)(1 - cos2) + (1/8)(1 - cos2)(1 - cos2)(1 + cos2) - (1/4)(1 + cos2)(1 - cos2cos2)
+ yxz -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2 -[(1/2)cos- - (1/16)(cos - cos3)]sin2sin2 (1/16)(cos - cos3)sin2sin2
+- (1/4)(1 + cos2)(1 - cos2cos2) + (1/4)(1 + cos2)(1 + cos2cos2) - (1/8)(1 - cos2)(1 + cos2)(1 + cos2)
+変換行列（XYZ) - 36
+
+===== PDF p.37 =====
+（SFGテンソルD-9）
+  
+cba cab acb
+ zxy -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2 -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2 (1/16)(cos - cos3)sin2sin2
+- (1/4)(1 + cos2)(1 - cos2cos2) + (1/4)(1 + cos2)(1 + cos2cos2) - (1/8)(1 - cos2)(1 + cos2)(1 + cos2)
+ xyz (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2
+- (1/8)(1 - cos2)(1 + cos2)(1 + cos2) + (1/8)(1 - cos2)(1 + cos2)(1 - cos2) - (1/8)(1 - cos2)(1 - cos2)(1 - cos2)
+ yzx (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2
+- (1/8)(1 - cos2)(1 - cos2)(1 - cos2) + (1/8)(1 - cos2)(1 - cos2)(1 + cos2) - (1/4)(1 + cos2)(1 - cos2cos2)
+ zyx -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2 -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2 (1/16)(cos - cos3)sin2sin2
++ (1/4)(1 + cos2)(1 + cos2cos2) - (1/4)(1 + cos2)(1 - cos2cos2) + (1/8)(1 - cos2)(1 - cos2)(1 + cos2)
+ xzy (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 -[(1/2)cos - (1/16)(cos - cos3)]sin2sin2
++ (1/8)(1 - cos2)(1 + cos2)(1 - cos2) - (1/8)(1 - cos2)(1 + cos2)(1 + cos2) + (1/4)(1 + cos2)(1 + cos2cos2)
+ yxz (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2 (1/16)(cos - cos3)sin2sin2
++ (1/8)(1 - cos2)(1 - cos2)(1 + cos2) - (1/8)(1 - cos2)(1 - cos2)(1 - cos2) + (1/8)(1 - cos2)(1 + cos2)(1 - cos2)
+変換行列（XYZ) - 37

@@ -1,0 +1,16 @@
+{
+  "batch": "B116",
+  "scope": "PDF p3附录B至p4附录C前",
+  "numbered": [
+    "B.1",
+    "B.2"
+  ],
+  "all_unnumbered_units": "see B116 coverage",
+  "C_D_unchanged": true,
+  "control_characters": 0,
+  "whole_file_math_syntax_fragments": 268,
+  "render_overflows": 0,
+  "visual_review": "已目视参考渲染",
+  "issues": "关联2.2 Q054/Q055，原式保留",
+  "source_correction_adopted": false
+}

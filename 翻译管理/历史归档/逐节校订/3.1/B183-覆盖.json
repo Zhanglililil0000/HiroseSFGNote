@@ -1,0 +1,19 @@
+{
+  "batch": "B183",
+  "date": "2026-10-20",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "units": "二层系和频场推导与完整展开（按源点组）",
+  "tags": [
+    "2.31a",
+    "2.31b",
+    "2.32a",
+    "2.32b"
+  ],
+  "source_formula_corrections_adopted": false,
+  "source_images_visually_checked": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f"
+}

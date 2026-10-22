@@ -1,0 +1,38 @@
+{
+  "weights": [
+    "exp(-x²)",
+    "x exp(-x²)"
+  ],
+  "cases": [
+    {
+      "gamma": 0.5,
+      "even_weight_imaginary_part": -0.6156903441929258,
+      "even_exact": -0.6156903441929258,
+      "even_limit": -1,
+      "odd_weight_real_part": 0.2563444114512934,
+      "odd_exact": 0.2563444114512934,
+      "odd_limit": 0.5641895835477563
+    },
+    {
+      "gamma": 0.1,
+      "even_weight_imaginary_part": -0.8964569799691265,
+      "even_exact": -0.8964569799691265,
+      "even_limit": -1,
+      "odd_weight_real_part": 0.4745438855508436,
+      "odd_exact": 0.4745438855508436,
+      "odd_limit": 0.5641895835477563
+    },
+    {
+      "gamma": 0.02,
+      "even_weight_imaginary_part": -0.9778264776835394,
+      "even_exact": -0.9778264776835395,
+      "even_limit": -1,
+      "odd_weight_real_part": 0.5446330539940855,
+      "odd_exact": 0.5446330539940855,
+      "odd_limit": 0.5641895835477563
+    }
+  ],
+  "original_body_preserved_after_removing_new_notes": true,
+  "source_corrections": 0,
+  "scope": "平滑衰减权函数的核积分数值示例，不是分布收敛的一般证明"
+}

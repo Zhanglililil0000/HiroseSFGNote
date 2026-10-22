@@ -1,0 +1,32 @@
+from 收尾公式工具 import *
+fs=[TARGET]+[OUT/f'B{i:03}-本批译文.md' for i in range(94,115)]
+for p in fs:
+ s=p.read_text(encoding='utf-8')
+ for w in ['vis','ir','SF']:s=s.replace(r'\mathrm{\mathrm{'+w+'}}',r'\mathrm{'+w+'}')
+ s=s.replace(r'e^{1i\beta',r'e^{i\beta')
+ s=s.replace(r'\right]r_{m1}\left[\frac{r_{m1}(r_{mm\prime\prime}',r'\right]\left[\frac{r_{m1}(r_{mm\prime\prime}')
+ # Retain the visibly unusual wvis index printed in these four numbered formulas.
+ def tags(m):
+  a=m.group()
+  if any(r'\tag{'+v+'}' in a for v in ['5.16a','5.16b','5.23a','5.23b']):a=a.replace(r'r_{m2,\mathrm{vis},\beta}',r'r_{m2,\mathrm{wvis},\beta}')
+  # Split only the prefactor before exp in the long zero-order polarization expansions.
+  if r'P_\alpha(z,A_{n=0})&=' in a or r'P_\alpha(z,B_{n=0})&=' in a:
+   a=re.sub(r'(&\\quad\+[^\n]*?)(\\exp\\!\\left\[iz)',lambda n:n[1]+'\\\\\n'+r'&\qquad\times'+n[2],a)
+  return a
+ s=re.sub(r'\$\$[\s\S]*?\$\$',tags,s)
+ p.write_text(s,encoding='utf-8')
+(OUT/'收尾二重识别复核记录.md').write_text('''# B094—B114二重识别与排版复核
+
+2026-10-19。公式转写以原式图为主，结合PDF文字层校核细小斜体i、上标正负号和vis/ir下标。初稿中将部分重叠字形误读为缺i或负号，已在正文和本批译文同步修复；这些属于转写修复，没有当作原文勘误。
+
+- p17净场的第二式补回图中已有的闭括号；末简式按原图保留乘法结构及上下号。
+- p18背面膜路径末行移除转写重复的幂外r_m1；前两行原有的幂外r_m1仍保留。
+- p18—24各相位的斜体i与p19的L+，用文字层核对后恢复；5.17b红外分母原为加号。
+- p21、31的B极化末项角下标按vis转写，不将SF误读写入正文。
+- 5.16a/b、5.23a/b原有wvis下标保留（与Q062同类，不自动标准化）。
+- 展开式的程序格式辅助函数只用于录入，最终Markdown展开全部因子，没有新增物理简记。归并跨页重叠裁图时只呈现一次完整推导。
+- 仅以换行、定尺寸括号及数学命令空格调整排版，去掉嵌套的重复正体命令与1i的等价冗余。
+
+逐批参考渲染和整节编号索引另存；原式疑点见Q065—Q072，未以候选式覆盖原文。
+''',encoding='utf-8')
+print('typographic and glyph checks applied')

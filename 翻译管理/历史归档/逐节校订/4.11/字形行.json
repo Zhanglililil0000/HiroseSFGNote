@@ -1,0 +1,182 @@
+{
+  "1": [
+    {
+      "y": 137.2,
+      "tex": "SFGテンソルを表面固定座標系(xyz)系の成分として表したものから、表面が回転した後の座標系"
+    },
+    {
+      "y": 154.2,
+      "tex": "(XYZ) 系の成分へ変換したものを記す。"
+    },
+    {
+      "y": 186.2,
+      "tex": "表面固定（xyz）系"
+    },
+    {
+      "y": 203.2,
+      "tex": "z 軸を表面の外向き法線方向に取る。"
+    },
+    {
+      "y": 219.2,
+      "tex": "x 軸を立体障害がないとしたときにCH_{2} 基あるいはHCCH基が面をそろえて並ぶ方向に取"
+    },
+    {
+      "y": 236.2,
+      "tex": "る。"
+    },
+    {
+      "y": 268.2,
+      "tex": "実験室固定（XYZ）系"
+    },
+    {
+      "y": 285.2,
+      "tex": "(xyz) 系をz 軸まわりに \\chi  だけ回したもの。"
+    },
+    {
+      "y": 318.2,
+      "tex": "ファイル「変換行列 (xyz).doc」において、\\phi  = 0, \\theta  = 0と置いて、以下の関係式が求まる。"
+    },
+    {
+      "y": 350.2,
+      "tex": "(ppp)\\chi_{XXX} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xxx}\\cos \\chi"
+    },
+    {
+      "y": 367.2,
+      "tex": "- (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{yyy}\\sin \\chi"
+    },
+    {
+      "y": 383.2,
+      "tex": "\\chi_{XZZ} =\\chi_{xzz}\\cos \\chi  + \\chi_{yzz}\\sin \\chi"
+    },
+    {
+      "y": 400.2,
+      "tex": "\\chi_{ZXZ} = \\chi_{zxz}\\cos \\chi  + \\chi_{zyz}\\sin \\chi"
+    },
+    {
+      "y": 416.2,
+      "tex": "\\chi_{ZZX} = \\chi_{zzx}\\cos \\chi  + \\chi_{zzy}\\sin \\chi"
+    },
+    {
+      "y": 432.2,
+      "tex": "\\chi_{ZXX} = (1/2)[(\\chi_{zxx} + \\chi_{zyy}) + (\\chi_{zxx} - \\chi_{zyy})\\cos 2\\chi ] + (1/2)(\\chi_{zxy} + \\chi_{zyx})\\sin 2\\chi"
+    },
+    {
+      "y": 449.2,
+      "tex": "\\chi_{XZX} = (1/2)[(\\chi_{xzx} + \\chi_{yzy}) + (\\chi_{xzx} - \\chi_{yzy})\\cos 2\\chi ] + (1/2)(\\chi_{yzx} + \\chi_{xzy})\\sin 2\\chi"
+    },
+    {
+      "y": 465.2,
+      "tex": "\\chi_{XXZ} = (1/2)[(\\chi_{xxz} + \\chi_{yyz}) + (\\chi_{xxz} - \\chi_{yyz})\\cos 2\\chi ] + (1/2)(\\chi_{xyz} + \\chi_{yxz})\\sin 2\\chi"
+    },
+    {
+      "y": 482.2,
+      "tex": "\\chi_{ZZZ} = \\chi_{zzz}"
+    },
+    {
+      "y": 514.2,
+      "tex": "(spp) \\chi_{YXX} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{xyy}\\sin \\chi"
+    },
+    {
+      "y": 531.2,
+      "tex": "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yxx}\\cos \\chi"
+    },
+    {
+      "y": 547.2,
+      "tex": "\\chi_{YZZ} = -\\chi_{xzz}\\sin \\chi  + \\chi_{yzz}\\cos \\chi"
+    },
+    {
+      "y": 564.2,
+      "tex": "\\chi_{YZX} = -(1/2)(\\chi_{xzx} - \\chi_{yzy})\\sin 2\\chi  + (1/2)[(\\chi_{yzx} - \\chi_{xzy}) + (\\chi_{yzx} + \\chi_{xzy})\\cos 2\\chi ]"
+    },
+    {
+      "y": 580.2,
+      "tex": "\\chi_{YXZ} = -(1/2)(\\chi_{xxz} - \\chi_{yyz})\\sin 2\\chi  + (1/2)[(\\chi_{yxz} - \\chi_{xyz}) + (\\chi_{yxz} + \\chi_{xyz})\\cos 2\\chi ]"
+    },
+    {
+      "y": 613.2,
+      "tex": "(ssp)\\chi_{YYX} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yyx}\\cos \\chi"
+    },
+    {
+      "y": 629.2,
+      "tex": "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{xxy}\\sin \\chi"
+    },
+    {
+      "y": 646.2,
+      "tex": "\\chi_{YYZ} = (1/2)[(\\chi_{xxz} + \\chi_{yyz}) - (\\chi_{xxz} - \\chi_{yyz})\\cos 2\\chi ] - (1/2)(\\chi_{xyz} + \\chi_{yxz})\\sin 2\\chi"
+    },
+    {
+      "y": 678.2,
+      "tex": "(psp)\\chi_{XYX} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{yxy}\\sin \\chi"
+    },
+    {
+      "y": 695.2,
+      "tex": "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xyx}\\cos \\chi"
+    },
+    {
+      "y": 711.2,
+      "tex": "\\chi_{ZYZ} = -\\chi_{zxz}\\sin \\chi  + \\chi_{zyz}\\cos \\chi"
+    },
+    {
+      "y": 728.2,
+      "tex": "\\chi_{XYZ} = -(1/2)(\\chi_{xxz} - \\chi_{yyz})\\sin 2\\chi  + (1/2)[(\\chi_{xyz} - \\chi_{yxz}) + (\\chi_{xyz} + \\chi_{yxz})\\cos 2\\chi ]"
+    },
+    {
+      "y": 744.2,
+      "tex": "\\chi_{ZYX} = -(1/2)(\\chi_{zxx} - \\chi_{zyy})\\sin 2\\chi  + (1/2)[(\\chi_{zyx} - \\chi_{zxy}) + (\\chi_{zyx} + \\chi_{zxy})\\cos 2\\chi ]"
+    }
+  ],
+  "2": [
+    {
+      "y": 104.2,
+      "tex": "(sps)\\chi_{YXY} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yxy}\\cos \\chi"
+    },
+    {
+      "y": 121.2,
+      "tex": "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{xyx}\\sin \\chi"
+    },
+    {
+      "y": 137.2,
+      "tex": "\\chi_{YZY} = (1/2)[(\\chi_{xzx} + \\chi_{yzy}) - (\\chi_{xzx} - \\chi_{yzy})\\cos 2\\chi ] - (1/2)(\\chi_{yzx} + \\chi_{xzy})\\sin 2\\chi"
+    },
+    {
+      "y": 170.2,
+      "tex": "(pps)\\chi_{XXY} = -(1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{yyx}\\sin \\chi"
+    },
+    {
+      "y": 186.2,
+      "tex": "+ (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xxy}\\cos \\chi"
+    },
+    {
+      "y": 203.2,
+      "tex": "\\chi_{ZZY} = -\\chi_{zzx}\\sin \\chi  + \\chi_{zzy}\\cos \\chi"
+    },
+    {
+      "y": 219.2,
+      "tex": "\\chi_{ZXY} = -(1/2)(\\chi_{zxx} - \\chi_{zyy})\\sin 2\\chi  + (1/2)[(\\chi_{zxy} - \\chi_{zyx}) + (\\chi_{zxy} + \\chi_{zyx})\\cos 2\\chi ]"
+    },
+    {
+      "y": 236.2,
+      "tex": "\\chi_{XZY} = -(1/2)(\\chi_{xzx} - \\chi_{yzy})\\sin 2\\chi  + (1/2)[(\\chi_{xzy} - \\chi_{yzx}) + (\\chi_{xzy} + \\chi_{yzx})\\cos 2\\chi ]"
+    },
+    {
+      "y": 268.2,
+      "tex": "(pss)\\chi_{XYY} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{xyy}\\cos \\chi"
+    },
+    {
+      "y": 285.2,
+      "tex": "+ (1/4) (\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\sin \\chi  + \\sin 3\\chi ) + \\chi_{yxx}\\sin \\chi"
+    },
+    {
+      "y": 301.2,
+      "tex": "\\chi_{ZYY} = (1/2)[(\\chi_{zxx} + \\chi_{zyy}) - (\\chi_{zxx} - \\chi_{zyy})\\cos 2\\chi ] - (1/2)(\\chi_{zxy} + \\chi_{zyx})\\sin 2\\chi"
+    },
+    {
+      "y": 334.2,
+      "tex": "(sss) \\chi_{YYY} = (1/4)(\\chi_{xxx} - \\chi_{yyx} - \\chi_{xyy} - \\chi_{yxy})(\\sin \\chi  + \\sin 3\\chi ) - \\chi_{xxx}\\sin \\chi"
+    },
+    {
+      "y": 350.2,
+      "tex": "- (1/4)(\\chi_{yyy} - \\chi_{xxy} - \\chi_{xyx} - \\chi_{yxx})(\\cos \\chi  - \\cos 3\\chi ) + \\chi_{yyy}\\cos \\chi"
+    }
+  ]
+}

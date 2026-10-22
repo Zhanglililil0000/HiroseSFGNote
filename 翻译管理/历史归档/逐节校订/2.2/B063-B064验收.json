@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-19",
+  "batches": [
+    "B063",
+    "B064"
+  ],
+  "scope": "p3—5，完整第3部分六类源点、图3.1及路径汇总",
+  "sourceClasses": 6,
+  "restoredImages": 3,
+  "completedMathFragments": 167,
+  "prefixMatchesBatches": true,
+  "part4OnwardUnchanged": true,
+  "sectionComplete": false
+}

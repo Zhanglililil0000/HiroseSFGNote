@@ -1,0 +1,13 @@
+{
+  "batch": "B229",
+  "date": "2026-10-20",
+  "pages": [
+    1,
+    2
+  ],
+  "units": "L定义、上下传播方向、省略公共因子、15组完整L系数",
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76",
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "next": "B230：p2的2.1符号定义；逐项核a₀/b₀星号、a/b与αβγ、四矩阵及Z"
+}

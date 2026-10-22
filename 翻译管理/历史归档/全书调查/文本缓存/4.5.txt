@@ -1,0 +1,5121 @@
+===== PDF p.1 =====
+(CH ) X 基の取扱い
+3 2
+目次
+1．序論 1
+2．座標系とメチル基の配向 1
+3．振動バンド 2
+4．(CH)X 基の対称性 2
+32
+5．分子固定SFGテンソル 3
+自由回転 3
+f = f = 0, p （三角形が２つとも下向き又は２つとも上向き） 3
+A B
+f = f „ 0, p （２つの三角形が反発しあうようにずれている） 4
+A B
+f = 0, f = p または f = p , f = 0（１つの三角形は下向き、もう１つの三角形は下向き） 4
+A B A B
+f = -f „ 0, p （２つの三角形が同じ側にかしいでいる。） 5
+A B
+6．空間固定 (XYZ) 系におけるテンソル成分 5
+自由回転・ランダム配向（一般的な配向に対する表式は付録 B に示す。） 6
+f = f = 0, p ・ランダム配向（一般的な配向に対する表式は付録 C に示す。） 9
+A B
+f = f „ 0, p ・ランダム配向（一般的な配向に対する表式は付録 Dに示す。） 12
+A B
+f = 0, f = p または f = p , f = 0（１つの三角形は下向き、もう１つの三角形は下向き） 16
+A B A B
+付録 A：(CH)X 基のSFGテンソル 19
+32
+付録 B：自由回転しているときの (XYZ) 系でのテンソル成分 21(25)
+付録 C：f = f = 0, p のときの (XYZ) 系でのテンソル成分 29(33)
+A B
+付録 D：f = f „ 0, p のときの (XYZ) 系でのテンソル成分 38(42)
+A B
+付録 E：f = 0, f = p または f = p , f = 0 のときの (XYZ) 系でのテンソル成分 49(53)
+A B A B
+付録 F:空間固定(XYZ)系でのテンソル成分（一般式） 58(62)
+（括弧内は縮重振動起源のモードに対するもの）
+1．序論
+２個のメチル基を持つ分子のCH伸縮振動に対するSFGテンソルを考えてみよう。アセトンやジメ
+チルエーテルなどのように同じ原子に２個のメチル基がついている分子や、ブチレン、ジメチルアセ
+チレンが代表例であるが、それ以外にも、１個の原子から２本のアルキル鎖が出ている分子で、何ら
+かの理由で末端メチル基が一定の相対配向を取る場合には、ここで示す結果が使えるはずである。
+メチル基はC の対称を持つものとする。また、(CH)X基を想定すると、メチル基の内部回転が
+3v 32
+自由回転である場合に系はC の対称を持つ。SFGテンソルについては、ベクトルに戻って考えるこ
+2v
+とが出来るから、２つのメチル基が空間的に離れている場合でも、モデル的には (CH)X基を想定し
+32
+て議論することが許される。
+2．座標系とメチル基の配向
+(1)．メチル基に固定した座標系；(abc) 系：C 軸上、C 原子からH原子に向けてc軸を取り、３個
+3
+のCH結合の１つがac 面の上に乗るようにする。
+(2)．(CH)X基に固定した座標系；(xyz) 系：２個のメチル基のC 軸の２等分線に沿ってz 軸を取
+32 3
+2個のCH - 1
+3
+
+===== PDF p.2 =====
+り、X原子からメチル基の方向を正方向とする。２個のメC 軸が作る平面の上にx軸を取る。
+3
+(3)．メチル基の配向：z軸とメチル基のC 軸がなす角（即ちCXC 角の半分）を a とする。また、
+3
+２個のメチル基を下付きA、B で区別するとき、それぞれのメチル基の内部回転角を f 、f と表す。
+A B
+メチル基の３個のH原子が作る正三角形の頂点が表面に向いている状態を基準に取り、このときの内
+部回転角を f = 0、f = 0 とする。正三角形の辺が表面に寄っている時の内部回転角は180˚ である。
+A B
+CXC 面内の鋭角側にCH結合が載る状態が f = 0、鈍角側に載る状態が f = p になる。
+内部回転角による違いを生じるのは「縮重振動」バンドに対するSFGテンソルだけである。よって、
+メチル基の相対的な配向や回転の様子は、縮重バンドの様子から知ることが出来る。
+(４)．オイラー角；(c , q , f )：２個のメチル基の座標系を分子固定系に重ねるときのオイラー角は、CXC
+角を2a として、(0, a , f ) と (p , a , f ) である（こうなるようにb軸の向きを決める）。
+上の定義に従って求めたテンソル成分の一般式を付録 Aに示す。縮重バンドの表式が内部回転角
+に依存する形になっていることがわかる。（傾き角 q に関しては、表で使っている sinq 、sin2q 、sin3q
+の形の三角関数ではなく、下の関係式を使って変換した sinq 、cosq のべき乗による表式を採用した。)
+sin2q = 2sinq cosq , cos2q = cos2q - sin2q = 2cos2q - 1 = 1 - 2sin2q
+sin3q = 3sinq - 4sin3q , sinq + sin3q = 4(sinq - sin3q )
+cos3q = 4cos3q - 3cosq , cosq - cos3q = 4(cosq - cos3q )
+本文では、いくつかの典型的な相対配向について (xyz) 系でのテンソル成分を示そう。なお、(CH)X
+32
+としての対称性は、２つのメチル基の相互配向によって違ったものになる。
+3．振動バンド
+メチル基の全対称モードと縮重モードについて、２個のメチル基の対が (CH)Xタイプのグループ
+32
+を作っている場合の挙動は、下記のように整理することが出来る。
+(1)．全対称振動：２個の CH 基がそれぞれ持っている全対称振動モードが、互いに位相をそろえて
+3
+振動する対称振動と逆位相で振動する逆対称振動を作る。前者はz 軸に沿った振動モード、後者はx 軸
+に沿った振動モードで、ともにCXC 面内の振動である。ただし、CXC 角が0 または p のとき、す
+なわち a = 0 または p /2 のときには、x 軸方向の対称振動と逆対称振動になる。
+(2)．縮重振動：１個のCH 基あたりの縮重振動の自由度は２であるから、(CH)X タイプになった
+3 32
+ときの振動自由度は４になる。CH 基に固定された (abc) 座標系での縮重振動は、a軸方向の振動と
+3
+b軸方向の振動で構成される。２個のCH 基で構成される系では、a軸方向の振動の対から、同位相
+3
+振動がz 軸に沿った振動になり、逆位相振動の振動がx 軸に沿った振動になる。この２モードは、
+分子面の上に乗った振動である。a = 0 または p /2 のときには、y軸まわり、すなわち、CXC 軸対し
+て同じ方向と互いに逆方向折れ曲がる２種類の振動運動になる。
+一方、a軸方向の振動の対から作られるのは、同位相の振動が分子面に垂直な y 軸方向の振動にな
+り、逆位相の振動がCXC 角の２等分線のまわりでのねじれ振動になる。(CH)XがC 対称を持つ場
+32 2v
+合には、ねじれ振動は赤外吸収とラマン散乱の両方に不活性なa 対称になり、その振動ベクトルは
+2
+３つの座標軸のどれにも乗らない（軸性ベクトルになる）。a = 0 または p /2 のときには、上に記し
+たa軸方向の振動と同様になるが、上とは垂直方向への振動である。
+2個のCH - 2
+3
+
+===== PDF p.3 =====
+以後の導出では、２個のメチル基が直線上に並ぶ場合（２本のC 軸が１本の直線に乗る場合、す
+3
+なわち、a = 0 または p /2 の場合）を除外する。CXC 部分の対称性がC からD に変わることか
+2v ¥ h
+ら予想できることだが、議論がほぼ２倍に膨らんでしまうからである。
+4．(CH)X基の対称性
+32
+CXC 部分が折れ曲がっているとするときでも、メチル基がどのような内部回転角を取っているかに
+よって、(CH)X基の対称性は下のように分かれる。
+32
+自由回転をしているときにはC 対称
+2v
+f = f = 0またはp のときにはC 対称
+A B 2v
+f = f „ 0またはp のときにはC 対称（z axis）
+A B 2
+f = 0, f = p または f = p , f = 0のときにはC 対称（xz plane）
+A B A B s
+f = -f „ 0のときにはC 対称（yz-plane）
+A B s
+f „ ±f のときには対称無し（C 対称；おそらくはC A · C B タイプの積表現が正しい）。
+A B 1 3v 3v
+（厳密に扱うには、置換・回転群（Bunker の教科書）による解析と分類が適切であろう。）
+5．分子固定 SFGテンソル
+自由回転
+内部回転角 f とf がからむ項を除いたものにすればよい。
+A B
+［全対称バンド］ b >> ß , ß のときには、 ß ~ (4/9) ß , ß ~ (1/9) ß である。
+zzz xxz h hz aac zzz ccc zzz
+(a ) ß = -2(ß - ß )(cosa - cos3a ) + 2ß cosa
+1 xxz aac ccc aac
+ß = +2ß cosa
+yyz aac
+ß = +2(ß - ß )(cosa - cos3a ) + 2ß cosa
+zzz aac ccc ccc
+(b) ß = -2(ß - ß )(cosa - cos3a )
+1 zxx aac ccc
+ß = -2(ß - ß )(cosa - cos3a )
+xzx aac ccc
+［縮重バンド］ ß >> ß , ß のときには、 ß ~ (4/9) ß , ß ~ 4 2/9 ß である。
+zzz xxz h hz caa zzz aaa zzz
+(a ) ß = -2ß (cosa - cos3a )
+1 xxz caa
+ß = 0
+yyz
+ß = 2ß (cosa - cos3a )
+zzz caa
+(b) ß = -ß (cosa - 2cos3a )
+1 zxx caa
+ß = -ß (cosa - 2cos3a )
+xzx caa
+(b) ß = ß cosa
+2 zyy caa
+ß = ß cosa
+yzy caa
+f = f = 0, p （三角形が2つとも下向き又は2つとも上向き）
+A B
+f = f = 0のときにはcosf = cosf = cos2f = cos2f = cos3f = cos3f = +1、f = f = p のときには、
+A B A B A B A B A B
+cosf = cosf = cos3f = cos3f = -1、cos2f = cos2f = +1である。
+A B A B A B
+2個のCH - 3
+3
+(cid:160)
+
+===== PDF p.4 =====
+［全対称バンド］ b >> ß , ß のときには、 ß ~ (4/9) ß , ß ~ (1/9) ß である。
+zzz xxz h hz aac zzz ccc zzz
+(a ) ß = -2(ß - ß )(cosa - cos3a ) + 2ß cosa
+1 xxz aac ccc aac
+ß = +2ß cosa
+yyz aac
+ß = +2(ß - ß )(cosa - cos3a ) + 2ß cosa
+zzz aac ccc ccc
+(b) ß = -2(ß - ß )(cosa - cos3a )
+1 zxx aac ccc
+ß = -2(ß - ß )(cosa - cos3a )
+xzx aac ccc
+［縮重バンド］ ß >> ß , ß のときには、 ß ~ (4/9) ß , ß ~ 4 2/9 ß である。。
+zzz xxz h hz caa zzz aaa zzz
+（ß とß にはb軸方向の振動が、他の成分にはa軸方向の振動が寄与する。）
+zyy yzy
+（± 記号については、上側が f = f = 0に、下側が f = f = p に対応する。）
+A B A B
+(a ) ß = 2[-2ß (cosa - cos3a ) ± ß (sina - sin3a )]
+1 xxz caa aaa
+ß = -(±2) ß sina
+yyz aaa
+ß = 2[2ß (cosa - cos3a ) ± ß sin3a ]
+zzz caa aaa
+(b) ß = -2[ß (cosa - cos3a ) ± ß (sina - sin3a )]
+1 zxx caa aaa
+ß = -2[ß (cosa - cos3a ) ± ß (sina - sin3a )]
+xzx caa aaa
+(b) ß = 2[ß cosa - (±) ß sina ]
+2 zyy caa aaa
+ß = 2[ß cosa - (±) ß sina ]
+yzy caa aaa
+f = f „ 0, p （2つの三角形が反発しあうようにずれている）
+A B
+sin(nf ) = -sin(nf )、cos(nf ) = cos(nf ) である。
+B A B A
+［全対称バンド］ b >> ß , ß のときには、 ß ~ (4/9) ß 、ß ~ (1/9) ß である。
+zzz xxz h hz aac zzz ccc zzz
+ß = -2(ß - ß )(cosa - cos3a ) + 2ß cosa
+xxz aac ccc aac
+ß = +2ß cosa
+yyz aac
+ß = +2(ß - ß )(cosa - cos3a ) + 2ß cosa
+zzz aac ccc ccc
+(cid:160) ß = -2(ß - ß )(cosa - cos3a )
+zxx aac ccc
+ß = -2(ß - ß )(cosa - cos3a )
+xzx aac ccc
+［縮重バンド］ ß >> ß , ß のときには、 ß ~ (4/9) ß 、ß ~ 4 2/9 ß である。
+zzz xxz h hz caa zzz aaa zzz
+（面外振動と面内振動を分ける際に便利なので、a軸方向の振動とb軸方向の振動を区別する。）
+（± 記号の上側がa軸方向の振動、下側がb軸方向の振動に対応する。）
+ß = -ß (cosa - 2cos3a )(1 ± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+zxx caa A aaa A A
+ß = -ß (cosa - 2cos3a )(1 ± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+xzx caa A aaa A A
+ß = ß cosa [1 - (±)cos2f ] - ß sina [cos3f - (±)cosf ]
+zyy caa A aaa A A
+ß = ß cosa [1 - (±)cos2f ] - ß sina [cos3f - (±)cosf ]
+yzy caa A aaa A A
+ß = -2ß (cosa - cos3a )(1 ± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+xxz caa A aaa A A
+ß = -ß sina (cos3f ± cosf )
+yyz aaa A A
+ß = 2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )
+zzz caa A aaa A A
+2個のCH - 4
+3
+(cid:160)
+
+===== PDF p.5 =====
+ß = -(±)ß cos2a sin2f - ß sina cosa (sin3f ± sinf )
+yzx caa A aaa A A
+ß = -(±)ß cos2a sin2f - ß sina cosa (sin3f ± sinf )
+zyx caa A aaa A A
+ß = -(±)ß (2cos2a - 1)sin2f - ß sina cosa [sin3f - (±)sinf ]
+zxy caa A aaa A A
+ß = -(±)ß (2cos2a - 1)sin2f - ß sina cosa [sin3f - (±)sinf ]
+xzy caa A aaa A A
+ß = ±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )
+xyz caa A aaa A A
+ß = ±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )
+yxz caa A aaa A A
+f = 0, f = p またはf = p , f = 0（１つの三角形は下向き、もうひとつの三角形は下向き）
+A B A B
+［全対称バンド］ b >> ß , ß のときには、 ß ~ (4/9) ß 、ß ~ (1/9) ß である。
+zzz xxz h hz aac zzz ccc zzz
+ß = -2(ß - ß )(cosa - cos3a ) + 2ß cosa
+xxz aac ccc aac
+ß = +2ß cosa
+yyz aac
+ß = +2(ß -ß )(cosa - cos3a ) + 2ß cosa
+zzz aac ccc ccc
+ß = -2(ß - ß )(cosa - cos3a )
+zxx aac ccc
+ß = -2(ß - ß )(cosa - cos3a )
+xzx aac ccc
+［縮重バンド］ ß >> ß , ß のときには、 ß ~ (4/9) ß 、ß ~ 4 2/9 ß である。
+zzz xxz h hz caa zzz aaa zzz
+（ß とß にはb軸方向の振動が、他の成分にはa軸方向の振動が寄与する。）
+zyy yzy
+（± 記号の上側は f = 0、f = p に、下側は f = p 、f = 0に対応する。）
+A B A B
+ß = -2ß (cosa - 2cos3a )
+zxx caa
+ß = -2ß (cosa - 2cos3a )
+xzx caa
+ß = 2ß cosa
+zyy caa
+ß = 2ß cosa
+yzy caa
+ß = -4ß (cosa - cos3a )
+xxz caa
+ß = 0
+yyz
+ß = 4ß (cosa - cos3a )
+zzz caa
+f = -f „ 0, p （2つの三角形が同じ側にかしいでいる。）
+A B
+［全対称バンド］ b >> ß , ß のときには、 ß ~ (4/9) ß 、ß ~ (1/9) ß である。
+zzz xxz h hz aac zzz ccc zzz
+ß = -2(ß - ß )(cosa - cos3a ) + 2ß cosa
+xxz aac ccc aac
+ß = +2ß cosa
+yyz aac
+ß = +2(ß - ß )(cosa - cos3a ) + 2ß cosa
+zzz aac ccc ccc
+ß = -2(ß - ß )(cosa - cos3a )
+zxx aac ccc
+ß = -2(ß - ß )(cosa - cos3a )
+xzx aac ccc
+(cid:160)
+［縮重バンド］
+（± 記号の上側がa軸方向の振動、下側がb軸方向の振動に対応する。）
+ß = -ß (cosa - 2cos3a )(1 ± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+zxx caa A aaa A A
+ß = - ß (cosa - 2cos3a )(1 ± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+xzx caa A aaa A A
+2個のCH - 5
+3
+
+===== PDF p.6 =====
+ß = ß cosa [1 - (±)cos2f ] - ß sina [cos3f - (±)cosf ]
+zyy caa A aaa A A
+ß = ß cosa [1 - (±)cos2f ] - ß sina [cos3f - (±)cosf ]
+yzy caa A aaa A A
+ß = -2ß (cosa - cos3a )(1 ± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+xxz caa A aaa A A
+ß = -ß sina (cos3f ± cosf )
+yyz aaa A A
+ß = 2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )
+zzz caa A aaa A A
+ß = ±ß sina cosa sin2f - ß cos2a (sin3f ± sinf )
+yxx caa A aaa A A
+ß = ±ß sina cosa sin2f - ß cos2a (sin3f ± sinf )
+xyx caa A aaa A A
+ß = ±2ß sina cosa sin2f - ß cos2a [sin3f - (±)sinf ]
+xxy caa A aaa A A
+ß = ß [sin3f - (±)sinf ]
+yyy aaa A A
+ß = -(±)2ß sina cosa sin2f - ß sin2a [sin3f - (±)sinf ]
+zzy caa A aaa A A
+ß = -ß sina cosa sin2f - ß sin2a (sin3f ± sinf )
+yzz caa A aaa A A
+ß = -ß sina cosa sin2f - ß sin2a (sin3f ± sinf )
+zyz caa A aaa A A
+6．空間固定(XYZ)系におけるテンソル成分
+分子固定 (xyz) 系が、オイラー角 (c , q , f ) によって空間固定 (XYZ) 系に重なるものとしよう。こ
+のときに、(XYZ) 系でのテンソル成分を一般的に求めると付録 Fのようになる。
+なお、式中で用いられるオイラー角と (CH)X基の配向の関係は、次のようになる。
+32
+(1) 内部回転角 f ：CXC 面の（表面に対する）ねじれ角である。z軸まわりの回転で分子面を表面と
+垂直にするために必要な回転角、あるいは、-Z軸の ab 面への射影にx軸を重ねるための回転角でも
+ある。ここでのZ軸の向きでは、X軸を見てy軸が左側に来るので、CXC 面が右上がりになってい
+る場合がプラス（< 90˚）回転になる。（x軸に沿ったベクトルとX軸方向のベクトルの内積がプラス
+になる方向で重ねる。）(a) 分子面が表面に垂直なときには f = 0 or p 、CXC 面が表面と向き合ってい
+るときには f = p /2 or 3p /2である。(b) ２個のメチル基が等価な場合は、内部回転角が f の (CH)X
+32
+基に対して内部回転角が -f の (CH)X基が同数存在する。(c) (CH)X基が自由回転をしているか
+32 32
+あるいはランダムな内部回転角を取っている場合には f は0 ~ 2p の任意の値を同じウェイトで取る。
+(2) 傾き角・tilt角 q ：通常の定義に合わせて、z軸（CXC の２等分線）と外向きの法線の間の角と
+tilt
+定義し、N軸まわりの回転でz軸を外向きの法線に重ねる方向をプラス回転とする。Z軸は下向きの
+法線であるから、オイラー角 q はp - q である。また、(CH)X基が2個のCH を真空側に向けて
+tilt 32 3
+いるときには q < p /2である。
+tilt
+(3) 面内配向角 c (c と略記する)： z軸の XY 面への射影をZ軸まわりの回転でX軸に重ね
+in-plane ip
+るための回転角とする。ここでのZ軸の向きでは、X軸の方向に見て射影が左側にあるときがプラス
+になる。Z軸を基板の内部に向けて取っているので、対応するオイラー角 c はp /2 + c である。(a) 射
+ip
+影したCXC の２等分線がX軸から角 a だけずれているときには、y軸とY軸がなす角も a である。
+射影したCXC の２等分線が八の字形にX軸から左右交互にずれているときには c は +a と -a で
+ip
+表される。(b) 面内配向がランダムなときには、c は0 ~ 2p の任意の値を同じウェイトで取る。
+ip
+本稿では、現実の系で起こりそうないくつかのケース、すなわち、メチル基が自由回転しているケ
+ース、f = f = 0 または p で固定されているケース、f = f „ 0, p で固定されているケース、さら
+A B A B
+に、f = 0, f = p または f = p , f = 0で固定されているケース、におけるテンソル成分を示す。４つ
+A B A B
+2個のCH - 6
+3
+
+===== PDF p.7 =====
+のケースに共通することは、下記の事実である。
+全対称振動では、ß = ß
+zxx xzx
+縮重振動では、ß = ß 、ß = ß 、（最後のケースでは次も）ß = ß 、ß = ß 、ß = ß
+zxx xzx zyy yzy yzx zyx zxy xzy xyz yxz
+なお、一般的な空間配向に対する表式は長くなるのでそれぞれ付録 B、付録 C、付録 D、付録 E に
+示し、本文では面内配向がランダムな場合に対する表式だけを記す。（さらに表面に対するCXC 面
+の配向角 (f ) もランダムな場合に対しては下で cos(nf ) = 0, sin(nf ) = 0 と置けばよい。）
+その他の配向に対する表式は、「CH 基の配向とSFGテンソル」および「CH 基の配向とSFGテ
+3 2
+ンソル」を参照して求めればよい。
+自由回転・ランダム配向（一般的な配向に対する表式は付録B に示す。）
+［全対称バンド］ ß >> ß , ß のときには ß ~ (4/9) ß 、ß ~ (1/9) ß である。
+zzz xxz h hz aac zzz ccc zzz
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyz zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a ) であるから、
+zxx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+XZX aac ccc
+c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZXX aac ccc
+c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+XXZ aac ccc
+- 2(cosa - cos3a )cosq }
++ 2ß cosa cosq
+aac
+c = -(ß - ß )[(cosa - cos3a )(1 + cos2f )(cosq - cos3q ) + 2cos3a cos3q ]
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+YZX aac ccc
+(ssp) c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+YYZ aac ccc
+- 2(cosa - cos3a )cosq }
++ 2ß cosa cosq
+aac
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZYX aac ccc
+(sps) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+YZY aac ccc
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+XZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZXY aac ccc
+(pss) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZYY aac ccc
+2個のCH - 7
+3
+
+===== PDF p.8 =====
+(sss) (none)
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+XX aac ccc
+c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+XZX aac ccc
+c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) (none)
+(ssp) c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+YYZ aac ccc
+(psp) (none)
+(sps) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+YZY aac ccc
+(pps) (none)
+(pss) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZYY aac ccc
+(sss) (none)
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2 ß (cosa - cos3a )
+xxz yyz caa
+ß - ß = -2 ß (cosa - cos3a )
+xxz yyz caa
+ß + ß - 2 ß = -6 ß (cosa - cos3a )
+xxz yyz zzz caa
+ß = -ß (cosa - cos3a )
+zxx caa
+ß = ß cosa であるから、
+zyy caa
+［対称 (a) 振動］
+1
+(ppp) c = (1/2)ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+XZX caa
+c = (1/2)ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+ZXX caa
+c = -ß (cosa - cos3a )[cosq - (1/2)(cosq - cos3q )(3 + cos2f )]
+XXZ caa
+c = ß (cosa - cos3a )[cosq - 3cos3q + (cosq - cos3q )cos2f ]
+ZZZ caa
+(spp) c = -(1/2)ß (cosa - cos3a )sin2q sin2f
+YZX caa
+(ssp) c = -ß (cosa - cos3a )[cosq - (1/2)(cosq - cos3q )(3 + cos2f )]
+YYZ caa
+(psp) c = -(1/2)ß (cosa - cos3a )sin2q sin2f
+ZYX caa
+(sps) c = (1/2)ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+YZY caa
+(pps) c = -(1/2)ß (cosa - cos3a )sin2q sin2f
+XZY caa
+2個のCH - 8
+3
+
+===== PDF p.9 =====
+c = -(1/2)ß (cosa - cos3a )sin2q sin2f
+ZXY caa
+(pss) c = (1/2)ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+ZYY caa
+(sss) (none)
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(1/2)b (cosa - 2cos3a )[cosq - (1 + cos2f )(cosq - cos3q )]
+ZXX caa
+c = -(1/2)b (cosa - 2cos3a )[cosq - (1 + cos2f )(cosq - cos3q )]
+XZX caa
+c = (1/2)b (cosa - 2cos3a )(1 + cos2f )(cosq - cos3q )
+XXZ caa
+c = -b (cosa - 2cos3a )(1 + cos2f )(cosq - cos3q )
+ZZZ caa
+(spp) (none)
+(ssp) c = (1/2)b (cosa - 2cos3a )(1 + cos2f )(cosq - cos3q )
+YYZ caa
+(psp) (none)
+(sps) c = -(1/2)b (cosa - 2cos3a )[cosq - (1 + cos2f )(cosq - cos3q )]
+YZY caa
+(pps) (none)
+(pss) c = -(1/2)b (cosa - 2cos3a )[cosq - (1 + cos2f )(cosq - cos3q )]
+ZYY caa
+(sss) (none)
+［面外 (b ) 振動］
+2
+(ppp) c = (1/2)b cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+ZXX caa
+c = (1/2)b cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+XZX caa
+c = -(1/2)b cosa (cosq - cos3q )(1 - cos2f )
+XZ caa
+c = b cosa (cosq - cos3q )(1 - cos2f )
+ZZZ caa
+(spp) (none)
+(ssp) c = -(1/2)b cosa (cosq - cos3q )(1 - cos2f )
+YYZ caa
+(psp) (none)
+(sps) c = (1/2)b cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+YZY caa
+(pps) (none)
+(pss) c = (1/2)b cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+ZYY caa
+(sss) (none)
+f = f = 0, p ・ランダム配向（一般的な配向に対する表式は付録 Cに示す。）
+A B
+［全対称バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (1/9) b である。
+zzz xxz h hz aac zzz ccc zzz
+2個のCH - 9
+3
+
+===== PDF p.10 =====
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyz zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a ) であるから、
+zxx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+XZX aac ccc
+c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZXX aac ccc
+c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q ) - 2(cosa - cos3a )cosq }
+XXZ aac ccc
++ 2ß cosa cosq
+aac
+c = -(ß - ß )[(cosa - cos3a )(1 + cos2f )(cosq - cos3q ) + 2cos3a cos3q ]
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+YZX aac ccc
+(ssp) c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q ) - 2(cosa - cos3a )cosq }
+YYZ aac ccc
++ 2ß cosa cosq
+aac
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZYX aac ccc
+(sps) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+YZY aac ccc
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+XZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZXY aac ccc
+(pss) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZYY aac ccc
+(sss) (none)
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZXX aac ccc
+c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+XZX aac ccc
+c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) (none)
+(ssp) c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+YYZ aac ccc
+(psp) (none)
+(sps) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+YZY aac ccc
+(pps) (none)
+2個のCH - 10
+3
+
+===== PDF p.11 =====
+(pss) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZYY aac ccc
+(sss) (none)
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが実際には３つに分裂するが、重なっているときには、以下に示す３つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß =- 4ß (cosa - cos3a ) ± 2ß sin3a
+xxz yyz caa aaa
+ß - ß = -4ß (cosa - cos3a ) ± 2ß (2sina + sin3a )
+xxz yyz caa aaa
+ß + ß - 2ß = -12ß (cosa - cos3a ) - (±)2ß sin3a
+xxz yyz zzz caa aaa
+ß = -2ß (cosa - 2cos3a ) - (±)2ß (sina - sin3a )
+zxx caa aaa
+ß = 2ß cosa - (±)2ß sina であるから、
+zyy caa aaa
+［対称 (a) 振動］
+1
+(ppp) c = ß (cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+XZX caa
+± (1/2)ß [2sina - (2sina + sin3a )(1 + cos2f )](cosq - cos3q )
+aaa
+c = ß (cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZXX caa
+± (1/2)ß [2sina - (2sina + sin3a )(1 + cos2f )](cosq - cos3q )
+aaa
+c = ß (cosa - cos3a )[ - 2cosq + (cosq - cos3q )(1 + cos2f )]
+XXZ caa
+± (1/2)ß [sin3a (cosq + cos3q ) - (2sina + sin3a )(cosq - cos3q )cos2f ]
+aaa
+c = -2ß (cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ caa
+± ß [2sina + sin3a (1 + cos2f )](cosq - cos3q )
+aaa
+(spp) c = -ß (cosa - cos3a )sin2q sin2f
+YZX caa
+± (1/2)ß (2sina + sin3a )]sin2q sin2f
+aaa
+(ssp) c = ß (cosa - cos3a )[ - 2cosq + (cosq - cos3q )(1 + cos2f )]
+YYZ caa
+± (1/2)ß [sin3a (cosq + cos3q ) - (2sina + sin3a )(cosq - cos3q )cos2f ]
+aaa
+(psp) c = -ß (cosa - cos3a )sin2q sin2f
+ZYX caa
+± (1/2)ß (2sina + sin3a )]sin2q sin2f
+aaa
+(sps) c = ß (cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+YZY caa
+± (1/2)ß [2sina - (2sina + sin3a )(1 + cos2f )](cosq - cos3q )
+aaa
+(pps) c = -ß (cosa - cos3a )sin2q sin2f
+XZY caa
+± (1/2)ß (2sina + sin3a )]sin2q sin2f
+aaa
+c = -ß (cosa - cos3a )sin2q sin2f
+ZXY caa
+± (1/2)ß (2sina + sin3a )]sin2q sin2f
+aaa
+(pss) c = ß (cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZYY caa
+± (1/2)ß [2sina - (2sina + sin3a )(1 + cos2f )](cosq - cos3q )
+aaa
+(sss) (none)
+2個のCH - 11
+3
+
+===== PDF p.12 =====
+［逆対称 (b ) 振動］
+1
+(b >> b ~ b とすると、b = b (cosa - cos3a ) ~ 2(cid:214) 3/9 b (Td)、3/8 b (sp2)である。)
+xxz xxz h hz caa zzz zzz zzz
+(ppp) c = [-ß (cosa - 2cos3a ) - (±)ß (sina - sin3a )][cosq - (cosq - cos3q )(1 + cos2f )]
+ZXX caa aaa
+c = [-ß (cosa - 2cos3a ) - (±)ß (sina - sin3a )][cosq - (cosq - cos3q )(1 + cos2f )]
+XZX caa aaa
+c = -[-ß (cosa - 2cos3a ) - (±)ß (sina - sin3a )](cosq - cos3q )(1 + cos2f )
+XXZ caa aaa
+c = 2[-ß (cosa - 2cos3a ) - (±)ß (sina - sin3a )](cosq - cos3q )(1 + cos2f )
+ZZZ caa aaa
+(spp) (none)
+(ssp) c = -[-ß (cosa - 2cos3a ) - (±)ß (sina - sin3a )](cosq - cos3q )(1 + cos2f )
+YYZ caa aaa
+(psp) (none)
+(sps) c = [-ß (cosa - 2cos3a ) - (±)ß (sina - sin3a )][cosq - (cosq - cos3q )(1 + cos2f )]
+YZY caa aaa
+(pps) (none)
+(pss) c = [-ß (cosa - 2cos3a ) - (±)ß (sina - sin3a )][cosq - (cosq - cos3q )(1 + cos2f )]
+ZYY caa aaa
+(sss) (none)
+［面外 (b ) 振動］
+2
+(ppp) c = [ß cosa - (±)ß sina ][cosq - (cosq - cos3q )(1 - cos2f )]
+ZXX caa aaa
+c = [ß cosa - (±)ß sina ][cosq - (cosq - cos3q )(1 - cos2f )]
+XZX caa aaa
+c = -[ß cosa - (±)ß sina ](cosq - cos3q )(1 - cos2f )
+XXZ caa aaa
+c = 2[ß cosa - (±)ß sina ](cosq - cos3q )(1 - cos2f )
+ZZZ caa aaa
+(spp) (none)
+(ssp) c = -[ß cosa - (±)ß sina ](cosq - cos3q )(1 - cos2f )
+YYZ caa aaa
+(psp) (none)
+(sps) c = [ß cosa - (±)ß sina ][cosq - (cosq - cos3q )(1 - cos2f )]
+YZY caa aaa
+(pps) (none)
+(pss) c = [ß cosa - (±)ß sina ][cosq - (cosq - cos3q )(1 - cos2f )]
+ZYY caa aaa
+(sss) (none)
+f = f „ 0, p ・ランダム配向（一般的な配向に対する表式は付録Dに示す。）
+A B
+［全対称バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (1/9) b である。
+zzz xxz h hz aac zzz ccc zzz
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+2個のCH - 12
+3
+
+===== PDF p.13 =====
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyz zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a ) であるから、
+zxx aac ccc
+［対称(a) 振動］
+1
+(ppp) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+XZX aac ccc
+c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZXX aac ccc
+c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q ) - 2(cosa - cos3a )cosq }
+XXZ aac ccc
++ 2ß cosa cosq
+aac
+c = -(ß - ß )[(cosa - cos3a )(1 + cos2f )(cosq - cos3q ) + 2cos3a cos3q ]
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+YZX aac ccc
+(ssp) c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q ) - 2(cosa - cos3a )cosq }
+YYZ aac ccc
++ 2ß cosa cosq
+aac
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZYX aac ccc
+(sps) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+YZY aac ccc
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+XZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZXY aac ccc
+(pss) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZYY aac ccc
+(sss) (none)
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZXX aac ccc
+c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+XZX aac ccc
+c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) (none)
+(ssp) c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+YYZ aac ccc
+(psp) (none)
+(sps) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+YZY aac ccc
+(pps) (none)
+(pss) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZYY aac ccc
+(sss) (none)
+2個のCH - 13
+3
+
+===== PDF p.14 =====
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2ß (cosa - cos3a )(1± cos2f ) - ß sin3a (cos3f ± cosf )
+xxz yyz caa A aaa A A
+ß - ß = -2ß (cosa - cos3a )(1± cos2f ) + ß (2sina - sin3a )(cos3f ± cosf )
+xxz yyz caa A aaa A A
+ß + ß - 2ß = -6ß (cosa - cos3a )(1± cos2f ) - 3ß sin3a (cos3f ± cosf )
+xxz yyz zzz caa A aaa A A
+ß = -ß (cosa - cos3a )(1± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+zxx caa A aaa A A
+ß = ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )
+zyy caa A aaa A A
+ß = ß = ±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )
+xyz yxz caa A aaa A A
+ß = ß = - (±)ß sin2a sin2f - ß sina cosa (sin3f ± sinf )
+yzx zyx caa A aaa A A
+ß = ß = - (±)ß (2cos2a - 1)sin2f - ß sina cosa (sin3f - (±)sinf ) であるから、
+zxy xzy caa A aaa A A
+［対称 (a) 振動］
+1
+(ppp) c = (3/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß sin3a (cos3f ± cosf )](cosq - cos3q )
+XZX caa A aaa A A
++ (1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]cos2f (cosq - cos3q )
+caa A aaa A A
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = (3/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß sin3a (cos3f ± cosf )](cosq - cos3q )
+ZXX caa A aaa A A
++ (1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]cos2f (cosq - cos3q )
+caa A aaa A A
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = -(1/2)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )]cosq
+XXZ caa A aaa A A
++ (3/4)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )](cosq - cos3q )
+caa A aaa A A
++ (1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]cos2f (cosq - cos3q )
+caa A aaa A A
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = -(1/2)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )]cosq
+ZZZ caa A aaa A A
++ (3/2)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )]cos3q
+caa A aaa A A
+- (1/2)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]cos2f (cosq - cos3q )
+caa A aaa A A
++ [±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(spp) c = -(1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]sin2f sin2q
+YZX caa A aaa A A
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )]sin2q cos2f
+caa A aaa A A
+(ssp) c = -(1/2)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )]cosq
+YYZ caa A aaa A A
++ (3/4)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )](cosq - cos3q )
+caa A aaa A A
++ (1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]cos2f (cosq - cos3q )
+caa A aaa A A
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(psp) c = -(1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]sin2f sin2q
+ZYX caa A aaa A A
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )]sin2q cos2f
+caa A aaa A A
+(sps) c = (3/4)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )](cosq - cos3q )
+YZY caa A aaa A A
++ (1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]cos2f (cosq - cos3q )
+caa A aaa A A
+2個のCH - 14
+3
+
+===== PDF p.15 =====
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(pps) c = -(1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]sin2f sin2q
+XZY caa A aaa A A
++ (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )]sin2q cos2f
+caa A aaa A A
+c = -(1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]sin2f sin2q
+ZXY caa A aaa A A
++ (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )]sin2q cos2f
+caa A aaa A A
+(pss) c = (3/4)[2ß (cosa - cos3a )(1 ± cos2f ) + ß sin3a (cos3f ± cosf )](cosq - cos3q )
+ZYY caa A aaa A A
++ (1/4)[2ß (cosa - cos3a )(1 ± cos2f ) - ß (2sina - sin3a )(cos3f ± cosf )]cos2f (cosq - cos3q )
+caa A aaa A A
+- (1/2)[±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(sss) (none)
+［逆対称 (b ) 振動］
+1
+(b >> b ~ b とすると、b = b (cosa - cos3a ) ~ 2(cid:214) 3/9 b (Td)、3/8 b (sp2)である。)
+xxz xxz h hz caa zzz zzz zzz
+(ppp) c = -(1/2)[ß (cosa - 2cos3a )(1 ± cos2f ) - ß (sina - sin3a )(cos3f ± cosf )]
+ZXX caa A aaa A A
+· [cosq - (1 + cos2f )(cosq - cos3q )]
++ (1/2)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = -(1/2)[ß (cosa - 2cos3a )(1 ± cos2f ) - ß (sina - sin3a )(cos3f ± cosf )]
+XZX caa A aaa A A
+· [cosq - (1 + cos2f )(cosq - cos3q )]
++ (1/2)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = (1/2)[ß (cosa - 2cos3a )(1 ± cos2f ) - ß (sina - sin3a )(cos3f ± cosf )]
+XXZ caa A aaa A A
+· (1 + cos2f )(cosq - cos3q )
++ ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+aaa A A
+c = -[ß (cosa - 2cos3a )(1 ± cos2f ) - ß (sina - sin3a )(cos3f ± cosf )]
+ZZZ caa A aaa A A
+· (1 + cos2f )(cosq - cos3q )
+- [(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(spp) c = (1/4)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](1 - 3cos2q - sin2q cos2f )
+YZX caa A aaa A A
+(ssp) c = (1/2)[ß (cosa - 2cos3a )(1 ± cos2f ) - ß (sina - sin3a )(cos3f ± cosf )]
+YYZ caa A aaa A A
+· (1 + cos2f )(cosq - cos3q )
++ (1/2)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(psp) c = (1/4)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](1 - 3cos2q - sin2q cos2f )
+ZYX caa A aaa A A
+(sps) c = -(1/2)[ß (cosa - 2cos3a )(1 ± cos2f ) - ß (sina - sin3a )(cos3f ± cosf )]
+YZY caa A aaa A A
+· [cosq - (1 + cos2f )(cosq - cos3q )]
++ (1/2)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(pps) c = -(1/4)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](1 - 3cos2q - sin2q cos2f )
+ZXY caa A aaa A A
+c = -(1/4)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](1 - 3cos2q - sin2q cos2f )
+XZY caa A aaa A A
+2個のCH - 15
+3
+
+===== PDF p.16 =====
+(pss) c = -(1/2)[ß (cosa - 2cos3a )(1 ± cos2f ) - ß (sina - sin3a )(cos3f ± cosf )]
+ZYY caa A aaa A A
+· [cosq - (1 + cos2f )(cosq - cos3q )]
++ (1/2)[(±)ß sin2a sin2f + ß sina cosa (sin3f ± sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(sss) (none)
+［面外 (b ) 振動］
+2
+(ppp) c = (1/2)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )][cosq - (1 - cos2f )(cosq - cos3q )]
+ZXX caa A aaa A A
++ (1/2)[(±)ß (2cos2a - 1)sin2f + ß sina cosa (sin3f - (±)sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = (1/2)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )][cosq - (1 - cos2f )(cosq - cos3q )]
+XZX caa A aaa A A
++ (1/2)[(±)ß (2cos2a - 1)sin2f + ß sina cosa (sin3f - (±)sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = -(1/2)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )](1 - cos2f )(cosq - cos3q )
+XXZ caa A aaa A A
++ (1/2)[(±)ß (2cos2a - 1)sin2f + ß sina cosa (sin3f - (±)sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+c = [ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )](1 - cos2f )(cosq - cos3q )
+ZZZ caa A aaa A A
+- [(±)ß (2cos2a - 1)sin2f + ß sina cosa (sin3f - (±)sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(spp) c = (1/4)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )](1 - 3cos2q - sin2q cos2f )
+YZX caa A aaa A A
+(ssp) c = -(1/2)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )](1 - cos2f )(cosq - cos3q )
+YYZ caa A aaa A A
++ (1/2)[(±)ß (2cos2a - 1)sin2f + ß sina cosa (sin3f - (±)sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(psp) c = (1/4)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )](1 - 3cos2q - sin2q cos2f )
+ZYX caa A aaa A A
+(sps) c = (1/2)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )][cosq - (1 - cos2f )(cosq - cos3q )]
+YZY caa A aaa A A
++ (1/2)[(±)ß (2cos2a - 1)sin2f + ß sina cosa (sin3f - (±)sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(pps) c = -(1/4)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )](1 - 3cos2q - sin2q cos2f )
+ZXY caa A aaa A A
+c = -(1/4)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )](1 - 3cos2q - sin2q cos2f )
+XZY caa A aaa A A
+(pss) c = (1/2)[ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )][cosq - (1 - cos2f )(cosq - cos3q )]
+ZYY caa A aaa A A
++ (1/2)[(±)ß (2cos2a - 1)sin2f + ß sina cosa (sin3f - (±)sinf )](cosq - cos3q )sin2f
+caa A aaa A A
+(sss) (none)
+f = 0, f = p または f = p , f = 0（一般的な配向に対する表式は付録 E に示す。）
+A B A B
+［全対称バンド］
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+b >> b , b のときには b ~ (4/9) b 、b ~ (1/9) b である。
+zzz xxz h hz aac zzz ccc zzz
+ß = -2(ß - ß )(cosa - cos3a ) + 2ß cosa
+xxz aac ccc aac
+ß = +2ß cosa
+yyz aac
+ß = +2(ß - ß )(cosa - cos3a ) + 2ß cosa
+zzz aac ccc ccc
+ß = -2(ß - ß )(cosa - cos3a )
+zxx aac ccc
+2個のCH - 16
+3
+
+===== PDF p.17 =====
+ß = -2(ß - ß )(cosa - cos3a )
+xzx aac ccc
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyz zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a ) であるから、
+zxx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+XZX aac ccc
+c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZXX aac ccc
+c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+XXZ aac ccc
+- 2(cosa - cos3a )cosq } + 2ß cosa cosq
+aac
+c = -(ß - ß )[(cosa - cos3a )(1 + cos2f )(cosq - cos3q ) + 2cos3a cos3q ]
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+YZX aac ccc
+(ssp) c = (1/2)(ß - ß ){[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+YYZ aac ccc
+- 2(cosa - cos3a )cosq } + 2ß cosa cosq
+aac
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZYX aac ccc
+(sps) c = (1/2)(ß - ß )[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+YZY aac ccc
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+XZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )sin2f sin2q
+ZXY aac ccc
+(pss) c = (1/2)(ß - ß {[(cosa - cos3a )(3 + cos2f ) - 2cosa ](cosq - cos3q )
+ZYY aac ccc
+(sss) (none)
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZXX aac ccc
+c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+XZX aac ccc
+c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+XXZ aac ccc
+c = - 2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) (none)
+(ssp) c = (ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+YYZ aac ccc
+(psp) (none)
+(sps) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+YZY aac ccc
+(pps) (none)
+(pss) c = -(ß - ß )(cosa - cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZYY aac ccc
+(sss) (none)
+2個のCH - 17
+3
+
+===== PDF p.18 =====
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+（ß とß にはb軸方向の振動が、他の成分にはa軸方向の振動が寄与する。）
+zyy yzy
+（± 記号の上側はf = 0, f = p に、下側は f = p , f = 0 に対応する。）
+A B A B
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß = -2ß (cosa - 2cos3a )
+zxx caa
+ß = -2ß (cosa - 2cos3a )
+xzx caa
+ß = 2ß cosa
+zyy caa
+ß = 2ß cosa
+yzy caa
+ß = -4ß (cosa - cos3a )
+xxz caa
+ß = 0
+yyz
+ß = 4ß (cosa - cos3a )
+zzz caa
+［対称 (a) 振動］
+1
+(ppp) c = ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+XZX caa
+c = ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+ZXX caa
+c = ß (cosa - cos3a )[- 2cosq + (cosq - cos3q )(3 + cos2f )]
+XXZ caa
+c = 2 ß (cosa - cos3a )[2cosq - (cosq - cos3q )(3 + cos2f )]
+ZZZ caa
+(spp) c = -ß (cosa - cos3a )sin2f sin2q
+YZX caa
+(ssp) c = ß (cosa - cos3a )cosq [- 2cosq + (cosq - cos3q )(3 + cos2f )]
+YYZ caa
+(psp) c = -ß (cosa - cos3a )sin2f sin2q
+ZYX caa
+(sps) c = 3ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+YZY caa
+(pps) c = -ß (cosa - cos3a )sin2f sin2q
+XZY caa
+c = -ß (cosa - cos3a )sin2f sin2q
+ZXY caa
+(pss) c = 3ß (cosa - cos3a )(cosq - cos3q )(3 + cos2f )
+ZYY caa
+(sss) (none)
+［逆対称 (b ) 振動］
+1
+(ppp) c = -ß (cosa - 2cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZXX caa
+c = -ß (cosa - 2cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+XZX caa
+c = ß (cosa - 2cos3a )(cosq - cos3q )(1 + cos2f )
+XXZ caa
+c = -2ß (cosa - 2cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ caa
+(spp) (none)
+(ssp) c = ß (cosa - 2cos3a )(cosq - cos3q )(1 + cos2f )
+YYZ caa
+2個のCH - 18
+3
+
+===== PDF p.19 =====
+(psp) (none)
+(sps) c = -ß (cosa - 2cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+YZY caa
+(pps) (none)
+(pss) c = -ß (cosa - 2cos3a )[cosq - (cosq - cos3q )(1 + cos2f )]
+ZYY caa
+(sss) (none)
+［面外 (b ) 振動］
+2
+(ppp) c = ß cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+ZXX caa
+c = ß cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+XZX caa
+c = -ß cos(cosq - cos3q )(1 - cos2f )
+XXZ caa
+c = 2ß cos(cosq - cos3q )(1 - cos2f )
+ZZZ caa
+(spp) (none)
+(ssp) c = -ß cos(cosq - cos3q )(1 - cos2f )
+YYZ caa
+(psp) (none)
+(sps) c = ß cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+YZY caa
+(pps) (none)
+(pss) c = ß cosa [cosq - (cosq - cos3q )(1 - cos2f )]
+ZYY caa
+(sss) (none)
+付録A：(CH)X基の SFGテンソル
+32
+［座標系とメチル基の配向］
+1．メチル基に固定した座標系；(a, b, c) 系：C 軸をC 原子からH原子の方向に向けてc軸を取り、
+3
+３個のCH結合の１つがac 面の上に乗るようにする。
+2．(CH)X基に固定した座標系；(x, y, z) 系：２個のメチル基のC 軸の２等分線に沿ってz軸を取
+32 3
+り、X原子からメチル基の方向を正方向とする。２本のC 軸が作る平面の上にx軸を取る。
+3
+3．メチル基の配向：z軸とメチル基の分子軸の間の角（即ちCXC 角の半分）を a とする。また、
+２個のメチル基を下付きA, B で区別するとき、それぞれのメチル基の内部回転角を f , f と表す。
+A B
+メチル基の３個のH原子が作る正三角形の頂点が表面を向いている状態を基準に取り、このときの内
+部回転角を f = 0, f = 0 とする。正三角形の辺が表面に寄っている時の内部回転角は180˚ である。
+A B
+内部回転角による違いを生じるのは「縮重振動」バンドに対するSFGテンソルだけである。よって、
+縮重バンドの様子から、メチル基の相対的な配向や回転の様子を知ることが出来る。
+4．オイラー角；(c , q , f )：２個のメチル基の座標系を分子固定系に重ねるときのオイラー角は、CXC
+角を2a として、(0, a , f )と (p , a , f )である（こうなるようにb軸の向きを決める）。
+テンソル成分の変換式、
+2個のCH - 19
+3
+
+===== PDF p.20 =====
+b = (cid:229) U b (i, j, k = x, y, z)
+ijk ijk:abc abc
+において、別ファイル「変換行列 (xyz)」または Appl. Spectrosc. の論文の表に示されている係数 U
+ijk:abc
+の一欄表を用いると、(xyz) 系でのSFGテンソル成分は下のように求められる。（傾き角 q に関し
+ては表で使っている sinq 、sin2q 、sin3q の形の三角関数ではなく、下の関係式で変換した sinq 、cosq の
+べき乗による表式を採用する。)
+sin2q = 2sinq cosq , cos2q = cos2q - sin2q = 2cos2q - 1 = 1 - 2sin2q
+sin3q = 3sinq - 4sin3q , sinq + sin3q = 4(sinq - sin3q )
+cos3q = 4cos3q - 3cosq , cosq - cos3q = 4(cosq - cos3q )
+［全対称バンド］ b >> b , b のときには b ~ (4/9) b , b ~ (1/9) b である。
+zzz xxz h hz aac zzz ccc zzz
+（メチル基の相対的な配向によらず同じ表式になる。）
+b = -2(ß - b )(cosa - cos3a ) + 2b cosa
+xxz aac ccc aac
+b = +2b cosa
+yyz aac
+b = +2(ß - b )(cosa - cos3a ) + 2b cosa
+zzz aac ccc ccc
+b = -2(ß - b )(cosa - cos3a )
+zxx aac ccc
+b = -2(ß - b )(cosa - cos3a )
+xzx aac ccc
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b , b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+（面外振動と面内振動を分ける際に便利なので、a軸方向の振動とb軸方向の振動を区別する。）
+（± 記号の上側がa軸方向の振動、下側がb軸方向の振動に対応する。）
+グループ 1
+b = -(1/2)ß (cosa - 2cos3a )[2 ± (cos2f + cos2f )]
+zxx caa A B
++ (1/2)ß (sina - sin3a )[(cos3f + cos3f ) ± (cosf + cosf )]
+aaa A B A B
+b = -(1/2)ß (cosa - 2cos3a )[2 ± (cos2f + cos2f )]
+xzx caa A B
++ (1/2)ß (sina - sin3a )[(cos3f + cos3f ) ± (cosf + cosf )]
+aaa A B A B
+b = (1/2)ß cosa [2 - (±)(cos2f + cos2f )]
+zyy caa A B
+- (1/2)ß sina [(cos3f + cos3f ) - (±)(cosf + cosf )]
+aaa A B A B
+b = (1/2)ß cosa [2 - (±)(cos2f + cos2f )]
+yzy caa A B
+- (1/2)ß sina [(cos3f + cos3f ) - (±)(cosf + cosf )]
+aaa A B A B
+b = -ß (cosa - cos3a )[2 ± (cos2f + cos2f )]
+xxz caa A B
++ (1/2)ß (sina - sin3a )[(cos3f + cos3f ) ± (cosf + cosf )]
+aaa A B A B
+b = -(1/2)ß sina [(cos3f + cos3f ) ± (cosf + cosf )]
+yyz aaa A B A B
+b = ß (cosa - cos3a )[2 ± (cos2f + cos2f )]
+zzz caa A B
++ (1/2)ß sin3a [(cos3f + cos3f ) ± (cosf + cosf )]
+aaa A B A B
+2個のCH - 20
+3
+
+===== PDF p.21 =====
+グループ 2
+b = -(±)(1/2)ß cos2a (sin2f + sin2f )
+yzx caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) ± (sinf + sinf )]
+aaa A B A B
+b = -(±)(1/2)ß cos2a (sin2f + sin2f )
+zyx caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) ± (sinf + sinf )]
+aaa A B A B
+b = -(±)(1/2)ß (2cos2a -1)(sin2f + sin2f )
+zxy caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) - (±)(sinf + sinf )]
+aaa A B A B
+b = -(±)(1/2)ß (2cos2a -1)(sin2f + sin2f )
+xzy caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) - (±)(sinf + sinf )]
+aaa A B A B
+b = ±(1/2)ß sin2a (sin2f + sin2f )
+xyz caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) ± (sinf + sinf )]
+aaa A B A B
+b = ±(1/2)ß sin2a (sin2f + sin2f )
+yxz caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) ± (sinf + sinf )]
+aaa A B A B
+グループ 3
+b = -(±)ß (sina - sin3a )(cos2f - cos2f )
+xxx caa A B
+- (1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+aaa A B A B
+b = -(1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+yyx aaa A B A B
+b = ±ß (sina - sin3a )(cos2f - cos2f )
+zzx caa A B
++ (1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+aaa A B A B
+b = ±(1/2)ß sina (cos2f - cos2f )
+xyy caa A B
+- (1/2)ß cosa [(cos3f - cos3f ) - (±)(cosf - cosf )]
+aaa A B A B
+b = ±(1/2)ß sina (cos2f - cos2f )
+yxy caa A B
+- (1/2)ß cosa [(cos3f - cos3f ) - (±)(cosf - cosf )]
+aaa A B A B
+b = ±(1/2)ß (sina - 2sin3a )(cos2f - cos2f )
+xzz caa A B
++ (1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+aaa A B A B
+b = ±(1/2)ß (sina - 2sin3a )(cos2f - cos2f )
+zxz caa A B
++ (1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+aaa A B A B
+グループ 4
+b = ±(1/2)ß sina cosa (sin2f - sin2f )
+yxx caa A B
+- (1/2)ß cos2a [(sin3f - sin3f ) ± (sinf - sinf )]
+aaa A B A B
+b = ±(1/2)ß sina cosa (sin2f - sin2f )
+xyx caa A B
+- (1/2)ß cos2a [(sin3f - sin3f ) ± (sinf - sinf )]
+aaa A B A B
+b = ±ß sina cosa (sin2f - sin2f )
+xxy caa A B
+- (1/2)ß cos2a [(sin3f - sin3f ) - (±)(sinf - sinf )]
+aaa A B A B
+b = (1/2)ß [(sin3f - sin3f ) - (±)(sinf - sinf )]
+yyy aaa A B A B
+b = -(±)ß sina cosa (sin2f - sin2f )
+zzy caa A B
+- (1/2)ß sin2a [(sin3f - sin3f ) - (±)(sinf - sinf )]
+aaa A B A B
+b = -(±1/2)ß sina cosa (sin2f - sin2f )
+yzz caa A B
+2個のCH - 21
+3
+
+===== PDF p.22 =====
+- (1/2)ß sin2a [(sin3f - sin3f ) ± (sinf - sinf )]
+aaa A B A B
+b = -(±1/2)ß sina cosa (sin2f - sin2f )
+zyz caa A B
+- (1/2)ß sin2a [(sin3f - sin3f ) ± (sinf - sinf )]
+aaa A B A B
+付録 B：自由回転しているときの (XYZ) 系でのテンソル成分
+［全対称バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (1/9) b である。
+zzz xxz h hz aac zzz ccc zzz
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバ
+ンドに対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyz zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a ) であるから、
+zxx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = -2ß cosa sinq cosc
+XXX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (3cosc + cos3c )
+aac ccc
+- [sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f - 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (3cosc + cos3c )
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -2ß cosa sinq cosc
+ZZX aac
++ (ß - ß )(cosa - cos3a )[sinq cosc - 3(sinq - sin3q )cosc + sin3q cosc cos2f ]
+aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+XZX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+ZXX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = 2ß cosa cosq
+XXZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 + cos2c )
+aac ccc
++ [(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = -2ß cosa cosq
+ZZZ aac
++ (ß - ß )(cosa - cos3a )[-cosq + 3cos3q - (cosq - cos3q )cos2f ]
+aac ccc
+- 2(ß - ß )cosa cos3q
+aac ccc
+(spp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+YXX aac ccc
+2個のCH - 22
+3
+
+===== PDF p.23 =====
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+YZX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+YXZ aac ccc
+- 2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(ssp) c = -2ß cosa sinq cosc
+YYX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (cosc - cos3c )
+aac ccc
+- [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = 2ß cosa sinq cosc
+YYZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 - cos2c )
+aac ccc
++ [(cosq - cos3q ) + (cosq + cos3q )cos2c ] cos2f - 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(psp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+XYX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+XYZ aac ccc
+- 2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+ZYX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(sps) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+YXY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+YZY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(pps) c = 2ß cosa sinq sinc
+XXY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (sinc + sin3c )
+aac ccc
++ [sinq (3sinc - sin3c ) - (sinq - sin3q )(sinc + sin3c )]cos2f
+2個のCH - 23
+3
+
+===== PDF p.24 =====
++ 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = 2ß cosa sinq sinc
+ZZY aac
++ (ß - ß )(cosa - cos3a )[-sinq + 3(sinq - sin3q ) - sin3q cos2f ]sinc
+aac ccc
+- 2(ß - ß )cosa (sinq -sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+XZY aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+ZXY aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(pss) c = (1/4)(ß - ß )(cosa - cos3a {[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+XYY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+ZYY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(sss) c = 2ß cosa sinq sinc
+YYY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (3sinc - sin3c )
+aac ccc
++ [sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+- 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (3sinc - sin3c )
+aac ccc
+c + c + c = -(4b + 2b )cosa sinq cosc
+XXX YYX ZZX aac ccc
+c + c + c = +(4b + 2b )cosa sinq sinc
+XXY YYY ZZY aac ccc
+c + c + c = +(4b + 2b )cosa cosq
+XXZ YYZ ZZZ aac ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f )
+XXX aac ccc
++ sinq (cosc - cos3c )(1 - cos2f )] - 2sinq cosq (sinc + sin3c )sin2f }
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
+c = --(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+ZXX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+XZX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(ß - ß )(cosa - cos3a )[-(cosq - cos3q )(1 + cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+YXX aac ccc
+2個のCH - 24
+3
+
+===== PDF p.25 =====
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cos2f cosq ]sin2c
+YZX aac ccc
++ [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ aac ccc
+(ssp) c = -(1/2)(ß - ß )(cosa - cos3a ){[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX aac ccc
++ 2sinq cosq (sinc - sin3c )sin2f }
+c = (ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ aac ccc
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+XYX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cos2f cosq ]sin2c
+ZYX aac ccc
++ [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+(sps) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+YXY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = 2(ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+ZXY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+XZY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+(pss) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+XYY aac ccc
++ (1 - cos2f )sinq (cosc + cos3c )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(sss) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f )
+YYY aac ccc
++ sinq (sinc + sin3c )(1 - cos2f )] + 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+2個のCH - 25
+3
+
+===== PDF p.26 =====
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2ß (cosa - cos3a )
+xxz yyz caa
+ß - ß = -2ß (cosa - cos3a )
+xxz yyz caa
+ß + ß - 2ß = -6ß (cosa - cos3a )
+xxz yyz zzz caa
+ß = -ß (cosa - cos3a )
+zxx caa
+ß = ß cosa であるから、
+zyy caa
+［対称 (a) 振動］
+1
+(ppp) c = (1/4)ß (cosa - cos3a ){4sinq cosc - 3sin3q (3cosc + cos3c )
+XXX caa
+- [sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
++ 2sinq cosq (sinc + sin3c )sin2f }
+c = -ß (cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ caa
+c = -ß (cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ caa
+c = ß (cosa - cos3a )[sinq cosc - 3(sinq - sin3q )cosc + sin3q cosc cos2f ]
+ZZX caa
+c = (1/2)ß (cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+XZX caa
+c = (1/2)ß (cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+ZXX caa
+c = (1/2)ß (cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 + cos2c )
+XXZ caa
++ [(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f )}
+c = -ß (cosa - cos3a )[-cosq + 3cos3q - (cosq - cos3q )cos2f ]
+ZZZ caa
+(spp) c = (1/4)ß (cosa - cos3a ){[3sin3q - (2sinq - sin3q ) cos2f ](sinc + sin3c )
+YXX caa
+- 2sinq cosq (cosc + cos3c )sin2f }
+c = ß (cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ caa
+c = -(1/2)ß (cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+YZX caa
+c = -(1/2)ß (cosa - cos3a )[(cosq - cos3q )sin2c (3 - cos2f ) - 2cos2q cos2c sin2f ]
+YXZ caa
+(ssp) c = (1/4)ß (cosa - cos3a ){4sinq cosc - 3sin3q (cosc - cos3c )
+YYX caa
+- [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f + 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)ß (cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 - cos2c )
+YYZ caa
++ [(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c sin2f }
+(psp) c = (1/4)ß (cosa - cos3a ){[3sin3q - (2sinq - sin3q ) cos2f ](sinc + sin3c )
+XYX caa
+- 2sinq cosq (cosc + cos3c )sin2f }
+c = ß (cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ caa
+c = (1/2)ß (cosa - cos3a )[-3(cosq - cos3q )sin2c + (cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+XYZ caa
+c = -(1/2)ß (cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+ZYX caa
+2個のCH - 26
+3
+
+===== PDF p.27 =====
+(sps) c = (1/4)ß (cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+YXY caa
+- 2sinq cosq (sinc - sin3c )sin2f }
+c = (1/2)ß (cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+YZY caa
+(pps) c = (1/4)ß (cosa - cos3a ){-4sinq sinc + 3sin3q (sinc + sin3c )
+XXY caa
++ [sinq (3sinc - sin3c ) - (sinq - sin3q )(sinc + sin3c )]cos2f + 2sinq cosq (cosc - cos3c )sin2f }
+c = ß (cosa - cos3a )[2sinq sinc - sin3q sinc cos2f ]
+ZZY caa
+c = -(1/2)ß (cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+XZY caa
+c = -(1/2)ß (cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+ZXY caa
+(pss) c = (1/4)ß (cosa - cos3a )[-3sin3q (cosc - cos3c ) + (2sinq - sin3q )(cosc - cos3c )cos2f
+XYY caa
+- 2sinq cosq (sinc - sin3c )sin2f ]
+c = (1/2)ß (cosa - cos3a )[(cosq q - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+ZYY caa
+(sss) c = (1/4)ß (cosa - cos3a ){-sinq sinc + 3sin3q (3sinc - sin3c )
+YYY caa
++ [sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )] cos2f
+- 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［逆対称 (b ) 振動］
+1
+(ppp) c = (1/4)ß (cosa - 2cos3a ){[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f )
+XXX caa
++ sinq (cosc - cos3c )(1 - cos2f )] - 2sinq cosq (sinc + sin3c )sin2f }
+c = -(1/2)ß (cosa - 2cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ caa
+c = -(1/2)ß (cosa - 2cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ caa
+c = -ß (cosa - 2cos3a )[(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX caa
+c = -(1/4ß (cosa - 2cos3a ){2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+ZXX caa
++ (1 - 3cos2q )sin2c sin2f }
+c = -(1/4)ß (cosa - 2cos3a ){2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+XZX caa
++ (1 - 3cos2q )sin2c sin2f }
+c = -(1/2ß (cosa - 2cos3a )[-(cosq - cos3q )(1 + cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+XXZ caa
+c = -ß (cosa - 2cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ caa
+(spp) c = -(1/4)ß (cosa - 2cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+YXX caa
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (1/2)ß (cosa - 2cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ caa
+c = -(1/4)ß (cosa - 2cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c
+YZX caa
++ [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+c = -(1/2)ß (cosa - 2cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ caa
+2個のCH - 27
+3
+
+===== PDF p.28 =====
+(ssp) c = -(1/4)ß (cosa - 2cos3a ){[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX caa
++ 2sinq cosq (sinc - sin3c )sin2f }
+c = (1/2)ß (cosa - 2cos3a )[(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ caa
+(psp) c = -(1/4)ß (cosa - 2cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+XYX caa
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (1/2)ß (cosa - 2cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ caa
+c = -(1/2)ß (cosa - 2cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ caa
+c = -(1/4)ß (cosa - 2cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c
+ZYX caa
++ [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+(sps) c = (1/4)ß (cosa - 2cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+YXY caa
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/4)ß (cosa - 2cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY caa
+- (1 - 3cos2q )sin2c sin2f }
+(pps) c = -(1/4)ß (cosa - 2cos3a )){[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY caa
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = ß (cosa - 2cos3a )[(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY caa
+c = -(1/4)ß (cosa - 2cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c
+ZXY caa
++ [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+c = -(1/4)ß (cosa - 2cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c
+XZY caa
++ [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+(pss) c = (1/4)ß (cosa - 2cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+XYY caa
++ sinq (cosc + cos3c )(1 - cos2f )]
++ 2sinq cosq sin3c sin2f }
+c = -(1/4)ß (cosa - 2cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY caa
+- (1 - 3cos2q )sin2c sin2f }
+(sss) c = -(1/4)ß (cosa - 2cos3a ){[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f )
+YYY caa
++ sinq (sinc + sin3c )(1 - cos2f )] + 2sinq cosq (cosc - cos3c )sin2f ]}
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［面外 (b ) 振動］
+2
+(ppp) c = -(1/4)ß cosa {[sinq (cosc - cos3c )(1 + cos2f ) + (sinq - sin3q )(3cosc + cos3c )(1 - cos2f )]
+XXX caa
++ 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)ß cosa [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+XZZ caa
+c = (1/2)ß cosa [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZXZ caa
+c = ß cosa [(sinq - sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZZX caa
+2個のCH - 28
+3
+
+===== PDF p.29 =====
+c = (1/4)ß cosa {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+ZXX caa
+- (1 - 3cos2q )sin2c sin2f }
+c = (1/4)ß cosa {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+XZX caa
+- (1 - 3cos2q )sin2c sin2f }
+c = -(1/2)ß cosa [(cosq - cos3q )(1 + cos2c )(1 - cos2f ) + sin2q sin2c sin2f ]
+XXZ caa
+c = ß cosa (cosq - cos3q )(1 - cos2f )
+ZZZ caa
+(spp) c = (1/4)ß cosa {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+YXX caa
+- 2sinq cosq cos3c sin2f }
+c = -(1/2)ß cosa [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+YZZ caa
+c = (1/4)ß cosa {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c
+YZX caa
++ [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+c = (1/2)ß cosa [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+YXZ caa
+(ssp) c = (1/4)ß cosa {[sinq (1 + cos2f ) - (sinq - sin3q )(1 - cos2f )](cosc - cos3c )
+YYX caa
+- 2sinq cosq (sinc - sin3c )sin2f }
+c = -(1/2)ß cosa [(cosq - cos3q )(1 - cos2c )(1 - cos2f ) - sin2q sin2c sin2f ]
+YYZ caa
+(psp) c = (1/4)ß cosa {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+XYX caa
+- 2sinq cosq cos3c sin2f }
+c = -(1/2)ß cosa [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+ZYZ caa
+c = (1/2)ß cosa [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+XYZ caa
+c = (1/4)ß cosa {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c
+ZYX caa
++ [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+(sps) c = -(1/4)ß cosa {[sinq (cosc + cos3c )(1 + cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+YXY caa
+- 2sinq cosq sin3c sin2f }
+c = (1/4)ß cosa {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+YZY caa
++ (1 - 3cos2q )sin2c sin2f }
+(pps) c = (1/4)ß cosa {[-sinq (1 + cos2f ) + (sinq - sin3q )(1 - cos2f )](sinc + sin3c )
+XXY caa
+- sinq cosq (cosc + cos3c )sin2f }
+c = ß cosa [-(sinq - sin3q )sinc (1 - cos2f ) + sinq cosq cosc sin2f ]
+ZZY caa
+c = (1/4)ß cosa {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c
+ZXY caa
+- [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+c = (1/4)ß cosa {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c
+XZY caa
+- [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+(pss) c = -(1/4)ß cosa {[sinq (cosc + cos3c )(1 + cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+XYY caa
+- 2sinq cosq sin3c sin2f }
+2個のCH - 29
+3
+
+===== PDF p.30 =====
+c = (1/4)ß cosa {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+ZYY caa
++ (1 - 3cos2q )sin2c sin2f }
+(sss) c = (1/4 ß cosa {[sinq (sinc + sin3c )(1 + cos2f ) + (sinq - sin3q )(3sinc - sin3c )(1 - cos2f )]
+YYY caa
+- 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+付録 C： f = f = 0, p のときの (XYZ) 系でのテンソル成分
+A B
+［全対称バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (1/9) b である。
+zzz xxz h hz aac zzz ccc zzz
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyzv zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a )) であるから、
+zxx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = -2ß cosa sinq cosc
+XXX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (3cosc + cos3c )
+aac ccc
+- [sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (3cosc + cos3c )
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sinq )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sinq )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -2ß cosa sinq cosc
+ZZX aac
++ (ß - ß )(cosa - cos3a )[sinq cosc - 3(sinq - sin3q )cosc + sin3q cosc cos2f ]
+aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+XZX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+ZXX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = 2ß cosa cosq
+XXZ aac
++ (1/2) (ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 + cos2c )
+aac ccc
++ [(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+2個のCH - 30
+3
+
+===== PDF p.31 =====
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = -2ß cosa cosq
+ZZZ aac
++ (ß - ß )(cosa - cos3a )[-cosq + 3cos3q - (cosq - cos3q )cos2f ]
+aac ccc
+- 2(ß - ß )cosa cos3q
+aac ccc
+(spp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+YXX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+YZX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+YXZ aac ccc
+- 2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(ssp) c = -2ß cosa sinq cosc
+YYX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (cosc - cos3c )
+aac ccc
+- [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = 2ß cosa sinq cosc
+YYZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 - cos2c )
+aac ccc
++ [(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(psp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+XYX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+XYZ aac ccc
+- 2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+ZYX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(sps) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+YXY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+2個のCH - 31
+3
+
+===== PDF p.32 =====
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+YZY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(pps) c = 2ß cosa sinq sinc
+XXY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (sinc + sin3c )
+aac ccc
++ [sinq (3sinc - sin3c ) - (sinq - sin3q )(sinc + sin3c )]cos2f
++ 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = 2ß cosa sinq sinc
+ZZY aac
++ (ß - ß )(cosa - cos3a )[-sinq + 3(sinq - sin3q ) - sin3q cos2f ]sinc
+aac ccc
+- 2(ß - ß )cosa (sinq -sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+XZY aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+ZXY aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(pss) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+XYY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+ZYY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(sss) c = 2ß cosa sinq sinc
+YYY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (3sinc - sin3c )
+aac ccc
++ [sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+- 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (3sinc - sin3c )
+aac ccc
+c + c + c = - (4b + 2b )cosa sinq cosc
+XXX YYX ZZX aac ccc
+c + c + c = + (4b + 2b )cosa sinq sinc
+XXY YYY ZZY aac ccc
+c + c + c = + (4b + 2b )cosa cosq
+XXZ YYZ ZZZ aac ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f )
+XXX aac ccc
++ sinq (cosc - cos3c )(1 - cos2f )] - 2sinq cosq (sinc + sin3c )sin2f }
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+ZXX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+2個のCH - 32
+3
+
+===== PDF p.33 =====
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+XZX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(ß - ß )(cosa - cos3a )[-(cosq - cos3q )(1 + cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+YXX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cos2f cosq ]sin2c
+YZX aac ccc
++ [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ aac ccc
+(ssp) c = -(1/2)(ß - ß )(cosa - cos3a ){[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX aac ccc
++ 2sinq cosq (sinc - sin3c )sin2f }
+c = (ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ aac ccc
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+XYX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c
+ZYX aac ccc
++ [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+(sps) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+YXY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = 2(ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c
+ZXY aac ccc
++ [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c
+XZY aac ccc
++ [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+(pss) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+XYY aac ccc
++ (1 - cos2f )sinq (cosc + cos3c )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+2個のCH - 33
+3
+
+===== PDF p.34 =====
+(sss) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f )
+YYY aac ccc
++ sinq (sinc + sin3c )(1 - cos2f )] + 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b , b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -4ß (cosa - cos3a ) ± 2ß sin3a
+xxz yyz caa aaa
+ß - ß = -4ß (cosa - cos3a ) ± 2ß (2sina + sin3a )
+xxz yyz caa aaa
+ß + ß - 2ß = -12ß (cosa - cos3a ) - (±)2ß sin3a
+xxz yyz zzz caa aaa
+ß = -2ß (cosa - 2cos3a ) - (±)2ß (sina - sin3a )
+zxx caa aaa
+ß = 2ß cosa - (±)2ß sina であるから、
+zyy caa aaa
+［対称 (a) 振動］
+1
+(ppp) c = -(1/2)(b + b )sinq cosc
+XXX aac bbc
++ (1/8)(b + b - 2b )sin3q (3cosc + cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+aac bbc
++ 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+XZZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc - sin2f sinq cosq sinc ]cos2f
+aac bbc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+ZXZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc - sin2f sinq cosq sinc ]cos2f
+aac bbc
+c = -(1/2)(b + b )sinq cosc
+ZZX aac bbc
++ (1/2)(b + b - 2b )(sinq - sin3q )cosc
+aac bbc ccc
+- (1/2)(b - b )sin3q cosc cos2f
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+XZX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c ) - sin2f sin2q sin2c ]cos2f
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+ZXX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c ) - sin2f sin2q sin2c ]cos2f
+aac bbc
+c = (1/2)(b + b )cosq
+XXZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) - (cosq + cos3q )cos2c ] + 2sin2f cos2q sin2c }cos2f
+aac bbc
+c = (1/2)(b + b )cosq
+ZZZ aac bbc
+- (1/2)(b + b - 2b )cos3q
+aac bbc ccc
++ (1/2)(b - b )cos2f (cosq - cos3q )
+aac bbc
+2個のCH - 34
+3
+
+===== PDF p.35 =====
+(spp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+YXX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c ) + 2sin2f sinq cosq (cosc + cos3c )]cos2f
+aac bbc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+YZZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc + sin2f sinq cosq cosc ]cos2f
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YZX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c + sin2f sin2q (1 + cos2c )]cos2f
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YXZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c + 2sin2f cos2q cos2c ]cos2f
+aac bbc
+(ssp) c = -(1/2)(b + b )sinq cosc
+YYX aac bbc
++ (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+aac bbc ccc
++ (1/8)(b - b ){ [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
+aac bbc
+- 2sinq cosq (sinc + sin3c )}sin2f
+c = (1/2)(b + b )cosq
+YYZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c )sin2f }
+aac bbc
+(psp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+XYX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c ) + 2sin2f sinq cosq (cosc + cos3c )]cos2f
+aac bbc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+ZYZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XYZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZYX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
+(sps) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+YXY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+YZY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+(pps) c = (1/2)(b + b )sinq sinc
+XXY aac bbc
+- (1/8)(b + b - 2b )sin3q (sinc + sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (3sinc - sin3c ) - (sinq - sin3q )(sinc + sin3c )]cos2f
+aac bbc
++ 2sinq cosq (cosc - cos3c )sin2f }
+c = (1/2)(b + b )sinq sinc
+ZZY aac bbc
+- (1/2)(b + b - 2b )(sinq - sin3q )sinc
+aac bbc ccc
++ (1/2)(b - b )sin3q sinc cos2f
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XZY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
+2個のCH - 35
+3
+
+===== PDF p.36 =====
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZXY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
+(pss) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+XYY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+ZYY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+(sss) c = (1/2)(b + b )sinq sinc
+YYY aac bbc
+- (1/8)(b + b - 2b )sin3q (3sinc - sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = -(b + b + b )sinq cosc
+XXX YYX ZZX aac bbc ccc
+c + c + c = +(b + b + b )sinq sinc
+XXY YYY ZZY aac bbc ccc
+c + c + c = +(b + b + b )cosq
+XXZ YYZ ZZZ aac bbc ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(1/4)b {[(1 + cos2f )(sinq - sin3q )(3cosc + cos3c ) + (1 - cos2f )sinq (cosc - cos3c )]
+XXX caa
+- 2sin2f sinq cosq (sinc + sin3c )}
+c = (1/2)b [(1 + cos2f )(sinq - 2sin3q )cosc - sin2f sinq cosq sinc ]
+XZZ caa
+c = (1/2)b [(1 + cos2f )(sinq - 2sin3q )cosc - sin2f sinq cosq sinc ]
+ZXZ caa
+c = b [(1 + cos2f )(sinq - sin3q )cosc - sin2f sinq cosq sinc ]
+ZZX caa
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (1 + cos2f )(cosq - cos3q )(1 + cos2c )]
+ZXX caa
++ sin2f (1 - 3cos2q )sin2c }
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (1 + cos2f )(cosq - cos3q )(1 + cos2c )]
+XZX caa
++ sin2f (1 - 3cos2q )sin2c }
+c = (1/2)b [-(1 + cos2f )(cosq - cos3q )(1 + cos2c ) + sin2f sin2q sin2c ]
+XXZ caa
+c = b (1 + cos2f )(cosq - cos3q )
+ZZZ caa
+(spp) c = (1/4)b {[(1 + cos2f )(sinq - sin3q )(sinc + sin3c ) + (1 - cos2f )sinq (sinc - sin3c )]
+YXX caa
++ 2sin2f sinq cosq cos3c }
+c = -(1/2)b [(1 + cos2f )(sinq - 2sin3q )sinc + sin2f sinq cosq cosc ]
+YZZ caa
+c = (1/4)b {2[(1 + cos2f )(cosq - cos3q ) - cos2f cosq ]sin2c + sin2f [-sin2q + (1 - 3cos2q )cos2c ]}
+YZX caa
+c = (1/2)b [(1 + cos2f )(cosq - cos3q )sin2c + sin2f sin2q cos2c ]
+YXZ caa
+(ssp) c = (1/4)b {[-(1 + cos2f )(sinq - sin3q ) + (1 - cos2f )sinq ](cosc - cos3c )
+YYX caa
++ 2sin2f sinq cosq (sinc - sin3c )}
+c = -(1/2)b [(1 + cos2f )(cosq - cos3q )(1 - cos2c ) + sin2f sin2q sin2c ]
+YYZ caa
+2個のCH - 36
+3
+
+===== PDF p.37 =====
+(psp) c = (1/4)b {[(1 + cos2f )(sinq - sin3q )(sinc + sin3c ) + (1 - cos2f )sinq (sinc - sin3c )]
+XYX caa
++ 2sin2f sinq cosq cos3c }
+c = -(1/2)b [(1 + cos2f )(sinq - 2sin3q )sinc + sin2f sinq cosq cosc ]
+ZYZ caa
+c = (1/2)b [(1 + cos2f )(cosq - cos3q )sin2c + sin2f sin2q cos2c ]
+XYZ caa
+c = (1/4)b {2[(1 + cos2f )(cosq - cos3q ) - cos2f cosq ]sin2c + sin2f [-sin2q + (1 - 3cos2q )cos2c ]}
+ZYX caa
+(sps) c = -(1/4)b {[(1 + cos2f )(sinq - sin3q )(cosc - cos3c ) + (1 - cos2f )sinq (cosc + cos3c )]
+YXY caa
++ 2sin2f sinq cosq sin3c }
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (1 + cos2f )(cosq - cos3q )(1 - cos2c )]
+YZY caa
+- sin2f (1 - 3cos2q )sin2c }
+(pps) c = (1/4)b {[(1 + cos2f )(sinq - sin3q ) - (1 - cos2f )sinq ](sinc + sin3c )
+XXY caa
++ 2sin2f sinq cosq (cosc + cos3c )}
+c = -b [(1 + cos2f )(sinq - sin3q )sinc + sin2f sinq cosq cosc ]
+ZZY caa
+c = (1/4)b {2[(1 + cos2f )(cosq - cos3q ) - cos2f cosq ]sin2c + sin2f [sin2q + (1 - 3cos2q )cos2c ]}
+ZXY caa
+c = (1/4)b {2[(1 + cos2f )(cosq - cos3q ) - cos2f cosq ]sin2c + sin2f [sin2q + (1 - 3cos2q )cos2c ]}
+XZY caa
+(pss) c = -(1/4)b {[(1 + cos2f )(sinq - sin3q )(cosc - cos3c ) + (1 - cos2f )sinq (cosc + cos3c )]
+XYY caa
++ 2sin2f sinq cosq sin3c }
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (1 + cos2f )(cosq - cos3q )(1 - cos2c )]
+ZYY caa
+- sin2f (1 - 3cos2q )sin2c }
+(sss) c = (1/4)b {[(1 + cos2f )(sinq - sin3q )(3sinc - sin3c ) + (1 - cos2f )sinq (sinc + sin3c )]
+YYY caa
++ 2sin2f sinq cosq (cosc - cos3c )]}
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［面外 (b ) 振動］
+2
+(ppp) c = -(1/4)b {[(1 + cos2f )sinq (cosc - cos3c ) + (1 - cos2f )(sinq - sin3q )(3cosc + cos3c )]
+XXX cbb
++ 2sin2f sinq cosq (sinc + sin3c )}
+c = (1/2)b [(1 - cos2f )(sinq - 2sin3q )cosc + sin2f sinq cosq sinc ]
+XZZ cbb
+c = (1/2)b [(1 - cos2f )(sinq - 2sin3q )cosc + sin2f sinq cosq sinc ]
+ZXZ cbb
+c = b [(1 - cos2f )(sinq - sin3q )cosc + sin2f sinq cosq sinc ]
+ZZX cbb
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (1 - cos2f )(cosq - cos3q )(1 + cos2c )]
+ZXX cbb
+- sin2f (1 - 3cos2q )sin2c }
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (1 - cos2f )(cosq - cos3q )(1 + cos2c )]
+XZX cbb
+- sin2f (1 - 3cos2q )sin2c }
+c = -(1/2)b [(1 - cos2f )(cosq - cos3q )(1 + cos2c ) + sin2f sin2q sin2c ]
+XXZ cbb
+c = b (1 - cos2f )(cosq - cos3q )
+ZZZ cbb
+2個のCH - 37
+3
+
+===== PDF p.38 =====
+(spp) c = (1/4)b {[(1 + cos2f )sinq (sinc - sin3c ) + (1 - cos2f )(sinq - sin3q )(sinc + sin3c )]
+YXX cbb
+- 2sin2f sinq cosq cos3c }
+c = -(1/2)b [(1 - cos2f )(sinq - 2sin3q )sinc - sin2f sinq cosq cosc ]
+YZZ cbb
+c = (1/4)b {2[(1 - cos2f )(cosq - cos3q ) + cos2f cosq ]sin2c + sin2f [sin2q - (1 - 3cos2q )cos2c ]}
+YZX cbb
+c = (1/2)b [(1 - cos2f )(cosq - cos3q )sin2c - sin2f sin2q cos2c ]
+YXZ cbb
+(ssp) c = (1/4)b {[(1 + cos2f )sinq - (1 - cos2f )(sinq - sin3q )](cosc - cos3c )
+YYX cbb
+- 2sin2f sinq cosq (sinc - sin3c )}
+c = -(1/2)b [(1 - cos2f )(cosq - cos3q )(1 - cos2c ) - sin2f sin2q sin2c ]
+YYZ cbb
+(psp) c = (1/4)b {[(1 + cos2f )sinq (sinc - sin3c ) + (1 - cos2f )(sinq - sin3q )(sinc + sin3c )]
+XYX cbb
+- 2sin2f sinq cosq cos3c }
+c = -(1/2)b [(1 - cos2f )(sinq - 2sin3q )sinc - sin2f sinq cosq cosc ]
+ZYZ cbb
+c = (1/2)b [(1 - cos2f )(cosq - cos3q )sin2c - sin2f sin2q cos2c ]
+XYZ cbb
+c = (1/4)b {2[(1 - cos2f )(cosq - cos3q ) + cos2f cosq ]sin2c + sin2f [sin2q - (1 - 3cos2q )cos2c ]}
+ZYX cbb
+(sps) c = -(1/4)b {[(1 + cos2f )sinq (cosc + cos3c ) + (1 - cos2f )(sinq - sin3q )(cosc - cos3c )]
+YXY cbb
+- 2sin2f sinq cosq sin3c }
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (1 - cos2f )(cosq - cos3q )(1 - cos2c )]
+YZY cbb
++ sin2f (1 - 3cos2q )sin2c }
+(pps) c = (1/4)b {[-(1 + cos2f )sinq + (1 - cos2f )(sinq - sin3q )](sinc + sin3c )
+XXY cbb
+- sin2f sinq cosq (cosc + cos3c )}
+c = b [-(1 - cos2f )(sinq - sin3q )sinc + sin2f sinq cosq cosc ]
+ZZY cbb
+c = (1/4)b {2[(1 - cos2f )(cosq - cos3q ) + cos2f cosq ]sin2c - sin2f [sin2q + (1 - 3cos2q )cos2c ]}
+ZXY cbb
+c = (1/4)b {2[(1 - cos2f )(cosq - cos3q ) + cos2f cosq ]sin2c - sin2f [sin2q + (1 - 3cos2q )cos2c ]}
+XZY cbb
+(pss) c = -(1/4)b {[(1 + cos2f )sinq (cosc + cos3c ) + (1 - cos2f )(sinq - sin3q )(cosc - cos3c )]
+XYY cbb
+- 2sin2f sinq cosq sin3c }
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (1 - cos2f )(cosq - cos3q )(1 - cos2c )]
+ZYY cbb
++ sin2f (1 - 3cos2q )sin2c }
+(sss) c = (1/4)b {[(1 + cos2f )sinq (sinc + sin3c ) + (1 - cos2f )(sinq - sin3q )(3sinc - sin3c )]
+YYY cbb
+- 2sin2f sinq cosq (cosc - cos3c )]}
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+付録 D： f = f „ 0, p のときの (XYZ)系でのテンソル成分
+A B
+［全対称バンド］ b >> b , b のときには b ~ (4/9)b 、b ~ (1/9)b である。
+zzz xxz h hz aac zzz ccc zzz
+2個のCH - 38
+3
+
+===== PDF p.39 =====
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyz zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a ) であるから、
+zxx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = -2ß cosa sinq cosc
+XXX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (3cosc + cos3c )
+aac ccc
+-[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+-2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (3cosc + cos3c )
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c =-(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -2ß cosa sinq cosc
+ZZX aac
++ (ß - ß )(cosa - cos3a )[sinq cosc - 3(sinq - sin3q )cosc + sin3q cosc cos2f ]
+aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+XZX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+ZXX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = 2ß cosa cosq
+XXZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 + cos2c )
+aac ccc
++ [(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = -2ß cosa cosq
+ZZZ aac
++ (ß - ß )(cosa - cos3a )[-cosq + 3cos3q - (cosq - cos3q )cos2f ]
+aac ccc
+- 2(ß - ß )cosa cos3q
+aac ccc
+(spp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+YXX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+YZX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+2個のCH - 39
+3
+
+===== PDF p.40 =====
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+YXZ aac ccc
+-2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(ssp) c = -2ß cosa sinq cosc
+YYX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (cosc - cos3c )
+aac ccc
+- [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = 2ß cosa sinq cosc
+YYZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 - cos2c )
+aac ccc
++ [(cosq - cos3q ) + (cosq + cos3q )cos2c ] cos2f - 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(psp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+XYX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+XYZ aac ccc
+-2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+ZYX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(sps) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+YXY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+YZY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(pps) c = 2ß cosa sinq sinc
+XXY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (sinc + sin3c )
+aac ccc
++ [sinq (3sinc - sin3c ) - (sinq - sin3q )(sinc + sin3c )]cos2f
++ 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa in3q (sinc + sin3c )
+aac ccc
+c = 2ß cosa sinq sinc
+ZZY aac
++ (ß - ß )(cosa - cos3a )[-sinq + 3(sinq - sin3q ) - sin3q cos2f ]sinc
+aac ccc
+- 2(ß - ß )cosa (sinq -sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+XZY aac ccc
+2個のCH - 40
+3
+
+===== PDF p.41 =====
++(ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+ZXY aac ccc
++(ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(pss) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+XYY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+ZYY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(sss) c = 2ß cosa sinq sinc
+YYY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (3sinc - sin3c )
+aac ccc
++ [sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+- 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (3sinc - sin3c )
+aac ccc
+c + c + c = - (4b + 2b )cosa sinq cosc
+XXX YYX ZZX aac ccc
+c + c + c = + (4b + 2b )cosa sinq sinc
+XXY YYY ZZY aac ccc
+c + c + c = + (4b + 2b )cosa cosq
+XXZ YYZ ZZZ aac ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f )
+XXX aac ccc
++ sinq (cosc - cos3c )(1 - cos2f )] - 2sinq cosq (sinc + sin3c )sin2f }
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+ZXX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+XZX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(ß - ß )(cosa - cos3a )[-(cosq - cos3q )(1 + cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+YXX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+YZX aac ccc
+- cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ aac ccc
+2個のCH - 41
+3
+
+===== PDF p.42 =====
+(ssp) c = -(1/2)(ß - ß )(cosa - cos3a ){[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX aac ccc
++ 2sinq cosq (sinc - sin3c )sin2f }
+c = (ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ aac ccc
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+XYX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+ZYX aac ccc
+-cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+(sps) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+YXY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = 2(ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+ZXY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+XZY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ] sin2f }
+(pss) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+XYY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(sss) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f )
+YYY aac ccc
++ sinq (sinc + sin3c )(1 - cos2f )] + 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2ß (cosa - cos3a )(1 ± cos2f ) - ß sin3a (cos3f ± cosf )
+xxz yyz caa A aaa A A
+ß - ß = -2ß (cosa - cos3a )(1 ± cos2f ) + ß (2sina - sin3a )(cos3f ± cosf )
+xxz yyz caa A aaa A A
+2個のCH - 42
+3
+
+===== PDF p.43 =====
+ß + ß - 2ß = -6ß (cosa - cos3a )(1 ± cos2f ) - 3ß sin3a (cos3f ± cosf )
+xxz yyz zzz caa A aaa A A
+ß = -ß (cosa - 2cos3a )(1 ± cos2f ) + ß (sina - sin3a )(cos3f ± cosf )
+zxx caa A aaa A A
+ß = ß cosa (1 - (±)cos2f ) - ß sina (cos3f - (±)cosf )
+zyy caa A aaa A A
+ß = ß = ±ß sin2a sin2f - ß sina cosa (sin3f ± sinf )
+xyz yxz caa A aaa A A
+ß = ß = -(±)ß sin2a sin2f - ß sina cosa (sin3f ± sinf )
+yzx zyx caa A aaa A A
+ß = ß = -(±)ß (2cos2a - 1)sin2f - ß sina cosa (sin3f - (±)sinf ) であるから、
+zxy xzy caa A aaa A A
+［対称 (a) 振動］
+1
+(ppp) c = -(1/2)(b + b )sinq cosc
+XXX aac bbc
++ (1/8)(b + b - 2b )sin3q (3cosc + cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+aac bbc
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+abc
+- 2sinq cosq (sinc + sin3c )cos2f }
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+XZZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+ZXZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+c = -(1/2)(b + b )sinq cosc
+ZZX aac bbc
++ (1/2)(b + b - 2b )(sinq - sin3q )cosc
+aac bbc ccc
+- (1/2)(b - b )sin3q cosc cos2f
+aac bbc
+- b (2sinq - sin3q )cosc sin2f
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+XZX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+ZXX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+c = (1/2)(b + b )cosq
+XXZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) - (cosq + cos3q )cos2c ]sin2f - 2cos2q sin2c cos2f }
+abc
+c = (1/2)(b + b )cosq
+ZZZ aac bbc
+- (1/2)(b + b - 2b )cos3q
+aac bbc ccc
++ (1/2)(b - b )cos2f (cosq - cos3q )
+aac bbc
++ b (cosq - cos3q )sin2f
+abc
+(spp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+YXX aac bbc ccc
+2個のCH - 43
+3
+
+===== PDF p.44 =====
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f - 2sinq cosq (cosc + cos3c )cos2f ]
+abc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+YZZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YZX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YXZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
+(ssp) c = -(1/2)(b + b )sinq cosc
+YYX aac bbc
++ (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
+aac bbc
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[4sinq cosc - (2sinq - sin3q )]sin2f + 2sinq cosq (sinc + sin3c )cos2f }
+abc
+c = (1/2)(b + b )cosq
+YYZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) + (cosq + cos3q )cos2c ]sin2f + cos2q sin2c cos2f }
+abc
+(psp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+XYX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f - 2sinq cosq (cosc + cos3c )cos2f ]
+abc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+ZYZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XYZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZYX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
+(sps) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+YXY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc + sin3c )cos2f ]
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+YZY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+2個のCH - 44
+3
+
+===== PDF p.45 =====
+(pps) c = (1/2)(b + b )sinq sinc
+XXY aac bbc
+- (1/8)(b + b - 2b )sin3q (sinc + sin3c )
+aac bbc ccc
++ (1/8)(b - b ){[(sinq - sin3q )(sinc + sin3c ) - sinq (3sinc - sin3c )cos2f ]
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[(2sinq - sin3q )(sinc + sin3c ) - 4sinq cosc ]sin2f + 2sinq cosq (cosc - cos3c )cos2f }
+abc
+c = (1/2)(b + b )sinq sinc
+ZZY aac bbc
+- (1/2)(b + b - 2b )(sinq - sin3q )sinc
+aac bbc ccc
++ (1/2)(b - b )sin3q sinc cos2f
+aac bbc
++ b sin3q sinc sin2f
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XZY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZXY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
+(pss) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+XYY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc + sin3c )cos2f ]
+abc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+ZYY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+(sss) c = (1/2)(b + b )sinq sinc
+YYY aac bbc
+- (1/8)(b + b - 2b )sin3q (3sinc - sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+abc
+- 2sinq cosq (cosc - cos3c )cos2f }
+c + c + c = -(b + b + b )sinq cosc
+XXX YYX ZZX aac bbc ccc
+c + c + c = +(b + b + b )sinq sinc
+XXY YYY ZZY aac bbc ccc
+c + c + c = +(b + b + b )cosq
+XXZ YYZ ZZZ aac bbc ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(1/4)b {[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f ) + sinq (cosc - cos3c )(1 - cos2f )]
+XXX caa
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+bca
+- 2sinq cosq (sinc + sin3c )cos2f }
+2個のCH - 45
+3
+
+===== PDF p.46 =====
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2c ) - sinq cosq sinc sin2f ]
+XZZ caa
++ (1/2)b [(sinq - 2sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+bca
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2c ) - sinq cosq sinc sin2f ]
+ZXZ caa
++ (1/2)b [(sinq - 2sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+bca
+c = b [(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX caa
++ b [(sinq - 2sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+bca
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+ZXX caa
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f - [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+XZX caa
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f - [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
+c = -(1/2)b [(cosq - cos3q )(1 + cos2c )(1 + cos2f ) - sin2q sin2c sin2f ]
+XXZ caa
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c (1 + cos2f )]
+bca
+c = b (cosq - cos3q )(1 + cos2f )
+ZZZ caa
++ b (cosq - cos3q )sin2f
+bca
+(spp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+YXX caa
++ 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f + 2sinq cosq (cosc + cos3c cos2f )}
+bca
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ caa
+- (1/2)b [(sinq - 2sin3q )sin2c sin2f - sinq cosq cosc (1 + cos2f )]
+bca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+YZX caa
++ (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 - cos2f ) + 2cos2q (1 + cos2c cos2f )]
+bca
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ caa
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q cos2c (1 + cos2f )]
+bca
+(ssp) c = (1/4)b {[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX caa
++ 2sinq cosq (sinc - sin3c )sin2f }
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )]sin2f - 2sin2q (sinc + sin3c )cos2f }
+bca
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ caa
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c (1 + cos2f )]
+bca
+(psp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+XYX caa
++ 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f + 2sinq cosq (cosc + cos3c cos2f )}
+bca
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ caa
+- (1/2)b [(sinq - 2sin3q )sin2c sin2f - sinq cosq cosc (1 + cos2f )]
+bca
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ caa
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q cos2c (1 + cos2f )]
+bca
+2個のCH - 46
+3
+
+===== PDF p.47 =====
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+ZYX caa
++ (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 - cos2f ) + 2cos2q (1 + cos2c cos2f )]
+bca
+(sps) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+YXY caa
++ 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f - 2sinq cosq (sinc - sin3c )cos2f }
+bca
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY caa
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
+(pps) c = (1/4)b {[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY caa
++ 2sinq cosq (cosc + cos3c )sin2f }
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f + 2sinq cosq (cosc - cos3c )cos2f ]
+bca
+c = -b [(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY caa
+-b [(sinq - sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+bca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY caa
++ (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 - cos2f ) - 2(1 - cos2c cos2f )]
+bca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY caa
++ (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 - cos2f ) - 2(1 - cos2c cos2f )]
+bca
+(pss) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+XYY caa
++ 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f - 2sinq cosq (sinc - sin3c )cos2f }
+bca
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY caa
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
+(sss) c = (1/4)b {[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f ) + sinq (sinc + sin3c )(1 - cos2f )]
+YYY caa
++ 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+bca
+- 2 sinq cosq (cosc - cos3c )cos2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［面外 (b ) 振動］
+2
+(ppp) c = -(1/4)b {[sinq (cosc - cos3c )(1 + cos2f ) + (sinq - sin3q )(3cosc + cos3c )(1 - cos2f )]
+XXX cbb
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+cab
+- 2sinq cosq (sinc + sin3c )cos2f }
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+XZZ cbb
++ (1/2)b [(sinq - 2sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+cab
+2個のCH - 47
+3
+
+===== PDF p.48 =====
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZXZ cbb
++ (1/2)b [(sinq - 2sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+cab
+c = b [(sinq - sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZZX cbb
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+cab
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+ZXX cbb
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+XZX cbb
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
+c = -(1/2)b [(cosq - cos3q )(1 + cos2c )(1 - cos2f ) + sin2q sin2c sin2f ]
+XXZ cbb
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f - sin2q sin2c (1 - cos2f )]
+cab
+c = b (cosq - cos3q )(1 - cos2f )
+ZZZ cbb
++ b (cosq - cos3q )sin2f
+cab
+(spp) c = (1/4)b {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+YXX cbb
+- 2sinq cosq cos3c sin2f }
+- (1/4)b {[sinq (sinc - sin3c ) + (sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c cos2f )}
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+YZZ cbb
+- (1/2)b [(sinq - 2sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+cab
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+YZX cbb
+- (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 + cos2f ) + 2cos2q (1 - cos2c cos2f )]
+cab
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+YXZ cbb
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q cos2c (1 - cos2f )]
+cab
+(ssp) c = (1/4)b {[sinq (1 + cos2f ) - (sinq - sin3q )(1 - cos2f )](cosc - cos3c )
+YYX cbb
+- 2sinq cosq (sinc - sin3c )sin2f }
+- (1/4)b {(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq [2sinc - (sinc - sin3c )cos2f ]}
+cab
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 - cos2f ) - sin2q sin2c sin2f ]
+YYZ cbb
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f + sin2q sin2c (1 - cos2f )]
+cab
+(psp) c = (1/4)b {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+XYX cbb
+- 2sinq cosq cos3c sin2f }
+- (1/4)b {[sinq (sinc - sin3c ) + (sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c cos2f )}
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+ZYZ cbb
+- (1/2)b [(sinq - 2sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+cab
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+XYZ cbb
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q cos2c (1 - cos2f )]
+cab
+2個のCH - 48
+3
+
+===== PDF p.49 =====
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+ZYX cbb
+- (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 + cos2f ) + 2cos2q (1 - cos2c cos2f )]
+cab
+(sps) c = -(1/4)b {[sinq (cosc + cos3c )(1 + cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+YXY cbb
+- 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f + 2sinq cosq (sinc + sin3c cos2f )}
+cab
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+YZY cbb
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) + cos3q cos2c ]sin2f - [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
+(pps) c = (1/4)b {[-sinq (1 + cos2f ) + (sinq - sin3q )(1 - cos2f )](sinc + sin3c )
+XXY cbb
+- sinq cosq (cosc + cos3c )sin2f }
++ (1/4)b {(2sinq - sin3q )sin2f - 2sinq cosq [2cosc - (cosc + cos3c )cos2f ]}
+cab
+c = b [-(sinq - sin3q )sinc (1 - cos2f ) + sinq cosq cosc sin2f ]
+ZZY cbb
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc (1 + cos2f )]
+cab
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY cbb
+- (1/4)b [2 cos3q sin2c sin2f + sin2q (1 + cos2c )(1 + cos2f ) - 2cos2q (1 + cos2c cos2f )]
+cab
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY cbb
+- (1/4)b [2 cos3q sin2c sin2f + sin2q (1 + cos2c )(1 + cos2f ) - 2cos2q (1 + cos2c cos2f )]
+cab
+(pss) c = -(1/4)b {[sinq (cosc + cos3c )(1 + cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+XYY cbb
+- 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f + 2sinq cosq (sinc + sin3c cos2f )}
+cab
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+ZYY cbb
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) + cos3q cos2c ]sin2f - [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
+(sss) c = (1/4)b {[sinq (sinc + sin3c )(1 + cos2f ) + (sinq - sin3q )(3sinc - sin3c )(1 - cos2f )]
+YYY cbb
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c )cos2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+付録 E： f = 0, f = p または f = p , f = 0のときの (XYZ)系でのテンソル成分
+A B A B
+［全対称バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (1/9) b である。
+zzz xxz h hz aac zzz ccc zzz
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+2個のCH - 49
+3
+
+===== PDF p.50 =====
+ß = -2(ß - ß )(cosa - cos3a ) + 2ß cosa
+xxz aac ccc aac
+ß = +2ß cosa
+yyz aac
+ß = +2(ß - ß )(cosa - cos3a ) + 2ß cosa
+zzz aac ccc ccc
+ß = -2(ß - ß )(cosa - cos3a )
+zxx aac ccc
+ß = -2(ß - ß )(cosa - cos3a )
+xzx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = -2ß cosa sinq cosc
+XXX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (3cosc + cos3c )
+aac ccc
+- [sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (3cosc + cos3c )
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -2ß cosa sinq cosc
+ZZX aac
++ (ß - ß )(cosa - cos3a )[sinq cosc - 3(sinq - sin3q )cosc + sin3q cosc cos2f ]
+aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+XZX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+ZXX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = 2ß cosa cosq
+XXZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 + cos2c )
+aac ccc
++ [(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = -2ß cosa cosq
+ZZZ aac
++ (ß - ß )(cosa - cos3a )[-cosq + 3cos3q - (cosq - cos3q )cos2f ]
+aac ccc
+- 2(ß - ß )cosa cos3q
+aac ccc
+(spp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+YXX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+YZX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+YXZ aac ccc
+- 2cos2q cos2c sin2f }
+2個のCH - 50
+3
+
+===== PDF p.51 =====
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(ssp) c = -2ß cosa sinq cosc
+YYX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (cosc - cos3c )
+aac ccc
+- [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = 2ß cosa sinq cosc
+YYZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){ - 2cosq + 3(cosq - cos3q )(1 - cos2c )
+aac ccc
++ [(cosq - cos3q ) + (cosq + cos3q )cos2c ] cos2f - 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(psp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+XYX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+XYZ aac ccc
+- 2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+ZYX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(sps) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+YXY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+YZY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(pps) c = 2ß cosa sinq sinc
+XXY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (sinc + sin3c )
+aac ccc
++ [sinq (3sinc - sin3c ) - (sinq - sin3q )(sinc + sin3c )]cos2f
++ 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = 2ß cosa sinq sinc
+ZZY aac
++(ß - ß )(cosa - cos3a )[-sinq + 3(sinq - sin3q ) - sin3q cos2f ]sinc
+aac ccc
+- 2(ß - ß )cosa (sinq -sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+XZY aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+ZXY aac ccc
+2個のCH - 51
+3
+
+===== PDF p.52 =====
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(pss) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+XYY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+ZYY aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(sss) c = 2ß cosa sinq sinc
+YYY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (3sinc - sin3c )
+aac ccc
++ [sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+- 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (3sinc - sin3c )
+aac ccc
+c + c + c = -(4b + 2b )cosa sinq cosc
+XXX YYX ZZX aac ccc
+c + c + c = +(4b + 2b )cosa sinq sinc
+XXY YYY ZZY aac ccc
+c + c + c = +(4b + 2b )cosa cosq
+XXZ YYZ ZZZ aac ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f )
+XXX aac ccc
++ sinq (cosc - cos3c )(1 - cos2f )] - 2sinq cosq (sinc + sin3c )sin2f }
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+ZXX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+XZX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(ß - ß )(cosa - cos3a )[-(cosq - cos3q )(1 + cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+YXX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+YZX aac ccc
+- cos2f cosq ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ aac ccc
+(ssp) c = -(1/2)(ß - ß )(cosa - cos3a ){[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX aac ccc
++ 2sinq cosq (sinc - sin3c )sin2f }
+2個のCH - 52
+3
+
+===== PDF p.53 =====
+c = (ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ aac ccc
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+XYX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+ZYX aac ccc
+- cos2f cosq ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+(sps) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+YXY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = 2(ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+ZXY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+XZY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ] sin2f }
+(pss) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+XYY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(sss) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f )
+YYY aac ccc
++ sinq (sinc + sin3c )(1 - cos2f )] + 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+（ß とß にはb軸方向の振動が寄与し、他の成分にはa軸方向の振動が寄与する。）
+zyy yzy
+（± 記号の上側は f = 0、f = p に対応し、下側は f = p 、f = 0 に対応する。）
+A B A B
+ß = -2ß (cosa - 2cos3a )
+zxx caa
+ß = -2ß (cosa - 2cos3a )
+xzx caa
+2個のCH - 53
+3
+
+===== PDF p.54 =====
+ß = 2ß cosa
+zyy caa
+ß = 2ß cosa
+yzy caa
+ß = -4ß (cosa - cos3a )
+xxz caa
+ß = 0
+yyz
+ß = 4ß (cosa - cos3a )
+zzz caa
+［対称 (a) 振動］
+1
+(ppp) c = -(1/2)(b + b )sinq cosc
+XXX aac bbc
++ (1/8)(b + b - 2b )sin3q (3cosc + cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+aac bbc
++ 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+XZZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+ZXZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
+c = -(1/2)(b + b )sinq cosc
+ZZX aac bbc
++ (1/2)(b + b - 2b )(sinq - sin3q )cosc
+aac bbc ccc
+- (1/2)(b - b )sin3q cosc cos2f
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+XZX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+ZXX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+c = (1/2)(b + b )cosq
+XXZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+aac bbc ccc
+- (1/4)(b - b ){ [(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c )sin2f }
+aac bbc
+c = (1/2)(b + b )cosq
+ZZZ aac bbc
+- (1/2)(b + b - 2b )cos3q
+aac bbc ccc
++ (1/2)(b - b )(cosq - cos3q )cos2f
+aac bbc
+(spp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+YXX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+YZZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YZX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YXZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+(ssp) c = -(1/2)(b + b )sinq cosc
+YYX aac bbc
++ (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+aac bbc ccc
+2個のCH - 54
+3
+
+===== PDF p.55 =====
++ (1/8)(b - b ){cos2f [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]
+aac bbc
+- 2sin2f sinq cosq (sinc + sin3c )}
+c = (1/2)(b + b )cosq
+YYZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+aac bbc ccc
+- (1/4)(b - b )[cos2f [(cosq - cos3q ) + (cosq + cos3q )cos2c ] - 2sin2f cos2q sin2c )]
+aac bbc
+(psp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+XYX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+ZYZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XYZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZYX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
+(sps) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+YXY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+YZY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+(pps) c = (1/2)(b + b )sinq sinc
+XXY aac bbc
+- (1/8)(b + b - 2b )sin3q (sinc + sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (3sinc - sin3c )cos2f - (sinq - sin3q )(sinc + sin3c )]
+aac bbc
++ 2sinq cosq (cosc - cos3c )sin2f }
+c = (1/2)(b + b )sinq sinc
+ZZY aac bbc
+- (1/2)(b + b - 2b )(sinq - sin3q )sinc
+aac bbc ccc
++ (1/2)(b - b )sin3q sinc cos2f
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XZY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZXY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
+(pss) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+XYY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+ZYY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+(sss) c = (1/2)(b + b )sinq sinc
+YYY aac bbc
+- (1/8)(b + b - 2b )sin3q (3sinc - sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (sinc + sin3c )cos2f - (sinq - sin3q )(3sinc - sin3c )]
+aac bbc
+2個のCH - 55
+3
+
+===== PDF p.56 =====
+- 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = -(b + b + b )sinq cosc
+XXX YYX ZZX aac bbc ccc
+c + c + c = +(b + b + b )sinq sinc
+XXY YYY ZZY aac bbc ccc
+c + c + c = +(b + b + b )cosq
+XXZ YYZ ZZZ aac bbc ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = -(1/4)b {[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f ) + sinq (cosc - cos3c )(1 - cos2f )]
+XXX caa
+- 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ caa
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ caa
+c = b [(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX caa
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+ZXX caa
++ (1 - 3cos2q )sin2c sin2f }
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+XZX caa
++ (1 - 3cos2q )sin2c sin2f }
+c = (1/2)b [-(cosq - cos3q )(1 + cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+XXZ caa
+c = b (cosq - cos3q )(1 + cos2f )
+ZZZ caa
+(spp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+YXX caa
++ 2sinq cosq cos3c sin2f }
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + inq cosq cosc sin2f ]
+YZZ caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+YZX caa
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ caa
+(ssp) c = (1/4)b {[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX caa
++ 2sinq cosq (sinc - sin3c )sin2f }
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2c sin2q sin2f ]
+YYZ caa
+(psp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+XYX caa
++ 2sinq cosq cos3c sin2f }
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ caa
+c = (1/2)b (cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZYX caa
+(sps) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+YXY caa
++ 2sinq cosq sin3c sin2f }
+c = (1/4)b {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY caa
+- (1 - 3cos2q )sin2c sin2f }
+2個のCH - 56
+3
+
+===== PDF p.57 =====
+(pps) c = (1/4)b {[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY caa
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = -b [(sinq - sin3q )sinc (1 + cos2f )+ sinq cosq cosc sin2f ]
+ZZY caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY caa
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY caa
+(pss) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + (1 - cos2f )sinq (cosc + cos3c )]
+XYY caa
++ 2sinq cosq sin3c sin2f }
+c = (1/4)b {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY caa
+- (1 - 3cos2q )sin2c sin2f }
+(sss) c = (1/4)b {[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f ) + sinq (sinc + sin3c )(1 - cos2f )]
+YYY caa
++ 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［面外 (b ) 振動］
+2
+(ppp) c = -(1/4)b {[sinq (cosc - cos3c )(1 + cos2f ) + (sinq - sin3q )(3cosc + cos3c )(1 - cos2f )]
+XXX cbb
++ 2sinq cosq (sinc + sin3c )sin2f }
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+XZZ cbb
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZXZ cbb
+c = b [(sinq - sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZZX cbb
+c = (1/4)b {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+ZXX cbb
+- (1 - 3cos2q )sin2c sin2f }
+c = (1/4)b {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+XZX cbb
+- (1 - 3cos2q )sin2c sin2f }
+c = -(1/2)b [(cosq - cos3q )(1 + cos2c )(1 - cos2f ) + sin2q sin2c sin2f ]
+XXZ cbb
+c = b (cosq - cos3q )(1 - cos2f )
+ZZZ cbb
+(spp) c = (1/4)b {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+YXX cbb
+- 2sinq cosq cos3c sin2f }
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+YZZ cbb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+YZX cbb
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+YXZ cbb
+(ssp) c = (1/4)b {[sinq (1 - cos2f ) - (sinq - sin3q )(1 - cos2f )](cosc - cos3c )
+YYX cbb
+- 2sinq cosq (sinc - sin3c )sin2f }
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 - cos2f ) - sin2q sin2c sin2f ]
+YYZ cbb
+(psp) c = (1/4)b {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+XYX cbb
+2個のCH - 57
+3
+
+===== PDF p.58 =====
+- 2sinq cosq cos3c sin2f }
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+ZYZ cbb
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+XYZ cbb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+ZYX cbb
+(sps) c = -(1/4)b {[sinq (cosc + cos3c )(1 - cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+YXY cbb
+- 2sinq cosq sin3sin2f c }
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+YZY cbb
++ (1 - 3cos2q )sin2c sin2f }
+(pps) c = (1/4)b {[-sinq (1 + cos2f ) + (sinq - sin3q )(1 - cos2f )](sinc + sin3c )
+XXY cbb
+- sinq cosq (cosc + cos3c )sin2f }
+c = b [-(sinq - sin3q )sinc (1 - cos2f ) + sinq cosq cosc sin2f ]
+ZZY cbb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY cbb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY cbb
+(pss) c = -(1/4)b {[sinq (cosc + cos3c )(1 - cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+XYY cbb
+- 2sinq cosq sin3c sin2f }
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+ZYY cbb
++ (1 - 3cos2q )sin2c sin2f }
+(sss) c = (1/4)b {[sinq (sinc + sin3c )(1 + cos2f ) + (sinq - sin3q )(3sinc - sin3c )(1 - cos2f )]
+YYY cbb
+- 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + c = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+付録 F：空間固定 (XYZ)系でのテンソル成分（一般式）
+［全対称バンド］ b >> b , b のときには b ~ (4/9)b 、b ~ (1/9)b である。
+zzz xxz h hz aac zzz ccc zzz
+原理的には振動バンドが２つに分裂するが、実際には重なっているときには、以下に示す２つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ß + ß = -2(ß - ß )(cosa - cos3a ) + 4ß cosa
+xxz yyz aac ccc aac
+ß - ß = -2(ß - ß )(cosa - cos3a )
+xxz yyz aac ccc
+ß + ß - 2ß = -2(ß - ß )[3(cosa - cos3a ) - 2cosa ]
+xxz yyz zzz aac ccc
+ß = -2(ß - ß )(cosa - cos3a ) であるから、
+zxx aac ccc
+［対称 (a) 振動］
+1
+(ppp) c = -2ß cosa sinq cosc
+XXX aac
+2個のCH - 58
+3
+
+===== PDF p.59 =====
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (3cosc + cos3c )
+aac ccc
+- [sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (3cosc + cos3c )
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (3 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = -2ß cosa sinq cosc
+ZZX aac
++ (ß - ß )(cosa - cos3a )[sinq cosc - 3(sinq - sin3q )cosc + sin3q cosc cos2f ]
+aac ccc
++ 2(ß - ß )cosa (sinq - sin3q )cosc
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+XZX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 + cos2c )(3 + cos2f ) - sin2q sin2c sin2f ]
+ZXX aac ccc
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = 2ß cosa cosq
+XXZ aac
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 + cos2c )
+aac ccc
++ [(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 + cos2c )
+aac ccc
+c = -2ß cosa cosq
+ZZZ aac
++ (ß - ß )(cosa - cos3a )[-cosq + 3cos3q - (cosq - cos3q )cos2f ]
+aac ccc
+- 2(ß - ß )cosa cos3q
+aac ccc
+(spp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+YXX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+YZX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+YXZ aac ccc
+- 2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(ssp) c = -2ß cosa sinq cosc
+YYX aac
++ (1/4)(ß - ß )(cosa - cos3a ){4sinq cosc - 3sin3q (cosc - cos3c )
+aac ccc
+- [sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = 2ß cosa sinq cosc
+YYZ aac
+2個のCH - 59
+3
+
+===== PDF p.60 =====
++ (1/2)(ß - ß )(cosa - cos3a ){-2cosq + 3(cosq - cos3q )(1 - cos2c )
+aac ccc
++ [(cosq - cos3q ) + (cosq + cos3q )cos2c ] cos2f - 2cos2q sin2c sin2f }
+- (ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(psp) c = (1/4)(ß - ß )(cosa - cos3a ){[3sin3q - (2sinq - sin3q )cos2f ](sinc + sin3c )
+XYX aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = (ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (3 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+- 2(ß - ß )cosa (sinq - sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){[3(cosq - cos3q ) - (cosq + cos3q )cos2f ]sin2c
+XYZ aac ccc
+- 2cos2q cos2c sin2f }
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q q )sin2c (3 + cos2f ) + sin2q (1 + cos2c )sin2f ]
+ZYX aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(sps) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+YXY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+YZY aac ccc
+-(ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+(pps) c = 2ß cosa sinq sinc
+XXY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (sinc + sin3c )
+aac ccc
++ [sinq (3sinc - sin3c ) - (sinq - sin3q )(sinc + sin3c )]cos2f
++ 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (sinc + sin3c )
+aac ccc
+c = 2ß cosa sinq sinc
+ZZY aac
++ (ß - ß )(cosa - cos3a )[-sinq + 3(sinq - sin3q ) - sin3q cos2f ]sinc
+aac ccc
+- 2(ß - ß )cosa (sinq -sin3q )sinc
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+XZY aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (3 + cos2f ) - sin2q (1 - cos2c )sin2f ]
+ZXY aac ccc
++ (ß - ß )cosa (cosq - cos3q )sin2c
+aac ccc
+(pss) c = (1/4)(ß - ß )(cosa - cos3a ){[-3sin3q + (2sinq - sin3q )cos2f ](cosc - cos3c )
+XYY aac ccc
+- 2sinq cosq (sinc - sin3c )sin2f }
++ (1/2)(ß - ß )cosa sin3q (cosc - cos3c )
+aac ccc
+c = (1/2)(ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(3 + cos2f ) + sin2q sin2c sin2f ]
+ZYY aac ccc
+-(ß - ß )cosa (cosq - cos3q )(1 - cos2c )
+aac ccc
+2個のCH - 60
+3
+
+===== PDF p.61 =====
+(sss) c = 2ß cosa sinq sinc
+YYY aac
++ (1/4)(ß - ß )(cosa - cos3a ){-4sinq sinc + 3sin3q (3sinc - sin3c )
+aac ccc
++ [sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+- 2sinq cosq (cosc - cos3c )sin2f }
+- (1/2)(ß - ß )cosa sin3q (3sinc - sin3c )
+aac ccc
+c + c + c = -(4b + 2b )cosa sinq cosc
+XXX YYX ZZX aac ccc
+c + c + c = + (4b + 2b )cosa sinq sinc
+XXY YYY ZZY aac ccc
+c + c + c = + (4b + 2b )cosa cosq
+XXZ YYZ ZZZ aac ccc
+［逆対称 (b ) 振動］
+1
+(ppp) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f )
+XXX aac ccc
++ sinq (cosc - cos3c )(1 - cos2f )] - 2sinq cosq (sinc + sin3c )sin2f }
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )[(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+ZXX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 + cos2c cos2f )
+XZX aac ccc
+- (cosq - cos3q )(1 + cos2c )(1 + cos2f )] + (1 - 3cos2q )sin2c sin2f }
+c = -(ß - ß )(cosa - cos3a )[-(cosq - cos3q )(1 + cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+XXZ aac ccc
+c = -2(ß - ß )(cosa - cos3a )(cosq - cos3q )(1 + cos2f )
+ZZZ aac ccc
+(spp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+YXX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cos2f cosq ]sin2c
+YZX aac ccc
++ [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ aac ccc
+(ssp) c = -(1/2)(ß - ß )(cosa - cos3a ){[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX aac ccc
++ 2sinq cosq (sinc - sin3c )sin2f }
+c = (ß - ß )(cosa - cos3a )[(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ aac ccc
+(psp) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(sinc + sin3c )(1 + cos2f )
+XYX aac ccc
++ sinq (sinc - sin3c )(1 - cos2f )] + 2sinq cosq cos3c sin2f }
+c = (ß - ß )(cosa - cos3a )[(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ aac ccc
+c = -(ß - ß )(cosa - cos3a )[(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f ) - cos2f cosq ]sin2c
+ZYX aac ccc
+2個のCH - 61
+3
+
+===== PDF p.62 =====
++ [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+(sps) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+YXY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(pps) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY aac ccc
++ 2sinq cosq (cosc + cos3c )sin2f }
+c = 2(ß - ß )(cosa - cos3a )[(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY aac ccc
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+ZXY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ] sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[(cosq - cos3q )(1 + cos2f )
+XZY aac ccc
+- cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ] sin2f }
+(pss) c = (1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(cosc - cos3c )(1 + cos2f )
+XYY aac ccc
++ sinq (cosc + cos3c )(1 - cos2f )] + 2sinq cosq sin3c sin2f }
+c = -(1/2)(ß - ß )(cosa - cos3a ){2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY aac ccc
+- (1 - 3cos2q )sin2c sin2f }
+(sss) c = -(1/2)(ß - ß )(cosa - cos3a ){[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f )
+YYY aac ccc
++ sinq (sinc + sin3c )(1 - cos2f )] + 2sinq cosq (cosc - cos3c )sin2f }
+c + c + c = c + c + c = c + c + v = 0
+XXX YYX ZZX XXY YYY ZZY XXZ YYZ ZZZ
+［縮重バンド］ b >> b , b のときには b ~ (4/9) b 、b ~ (4(cid:214) 2/9) b である。
+zzz xxz h hz caa zzz aaa zzz
+原理的には振動バンドが３つに分裂するが、実際には重なっているときには、以下に示す３つのバンド
+に対する表式について和を取ったものが測定されたスペクトルの解析に当てはめるべき式になる。
+ここに示すテンソルのXYZ 成分の表式は、分子固定系での下付きの左２つを入れ替えたものが等しい
+とき（b = b ) にあてはまる一般式である。
+ijk jik
+ß + ß = -ß (cosa - cos3a )[2±(cos2f + cos2f )]
+xxz yyz caa A B
+- (1/2)ß sin3a [(cos3f + cos3f )±(cosf + cosf )]
+aaa A B A B
+ß - ß = -ß (cosa - cos3a )[2±(cos2f + cos2f )]
+xxz yyz caa A B
++ (1/2)ß (2sina - sin3a )[(cos3f + cos3f ) ± (cosf + cosf )]
+aaa A B A B
+ß + ß - 2ß = -6ß (cosa - cos3a )[2 ± (cos2f + cos2f )]
+xxz yyz zzz caa A B
+- (3/2)ß sin3a [(cos3f + cos3f ) ± (cosf + cosf )]
+aaa A B A B
+ß = ß = -(1/2)ß (cosa - 2cos3a )[2 ± (cos2f + cos2f )]
+zxx xzx caa A B
++ (1/2)ß (sina - sin3a )[(cos3f + cos3f ) ± (cosf + cosf )]
+aaa A B A B
+2個のCH - 62
+3
+
+===== PDF p.63 =====
+ß = ß = (1/2)ß cosa [2 - (±)(cos2f + cos2f )]
+zyy yzy caa A B
+- (1/2)ß sina [(cos3f + cos3f ) - (±)(cosf + cosf )]
+aaa A B A B
+ß = ß = ±(1/2)ß sin2a (sin2f + sin2f )
+xyz yxz caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) ± (sinf + sinf )]
+aaa A B A B
+ß = ß = -(±1/2)ß sin2a (sin2f + sin2f )
+yzx zyx caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) ± (sinf + sinf )]
+aaa A B A B
+ß = ß = -(±1/2)ß (2cos2a - 1)s(sin2f + sin2f )
+zxy xzy caa A B
+- (1/2)ß sina cosa [(sin3f + sin3f ) - (±)(sinf + sinf )]
+aaa A B A B
+ß = ß = ±(1/2)ß sina (cos2f - cos2f )
+xyy yxy caa A B
+- (1/2)ß cosa [(cos3f - cos3f ) - (±)(cosf - cosf )]
+aaa A B A B
+ß = ß = ±(1/2)ß (sina - 2sin3a )(cos2f - cos2f )
+xzz zxz caa A B
++ (1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+aaa A B A B
+ß = -(±)ß (sina - sin3a )(cos2f - cos2f )
+xxx caa A B
+- (1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+aaa A B A B
+ß = -(1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+yyx aaa A B A B
+ß = ±ß (sina - sin3a )(cos2f - cos2f )
+zzx caa A B
++ (1/2)ß (cosa - cos3a )[(cos3f - cos3f ) ± (cosf - cosf )]
+aaa A B A B
+ß = ß = ±(1/2)ß sina cosa (sin2f - sin2f )
+yxx xyx caa A B
++ (1/2)ß cos2a [(sin3f - sin3f ) ± (sinf - sinf )]
+aaa A B A B
+ß = ß = -(±1/2)ß sina cosa (sin2f - sin2f )
+yzz zyz caa A B
+- (1/2)ß sin2a [(sin3f - sin3f )±(sinf - sinf )]
+aaa A B A B
+ß = -(1/2)ß [(sin3f - sin3f ) - (±)(sinf - sinf )]
+yyy aaa A B A B
+ß = ±ß sina cosa (sin2f - sin2f )
+xxy caa A B
+-(1/2)ß cos2a [(sin3f - sin3f ) ± (sinf - sinf )]
+aaa A B A B
+ß = -(±1/2)ß sina cosa (sin2f - sin2f )
+zzy caa A B
+- (1/2)ß sin2a [(sin3f - sin3f ) - (±)(sinf - sinf )]
+aaa A B A B
+を下に代入すると、2個のメチル基の表式になる。（abc をxyzと変えた上で）
+［対称 (a) 振動、c軸に沿った振動］
+1
+(ppp) c = -(1/2)(b + b )sinq cosc
+XXX aac bbc
++ (1/8)(b + b - 2b )sin3q (3cosc + cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+aac bbc
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+abc
+- 2sinq cosq (sinc + sin3c )cos2f }
++ (1/2)b [(cosq - cos3q )(3cosc + cos3c )cosf - sin2q (sinc + sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(3cosc + cos3c )sinf + sin2q (sinc + sin3c )cosf ]
+bcc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+XZZ aac bbc ccc
++ (1/2)(b - b )[ (sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+2個のCH - 63
+3
+
+===== PDF p.64 =====
+- b [(cosq - 2cos3q )cosc cosf - sin2q sinc sinf ]
+acc
+- b [(cosq - 2cos3q )cosc sinf - sin2q sinc cosf ]
+bcc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+ZXZ aac bbc ccc
++ (1/2)(b - b )[ (sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+- b [(cosq - 2cos3q )cosc cosf - sin2q sinc sinf ]
+acc
+- b [(cosq - 2cos3q )cosc sinf - sin2q sinc cosf ]
+bcc
+c = -(1/2)(b + b )sinq cosc
+ZZX aac bbc
++ (1/2)(b + b - 2b )(sinq - sin3q )cosc
+aac bbc ccc
+- (1/2)(b - b )cosc sin3q cos2f
+aac bbc
+- b (2sinq - sin3q )cosc sin2f
+abc
+- 2b (cosq - 2cos3q )cosc cosf
+acc
+- 2b (cosq - 2cos3q )cosc sinf
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+XZX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )cosf - sinq cosq sin2c sinf ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+ZXX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )cosf - sinq cosq sin2c sinf ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+bcc
+c = (1/2)(b + b )cosq
+XXZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) - (cosq + cos3q )cos2c ]sin2f - 2cos2q sin2c cos2f ]}
+abc
+- b [(sinq - sin3q )(1 + cos2c )cosf - sinq cosq sin2c sinf ]
+acc
+- b [(sinq - sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+bcc
+c = (1/2)(b + b )cosq
+ZZZ aac bbc
+- (1/2)(b + b - 2b )cos3q
+aac bbc ccc
++ (1/2)(b - b )(cosq - cos3q )cos2f
+aac bbc
++ b (cosq - cos3q )sin2f
+abc
++ 2b (sinq - sin3q )cosf
+acc
++ 2b (sinq - sin3q )sinf
+bcc
+(spp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+YXX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/2)b [2(2sinq - sin3q )(sinc + sin3c )sin2f - sinq cosq (cosc + cos3c )cos2f ]
+abc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc + cos3c )sinf ]
+acc
+2個のCH - 64
+3
+
+===== PDF p.65 =====
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )sinf - sin2q (cosc + cos3c )cosf ]
+bcc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+YZZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
++ b [(cosq - 2cos3q )sinc cosf - cos2q cosc sinf ]
+acc
++ b [(cosq - 2cos3q )sinc sinf + cos2q cosc cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YZX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
++ (1/2)b [(sinq - 2sin3q )cos2c cosf + sin2q (1 + cos2c )sinf ]
+acc
++ (1/2)b [(sinq - 2sin3q )cos2c sinf - sin2q (1 + cos2c )cosf ]
+bcc
+c = (1/4)(b + b - 2b ) (cosq - cos3q )sin2c
+YXZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
++ b [(sinq - sin3q )sin2c cosf + sinq cosq cos2c sinf ]
+acc
++ b [(sinq - sin3q )sin2c sinf - sinq cosq cos2c cosf ]
+bcc
+(ssp) c = -(1/2)(b + b )sinq cosc
+YYX aac bbc
++ (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
+aac bbc
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[4 sinq cosc - (2sinq - sin3q )]sin2f + 2sinq cosq (sinc + sin3c )cos2f }
+abc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )cosf + sin2q (sinc + sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )sinf - sin2q (sinc + sin3c )cosf ]
+bcc
+c = (1/2)(b + b )cosq
+YYZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) + (cosq + cos3q )cos2c ]sin2f + cos2q sin2c cos2f }
+abc
+- b [(sinq - sin3q )(1 - cos2c )cosf + sinq cosq sin2c sinf ]
+acc
+- b [(sinq - sin3q )(1 - cos2c )sinf - sinq cosq sin2c cosf ]
+bcc
+(psp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+XYX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f - 2sinq cosq (cosc + cos3c )cos2f ]
+abc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc + cos3c )sinf ]
+acc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )sinf - sin2q (cosc + cos3c )cosf ]
+bcc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+ZYZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
++ b [(cosq - 2cos3q )sinc cosf - cos2q cosc sinf ]
+acc
++ b [(cosq - 2cos3q )sinc sinf + cos2q cosc cosf ]
+bcc
+2個のCH - 65
+3
+
+===== PDF p.66 =====
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XYZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
++ b [(sinq - sin3q )sin2c cosf + sinq cosq cos2c sinf ]
+acc
++ b [(sinq - sin3q )sin2c sinf - sinq cosq cos2c cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZYX aac bbc ccc
++ (1/4)(b - b )[ (cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
++ b [(sinq - sin3q )sin2c cosf + sinq cosq cos2c sinf ]
+acc
++ b [(sinq - sin3q )sin2c sinf - sinq cosq cos2c cosf ]
+bcc
+(sps) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+YXY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc - sin3c )cos2f ]
+abc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )cosf - sin2q (sinc - sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )sinf + sin2q (sinc - sin3c )cosf ]
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+YZY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )cosf + sinq cosq sin2c sin2f ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )sinf - sinq cosq sin2c cos2f ]
+bcc
+(pps) c = (1/2)(b + b )sinq sinc
+XXY aac bbc
+- (1/8)(b + b - 2b )sin3q (sinc + sin3c )
+aac bbc ccc
++ (1/8)(b - b ){[(sinq - sin3q )(sinc + sin3c ) - sinq (3sinc - sin3c )cos2f ]
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[(2sinq - sin3q )(sinc + sin3c ) - 4sinq cosc ]sin2f
+abc
++ 2sinq cosq (cosc - cos3c )cos2f }
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )cosf - sin2q (cosc - cos3c )sinf ]
+acc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )sinf + sin2q (cosc - cos3c )cosf ]
+bcc
+c = (1/2)(b + b )sinq sinc
+ZZY aac bbc
+- (1/2)(b + b - 2b )(sinq - sin3q )sinc
+aac bbc ccc
++ (1/2)(b - b )sin3q sinc cos2f
+aac bbc
++ b sin3q sinc sin2f
+abc
++ 2b (cosq - cos3q )sinc cosf
+acc
++ 2b (cosq - cos3q )sinc sinf
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XZY aac bbc ccc
++ (1/4)(b - b )[ (cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
++ (1/2)b [(sinq - 2sin3q )sin2c cosf - sinq cosq (1 - cos2c )sinf ]
+acc
+2個のCH - 66
+3
+
+===== PDF p.67 =====
++ (1/2)b [(sinq - 2sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZXY aac bbc ccc
++ (1/4)(b - b )[ (cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
++ (1/2)b [(sinq - 2sin3q )sin2c cosf - sinq cosq (1 - cos2c )sinf ]
+acc
++ (1/2)b [(sinq - 2sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+bcc
+(pss) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+XYY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc - sin3c )cos2f ]
+abc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )cosf - sin2q (sinc - sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )sinf + sin2q (sinc - sin3c )cosf ]
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+ZYY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )cosf + sinq cosq sin2c sinf ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )sinf - sinq cosq sin2c cosf ]
+bcc
+(sss) c = (1/2)(b + b )sinq sinc
+YYY aac bbc
+- (1/8)(b + b - 2b )sin3q (3sinc - sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+abc
+- 2sinq cosq (cosc - cos3c )cos2f }
+- (1/2)b [(cosq - cos3q )(3sinc - sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+acc
+- (1/2)b [(cosq - cos3q )(3sinc - sin3c )sinf - sin2q (cosc - cos3c )cosf ]
+bcc
+［逆対称 (b ) 振動、a軸に沿った振動］
+1
+(ppp) c = -(1/4)b {[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f ) + sinq (cosc - cos3c )(1 - cos2f )]
+XXX caa
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+bca
+- 2sinq cosq (sinc + sin3c )cos2f }
++ (1/16)b [-(cosq - cos3q )(3cosc + cos3c )(3cosf + cos3f )
+aaa
++ 4 cosq (3cosc cosf + cos3c cos3f ) - 4(3sinc sinf + sin3c sin3f )
++ 3sin2q (sinc + sin3c )(sinf + sin3f )]
++ (1/16)b [-(cosq - cos3q )(3cosc + cos3c )(cosf - cos3f )
+bba
++ 4 cosq (cosc cosf - cos3c cos3f ) - 4(sinc sinf - sin3c sin3f )
++ sin2q (sinc + sin3c )(sinf - 3sin3f )]
++ (1/4)b [(cosq - cos3q )(3cosc + cos3c )cosf - sin2q (sinc + sin3c )sinf ]
+cca
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ caa
+2個のCH - 67
+3
+
+===== PDF p.68 =====
++ (1/2)b [(sinq - 2sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+bca
++ (1/4)b [(cosq - cos3q )cosc (3cosf + cos3f ) - sin2q sinc (sinf + sin3f )]
+aaa
++ (1/4)b [(cosq - cos3q )cosc (cosf - cos3f ) + sin2q sinc (sinf + sin3f )]
+bba
+- b (cosq - cos3q )cosc cosf
+cca
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ caa
++ (1/2)b [(sinq - 2sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+bca
++ (1/4)b [(cosq - cos3q )cosc (3cosf + cos3f ) - sin2q sinc (sinf + sin3f )]
+aaa
++ (1/4)b [(cosq - cos3q )cosc (cosf - cos3f ) + sin2q sinc (sinf + sin3f )]
+bba
+- b (cosq - cos3q )cosc cosf
+cca
+c = b [(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX caa
++ b [(sinq - sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+bca
++ (1/4)b [(cosq - cos3q )cosc (3cosf + cos3f ) - sin2q sinc (sinf + sin3f )]
+aaa
++ (1/4)b [(cosq - cos3q )cosc (cosf - cos3f ) - sin2q sinc (3sinf - sin3f )]
+bba
++ b [cos3q cosc cosf - cos2q sinc sinf ]
+cca
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+ZXX caa
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f - [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3cosf + cos3f ) + sinq (1 - cos2c )(cosf - cos3f )
+aaa
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) - sinq (1 - cos2c )(cosf - cos3f )
+bba
+- 2sinq cosq sin2c (sinf - sin3f )]
++ (1/2)b [-(sinq - sin3q )(1 + cos2c )cosf + sinq cosq sin2c sinf ]
+cca
+c = (1/4)b {2[cosq (1 + cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+XZX caa
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f - [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3cosf + cos3f ) + sinq (1 - cos2c )(cosf - cos3f )
+aaa
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) - sinq (1 - cos2c )(cosf - cos3f )
+bba
+- 2sinq cosq sin2c (sinf - sin3f )]
++ (1/2)b [-(sinq - sin3q )(1 + cos2c )cosf + sinq cosq sin2c sinf ]
+cca
+c = -(1/2)b [(cosq - cos3q )(1 + cos2c )(1 + cos2f ) - sin2q sin2c sin2f ]
+XXZ caa
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c (1 + cos2f )]
+bca
++ (1/8)b [sinq (1 - cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 + cos2c )(3cosf + cos3f )
+aaa
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [sinq (1 - cos2c )(3cosf + cos3f ) + (sinq - sin3q )(1 + cos2c )(cosf - cos3f )
+bba
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/2)b sin3q (1 + cos2c )cosf
+cca
+c = b (cosq - cos3q )(1 + cos2f )
+ZZZ caa
++ b [(cosq - cos3q )sin2f
+bca
++ (1/4)b sin3q (3cosf + cos3f )
+aaa
+2個のCH - 68
+3
+
+===== PDF p.69 =====
++ (1/4)b sin3q (cosf - cos3f )
+bba
++b (sinq - sin3q )cosf
+cca
+(spp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+YXX caa
++ 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f + 2sinq cosq (cosc + cos3c cos2f )}
+bca
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3cosf + cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+aaa
++ sin2q (cosc + 3cos3c )(sinf + sin3f ) - 4(cosc sinf + cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) + 4cosq (sinc cosf + sin3c cos3f )
+bba
+- sin2q (cosc - cos3c )(sinf + sin3f ) + 4cos2q (cosc sinf + cos3c sin3f )]
++ (1/4)b [-(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+cca
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ caa
+- (1/2)b [(sinq - 2sin3q )sin2c sin2f - sinq cosq cosc (1 + cos2f )]
+bca
+- (1/4)b [(cosq - cos3q )sinc (3cosf + cos3f ) + sin2q cosc (sinf + sin3f )]
+aaa
+- (1/4)b [(cosq - cos3q )sinc (cosf - cos3f ) - sin2q cosc (sinf + sin3f )]
+bba
++ b (cosq - cos3q )sinc cosf
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+YZX caa
++ (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 - cos2f ) + 2cos2q (1 + cos2c cos2f )]
+bca
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )]
+aaa
+- (1/8)b (2sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ (1/2)b [(sinq - sin3q )sin2c cosf - sinq cosq (1 - cos2c )sinf ]
+cca
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ caa
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q cos2c (1 + cos2f )]
+bca
++ (1/8)b [sinq sin2c (cosf - cos3f ) - [(sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
++ (1/8)b [sinq sin2c (3cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ 2sinq cosq cos2c (sinf + sin3f )]
+- (1/2)b sin3q sin2c cosf
+cca
+(ssp) c = (1/4)b {[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX caa
++ 2sinq cosq (sinc - sin3c )sin2f }
+- (1/4)b {[(2sinq - sin3q )(cosc - cos3c )]sin2f - 2sin2q (sinc + sin3c )cos2f }
+bca
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3cosf + cos3f ) + 4cosq (cosc cosf - cos3c cos3f )
+aaa
++ sin2q (sinc - 3sin3c )(sinf + sin3f ) - (sinc sinf - sin3c sin3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) + 4cosq (3cosc cosf + cos3c cos3f )
+bba
+- sin2q (sinc + sin3c )(sinf + sin3f ) - cos2q (3sinc sinf + sin3c sin3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )cosf - sin2q (3sinc - sin3c )sinf ]
+cca
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ caa
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c (1 + cos2f )]
+bca
++ (1/8)b [sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(3cosf + cos3f )
+aaa
+2個のCH - 69
+3
+
+===== PDF p.70 =====
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [sinq (1 + cos2c )(3cosf + cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+bba
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/2)b sin3q (1 - cos2c )cosf
+cca
+(psp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+XYX caa
++ 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f + 2sinq cosq (cosc + cos3c cos2f )}
+bca
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3cosf + cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+aaa
++ sin2q (cosc + 3cos3c )(sinf + sin3f ) - 4(cosc sinf + cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) + 4cosq (sinc cosf + sin3c cos3f )
+bba
+- sin2q (cosc - cos3c )(sinf + sin3f ) + 4cos2q (cosc sinf + cos3c sin3f )]
++ (1/4)b [-(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+cca
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ caa
+- (1/2)b [(sinq - 2sin3q )sinc sin2f - sinq cosq cosc (1 + cos2f )]
+bca
+- (1/4)b [(cosq - cos3q )sinc (3cosf + cos3f ) + sin2q cosc (sinf + sin3f )]
+aaa
+- (1/4)b [(cosq - cos3q )sinc (cosf - cos3f ) - sin2q cosc (sinf + sin3f )]
+bba
++ b (cosq - cos3q )sinc cosf
+cca
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ caa
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q cos2c (1 + cos2f )]
+bca
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
++ (1/8)b [sinq sin2c (3cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ 2sinq cosq cos2c (sinf + sin3f )]
+- (1/2)b sin3q sin2c cosf
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ] sin2f }
+ZYX caa
++ (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 - cos2f ) + 2(1 + cos2c cos2f )]
+bca
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+bba
+- 2sinq cosq cos2c (sinf + sin3f )]
++ (1/2)b [(sinq - sin3q )sin2c cosf - sinq cosq (1 - cos2c )sinf ]
+cca
+(sps) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+YXY caa
++ 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f - 2sinq cosq (sinc - sin3c cos2f )}
+bca
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3cosf + cos3f ) + 4cosq (cosc cosf - cos3c cos3f )
+aaa
++ sin2q (sinc - 3sin3c )(sinf + sin3f ) - 4(sinc sinf - sin3c sin3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf - cos3c cos3f )
+bba
+- sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf - sin3c sin3f )]
+2個のCH - 70
+3
+
+===== PDF p.71 =====
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )cosf + sin2q (sinc + sin3c )sinf ]
+cca
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY caa
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
++ (1/8)b [sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(3cosf + cos3f )
+aaa
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [-sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+bba
++ 2sinq cosq sin2c (sinf - sin3f )]
+- (1/2)b [(sinq - sin3q )(1 - cos2c )cosf - sinq cosq sin2c sinf ]
+cca
+(pps) c = (1/4)b {[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY caa
++ 2sinq cosq (cosc + cos3c )sin2f }
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f + 2sinq cosq (cosc - cos3c )cos2f ]
+bca
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3cosf + cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+aaa
++ sin2q (cosc + 3cos3c )(sinf + sin3f ) - 4(cosc sinf + cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) - 4cosq (3sinc cosf - sin3c cos3f )
+bba
+- sin2q (cosc - cos3c )(sinf + sin3f ) - 4cos2q (3cosc sinf - cos3c sin3f )]
+- (1/4)b [(cosq - cos3q )(sinc + sin3c )cosf + sin2q (3cosc + cos3c )sinf ]
+cca
+c = -b [(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY caa
+-b [(sinq - sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+bca
+- (1/4)b [(cosq - cos3q )sinc (3cosf + cos3f ) + sin2q cosc (sinf + sin3f )]
+aaa
+- (1/4)b [(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (3sinf - sin3f )]
+bba
+- b [cos3q sinc cosf + cos2q cosc sinf ]
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY caa
++ (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 - cos2f ) - 2(1 - cos2c cos2f )]
+bca
+- (1/4)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
+- (1/4)b {sinq sin2c (cosf - cos3f ) + (sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ 2sinq cosq [2sinf + cos2c (sinf - sin3f )]}
++ (1/2)b [(sinq - sin3q )sin2c cosf + sinq cosq (1 + cos2c )sinf ]
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY caa
++ (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 - cos2f ) - 2(1 - cos2c cos2f )]
+bca
+- (1/4)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
+- (1/4)b {sinq sin2c (cosf - cos3f ) + (sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ 2sinq cosq [2sinf + cos2c (sinf - sin3f )]}
++ (1/2)b [(sinq - sin3q )sin2c cosf + sinq cosq (1 + cos2c )sinf ]
+cca
+(pss) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+XYY caa
++ 2sinq cosq sin3c sin2f }
+2個のCH - 71
+3
+
+===== PDF p.72 =====
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f - 2sinq cosq (sinc - sin3c cos2f )}
+bca
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3cosf + cos3f ) + 4cosq (cosc cosf - cos3c cos3f )
+aaa
++ sin2q (sinc - 3sin3c )(sinf + sin3f ) - 4(sinc sinf - sin3c sin3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf - cos3c cos3f )
+bba
+- sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf - sin3c sin3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )cosf + sin2q (sinc + sin3c )sinf ]
+cca
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY caa
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
++ (1/8)b [sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(3cosf + cos3f )
+aaa
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [-sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+bba
++ 2sinq cosq sin2c (sinf - sin3f )]
+- (1/2)b [(sinq - sin3q )(1 - cos2c )cosf - sinq cosq sin2c sinf ]
+cca
+(sss) c = (1/4)b {[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f ) + sinq (sinc + sin3c )(1 - cos2f )]
+YYY caa
++ 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc -(2sinq - sin3q )(sinc + sin3c )]sin2f
+bca
+- 2sinq cosq (cosc - cos3c )cos2f }
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(3cosf + cos3f ) - 4cosq (3sinc cosf - sin3c cos3f )
+aaa
++ 3sin2q (cosc - cos3c )(sinf + sin3f ) - 4(3cosc sinf - cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(cosf - cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+bba
++ sin2q (cosc - cos3c )(sinf - 3sin3f ) - 4(cosc sinf + cos3c sin3f )]
+- (1/4)b [(cosq - cos3q )(3sinc - sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+cca
+［面外 (b ) 振動、b 軸に沿った振動］
+2
+(ppp) c = -(1/4)b {[(sinq - sin3q )(3cosc + cos3c )(1 - cos2f ) + sinq (cosc - cos3c )(1 + cos2f )]
+XXX cbb
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+cab
+- 2sinq cosq (sinc + sin3c )cos2f }
++ (1/16)b [-(cosq - cos3q )(3cosc + cos3c )(sinf + sin3f ) + 4 cosq (cosc sinf + cos3c sin3f )
+aab
++ 4(3sinc cosf + sin3c cos3f ) - sin2q (sinc + sin3c )(cosf + cos3f )]
++ (1/16)b [-(cosq - cos3q )(3cosc + cos3c )(3sinf - sin3f ) + 4 cosq (3cosc sinf - cos3c sin3f )
+bbb
++ 4(sinc cosf - sin3c cos3f ) - 3sin2q (sinc + sin3c )(cosf - cos3f )]
++ (1/4)b [(cosq - cos3q )(3cosc + cos3c )sinf + sin2q (sinc + sin3c )cosf ]
+ccb
++ (1/8)b [-(cosq - cos3q )(3cosc + cos3c )(cosf - cos3f ) + 4 cosq (cosc cosf - cos3c cos3f )
+abb
+- 4(sinc sinf - sin3c sin3f ) + 3sin2q (sinc + sin3c )(sinf - 3sin3f )]
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+XZZ cbb
++ (1/2)b [(sinq - 2sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+cab
++ (1/4)b [(cosq - cos3q )cosc (sinf + sin3f ) - sin2q sinc (cosf - cos3f )]
+aab
+2個のCH - 72
+3
+
+===== PDF p.73 =====
++ (1/4)b [(cosq - cos3q )cosc (3sinf - sin3f ) + sin2q sinc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )cosc sinf
+ccb
++ (1/2)b [(cosq - cos3q )cosc (cosf - cos3f ) - sin2q sinc (sinf - sin3f )]
+abb
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZXZ cbb
++ (1/2)b [(sinq - 2sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+cab
++ (1/4)b [(cosq - cos3q )cosc (sinf + sin3f ) - sin2q sinc (cosf - cos3f )]
+aab
++ (1/4)b [(cosq - cos3q )cosc (3sinf - sin3f ) + sin2q sinc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )cosc sinf
+ccb
++ (1/2)b [(cosq - cos3q )cosc (cosf - cos3f ) - sin2q sinc (sinf - sin3f )]
+abb
+c = b [(sinq - sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZZX cbb
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+cab
++ (1/4)b [(cosq - cos3q )cosc (sinf + sin3f ) + sin2q sinc (3cosf + cos3f )]
+aab
++ (1/4)b [(cosq - cos3q )cosc (3sinf - sin3f ) + sin2q sinc (cosf - cos3f )]
+bbb
+- b cos3q cosc sinf
+ccb
++ (1/2)b [(cosq - cos3q )cosc (cosf - cos3f ) + sin2q sinc (sinf + sin3f )]
+abb
+c = (1/4)b {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+ZXX cbb
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(sinf + sin3f ) + sinq (1 - cos2c )(sinf + sin3f )
+aab
++ 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3sinf - sin3f ) - sinq (1 - cos2c )(sinf + sin3f )
+bbb
++ 2sinq cosq sin2c (cosf - cos3f )]
+- (1/2)b [(sinq - sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) + sinq (1 - cos2c )(cosf + cos3f )
+abb
++ 2sinq cosq sin2c sin3f ]
+c = (1/4)b {2[cosq (1 - cos2c cos2f ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+XZX cbb
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(sinf + sin3f ) - sinq (1 - cos2c )(sinf + sin3f )
+aab
++ 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3sinf - sin3f ) + sinq (1 - cos2c )(sinf + sin3f )
+bbb
++ 2sinq cosq sin2c (cosf - cos3f )]
+- (1/2)b [(sinq - sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) + sinq (1 - cos2c )(cosf + cos3f )
+abb
++ 2sinq cosq sin2c sin3f ]
+c = -(1/2)b [(sinq - sin3q )(1 + cos2c )(1 - cos2f ) + sin2q sin2c sin2f ]
+XXZ cbb
+- (1/2)b [(sinq - sin3q )(1 + cos2c )sin2f - sin2q sin2c (1 - cos2f )]
+cab
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(sinf + sin3f ) + sinq (1 - cos2c )(3sinf - sin3f )
+aab
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3sinf - sin3f ) + sinq (1 - cos2c )(sinf + sin3f )
+bbb
+2個のCH - 73
+3
+
+===== PDF p.74 =====
++ 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b sin3q (1 + cos2c )sinf
+ccb
++ (1/4)b [[(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) - sinq (1 - cos2c )(cosf - cos3f )
+abb
+- 2sinq cosq sin2c (sinf - sin3f )]
+c = b (cosq - cos3q )(1 - cos2f )
+ZZZ cbb
++ b (cosq - cos3q )sin2f
+cab
++ (1/4)b sin3q (sinf + sin3f )
+aab
++ (1/4)b sin3q (3sinf - sin3f )
+bbb
++ b (sinq - sin3q )sinf
+ccb
++ (1/2)b sin3q (cosf - cos3f )
+abb
+(spp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 - cos2f ) + sinq (sinc - sin3c )(1 + cos2f )]
+YXX cbb
+- 2sinq cosq cos3c sin2f }
+- (1/4)b {[sinq (sinc - sin3c ) + (sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c cos2f )}
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(sinf + sin3f ) + 4cosq (sinc sinf - sin3c sin3f )
+aab
++ sin2q (cosc - cos3c )(cosf - cos3f ) - 4cos2q (cosc cosf - cos3c cos3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3sinf - sin3f ) - 4cosq (sinc sinf - sin3c sin3f )
+bbb
+- sin2q (cosc + 3cos3c )(cosf - cos3f ) + 4(cosc cosf - cos3c cos3f )]
+- (1/4)b [(cosq - cos3q )(sinc + sin3c )sinf + sin2q (cosc - cos3c )cosf ]
+ccb
++ (1/8)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) - 4cosq (sinc cosf - sin3c cos3f )
+abb
+- sin2q (cosc - cos3c )(sinf + sin3f ) - 4cos2q (cosc sinf - cos3c sin3f )]
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+YZZ cbb
+- (1/2)b [(sinq - 2sin3q )sinc sin2f + sinq cosq cos(1 - cos2f )]
+cab
+- (1/4)b [(cosq - cos3q )sinc (sinf + sin3f ) + sin2q cosc (cosf - cos3f )]
+aab
+- (1/4)b [(cosq - cos3q )sinc (3sinf - sin3f ) - sin2q cosc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )sinc sinf
+ccb
+- (1/2)b [(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (sinf - sin3f )]
+abb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+YZX cbb
+- (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 + cos2f ) + 2cos2q (1 - cos2c cos2f )]
+cab
+- (1/8)b {(2sinq - sin3q )sin2c (sinf + sin3f ) + 2sinq cosq [2cosf - cos2c (cosf - cos3f )]}
+aab
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
++ (1/2)b [(sinq - sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+ccb
++ (1/4)b [-(sinq - sin3q )sin2c (cosf - cos3f ) + sinq sin2c (cosf + cos3f )
+abb
+- 2sinq cosq (sinf + cos2c sin3f )]
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+YXZ cbb
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q cos2c (1 - cos2f )]
+cab
++ (1/8)b [-(sinq - sin3q )sin2c (sinf + sin3f ) + sinq sin2c (3sinf - sin3f )
+aab
+- 2sinq cosq cos2c (cosf - cos3f )]
+2個のCH - 74
+3
+
+===== PDF p.75 =====
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
+- (1/2)b sin3q sin2c sinf
+ccb
+- (1/4)b [(2sinq - sin3q )sin2c (cosf - cos3f ) + 2sinq cosq cos2c (sinf - sin3f )]
+abb
+(ssp) c = (1/4)b {[-(sinq - sin3q )(1 - cos2f ) + sinq (1 + cos2f )](cosc - cos3c )
+YYX cbb
+- 2sinq cosq (sinc - sin3c )sin2f }
+- (1/4)b {(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq [2sinc - (sinc - sin3c )cos2f ]}
+cab
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(sinf + sin3f ) + 4cosq (3cosc sinf - cos3c sin3f )
+aab
++ sin2q (sinc + 3sin3c )(cosf + cos3f ) + 4cos2q (3sinc cosf - sin3c cos3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3sinf - sin3f ) + 4cosq (cosc sinf + cos3c sin3f )
+bbb
+- sin2q (sinc - 3sin3c )(cosf - cos3f ) + 4cos2q (sinc cosf + sin3c cos3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )sinf + sin2q (3sinc - sin3c )cosf ]
+ccb
++ (1/8)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf - cos3c cos3f )
+abb
+- sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf - sin3c sin3f )]
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 - cos2f ) - sin2q sin2c sin2f ]
+YYZ cbb
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f + sin2q sin2c (1 - cos2f )]
+cab
++ (1/8)b [sinq (1 + cos2c )(3sinf - sin3f ) + (sinq - sin3q )(1 - cos2c )(sinf + sin3f )
+aab
++ 2sinq cosq sin2c (cosf - cos3f )]
++ (1/8)b [sinq (1 + cos2c )(sinf + sin3f ) + (sinq - sin3q )(1 - cos2c )(3sinf - sin3f )
+bbb
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b sin3q (1 - cos2c )sinf
+ccb
++ (1/4)b [-sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+abb
++ 2sinq cosq sin2c (sinf - sin3f )]
+(psp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 - cos2f ) + sinq (sinc - sin3c )(1 + cos2f )]
+XYX cbb
+- 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f - 2sinq cosq (cosc - cos3c cos2f )}
+cab
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(sinf + sin3f ) + 4cosq (sinc sinf - sin3c sin3f )
+aab
++ sin2q (cosc - cos3c )(cosf - cos3f ) - 4cos2q (cosc cosf - cos3c cos3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3sinf - sin3f ) - 4cosq (sinc sinf - sin3c sin3f )
+bbb
+- sin2q (cosc + 3cos3c )(cosf - cos3f ) + 4(cosc cosf - cos3c cos3f )]
+- (1/4)b [-(cosq - cos3q )(sinc + sin3c )sinf + sin2q (cosc - cos3c )cosnf ]
+ccb
++ (1/8)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) - 4cosq (sinc cosf - sin3c cos3f )
+abb
+- sin2q (cosc - cos3c )(sinf + sin3f ) - 4(cosc sinf - cos3c sin3f )]
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+ZYZ cbb
+- (1/2)b [(sinq - 2sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+cab
+- (1/4)b [(cosq - cos3q )sinc (sinf + sin3f ) + sin2q cosc (3cosf + cos3f )]
+aab
++ (1/4)b [-(cosq - cos3q )sinc (3sinf - sin3f ) + sin2q cosc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )sinc sinf
+ccb
+2個のCH - 75
+3
+
+===== PDF p.76 =====
+- (1/2)b [(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (sinf - sin3f )]
+abb
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+XYZ cbb
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q cos2c (1 - cos2f )]
+cab
++ (1/8)b [sinq sin2c (3sinf - sin3f ) - (sinq - sin3q )sin2c (sinf + sin3f )
+aab
+- 2sinq cosq cos2c (cosf - cos3f )]
++ (1/8)b [sinq sin2c (sinf + sin3f ) - (sinq - sin3q )sin2c (3sinf - sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
+- (1/2)b sin3q sin2c sinf
+ccb
+- (1/4)b [(2sinq - sin3q )sin2c (cosf - cos3f ) + 2sinq cosq cos2c (sinf - sin3f )]
+abb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ] sin2f }
+ZYX cbb
+- (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 + cos2f ) + 2(1 - cos2c cos2f )]
+cab
+- (1/8)b {(2sinq - sin3q )sin2c (sinf + sin3f ) + 2s inq cosq [2cos2f - cos2c (cosf + cos3f )]}
+aab
++ (1/8)b [sinq sin2c (sinf + sin3f ) - (sinq - sin3q )sin2c (3sinf - sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
++ (1/2)b [(sinq - sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+ccb
++ (1/4)b [sinq sin2c (cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+abb
+- 2sinq cosq (sinf + cos2c sin3f )]
+(sps) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 - cos2f ) + sinq (cosc + cos3c )(1+ cos2f )]
+YXY cbb
+- 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f + 2sinq cosq (sinc + sin3c cos2f )}
+cab
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(sinf + sin3f ) - 4cosq (cosc sinf + cos3c sin3f )
+aab
++ sin2q (sinc + sin3c )(cosf - cos3f ) - 4cos2q (sinc cosf + sin3c cos3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3sinf - sin3f ) + 4cosq (cosc sinf + cos3c sin3f )
+bbb
+- sin2q (sinc - 3sin3c )(cosf - cos3f ) + 4(sinc cosf + sin3c cos3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )sinf - sin2q (sinc + sin3c )cosf ]
+ccb
++ (1/8)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) + 4cosq (cosc cosf + cos3c cos3f )
+abb
+- sin2q (sinc + sin3c )(sinf + sin3f ) - 4cos2q (sinc sinf + sin3c sin3f )]
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+YZY cbb
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) + cos3q cos2c ]sin2f - [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
+- (1/8)b [sinq (1 + cos2c )(sinf + sin3f ) + (sinq - sin3q )(1 - cos2c )(sinf + sin3f )
+aab
++ 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [sinq (1 + cos2c )(sinf + sin3f ) + (sinq - sin3q )(1 - cos2c )(3sinf - sin3f )
+bbb
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b [-(sinq - sin3q )(1 - cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [sinq (1 + cos2c )(cosf + cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+abb
+- 2sinq cosq sin2sin3f ]
+(pps) c = (1/4)b {[(sinq - sin3q )(1 - cos2f ) - sinq (1 + cos2f )](sinc + sin3c )
+XXY cbb
+2個のCH - 76
+3
+
+===== PDF p.77 =====
+- 2sinq cosq (cosc + cos3c )sin2f }
++ (1/4)b {(2sinq - sin3q )sin2f - 2sinq cosq [2cosc - (cosc + cos3c )cos2f ]}
+cab
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(sinf + sin3f ) - 4cosq (3sinc sinf + sin3c sin3f )
+aab
++ sin2q (cosc - cos3c )(cosf - cos3f ) + 4cos2q (3cosc cosf + cos3c cos3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3sinf - sin3f ) - 4cosq (3sinc sinf + sin3c sin3f )
+bbb
+- sin2q (cosc + cos3c )(cosf - cos3f ) + 4(cosc cosf - cos3c cos3f )]
++ (1/4)b [-(cosq - cos3q )(sinc + sin3c )sinf + sin2q (3cosc + cos3c )cosf ]
+ccb
++ (1/8)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) + 4cosq (sinc cosf + sin3c cos3f )
+abb
+- sin2q (cosc - cos3c )(sinf + sin3f ) + 4cos2q (cosc sinf + cos3c sin3f )]
+c = b [-(sinq - sin3q )sinc (1 - cos2f ) + sinq cosq cosc sin2f ]
+ZZY cbb
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc (1 + cos2f )]
+cab
++ (1/4)b [-(cosq - cos3q )sinc (sinf + sin3f ) + sin2q cosc (3cosf + cos3f )]
+aab
++ (1/4)b [-(cosq - cos3q )sinc (3sinf - sin3f ) + sin2q cosc (cosf - cos3f )]
+bbb
++ b [-cos3q sinc sinf + cos2q cosc cosf ]
+ccb
++ (1/2)b [-(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (sinf + sin3f )]
+abb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY cbb
+- (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 + cos2f ) - 2cos2q (1 - cos2c cos2f )]
+cab
++ (1/8)b {-(2sinq - sin3q )sin2c (sinf + sin3f ) + 2sinq cosq [2cosf + cos2c (cosf + cos3f )]}
+aab
++ (1/8)b [sinq sin2c (sinf + sin3f ) - (sinq - sin3q )sin2c (3sinf - sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
++ (1/2)b [(sinq - sin3q )sin2c sinf - sinq cosq (1 + cos2c )cosf ]
+ccb
++ (1/4)b {sinq sin2c (cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+abb
+- 2sinq cosq cos2c (sinf - sin3f )]}
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY cbb
+- (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 + cos2f ) - 2cos2q (1 + cos2c cos2f )]
+cab
++ (1/8)b {-(2sinq - sin3q )sin2c (sinf + sin3f ) + 2sinq cosq [2cosf + cos2c (cosf + cos3f )]}
+aab
++ (1/8)b [sinq sin2c (sinf + sin3f ) - (sinq - sin3q )sin2c (3sinf - sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
++ (1/2)b [(sinq - sin3q )sin2c sinf - sinq cosq (1 + cos2c )cosf ]
+ccb
++ (1/4)b {sinq sin2c (cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+abb
+- 2sinq cosq cos2c (sinf - sin3f )]}
+(pss) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 - cos2f ) + sinq (cosc + cos3c )(1 + cos2f )]
+XYY cbb
+- 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f + 2sinq cosq (sinc + sin3c cos2f )}
+cab
+- (1/16)b [(cosq - cos3q )(cosc - cos3c )(sinf + sin3f ) + 4cosq (cosc sinf + cos3c sin3f )
+aab
+- sin2q (sinc + sin3c )(cosf - cos3f ) + 4cos2q (sinc cosf + sin3c cos3f )]
+- (1/16)b [(cosq - cos3q )(cosc - cos3c )(3sinf - sin3f ) - 4cosq (cosc sinf + cos3c sin3f )
+bbb
++ sin2q (sinc - 3sin3c )(cosf - cos3f ) - 4cos2q (sinc cosf + sin3c cos3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )sinf - sin2q (sinc + sin3c )cosf ]
+ccb
+2個のCH - 77
+3
+
+===== PDF p.78 =====
+- (1/8)b [(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf + cos3c cos3f )
+abb
++ sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf + sin3c sin3f )]
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+ZYY cbb
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f - [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
++ (1/8)b [-sinq (1 + cos2c )(sinf + sin3f ) + (sinq - sin3q )(1 - cos2c )(sinf + sin3f )
+aab
+- 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [sinq (1 + cos2c )(sinf + sin3f ) + (sinq - sin3q )(1 - cos2c )(3sinf - sin3f )
+bbb
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b [-(sinq - sin3q )(1 - cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [sinq (1 + cos2c )(cosf + cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+abb
+- 2sinq cosq sin2c sin3f ]
+(sss) c = (1/4)b {[(sinq - sin3q )(3sinc - sin3c )(1 - cos2f ) + sinq (sinc + sin3c )(1 + cos2f )]
+YYY cbb
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc -(2sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c )cos2f }
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(sinf + sin3f ) - 4cosq (sinc sinf - sin3c sin3f )
+aab
+- sin2q (cosc - cos3c )(cosf + 3cos3f ) + 4(cosc cosf - cos3c cos3f )]
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(3sinf - sin3f ) - 4cosq (sinc sinf + sin3c sin3f )
+bbb
+- 3sin2q (cosc - cos3c )(cosf - cos3f ) + 4(cosc cosf + cos3c cos3f )]
++ (1/4)b [(cosq - cos3q )(3cosc + cos3c )sinf + sin2q (sinc + sin3c )cosf ]
+ccb
++ (1/8)b [(cosq - cos3q )(3sinc - sin3c )(cosf - cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+abb
++ sin2q (cosc - cos3c )(sinf - 3sin3f ) - 4(cosc sinf + cos3c sin3f )]
+2個のCH - 78
+3

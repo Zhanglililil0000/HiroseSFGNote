@@ -1,0 +1,193 @@
+{
+  "batch": "B404",
+  "source_sha256": "e7c54d9f08011b72a5fb257ad3863540de889e65644548e1cef440b667d3171f",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          4,
+          457.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XXZ} = \\beta_{aac}\\cos ^{2}\\chi  + \\beta_{bbc}\\sin ^{2}\\chi  + 2\\beta_{abc}\\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          473.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZZZ} = \\beta_{ccc}"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          490.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YXZ} = -(\\beta_{aac} - \\beta_{bbc})\\sin \\chi \\cos \\chi  + \\beta_{abc}(\\cos ^{2}\\chi  - \\sin ^{2}\\chi )"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          507.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYZ} = \\beta_{aac}\\sin ^{2}\\chi  + \\beta_{bbc}\\cos ^{2}\\chi  - 2\\beta_{abc}\\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          523.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XYZ} = -(\\beta_{aac} - \\beta_{bbc})\\sin \\chi \\cos \\chi  + \\beta_{abc}(\\cos ^{2}\\chi  - \\sin ^{2}\\chi )"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          640.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXX} = \\beta_{caa}\\cos ^{2}\\chi  + \\beta_{cbb}\\sin ^{2}\\chi  + (\\beta_{cab} + \\beta_{bca})\\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          657.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZX} = \\beta_{caa}\\cos ^{2}\\chi  + \\beta_{cbb}\\sin ^{2}\\chi  + (\\beta_{cab} + \\beta_{bca})\\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          673.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZX} = -(\\beta_{caa} - \\beta_{cbb})\\sin \\chi \\cos \\chi  + (\\beta_{bca}\\cos ^{2}\\chi  - \\beta_{cab}\\sin ^{2}\\chi )"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          707.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYX} = -(\\beta_{caa} - \\beta_{cbb})\\sin \\chi \\cos \\chi  + (\\beta_{bca}\\cos ^{2}\\chi  - \\beta_{cab}\\sin ^{2}\\chi )"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          723.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YZY} = \\beta_{caa}\\sin ^{2}\\chi  +\\beta_{cbb}\\cos ^{2}\\chi  - (\\beta_{cab} + \\beta_{bca})\\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          740.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZXY} = -(\\beta_{caa} - \\beta_{cbb})\\sin \\chi \\cos \\chi  + (\\beta_{bca}\\cos ^{2}\\chi  - \\beta_{cab}\\sin ^{2}\\chi )"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          757.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{XZY} = -(\\beta_{caa} - \\beta_{cbb})\\sin \\chi \\cos \\chi  + (\\beta_{bca}\\cos ^{2}\\chi  - \\beta_{cab}\\sin ^{2}\\chi )"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          74.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{ZYY} = \\beta_{caa}\\sin ^{2}\\chi  + \\beta_{cbb}\\cos ^{2}\\chi  - (\\beta_{cab} + \\beta_{bca})\\sin \\chi \\cos \\chi"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          91.2
+        ]
+      ],
+      "source_lines": [
+        "\\chi_{YYY} = 0(6b-2)"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "pages": [
+    4,
+    5
+  ],
+  "tensor_left_sides": [
+    "XXZ",
+    "ZZZ",
+    "YXZ",
+    "YYZ",
+    "XYZ",
+    "ZXX",
+    "XZX",
+    "YZX",
+    "ZYX",
+    "YZY",
+    "ZXY",
+    "XZY",
+    "ZYY",
+    "YYY"
+  ],
+  "source_images_visually_checked": true,
+  "translation_sha256": "224c706fe6b215f3a55ffe8a0393ec6ee589e09d2c18935d6b1f8de7eed891ea",
+  "status": "本批原页对照、译校、覆盖与参考排版验收完成",
+  "date": "2026-10-21",
+  "render": {
+    "batch": "B404",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "validation_limit": "数学语法和版式通过不等于原稿公式已完成独立物理证明。"
+}

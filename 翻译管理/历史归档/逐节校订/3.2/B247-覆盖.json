@@ -1,0 +1,20 @@
+{
+  "batch": "B247",
+  "date": "2026-10-20",
+  "pages": [
+    12,
+    13
+  ],
+  "tags": [
+    "A.1",
+    "A.2",
+    "A.3",
+    "A.4",
+    "A.5",
+    "A.6"
+  ],
+  "source_images_visually_checked": true,
+  "source_formula_corrections_adopted": false,
+  "figure_panels": 0,
+  "source_sha256": "46a6bd5c96ff5066926f458052e3bc177f51f805b80227bc35617f9c465b3b76"
+}

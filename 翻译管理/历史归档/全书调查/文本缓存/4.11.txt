@@ -1,0 +1,86 @@
+===== PDF p.1 =====
+表面の回転
+SFGテンソルを表面固定座標系(xyz)系の成分として表したものから、表面が回転した後の座標系
+(XYZ) 系の成分へ変換したものを記す。
+表面固定（xyz）系
+z 軸を表面の外向き法線方向に取る。
+x 軸を立体障害がないとしたときにCH 基あるいはHCCH基が面をそろえて並ぶ方向に取
+2
+る。
+実験室固定（XYZ）系
+(xyz) 系をz 軸まわりに c だけ回したもの。
+ファイル「変換行列 (xyz).doc」において、f = 0, q = 0と置いて、以下の関係式が求まる。
+(ppp) c = -(1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+XXX xxx yyx xyy yxy xxx
+- (1/4)(c - c - c - c )(sinc + sin3c ) + c sinc
+yyy xxy xyx yxx yyy
+c =c cosc + c sinc
+XZZ xzz yzz
+c = c cosc + c sinc
+ZXZ zxz zyz
+c = c cosc + c sinc
+ZZX zzx zzy
+c = (1/2)[(c + c ) + (c - c )cos2c ] + (1/2)(c + c )sin2c
+ZXX zxx zyy zxx zyy zxy zyx
+c = (1/2)[(c + c ) + (c - c )cos2c ] + (1/2)(c + c )sin2c
+XZX xzx yzy xzx yzy yzx xzy
+c = (1/2)[(c + c ) + (c - c )cos2c ] + (1/2)(c + c )sin2c
+XXZ xxz yyz xxz yyz xyz yxz
+c = c
+ZZZ zzz
+(spp) c = -(1/4)(c - c - c - c )(sinc + sin3c ) - c sinc
+YXX xxx yyx xyy yxy xyy
++ (1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+yyy xxy xyx yxx yxx
+c = -c sinc + c cosc
+YZZ xzz yzz
+c = -(1/2)(c - c )sin2c + (1/2)[(c - c ) + (c + c )cos2c ]
+YZX xzx yzy yzx xzy yzx xzy
+c = -(1/2)(c - c )sin2c + (1/2)[(c - c ) + (c + c )cos2c ]
+YXZ xxz yyz yxz xyz yxz xyz
+(ssp) c = (1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+YYX xxx yyx xyy yxy yyx
++ (1/4)(c - c - c - c )(sinc + sin3c ) + c sinc
+yyy xxy xyx yxx xxy
+c = (1/2)[(c + c ) - (c - c )cos2c ] - (1/2)(c + c )sin2c
+YYZ xxz yyz xxz yyz xyz yxz
+(psp) c = -(1/4)(c - c - c - c )(sinc + sin3c ) - c sinc
+XYX xxx yyx xyy yxy yxy
++ (1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+yyy xxy xyx yxx xyx
+c = -c sinc + c cosc
+ZYZ zxz zyz
+c = -(1/2)(c - c )sin2c + (1/2)[(c - c ) + (c + c )cos2c ]
+XYZ xxz yyz xyz yxz xyz yxz
+c = -(1/2)(c - c )sin2c + (1/2)[(c - c ) + (c + c )cos2c ]
+ZYX zxx zyy zyx zxy zyx zxy
+HCCH表面の回転 - 1
+
+===== PDF p.2 =====
+(sps) c = (1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+YXY xxx yyx xyy yxy yxy
++ (1/4)(c - c - c - c )(sinc + sin3c ) + c sinc
+yyy xxy xyx yxx xyx
+c = (1/2)[(c + c ) - (c - c )cos2c ] - (1/2)(c + c )sin2c
+YZY xzx yzy xzx yzy yzx xzy
+(pps) c = -(1/4)(c - c - c - c )(sinc + sin3c ) - c sinc
+XXY xxx yyx xyy yxy yyx
++ (1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+yyy xxy xyx yxx xxy
+c = -c sinc + c cosc
+ZZY zzx zzy
+c = -(1/2)(c - c )sin2c + (1/2)[(c - c ) + (c + c )cos2c ]
+ZXY zxx zyy zxy zyx zxy zyx
+c = -(1/2)(c - c )sin2c + (1/2)[(c - c ) + (c + c )cos2c ]
+XZY xzx yzy xzy yzx xzy yzx
+(pss) c = (1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+XYY xxx yyx xyy yxy xyy
++ (1/4) (c - c - c - c )(sinc + sin3c ) + c sinc
+yyy xxy xyx yxx yxx
+c = (1/2)[(c + c ) - (c - c )cos2c ] - (1/2)(c + c )sin2c
+ZYY zxx zyy zxx zyy zxy zyx
+(sss) c = (1/4)(c - c - c - c )(sinc + sin3c ) - c sinc
+YYY xxx yyx xyy yxy xxx
+- (1/4)(c - c - c - c )(cosc - cos3c ) + c cosc
+yyy xxy xyx yxx yyy
+HCCH表面の回転 - 2

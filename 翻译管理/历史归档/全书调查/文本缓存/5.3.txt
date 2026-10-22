@@ -1,0 +1,1115 @@
+===== PDF p.1 =====
+分子固定系から空間固定系への SFGテンソルの変換
+目次
+1．序論 1
+2．分子固定座標系と空間固定座標系 1
+3．振動バンド 1
+4．(XYZ)系におけるテンソル成分 2
+1．序論
+可視光が分子の電子共鳴にかかっていたり、分子がキラルであったりといった特殊なケースを除外し
+た時のSFGテンソルについて、分子固定系の成分を空間固定系の成分に書き変える。即ち、本稿に示す
+SFGテンソルのXYZ 成分の表式は、分子固定 (abc) 系での成分の下付きについて左の２つを入れ替えた
+ものが等しいとき (b = b ) にあてはまる一般式である。
+ijk jik
+なお、b = b の関係（ラマンテンソル部分は実数かつ対称である）は、通常の非共鳴ラマン散乱が起
+ijk jik
+こる系で成立する。例外は、(1) 可視光又はSFG光が分子の電子共鳴にかかっているとき、(2) キラルな
+分子を扱うとき、(3) 強い外場又は近接する分子の場が有意な摂動を分子に与えているときである。
+2．分子固定座標系と空間固定座標系
+1．分子に固定した座標系：(abc) 系と表す。
+2．空間に固定した座標系：(XYZ) 系と表す。
+3．分子の配向：分子固定 (xyz) 系がオイラー角 (c , q , f ) によって空間固定 (XYZ) 系に重なるものとし
+て、(XYZ) 系でのテンソル成分を求める。
+用いられるオイラー角 (c , q , f ) については、次のように表現される。
+(1) 内部回転角 f ：ab 面の（表面に対する）ねじれ角である。c 軸まわりの回転でab面を表面と垂直に
+するために必要な回転角、あるいはa軸を -Z軸の ab 面への射影に重ねるための回転角でもある。（a
+軸に沿ったベクトルとX軸に沿ったベクトルの内積がプラスになる方向で重ねる。）ab面が表面に垂直
+なときには f = 0 or p であり、ab面が表面と向き合っているときには f = p /2 or 3p /2である。対応するオ
+イラー角も同じく f である。分子がランダムな内部回転角を取っている場合には f は0 ~ 2p の任意の
+値を同じウェイトで取る。
+(2) 傾き角・tilt角 q ：通常の定義に合わせて、c軸と外向きの法線(-Z)の間の角とし、N軸まわりの回
+tilt
+転でc軸を外向きの法線に重ねる方向をプラス回転とする。Z軸は下向きの法線であるから、対応する
+オイラー角 q はp - q である。
+tilt
+(3) 面内配向角 c (c と略記)：Z軸まわりの回転でc軸の(XY)面への射影をX軸に重ねるための回
+in-plane ip
+転角とする。ここでのZ軸の向きではX軸の方向に見て射影が左側にあるときがプラスになる。Z軸を
+基板の内部に向けて取っているので、対応するオイラー角 c は p /2 + c である。分子の面内配向がラン
+ip
+ダムなときには、c は0 ~ 2p の任意の値を同じウェイトで取る。
+ip
+3．振動バンド
+SFG活性な振動はa、b、c軸に沿った成分を持つ。そこで、その成分ごとに分類して示す。但し、分
+子の形や分子軸のえらびかたによっては2個以上の軸成分にまたがる場合があることを注意ししておく。
+分子から空間への変換 - 1
+
+===== PDF p.2 =====
+4．空間固定(XYZ)系におけるテンソル成分
+分子固定 (xyz) 系がオイラー角 (c , q , f ) によって空間固定(XYZ)系に重なるものとして、(XYZ) 系で
+のテンソル成分を求める。
+なお、分子固定系での成分に下の関係を仮定する：（ノンゼロ成分と相互の間系）
+b 、b 、b 、b = b 、b = b 、b = b 、
+aac bbc ccc abc bac acc cac bcc cbc
+b 、b 、b 、b = b 、b = b 、b = b 、
+aaa bba cca baa aba caa aca bca cba
+b 、b ,、b 、b = b 、b = b 、b = b
+bbb aab ccb cbb bcb cab acb abb bab
+［c軸に沿った振動］
+(ppp) c = -(1/2)(b + b )sinq cosc
+XXX aac bbc
++ (1/8)(b + b - 2b )sin3q (3cosc + cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]cos2f
+aac bbc
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+abc
+- 2sinq cosq (sinc + sin3c )cos2f }
++ (1/2)b [(cosq - cos3q )(3cosc + cos3c )cosf - sin2q (sinc + sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(3cosc + cos3c )sinf + sin2q (sinc + sin3c )cosf ]
+bcc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+XZZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+- b [(cosq - 2cos3q )cosc cosf - sin2q sinc sinf ]
+acc
+- b [(cosq - 2cos3q )cosc sinf - cos2q sinc cosf ]
+bcc
+c = (1/2)(b + b - 2b )(sinq - sin3q )cosc
+ZXZ aac bbc ccc
++ (1/2)(b - b )[(sinq - sin3q )cosc cos2f - sinq cosq sinc sin2f ]
+aac bbc
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc cos2f ]
+abc
+- b [(cosq - 2cos3q )cosc cosf - sin2q sinc sinf ]
+acc
+- b [(cosq - 2cos3q )cosc sinf - cos2q sinc cosf ]
+bcc
+c = -(1/2)(b + b )sinq cosc
+ZZX aac bbc
++ (1/2)(b + b - 2b )(sinq - sin3q )cosc
+aac bbc ccc
+- (1/2)(b - b )cosc sin3q cos2f
+aac bbc
+- b (2sinq - sin3q )cosc sin2f
+abc
+- 2b (cosq - 2cos3q )cosc cosf
+acc
+- 2b (cosq - 2cos3q )cosc sinf
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+XZX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )cosf - sinq cosq sin2c sinf ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+ZXX aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 + cos2c )cos2f - sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c cos2f ]
+abc
+分子から空間への変換 - 2
+
+===== PDF p.3 =====
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )cosf - sinq cosq sin2c sinf ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+bcc
+c = (1/2)(b + b )cosq
+XXZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 + cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) - (cosq + cos3q )cos2c ]cos2f + 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) - (cosq + cos3q )cos2c ]sin2f - 2cos2q sin2c cos2f ]}
+abc
+- b [(sinq - sin3q )(1 + cos2c )cosf - sinq cosq sin2c sinf ]
+acc
+- b [(sinq - sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+bcc
+c = (1/2)(b + b )cosq
+ZZZ aac bbc
+- (1/2)(b + b - 2b )cos3q
+aac bbc ccc
++ (1/2)(b - b )(cosq - cos3q ) cos2f
+aac bbc
++ b (cosq - cos3q )sin2f
+abc
++ 2b (sinq - sin3q )cosf
+acc
++ 2b (sinq - sin3q )sinf
+bcc
+(spp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+YXX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/2)b [2(2sinq - sin3q )(sinc + sin3c )sin2f - sinq cosq (cosc + cos3c )cos2f ]
+abc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc + cos3c )sinf ]
+acc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )sinf - sin2q (cosc + cos3c )cosf ]
+bcc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+YZZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
++ b [(cosq - 2cos3q )sinc cosf - cos2q cosc sinf ]
+acc
++ b [(cosq - 2cos3q )sinc sinf + cos2q cosc cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YZX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
++ (1/2)b [(sinq - 2sin3q )cos2c cosf + sin2q (1 + cos2c )sinf ]
+acc
++ (1/2)b [(sinq - 2sin3q )cos2c sinf - sin2q (1 + cos2c )cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+YXZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
++ b [(sinq - sin3q )sin2c cosf + sinq cosq cos2c sinf ]
+acc
++ b [(sinq - sin3q )sin2c sinf - sinq cosq cos2c cosf ]
+bcc
+(ssp) c = -(1/2)(b + b )sinq cosc
+YYX aac bbc
++ (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+aac bbc ccc
++ (1/8)(b - b ){[sinq (3cosc + cos3c ) - (sinq - sin3q )(cosc - cos3c )]cos2f
+aac bbc
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[4 sinq cosc - (2sinq - sin3q )]sin2f + 2sinq cosq (sinc + sin3c )cos2f }
+abc
+分子から空間への変換 - 3
+
+===== PDF p.4 =====
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )cosf + sin2q (sinc + sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )sinf - sin2q (sinc + sin3c )cosf ]
+bcc
+c = (1/2)(b + b )cosq
+YYZ aac bbc
+- (1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+aac bbc ccc
+- (1/4)(b - b ){[(cosq - cos3q ) + (cosq + cos3q )cos2c ]cos2f - 2cos2q sin2c sin2f }
+aac bbc
+- (1/2)b {[(cosq - cos3q ) + (cosq + cos3q )cos2c ]sin2f + cos2q sin2c cos2f }
+abc
+- b [(sinq - sin3q )(1 - cos2c )cosf + sinq cosq sin2c sinf ]
+acc
+- b [(sinq - sin3q )(1 - cos2c )sinf - sinq cosq sin2c cosf ]
+bcc
+(psp) c = -(1/8)(b + b - 2b )sin3q (sinc + sin3c )
+XYX aac bbc ccc
++ (1/8)(b - b )[(2sinq - sin3q )(sinc + sin3c )cos2f + 2sinq cosq (cosc + cos3c )sin2f ]
+aac bbc
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f - 2sinq cosq (cosc + cos3c )cos2f
+abc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc + cos3c )sinf ]
+acc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )sinf - sin2q (cosc + cos3c )cosf ]
+bcc
+c = -(1/2)(b + b - 2b )(sinq - sin3q )sinc
+ZYZ aac bbc ccc
+- (1/2)(b - b )[(sinq - sin3q )sinc cos2f + sinq cosq cosc sin2f ]
+aac bbc
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc cos2f ]
+abc
++ b [(cosq - 2cos3q )sinc cosf - cos2q cosc sinf ]
+acc
++ b [(cosq - 2cos3q )sinc sinf + cos2q cosc cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XYZ aac bbc ccc
+- (1/4)(b - b )[(cosq + cos3q )sin2c cos2f + 2cos2q cos2c sin2f ]
+aac bbc
+- (1/2)b [(cosq + cos3q )sin2c sin2f - 2cos2q cos2c cos2f ]
+abc
++ b [(sinq - sin3q )sin2c cosf + sinq cosq cos2c sinf ]
+acc
++ b [(sinq - sin3q )sin2c sinf - sinq cosq cos2c cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZYX aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f + sin2q (1 + cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q (1 + cos2c )cos2f ]
+abc
++ b [(sinq - sin3q )sin2c cosf + sinq cosq cos2c sinf ]
+acc
++ b [(sinq - sin3q )sin2c sinf - sinq cosq cos2c cosf ]
+bcc
+(sps) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+YXY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc + sin3c )cos2f ]
+abc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )cosf - sin2q (sinc - sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )sinf + sin2q (sinc - sin3c )cosf ]
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+YZY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )cosf + sinq cosq sin2c sin2f ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )sinf - sinq cosq sin2c cos2f ]
+bcc
+(pps) c = (1/2)(b + b )sinq sinc
+XXY aac bbc
+分子から空間への変換 - 4
+
+===== PDF p.5 =====
+- (1/8)(b + b - 2b )sin3q (sinc + sin3c )
+aac bbc ccc
++ (1/8)(b - b ){[(sinq - sin3q )(sinc + sin3c ) - sinq (3sinc - sin3c )cos2f ]
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[(2sinq - sin3q )(sinc + sin3c ) - 4sinq cosc ]sin2f
+abc
++ 2sinq cosq (cosc - cos3c )cos2f }
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )cosf - sin2q (cosc - cos3c )sinf ]
+acc
+- (1/2)b [(cosq - cos3q )(sinc + sin3c )sinf + sin2q (cosc - cos3c )cosf ]
+bcc
+c = (1/2)(b + b )sinq sinc
+ZZY aac bbc
+- (1/2)(b + b - 2b )(sinq - sin3q )sinc
+aac bbc ccc
++ (1/2)(b - b )sin3q sinc cos2f
+aac bbc
++ b sin3q sinc sin2f
+abc
++ 2b (cosq - cos3q )sinc cosf
+acc
++ 2b (cosq - cos3q )sinc sinf
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+XZY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
++ (1/2)b [(sinq - 2sin3q )sin2c cosf - sinq cosq (1 - cos2c )sinf ]
+acc
++ (1/2)b [(sinq - 2sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+bcc
+c = (1/4)(b + b - 2b )(cosq - cos3q )sin2c
+ZXY aac bbc ccc
++ (1/4)(b - b )[(cosq - cos3q )sin2c cos2f - sin2q (1 - cos2c )sin2f ]
+aac bbc
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q (1 - cos2c )cos2f ]
+abc
++ (1/2)b [(sinq - 2sin3q )sin2c cosf - sinq cosq (1 - cos2c )sinf ]
+acc
++ (1/2)b [(sinq - 2sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+bcc
+(pss) c = (1/8)(b + b - 2b )sin3q (cosc - cos3c )
+XYY aac bbc ccc
+- (1/8)(b - b )[(2sinq - sin3q )(cosc - cos3c )cos2f - 2sinq cosq (sinc - sin3c )sin2f ]
+aac bbc
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq (sinc - sin3c )cos2f ]
+abc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )cosf - sin2q (sinc - sin3c )sinf ]
+acc
++ (1/2)b [(cosq - cos3q )(cosc - cos3c )sinf + sin2q (sinc - sin3c )cosf ]
+bcc
+c = -(1/4)(b + b - 2b )(cosq - cos3q )(1 - cos2c )
+ZYY aac bbc ccc
+- (1/4)(b - b )[(cosq - cos3q )(1 - cos2c )cos2f + sin2q sin2c sin2f ]
+aac bbc
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c cos2f ]
+abc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )cosf + sinq cosq sin2c sinf ]
+acc
+- (1/2)b [(sinq - 2sin3q )(1 - cos2c )sinf - sinq cosq sin2c cosf ]
+bcc
+(sss) c = (1/2)(b + b )sinq sinc
+YYY aac bbc
+- (1/8)(b + b - 2b )sin3q (3sinc - sin3c )
+aac bbc ccc
+- (1/8)(b - b ){[sinq (sinc + sin3c ) - (sinq - sin3q )(3sinc - sin3c )]cos2f
+aac bbc
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+abc
+- 2sinq cosq (cosc - cos3c )cos2f }
+分子から空間への変換 - 5
+
+===== PDF p.6 =====
+- (1/2)b [(cosq - cos3q )(3sinc - sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+acc
+- (1/2)b [(cosq - cos3q )(3sinc - sin3c )sinf - sin2q (cosc - cos3c )cosf ]
+bcc
+［a軸に沿った振動］
+(ppp) c = -(1/4)b {[(sinq - sin3q )(3cosc + cos3c )(1 + cos2f ) + sinq (cosc - cos3c )(1 - cos2f )]
+XXX caa
+- 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+bca
+- 2sinq cosq (sinc + sin3c )cos2f }
++ (1/16)b [ -(cosq - cos3q )(3cosc + cos3c )(3cosf + cos3f )
+aaa
++ 4 cosq (3cosc cosf + cos3c cos3f ) - 4(3sinc sinf + sin3c sin3f )
++ 3sin2q (sinc + sin3c )(sinf + sin3f )]
++ (1/16)b [-(cosq - cos3q )(3cosc + cos3c )(cosf - cos3f )
+bba
++ 4 cosq (cosc cosf - cos3c cos3f ) - 4(sinc sinf - sin3c sin3f )
++ sin2q (sinc + sin3c )(sinf - 3sin3f )]
++ (1/4)b [(cosq - cos3q )(3cosc + cos3c )cosf - sin2q (sinc + sin3c )sinf ]
+cca
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+XZZ caa
++ (1/2)b [(sinq - 2sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+bca
++ (1/4)b [(cosq - cos3q )cosc (3cosf + cos3f ) - sin2q sinc (sinf + sin3f )]
+aaa
++ (1/4)b [(cosq - cos3q )cosc (cosf - cos3f ) + sin2q sinc (sinf + sin3f )]
+bba
+- b (cosq - cos3q )cosc cosf
+cca
+c = (1/2)b [(sinq - 2sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZXZ caa
++ (1/2)b [(sinq - 2sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+bca
++ (1/4)b [(cosq - cos3q )cosc (3cosf + cos3f ) - sin2q sinc (sinf + sin3f )]
+aaa
++ (1/4)b [(cosq - cos3q )cosc (cosf - cos3f ) + sin2q sinc (sinf + sin3f )]
+bba
+- b (cosq - cos3q )cosc cosf
+cca
+c = b [(sinq - sin3q )cosc (1 + cos2f ) - sinq cosq sinc sin2f ]
+ZZX caa
++ b [(sinq - sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+bca
++ (1/4)b [(cosq - cos3q )cosc (3cosf + cos3f ) - sin2q sinc (sinf + sin3f )]
+aaa
++ (1/4)b [(cosq - cos3q )cosc (cosf - cos3f ) - sin2q sinc (3sinf - sin3f )]
+bba
++ b [cos3q cosc cosf - cos2q sinc sinf ]
+cca
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+ZXX caa
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f - [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3cosf + cos3f ) + sinq (1 - cos2c )(cosf - cos3f )
+aaa
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) - sinq (1 - cos2c )(cosf - cos3f )
+bba
+- 2sinq cosq sin2c (sinf - sin3f )]
++ (1/2)b [-(sinq - sin3q )(1 + cos2c )cosf + sinq cosq sin2c sinf ]
+cca
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 + cos2f )]
+XZX caa
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f - [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
+分子から空間への変換 - 6
+
+===== PDF p.7 =====
++ (1/8)b [sinq (1 - cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 + cos2c )(3cosf + cos3f )
+aaa
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [-sinq (1 - cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 + cos2c )(cosf - cos3f )
+bba
+- 2sinq cosq sin2c (sinf - sin3f )]
++ (1/2)b [-(sinq - sin3q )(1 + cos2c )cosf + sinq cosq sin2c sinf ]
+cca
+c = -(1/2)b [(cosq - cos3q )(1 + cos2c )(1 + cos2f ) - sin2q sin2c sin2f ]
+XXZ caa
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f + sin2q sin2c (1 + cos2f )]
+bca
++ (1/8)b [sinq (1 - cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 + cos2c )(3cosf + cos3f )
+aaa
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [sinq (1 - cos2c )(3cosf + cos3f ) + (sinq - sin3q )(1 + cos2c )(cosf - cos3f )
+bba
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/2)b sin3q (1 + cos2c )cosf
+cca
+c = b (cosq - cos3q )(1 + cos2f )
+ZZZ caa
++ b [(cosq - cos3q )sin2f
+bca
++ (1/4)b sin3q (3cosf + cos3f )
+aaa
++ (1/4)b sin3q (cosf - cos3f )
+bba
++ b (sinq - sin3q ) cosf
+cca
+(spp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+YXX caa
++ 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f + 2sinq cosq (cosc + cos3c cos2f )}
+bca
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3cosf + cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+aaa
++ sin2q (cosc + 3cos3c )(sinf + sin3f ) - 4(cosc sinf + cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) + 4cosq (sinc cosf + sin3c cos3f )
+bba
+- sin2q (cosc - cos3c )(sinf + sin3f ) + 4cos2q (cosc sinf + cos3c sin3f )]
++ (1/4)b [-(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+cca
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+YZZ caa
+- (1/2)b [(sinq - 2sin3q )sin2c sin2f - sinq cosq cosc (1 + cos2f )]
+bca
+- (1/4)b [(cosq - cos3q )sinc (3cosf + cos3f ) + sin2q cosc (sinf + sin3f )]
+aaa
+- (1/4)b [(cosq - cos3q )sinc (cosf - cos3f ) - sin2q cosc (sinf + sin3f )]
+bba
++ b (cosq - cos3q )sinc cosf
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+YZX caa
++ (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 - cos2f ) + 2cos2q (1 + cos2c cos2f )]
+bca
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )]
+aaa
+- (1/8)b (2sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ (1/2)b [(sinq - sin3q )sin2c 3cosf - sinq cosq (1 - cos2c )sinf ]
+cca
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+YXZ caa
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q cos2c (1 + cos2f )]
+bca
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2 sinq cosq cos2c (sinf + sin3f )]
++ (1/8)b [sinq sin2c (3cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+bba
+分子から空間への変換 - 7
+
+===== PDF p.8 =====
++ 2 sinq cosq cos2c (sinf + sin3f )]
+- (1/2)b sin3q sin2c cosf
+cca
+(ssp) c = (1/4)b {[-(sinq - sin3q )(1 + cos2f ) + sinq (1 - cos2f )](cosc - cos3c )
+YYX caa
++ 2sinq cosq (sinc - sin3c )sin2f }
+- (1/4)b [(2sinq - sin3q )(cosc - cos3c )]sin2f - 2sin2q (sinc + sin3c )cos2f }
+bca
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3cosf + cos3f ) + 4cosq (cosc cosf - cos3c cos3f )
+aaa
++ sin2q (sinc - 3sin3c )(sinf + sin3f ) - (sinc sinf - sin3c sin3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) + 4cosq (3cosc cosf + cos3c cos3f )
+bba
+- sin2q (sinc + sin3c )(sinf + sin3f ) - cos2q (3sinc sinf + sin3c sin3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )cosf - sin2q (3sinc - sin3c )sinf ]
+cca
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 + cos2f ) + sin2q sin2c sin2f ]
+YYZ caa
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f - sin2q sin2c (1 + cos2f )]
+bca
++ (1/8)b [sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(3cosf + cos3f )
+aaa
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [sinq (1 + cos2c )(3cosf + cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+bba
+- 2sinq cosq sin2c (sinf + sin3f )]
++ (1/2)b sin3q (1 - cos2c )cosf
+cca
+(psp) c = (1/4)b {[(sinq - sin3q )(sinc + sin3c )(1 + cos2f ) + sinq (sinc - sin3c )(1 - cos2f )]
+XYX caa
++ 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f + 2sinq cosq (cosc + cos3c cos2f )}
+bca
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3cosf + cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+aaa
++ sin2q (cosc + 3cos3c )(sinf + sin3f ) - 4(cosc sinf + cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) + 4cosq (sinc cosf + sin3c cos3f )
+bba
+- sin2q (cosc - cos3c )(sinf + sin3f ) + 4cos2q (cosc sinf + cos3c sin3f )]
++ (1/4)b [-(cosq - cos3q )(sinc + sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+cca
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZYZ caa
+- (1/2)b [(sinq - 2sin3q )sinc sin2f - sinq cosq cosc (1 + cos2f )]
+bca
+- (1/4)b [(cosq - cos3q )sinc (3cosf + cos3f ) + sin2q cosc (sinf + sin3f )]
+aaa
+- (1/4)b [(cosq - cos3q )sinc (cosf - cos3f ) - sin2q cosc (sinf + sin3f )]
+bba
++ b (cosq - cos3q )sinc cosf
+cca
+c = (1/2)b [(cosq - cos3q )sin2c (1 + cos2f ) + sin2q cos2c sin2f ]
+XYZ caa
++ (1/2)b [(cosq - cos3q )sin2c sin2f - sin2q cos2c (1 + cos2f )]
+bca
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
++ (1/8)b [sinq sin2c (3cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ 2sinq cosq cos2c (sinf + sin3f )]
+- (1/2)b sin3q sin2c cosf
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [-sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZYX caa
++ (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 - cos2f ) + 2cos2q (1 + cos2c cos2f )]
+bca
+分子から空間への変換 - 8
+
+===== PDF p.9 =====
++ (1/8)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
++ (1/8)b [sinq sin2c (3cosf + cos3f ) - (sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ 2sinq cosq cos2c (sinf + sin3f )]
++ (1/2)b [(sinq - sin3q )sin2c cosf - sinq cosq (1 - cos2c )sinf ]
+cca
+(sps) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+YXY caa
++ 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f - 2sinq cosq (sinc - sin3c cos2f )}
+bca
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3cosf + cos3f ) + 4cosq (cosc cosf - cos3c cos3f )
+aaa
++ sin2q (sinc - 3sin3c )(sinf + sin3f ) - 4(sinc sinf - sin3c sin3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf - cos3c cos3f )
+bba
+- sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf - sin3c sin3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )cosf + sin2q (sinc + sin3c )sinf ]
+cca
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+YZY caa
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
++ (1/8)b [sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(3cosf + cos3f )
+aaa
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [-sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+bba
++ 2sinq cosq sin2c (sinf - sin3f )]
+- (1/2)b [(sinq - sin3q )(1 - cos2c )cosf - sinq cosq sin2c sinf ]
+cca
+(pps) c = (1/4)b {[(sinq - sin3q )(1 + cos2f ) - sinq (1 - cos2f )](sinc + sin3c )
+XXY caa
++ 2sinq cosq (cosc + cos3c )sin2f }
++ (1/4)b [(2sinq - sin3q )(sinc + sin3c )sin2f + 2sinq cosq (cosc - cos3c )cos2f ]
+bca
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3cosf + cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+aaa
++ sin2q (cosc + 3cos3c )(sinf + sin3f ) - 4(cosc sinsf + cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) - 4cosq (3sinc cosf - sin3c cos3f )
+bba
+- sin2q (cosc - cos3c )(sinf + sin3f ) - 4cos2q (3cosc sinsf - cos3c sin3f )]
+- (1/4)b [(cosq - cos3q )(sinc + sin3c )cosf + sin2q (3cosc + cos3c )sinf ]
+cca
+c = -b [(sinq - sin3q )sinc (1 + cos2f ) + sinq cosq cosc sin2f ]
+ZZY caa
+- b [(sinq - sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+bca
+- (1/4)b [(cosq - cos3q )sinc (3cosf + cos3f ) + sin2q cosc (sinf + sin3f )]
+aaa
+- (1/4)b [(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (3sinf - sin3f )]
+bba
+- b [cos3q sinc cosf + cos2q cosc sinf ]
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY caa
++ (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 - cos2f ) - 2cos2q (1 - cos2c cos2f )]
+bca
+- (1/4)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
+- (1/4)b {sinq sin2c (cosf - cos3f ) + (sinq - sin3q )sin2c (cosf - cos3f )
+bba
+分子から空間への変換 - 9
+
+===== PDF p.10 =====
++ 2sinq cosq [2sinf + cos2c (sinf - sin3f )]}
++ (1/2)b [(sinq - sin3q )sin2c cosf + sinq cosq (1 + cos2c )sinf ]
+cca
+c = (1/4)b {2[(cosq - cos3q )(1 + cos2f ) - cosq cos2f ]sin2c + [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY caa
++ (1/4)b [2cos3q sin2c sin2f + sin2q (1 + cos2c )(1 - cos2f ) - 2cos2q (1 - cos2c cos2f )]
+bca
++ (1/4)b [sinq sin2c (cosf - cos3f ) - (sinq - sin3q )sin2c (3cosf + cos3f )
+aaa
+- 2sinq cosq cos2c (sinf + sin3f )]
+- (1/4)b {sinq sin2c (cosf - cos3f ) + (sinq - sin3q )sin2c (cosf - cos3f )
+bba
++ 2sinq cosq [2sinf + cos2c (sinf - sin3f )]}
++ (1/2)b [(sinq - sin3q )sin2c cosf + sinq cosq (1 + cos2c )sinf ]
+cca
+(pss) c = -(1/4)b {[(sinq - sin3q )(cosc - cos3c )(1 + cos2f ) + sinq (cosc + cos3c )(1 - cos2f )]
+XYY caa
++ 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f - 2sinq cosq (sinc - sin3c cos2f )}
+bca
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3cosf + cos3f ) + 4cosq (cosc cosf - cos3c cos3f )
+aaa
++ sin2q (sinc - 3sin3c )(sinf + sin3f ) - 4(sinc sinf - sin3c sin3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf - cos3c cos3f )
+bba
+- sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf - sin3c sin3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )cosf + sin2q (sinc + sin3c )sinf ]
+cca
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 + cos2f )]
+ZYY caa
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q - (1 - 3cos2q )cos2f ]sin2c }
+bca
++ (1/8)b [sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(3cosf + cos3f )
+aaa
++ 2sinq cosq sin2c (sinf + sin3f )]
++ (1/8)b [-sinq (1 + cos2c )(cosf - cos3f ) + (sinq - sin3q )(1 - cos2c )(cosf - cos3f )
+bba
++ 2sinq cosq sin2c (sinf - sin3f )]
+- (1/2)b [(sinq - sin3q )(1 + cos2c )cosf + sinq cosq sin2c sinf ]
+cca
+(sss) c = (1/4)b {[(sinq - sin3q )(3sinc - sin3c )(1 + cos2f ) + sinq (sinc + sin3c )(1 - cos2f )]
+YYY caa
++ 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+bca
+- 2 sinq cosq (cosc - cos3c )cos2f }
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(3cosf + cos3f ) - 4cosq (3sinc cosf - sin3c cos3f )
+aaa
++ 3sin2q (cosc - cos3c )(sinf + sin3f ) - 4(3cosc sinf - cos3c sin3f )]
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(cosf - cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+bba
++ sin2q (cosc - cos3c )(sinf - 3sin3f ) - 4(cosc sinf + cos3c sin3f )]
+- (1/4)b [(cosq - cos3q )(3sinc - sin3c )cosf + sin2q (cosc - cos3c )sinf ]
+cca
+(ppp) c = -(1/4)b {[sinq (cosc - cos3c )(1 + cos2f ) + (sinq - sin3q )(3cosc + cos3c )(1 - cos2f )]
+XXX cbb
++ 2sinq cosq (sinc + sin3c )sin2f }
++ (1/4)b {[sinq (cosc - cos3c ) - (sinq - sin3q )(3cosc + cos3c )]sin2f
+cab
+- 2sinq cosq (sinc + sin3c )cos2f }
++ (1/16)b [-(cosq - cos3q )(3cosc + cos3c )(sinf + sin3f ) + 4cosq (cosc sinf + cos3c sin3f )
+aab
+分子から空間への変換 - 10
+
+===== PDF p.11 =====
+- sin2q (sinc + sin3c )(cosf + cos3f ) + 4(sinc cosf + sin3c cos3f )]
++ (1/16)b [-(cosq - cos3q )(3cosc + cos3c )(3sinf - sin3f ) + 4cosq (3cosc sinf - cos3c sin3f )
+bbb
+- 3sin2q (sinc + sin3c )(cosf - cos3f ) + 4(3sinc cosf - sin3c cos3f )]
++ (1/4)b [(cosq - cos3q )(3cosc + cos3c )sinf + sin2q (sinc + sin3c )cosf ]
+ccb
++ (1/8)b [-(cosq - cos3q )(3cosc + cos3c )(cosf - cos3f ) + 4cosq (cosc cosf - cos3c cos3f )
+abb
++ 3sin2q (sinc + sin3c )(sinf - 3sin3f ) - 4(sinc sinf - sin3c sin3f )]
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+XZZ cbb
++ (1/2)b [(sinq - 2sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+cab
++ (1/4)b [(cosq - cos3q )cosc (sinf + sin3f ) - sin2q sinc (cosf - cos3f )]
+aab
++ (1/4)b [(cosq - cos3q )cosc (3sinf - sin3f ) + sin2q sinc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )cosc sinf
+ccb
++ (1/2)b [(cosq - cos3q )cosc (cosf - cos3f ) - sin2q sinc (sinf - sin3f )]
+abb
+c = (1/2)b [(sinq - 2sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZXZ cbb
++ (1/2)b [(sinq - 2sin3q )cosc sin2f - sinq cosq sinc (1 - cos2f )]
+cab
++ (1/4)b [(cosq - cos3q )cosc (sinf + sin3f ) - sin2q sinc (cosf - cos3f )]
+aab
++ (1/4)b [(cosq - cos3q )cosc (3sinf - sin3f ) + sin2q sinc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )cosc sinf
+ccb
++ (1/2)b [(cosq - cos3q )cosc (cosf - cos3f ) - sin2q sinc (sinf - sin3f )]
+abb
+c = b [(sinq - sin3q )cosc (1 - cos2f ) + sinq cosq sinc sin2f ]
+ZZX cbb
++ b [(sinq - sin3q )cosc sin2f + sinq cosq sinc (1 + cos2f )]
+cab
++ (1/4)b [(cosq - cos3q )cosc (sinf + sin3f ) + sin2q sinc (3cosf + cos3f )]
+aab
++ (1/4)b [(cosq - cos3q )cosc (3sinf - sin3f ) + sin2q sinc (cosf - cos3f )]
+bbb
+- b cos3q cosc sinf
+ccb
++ (1/2)b [(cosq - cos3q )cosc (cosf - cos3f ) + sin2q sinc (sinf + sin3f )]
+abb
+c = (1/4)b {2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+ZXX cbb
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(sinf + sin3f ) + sinq (1 - cos2c )(sinf + sin3f )
+aab
++ 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3sinf - sin3f ) - sinq (1 - cos2c )(sinf + sin3f )
+bbb
++ 2sinq cosq sin2c (cosf - cos3f )]
+- (1/2)b [(sinq - sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) + sinq (1 - cos2c )(cosf + cos3f )
+abb
++ 2sinq cosq sin2c sin3f ]
+c = (1/4)b 2[cosq (1 - cos2f cos2c ) - (cosq - cos3q )(1 + cos2c )(1 - cos2f )]
+XZX cbb
+- (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) - cos3q cos2c ]sin2f + [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(sinf + sin3f ) - sinq (1 - cos2c )(sinf + sin3f )
+aab
++ 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3sinf - sin3f ) + sinq (1 - cos2c )(sinf + sin3f )
+bbb
++ 2sinq cosq sin2c (cosf - cos3f )]
+分子から空間への変換 - 11
+
+===== PDF p.12 =====
+- (1/2)b [(sinq - sin3q )(1 + cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) + sinq (1 - cos2c )(cosf + cos3f )
+abb
++ 2sinq cosq sin2c sin3f ]
+c = -(1/2)b [(cosq - cos3q )(1 + cos2c )(1 - cos2f ) + sin2q sin2c sin2f ]
+XXZ cbb
+- (1/2)b [(cosq - cos3q )(1 + cos2c )sin2f - sin2q sin2c (1 - cos2f )]
+cab
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(sinf + sin3f ) + sinq (1 - cos2c )(3sinf - sin3f )
+aab
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/8)b [(sinq - sin3q )(1 + cos2c )(3sinf - sin3f ) + sinq (1 - cos2c )(sinf + sin3f )
+bbb
++ 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b sin3q (1 + cos2c )sinf
+ccb
++ (1/4)b [(sinq - sin3q )(1 + cos2c )(cosf - cos3f ) - sinq (1 - cos2c )(cosf - cos3f )
+abb
+- 2sinq cosq sin2c (sinf - sin3f )]
+c = b (cosq - cos3q )(1 - cos2f )
+ZZZ cbb
++ b (cosq - cos3q )sin2f
+cab
++ (1/4)b sin3q (sinf + sin3f )
+aab
++ (1/4)b sin3q (3sinf - sin3f )
+bbb
++ b (sinq - sin3q )sinf
+ccb
++ (1/2)b sin3q (cosf - cos3f )
+abb
+(spp) c = (1/4)b {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+YXX cbb
+- 2sinq cosq cos3c sin2f }
+- (1/4)b {[sinq (sinc - sin3c ) + (sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c cos2f )}
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(sinf + sin3f ) + 4cosq (sinc sinf - sin3c sin3f )
+aab
++ sin2q (cosc - cos3c )(cosf - cos3f ) - 4cos2q (cosc cosf - cos3c cos3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3sinf - sin3f ) - 4cosq (sinc sinf - sin3c sin3f )
+bbb
+- sin2q (cosc + 3cos3c )(cosf - cos3f ) + 4(cosc cosf - cos3c cos3f )]
+- (1/4)b [(cosq - cos3q )(sinc + sin3c )sinf + sin2q (cosc - cos3c )cosf ]
+ccb
++ (1/8)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) - 4cosq (sinc cosf - sin3c cos3f )
+abb
+- sin2q (cosc - cos3c )(sinf + sin3f ) - 4cos2q (cosc sinf - cos3c sin3f )]
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+YZZ cbb
+- (1/2)b [(sinq - 2sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+cab
+- (1/4)b [(cosq - cos3q )sinc (sinf + sin3f ) + sin2q cosc (cosf - cos3f )]
+aab
+- (1/4)b [(cosq - cos3q )sinc (3sinf - sin3f ) - sin2q cosc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )sinc sinf
+ccb
+- (1/2)b [(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (sinf - sin3f )]
+abb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+YZX cbb
+- (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 + cos2f ) + 2cos2q (1 - cos2c cos2f )]
+cab
+- (1/8)b {(2sinq - sin3q )sin2c (sinf + sin3f ) + 2sinq cosq [2cosf - cos2c (cosf - cos3f )]}
+aab
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
+分子から空間への変換 - 12
+
+===== PDF p.13 =====
++ (1/2)b [(sinq - sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+ccb
++ (1/4)b [-(sinq - sin3q )sin2c (cosf - cos3f ) + sinq sin2c (cosf + cos3f )
+abb
+- 2sinq cosq (sinf + cos2c sin3f )]
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+YXZ cbb
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q cos2c (1 - cos2f )]
+cab
++ (1/8)b [-(sinq - sin3q )sin2c (sinf + sin3f ) + sinq sin2c (3sinf - sin3f )
+aab
+- 2sinq cosq cos2c (cosf - cos3f )]
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
+- (1/2)b sin3q sin2c sinf
+ccb
+- (1/4)b [(2sinq - sin3q )sin2c (cosf - cos3f ) + 2sinq cosq cos2c (sinf - sin3f )]
+abb
+(ssp) c = (1/4)b {[sinq (1 + cos2f ) - (sinq - sin3q )(1 - cos2f )](cosc - cos3c )
+YYX cbb
+- 2sinq cosq (sinc - sin3c )sin2f }
+- (1/4)b {(2sinq - sin3q )(cosc - cos3c )sin2f + 2sinq cosq [2sinc - (sinc - sin3c )cos2f ]}
+cab
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(sinf + sin3f ) + 4cosq (3cosc sinf - cos3c sin3f )
+aab
++ sin2q (sinc + sin3c )(cosf + cos3f ) + 4cos2q (3sinc cosf - sin3c cos3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3sinf - sin3f ) + 4cosq (cosc sinf + cos3c sin3f )
+bbb
+- sin2q (sinc - 3sin3c )(cosf - cos3f ) + 4cos2q (sinc cosf + sin3c cos3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )sinf + sin2q (3sinc - sin3c )cosf ]
+ccb
++ (1/8)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf - cos3c cosn3f )
+abb
+- sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf - sin3c sin3f )]
+c = -(1/2)b [(cosq - cos3q )(1 - cos2c )(1 - cos2f ) - sin2q sin2c sin2f ]
+YYZ cbb
+- (1/2)b [(cosq - cos3q )(1 - cos2c )sin2f + sin2q sin2c (1 - cos2f )]
+cab
++ (1/8)b [(sinq - sin3q )(1 - cos2c )(sinf + sin3f ) + sinq (1 + cos2c )(3sinf - sin3f )
+aab
++ 2sinq cosq sin2c (cosf - cos3f )]
++ (1/8)b [(sinq - sin3q )(1 - cos2c )(3sinf - sin3f ) + sinq (1 + cos2c )(sinf + sin3f )
+bbb
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b sin3q (1 - cos2c )sinf
+ccb
++ (1/4)b [(sinq - sin3q )(1 - cos2c )(cosf - cos3f ) - sinq (1 + cos2c )(cosf - cos3f )
+abb
++ 2sinq cosq sin2c (sinf - sins3f )]
+(psp) c = (1/4)b {[sinq (sinc - sin3c )(1 + cos2f ) + (sinq - sin3q )(sinc + sin3c )(1 - cos2f )]
+XYX cbb
+- 2sinq cosq cos3c sin2f }
+- (1/4)b {[2sinq sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c cos2f )}
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(sinf + sin3f ) + 4cosq (sinc sinf - sin3c sin3f )
+aab
++ sin2q (cosc - cos3c )(cosf - cos3f ) - 4cos2q (cosc cosf - cos3f cos3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3sinf - sin3f ) - 4cosq (sinc sinf - sin3c sin3f )
+bbb
+- sin2q (cosc + 3cos3c )(cosf - cos3f ) + 4(cosc cosf - cos3f cos3f )]
+- (1/4)b [(cosq - cos3q )(sinc + sin3c )sinf + sin2q (cosc - cos3c )cosf ]
+ccb
+分子から空間への変換 - 13
+
+===== PDF p.14 =====
++ (1/8)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) - 4cosq (sinc cosf - sin3c cos3f )
+abb
+- sin2q (cosc - cos3c )(sinf + sin3f ) - 4(cosc sinf - cos3f sin3f ]
+c = -(1/2)b [(sinq - 2sin3q )sinc (1 - cos2f ) - sinq cosq cosc sin2f ]
+ZYZ cbb
+- (1/2)b [(sinq - 2sin3q )sinc sin2f + sinq cosq cosc (1 - cos2f )]
+cab
+- (1/4)b [(cosq - cos3q )sinc (sinf + sin3f ) + sin2q cosc (3cosf + cos3f )]
+aab
++ (1/4)b [-(cosq - cos3q )sinc (3sinf - sin3f ) + sin2q cosc (cosf - cos3f )]
+bbb
++ b (cosq - cos3q )sinc sinf
+ccb
+- (1/2)b [(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (sinf - sin3f )]
+abb
+c = (1/2)b [(cosq - cos3q )sin2c (1 - cos2f ) - sin2q cos2c sin2f ]
+XYZ cbb
++ (1/2)b [(cosq - cos3q )sin2c sin2f + sin2q cos2c (1 - cos2f )]
+cab
++ (1/8)b [-(sinq - sin3q )sin2c (sinf + sin3f ) + sinq sin2c (3sinf - sin3f )
+aab
+- 2sinq cosq cos2c (cosf - cos3f )]
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2s inq cosq cos2c (cosf - cos3f )]
+- (1/2)b sin3q sin2c sinf
+ccb
+- (1/4)b [(2sinq - sin3q )sin2c (cosf - cos3f ) + 2sinq cosq cos2c (sinf - sin3f )]
+abb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c + [sin2q - (1 - 3cos2q )cos2c ]sin2f }
+ZYX cbb
+- (1/4)b [2cos3q sin2c sin2f - sin2q (1 - cos2c )(1 + cos2f ) + 2cos2q (1 - cos2c cos2f )]
+cab
+- (1/8)b {(2sinq - sin3q )sin2c (sinf + sin3f ) + 2sinq cosq [2cos2f - cos2c (cosf + cos3f )]}
+aab
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
++ (1/2)b [(sinq - sin3q )sin2c sinf + sinq cosq (1 - cos2c )cosf ]
+ccb
++ (1/4)b [-(sinq - sin3q )sin2c (cosf - cos3f ) + sinq sin2c (cos+ cos3f )
+abb
+- 2sinq cosq (sinf + cos2c sin3f )]
+(sps) c = -(1/4)b {[sinq (cosc + cos3c )(1 + cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+YXY cbb
+- 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f + 2sinq cosq (sinc + sin3c cos2f )}
+cab
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(sinf + sin3f ) - 4cosq (cosc sinf + cos3c sin3f )
+aab
++ sin2q (sinc + sin3c )(cosf - cos3f ) - 4cos2q (sinc cosf + sin3c cos3f )]
++ (1/16)b [-(cosq - cos3q )(cosc - cos3c )(3sinf - sin3f ) + 4cosq (cosc sinf + cos3c sin3f )
+bbb
+- sin2q (sinc - 3sin3c )(cosf - cos3f ) + 4(sinc cosf + sin3c cos3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )sinf - sin2q (sinc + sin3c )cosf ]
+ccb
++ (1/8)b [-(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) + 4cosq (cosc cosf + cos3c cos3f )
+abb
+- sin2q (sinc + sin3c )(sinf + sin3f ) - 4cos2q (sinc sinf + sin3c sin3f )]
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+YZY cbb
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) + cos3q cos2c ]sin2f - [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
+- (1/8)b [(sinq - sin3q )(1 - cos2c )(sinf + sin3f ) + sinq (1 + cos2c )(sinf + sin3f )
+aab
++ 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [(sinq - sin3q )(1 - cos2c )(3sinf - sin3f ) + sinq (1 + cos2c )(sinf + sin3f )
+bbb
+分子から空間への変換 - 14
+
+===== PDF p.15 =====
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b [-(sinq - sin3q )(1 - cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [(sinq - sin3q )(1 - cos2c )(cosf - cos3f ) + sinq (1 + cos2c )(cosf + cos3f )
+abb
+- 2sinq cosq sin2c sin3f ]
+(pps) c = (1/4)b {[-sinq (1 + cos2f ) + (sinq - sin3q )(1 - cos2f )](sinc + sin3c )
+XXY cbb
+- 2sinq cosq (cosc + cos3c )sin2f }
++ (1/4)b {(2sinq - sin3q )(sinc + sin3c )sin2f - 2sinq cosq [2cosc - (cosc + cos3c )cos2f ]}
+cab
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(sinf + sin3f ) - 4cosq (3sinc sinf + sin3c sin3f )
+aab
++ sin2q (cosc - cos3c )(cosf - cos3f ) + 4cos2q (3cosc cosf + cos3c cos3f )]
++ (1/16)b [(cosq - cos3q )(sinc + sin3c )(3sinf - sin3f ) - 4cosq (sinc sinf - sin3c sin3f )
+bbb
+- sin2q (cosc + 3cos3c )(cosf - cos3f ) + 4(cosc cosf - cos3c cos3f )]
++ (1/4)b [-(cosq - cos3q )(sinc + sin3c )sinf + sin2q (3cosc + cos3c )cosf ]
+ccb
++ (1/8)b [(cosq - cos3q )(sinc + sin3c )(cosf - cos3f ) + 4cosq (sinc cosf + sin3c cos3f )
+abb
+- sin2q (cosc - cos3c )(sinf + sin3f ) + 4cos2q (cosc sinf + cos3c sin3f )]
+c = b [-(sinq - sin3q )sinc (1 - cos2f ) + sinq cosq cosc sin2f ]
+ZZY cbb
+- b [(sinq - sin3q )sinc sin2f - sinq cosq cosc (1 + cos2f )]
+cab
++ (1/4)b [-(cosq - cos3q )sinc (sinf + sin3f ) + sin2q cosc (3cosf + cos3f )]
+aab
++ (1/4)b [-(cosq - cos3q )sinc (3sinf - sin3f ) + sin2q cosc (cosf - cos3f )]
+bbb
++ b (-cos3q sinc sinf + cos2q cosc cosf )
+ccb
++ (1/2)b [-(cosq - cos3q )sinc (cosf - cos3f ) + sin2q cosc (sinf + sin3f )]
+abb
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+ZXY cbb
+- (1/4)b [2 cos3q sin2c sin2f + sin2q (1 + cos2c )(1 + cos2f ) - 2cos2q (1 + cos2c cos2f )]
+cab
++ (1/8)b {-(2sinq - sin3q )sin2c (sinf + sin3f ) + 2sinq cosq [2cosf + cos2c (cosf + cos3f )]}
+aab
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
++ (1/2)b [(sinq - sin3q )sin2c sinf - sinq cosq (1 + cos2c )cosf ]
+ccb
++ (1/4)b [-(sinq - sin3q )sin2c (cosf - cos3f ) + sinq sin2c (cosf + cos3f )
+abb
+- 2sinq cosq cos2c (sinf - sin3f )]
+c = (1/4)b {2[(cosq - cos3q )(1 - cos2f ) + cosq cos2f ]sin2c - [sin2q + (1 - 3cos2q )cos2c ]sin2f }
+XZY cbb
+- (1/4)b [2 cos3q sin2c sin2f + sin2q (1 + cos2c )(1 + cos2f ) - 2cos2q (1 + cos2c cos2f )]
+cab
++ (1/8)b {-(2sinq - sin3q )sin2c (sinf + sin3f ) + 2sinq cosq [2cosf + cos2c (cosf + cos3f )]}
+aab
++ (1/8)b [-(sinq - sin3q )sin2c (3sinf - sin3f ) + sinq sin2c (sinf + sin3f )
+bbb
++ 2sinq cosq cos2c (cosf - cos3f )]
++ (1/2)b [(sinq - sin3q )sin2c sinf - sinq cosq (1 + cos2c )cosf ]
+ccb
++ (1/4)b [-(sinq - sin3q )sin2c (cosf - cos3f ) + sinq sin2c (cosf + cos3f )
+abb
+- 2sinq cosq cos2c (sinf - sin3f )]
+(pss) c = -(1/4)b {[sinq (cosc + cos3c )(1 + cos2f ) + (sinq - sin3q )(cosc - cos3c )(1 - cos2f )]
+XYY cbb
+- 2sinq cosq sin3c sin2f }
++ (1/4)b {[2sinq cosc - (2sinq - sin3q )(cosc - cos3c )]sin2f + 2sinq cosq (sinc + sin3c cos2f )}
+cab
+分子から空間への変換 - 15
+
+===== PDF p.16 =====
+- (1/16)b [(cosq - cos3q )(cosc - cos3c )(sinf + sin3f ) + 4cosq (cosc sinf + cos3c sin3f )
+aab
+- sin2q (sinc + sin3c )(cosf - cos3f ) + 4cos2q (sinc cosf + sin3c cos3f )]
+- (1/16)b [(cosq - cos3q )(cosc - cos3c )(3sinf - sin3f ) - 4cosq (cosc sinf + cos3c sin3f )
+bbb
++ sin2q (sinc - 3sin3c )(cosf - cos3f ) - 4cos2q (sinc cosf + sin3c cos3f )]
++ (1/4)b [(cosq - cos3q )(cosc - cos3c )sinf - sin2q (sinc + sin3c )cosf ]
+ccb
+- (1/8)b [(cosq - cos3q )(cosc - cos3c )(cosf - cos3f ) - 4cosq (cosc cosf + cos3c cos3f )
+abb
++ sin2q (sinc + sin3c )(sinf + sin3f ) + 4cos2q (sinc sinf + sin3c sin3f )]
+c = (1/4)b {2[cosq (1 + cos2f cos2c ) - (cosq - cos3q )(1 - cos2c )(1 - cos2f )]
+ZYY cbb
++ (1 - 3cos2q )sin2c sin2f }
+- (1/4)b {2[(cosq - cos3q ) + cos3q cos2c ]sin2f - [sin2q + (1 - 3cos2q )cos2f ]sin2c }
+cab
++ (1/8)b [(sinq - sin3q )(1 - cos2c )(sinf + sin3f ) - sinq (1 + cos2c )(sinf + sin3f )
+aab
+- 2sinq cosq sin2c (cosf + cos3f )]
++ (1/8)b [(sinq - sin3q )(1 - cos2c )(3sinf - sin3f ) + sinq (1 + cos2c )(sinf + sin3f )
+bbb
+- 2sinq cosq sin2c (cosf - cos3f )]
++ (1/2)b [-(sinq - sin3q )(1 - cos2c )sinf + sinq cosq sin2c cosf ]
+ccb
++ (1/4)b [(sinq - sin3q )(1 - cos2c )(cosf - cos3f ) + sinq (1 + cos2c )(cosf + cos3f )
+abb
+- 2sinq cosq sin2c sin3f ]
+(sss) c = (1/4)b {[sinq (sinc + sin3c )(1 + cos2f ) + (sinq - sin3q )(3sinc - sin3c )(1 - cos2f )]
+YYY cbb
+- 2sinq cosq (cosc - cos3c )sin2f }
++ (1/4)b {[4(sinq - sin3q )sinc - (2sinq - sin3q )(sinc + sin3c )]sin2f
+cab
+- 2sinq cosq (cosc - cos3c )cos2f }
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(sinf + sin3f ) - 4cosq (sinc sinf - sin3c sin3f )
+aab
+- sin2q (cosc - cos3c )(cosf + 3cos3f ) + 4(cosc cosf - cos3c cos3f )]
++ (1/16)b [(cosq - cos3q )(3sinc - sin3c )(3sinf - sin3f ) - 4cosq (3sinc sinf + sin3c sin3f )
+bbb
+- 3sin2q (cosc - cos3c )(cosf - cos3f ) + 4(3cosc cosf + cos3c cos3f )]
++ (1/4)b [(cosq - cos3q )(3cosc + cos3c )sinf + sin2q (sinc + sin3c )cosf ]
+ccb
++ (1/8)b [(cosq - cos3q )(3sinc - sin3c )(cosf - cos3f ) - 4cosq (sinc cosf + sin3c cos3f )
+abb
++ sin2q (cosc - cos3c )(sinsf - 3sin3f ) - 4(cosc sinf + cos3c sin3f )]
+分子から空間への変換 - 16

@@ -1,0 +1,255 @@
+2 層膜の SFG - 17
+€ 
+E
++
+2 (hm' + hm
++
+)net =
+t m2ab(1± rm'1
+)
+1+ r1m'
+rm'ma
+2
++ (rm'm + r1 m'a
+2
+)rm2b
+2 L
+−m' /mP*
+(z1 = 0)
+(upper sign for x and y, lower sign for z)
+(2.19) 式により、
+€ 
+E
++
+2 (hm' + hm
++
+)net,p = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+[(1+ rm'm,vis,α
+e
+2 iβ m',vishm'
+) + (rm'm,vis,α
++ e
+2iβm ', vishm'
+)rm2,vis,α
+e
+2 iβ m,vishm
+]
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1m',ir,β
+[(1 + rm'm,ir,β
+e
+2iβ m',irhm'
+) + (rm'm,ir,β
++ e
+2 iβ m',irhm '
+)rm2,ir,β
+e
+2 iβ m,irhm
+]
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+e
+i( ββm, SF
+hm
++βm ', SFhm'
+)
+[(1+ rm'1,SF ,p
+)L
++
+m'/m,pxχ xαβ
++ (1 − rm'1,SF ,p
+)L
++
+m'/m,pz χ zαβ
+]
+1 + r
+1m,,SF,p
+rm'm,SF,p
+e
+2iβ m', SFhm' + (rm'm,SF,p
++ r
+1 m',SF ,p
+e
+2iβm ', SFhm'
+)rm2,SF ,p
+e
+2iβm,SFhm
+(nm" = nm'
+) (2.34a)
+€ 
+E
++
+2 (hm' + hm
++
+)net,s = E
+0
+vis,α E
+0
+ir,β
+α ,β
+∑
+€ 
+×
+t
+1m',vis,α
+[(1+ rm'm,vis,α
+e
+2 iβ m',vishm'
+) + (rm'm,vis,α
++ e
+2iβm ', vishm'
+)rm2,vis,α
+e
+2 iβ m,vishm
+]
+1+ r
+1 m',vis,α
+rm'm,vis,α
+e
+2iβm ', vishm' + (rm'm,vis,α
++ r
+1m',vis,α
+e
+2iβ m', vishm'
+)rm2,vis ,α
+e
+2iβ m,vishm
+€ 
+×
+t
+1m',ir,β
+[(1 + rm'm,ir,β
+e
+2iβ m',irhm'
+) + (rm'm,ir,β
++ e
+2 iβ m',irhm '
+)rm2,ir,β
+e
+2 iβ m,irhm
+]
+1+ r
+1 m',ir,β
+rm'm,ir,β
+e
+2iβm',ir hm' + (rm'm,ir,β
++ r
+1m',ir,β
+e
+2iβm ', irhm'
+)rm2,ir,β
+e
+2iβm, irhm
+€ 
+×
+e
+i( ββ m,SF
+hm
++β m',SFhm '
+)
+(1+ rm'1,SF,s
+)L
++
+m'/m,syχ yαβ
+1+ r
+1 m,,SF ,p
+rm'm,SF,p
+e
+2 iβ m',SFhm' + (rm'm,SF,p
++ r
+1m',SF,p
+e
+2iβ m', SFhm'
+)rm2 ,SF,p
+e
+2iβm, SFhm
+(2.34b)
+m/2 界面の 2 側の分極からの SFG：
+(a): 反射方向
+E
+-
+(hm
++
+) だけが膜内に進入して反対側に抜ける。ファイル「一般式」の (2.7) 式において、z2 = hm、b0* = 1、
+b0 = b とする。
+€ 
+E
+−
+1 (0
+−
+)net =
+t2mt m'1b
+2
+(rm'm + r1 m'a
+2
+)L
+−
+2/2
+1 + r1m'
+rm'ma
+2
++ (rm'm + r1m'a
+2
+)rm2b
+2 P
+*
+(z 2 = h m
++
+)
+ここで、
+€ 
+t2m,pL
+−
+2/2,px = L
+−
+m/2,px ,
+€ 
+t2m,sL
+−
+2/2 ,sy = L
+−
+m/2,sy ,
+€ 
+t2m,pL
+−
+2/2,pz = L
+−
+m/2,pz (nm" = n2
+)
+であるから、

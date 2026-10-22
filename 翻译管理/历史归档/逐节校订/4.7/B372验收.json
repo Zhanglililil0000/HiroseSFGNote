@@ -1,0 +1,154 @@
+{
+  "batch": "B372",
+  "pages": [
+    8
+  ],
+  "tables": [
+    {
+      "label": "3b-3",
+      "rows": [
+        {
+          "polarization": "ppp",
+          "indices": "XXZ",
+          "values": [
+            "(1/2)(\\beta_{aac} + \\beta_{bbc} \\pm 2\\beta_{abc})",
+            "(1/2)[\\beta_{aac} + \\beta_{bbc} - (\\pm)2\\beta_{abc}]"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZZZ",
+          "values": [
+            "\\beta_{ccc}",
+            "\\beta_{ccc}"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YXZ",
+          "values": [
+            "-(\\pm)(1/2)(\\beta_{aac} - \\beta_{bbc})",
+            "\\pm(1/2)(\\beta_{aac} - \\beta_{bbc})"
+          ]
+        },
+        {
+          "polarization": "ssp",
+          "indices": "YYZ",
+          "values": [
+            "(1/2)[\\beta_{aac} + \\beta_{bbc} - (\\pm)2\\beta_{abc}]",
+            "(1/2)(\\beta_{aac} + \\beta_{bbc} \\pm 2\\beta_{abc})"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "XYZ",
+          "values": [
+            "-(\\pm)(1/2)(\\beta_{aac} - \\beta_{bbc})",
+            "\\pm(1/2)(\\beta_{aac} - \\beta_{bbc})"
+          ]
+        }
+      ],
+      "angle_cells": 10,
+      "none_polarizations": [
+        "sps",
+        "pps",
+        "pss",
+        "sss"
+      ]
+    },
+    {
+      "label": "3b-4",
+      "rows": [
+        {
+          "polarization": "ppp",
+          "indices": "XZX",
+          "values": [
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) \\pm (\\beta_{cab} + \\beta_{bca})]",
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) - (\\pm)(\\beta_{cab} + \\beta_{bca})]"
+          ]
+        },
+        {
+          "polarization": "ppp",
+          "indices": "ZXX",
+          "values": [
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) \\pm (\\beta_{cab} + \\beta_{bca})]",
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) - (\\pm)(\\beta_{cab} + \\beta_{bca})]"
+          ]
+        },
+        {
+          "polarization": "spp",
+          "indices": "YZX",
+          "values": [
+            "-(\\pm)(1/2)(\\beta_{caa} - \\beta_{cbb})",
+            "\\pm(1/2)(\\beta_{caa} - \\beta_{cbb})"
+          ]
+        },
+        {
+          "polarization": "psp",
+          "indices": "ZYX",
+          "values": [
+            "-(\\pm 1/2)(\\beta_{caa} - \\beta_{cbb})",
+            "\\pm(1/2)(\\beta_{caa} - \\beta_{cbb})"
+          ]
+        },
+        {
+          "polarization": "sps",
+          "indices": "YZY",
+          "values": [
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) - (\\pm)(\\beta_{cab} + \\beta_{bca})]",
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) \\pm (\\beta_{cab} + \\beta_{bca})]"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "XZY",
+          "values": [
+            "-(\\pm 1/2)(\\beta_{caa} - \\beta_{cbb})",
+            "\\pm(1/2)(\\beta_{caa} - \\beta_{cbb})"
+          ]
+        },
+        {
+          "polarization": "pps",
+          "indices": "ZXY",
+          "values": [
+            "-(\\pm 1/2)(\\beta_{caa} - \\beta_{cbb})",
+            "\\pm(1/2)(\\beta_{caa} - \\beta_{cbb})"
+          ]
+        },
+        {
+          "polarization": "pss",
+          "indices": "ZYY",
+          "values": [
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) - (\\pm)(\\beta_{cab} + \\beta_{bca})]",
+            "(1/2)[(\\beta_{caa} + \\beta_{cbb}) \\pm (\\beta_{cab} + \\beta_{bca})]"
+          ]
+        },
+        {
+          "polarization": "sss",
+          "indices": "YYY",
+          "values": [
+            "0",
+            "0"
+          ]
+        }
+      ],
+      "angle_cells": 18,
+      "none_polarizations": [
+        "ssp"
+      ]
+    }
+  ],
+  "source_sha256": "1ed57969c3b2a42ae331af15533525911cabb391094e42384c8da0430fde5ee5",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批原页对照、译校与参考排版完成",
+  "render": {
+    "batch": "B372",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "2b0573d45926e1fbb2586e158d6495abb12dd663e356957e95401fc106faa086",
+  "validation_limit": "保留原式疑点；未声称已完成独立物理验证。"
+}

@@ -1,0 +1,555 @@
+===== PDF p.1 =====
+CH基の配向と SFGテンソル
+目次
+1．2原子分子および直線分子のオイラー角 1
+2．CH基の配向とオイラー角 2
+3．CH基の b （分子固定系） 3
+abc
+4．配向CH基の b （表面固定系） 3
+xyz
+5．表面配向によるSFGテンソルの違い 4
+5a．ランダム（２次元）配向表面のSFGテンソル 5
+5b．C 配向表面のSFGテンソル 5
+3v
+5c．C 配向、C 配向表面のSFGテンソル 6
+4v 6v
+5d．C 配向表面のSFGテンソル 6
+s
+5e．C 配向表面のSFGテンソル 7
+2v
+6．表面電場からSFG分極へ 8
+7．SFG分極からSFG電場へ 9
+（始めに）
+本稿には、CH基のSFGスペクトルからCH基の配向に関する情報を得る際に必要となる事項を記
+す。
+1．２原子分子および直線分子のオイラー角
+２原子分子および直線分子は、軸対称を持つので、分子軸方向とそれに垂直な方向で分子固定座標
+系が決まってしまい、特定の垂直方向を指定する必要がない。たとえば、CH 基やメチレン基で定義
+3
+される内部回転角 f が意味を持たず、分子の配向は２つのオイラー角、q と c のみで指定される。
+オイラー角は、原点を共有する２つの直交座標系、(xyz) 系と (abc) 系の関係を指定する際に、座
+標回転を重ねることで一方の座標系を他方に重ねるときに必要な3つの角である。ここで、(abc) 軸
+を (xyz) 軸に重ねる作業を想定しよう。回転の向きは、回転軸のマイナス側からプラス方向を向い
+て時計回りの回転になるときを正回転とする。
+(1) ab面とxy面の交線（原点を通る）をN軸と呼ぶことにするが、N軸の向きの選択は、この
+軸まわりの回転でc 軸をz 軸に重ねる際に、回転角 q が180˚ 以下の正の値になる方向を正
+方向にする。
+(2) c軸まわりの回転でb軸をN軸に重ねるための回転角を、f とする。(0 £ f < 2p )
+N軸は (xy) 面と (ab) 面の両方の上にあり、a’ 軸、c軸、z軸はN軸に垂直であるから、a’、
+c、z 軸は同一平面の上にある。そして、(a’c) 面は (xy) 面に垂直である。また、この回転操
+作によってa軸がz軸の (ab) への射影と重なる。（方向については180˚ の任意性が残される
+が・・・）
+(3) N軸まわりの回転でc軸をz軸に重ねる角を q とする。(0 £ q < p )
+この操作によって、(ab) 面が (xy) 面に重なる。
+(4) z軸まわりの回転でN軸をy軸に重ねる角を c とする。(0 £ c < 2p )
+この操作によって、c軸の (xy) 面への射影がx軸に重なる。また、(a”z) 面が (zx) 面に重な
+る。（ここでも、ｋ方向については180˚ の任意性が残されるが・・・）
+CHの配向とテンソル - 1
+
+===== PDF p.2 =====
+(abc) 座標系に対してまず (2) を行い、次いで (3) を行ってから (4) を行うと、確かに (abc) 座標系
+が (xyz) 座標系に重なること確かめることができる。
+なお、(2) と (4) で採用した操作、すなわち、b軸をN軸に重ねる操作とN軸をy軸に重ねるかわ
+りに、a軸をN軸に重ねる操作とN軸をx軸に重ねる操作を採用する定義もあるが、両者では座標成
+分の変換係数が違うので注意しなければならない。また、本稿ではしばしば負の回転角を使うが、こ
+れは、回転が2p の周期を持っていることにより、2p - a の回転が -a の回転と同じであることによ
+っている。但しこの議論は、 q に対してはあてはまらない。オイラー角 (c , -q , f ) による回転は (p + c ,
+q , p + f ) による回転にあたる。
+ベクトル及びテンソルの座標成分の間の変換係数は別ファイル「変換行列 (xyz)」に表にして示し
+た（Appl. Spectrosc. にも掲載してある）。SFGテンソルの座標成分については、表に与えた変換係数
+U を用いて、下の変換式により (abc) 系で表した成分から (xyz) 系での成分に変換する。
+ijk:abc
+c = (cid:229) U c , (i, j, k = a, b, c)
+ijk ijk:abc abc
+さて、２原子分子の配向を指定するためには、分子軸がz軸となす角を与え、さらに、xy面への分
+子軸の射影がx軸となす角を与えればよい。よって、２原子分子の分子軸方向をc軸に取り、それと
+垂直でしかも互いに直交する２つの面内にa軸とb軸を取れば、a軸とb軸は等価であるから、a軸の
+向きを特定する意味がない。従って、角 f を定義する必要が無いのである。
+2．CH 基の配向とオイラー角
+本稿の表面座標系は、基板内部に向けた法線方向を z 軸とし、面内に x 軸と y 軸に取る。（た
+とえば、SFG 光の「入射面」と表面の交線を光の進行方向に向けて x 軸とする。あるいは、LB 膜
+の作成時の引き上げ方向あるいは結晶面の長軸方向をx軸にする。） Born & Wolf、Bloembergen、あ
+るいは Shen による光学関係の表式では、基板の内部に向けて z 軸を取る。表面科学の世界では、z
+軸の向きを逆に取ることが多いのだが、本稿でも、それらの表式に合わせるために光学の世界と同じ
+定義にする。表面の tilt 角を定義する場合には外向きの法線からの角を使うので注意したい。一方、
+CH基に固定した座標系としては、C 原子から H 原子に向けた分子軸を c 軸に取る。そして、CH 基
+の配向を次の２つの角で定義しよう。
+(1) 傾き角・tilt角：q 。通常の定義に合わせて、c軸（C 軸）と外向きの法線の間の角とし、(ab) 面
+tilt 3
+とzOc面の交線上に取ったN軸まわりの回転でc軸を外向きの法線に重ねる方向をプラス回転と定義
+する。本稿で採用するz軸は下向きの法線であるから、オイラー角 q はp - q である。また、CH
+tilt
+基が3個のH原子を真空側に向けているときには q < p /2である。
+tilt
+(2) 面内配向角：c (c と略記)。 (xy) 面へのc軸の射影を、z軸まわりの回転でx軸に重ねるた
+in-plane ip
+めの回転角とする。x軸の方向に見て射影が左側にあるときがプラスになる。(a) 射影した分子軸がx
+軸から角 a だけずれているときには、b軸とy軸がなす角も a である。射影した分子軸が八の字形
+にx軸から左右交互にずれているときには、それぞれの c は +a と-a で表される。(b) 面内配向
+ip
+がランダムなときには、c は0 ~ 2p の任意の値を同じウェイトで取る。
+ip
+基板の内部に向けてz軸を取っているので、対応するオイラー角 c は p + c である。
+ip
+なお、上で言うプラス回転に対するマイナス回転をオイラー角の定義で言えば、その回転角（絶対
+CHの配向とテンソル - 2
+
+===== PDF p.3 =====
+値）を2p から差し引いた分だけプラス方向に回転することを意味する。
+CH基の配向をこのように定義するときに、以下に示す表式に出てくるオイラー角が下式のように
+なることを確認しておこう。
+f = f , q = p - q , c = p + c
+tilt ip
+3．CH 基の b （分子固定系）
+abc
+CH基におけるCH結合の伸縮振動はc軸方向に沿っているから、SFGテンソルは３つの成分 b 、
+ccc
+b = b を持つ（CH結合まわりに軸対称があるとして、b = b とした）。
+aac bbc aac bbc
+4．配向 CH 基の b （表面固定系）
+xyz
+表面固定 (xyz) 系に対するCH基の配向をオイラー角 (c , q ) で表すとき、表面系でのテンソル成分
+はファイル「変換行列 (xyz)」またはAppl. Spectrosc. の表で、f が関わる項をゼロと置いて次のよう
+に求められる。（傾き角 q に関しては表で使っているsinq 、sin2q 、sin3q の形の三角関数ではなく、
+下の関係式によって変換したsinq 、cosq のべき乗による表式を採用した。
+sin2q = 2sinq cosq , cos2q = cos2q - sin2q = 2cos2q - 1 = 1 - 2sin2q
+sin3q = 3sinq - 4sin3q , sinq + sin3q = 4(sinq - sin3q )
+cos3q = 4cos3q - 3cosq , cosq - cos3q = 4(cosq - cos3q )
+なお、c軸の外向き法線からの傾き角を q 、c軸の射影とx軸の間の角（面内配向角）を c とす
+tilt ip
+るとき、以下に出てくる表式に使われているオイラー角は、q = p - q 、c = p + c である。以下に、
+tilt ip
+代表的な配向に対するテンソル成分を示す。
+一般式
+まず初めに、ごく一般的な表式を下に示す。配向の条件に合わせて簡単化する際のもとになるもの
+であり、また、あらゆる条件に対応できるはずである。
+(ppp) c = (1/4)(b - b )sin3q (3cosc + cos3c )
+xxx aac ccc
+- b sinq cosc
+aac
+c = (b - b )(sinq - sin3q )cosc
+xzz aac ccc
+c = (b - b )(sinq - sin3q )cosc
+zxz aac ccc
+c = (b - b )(sinq - sin3q )cosc
+zzx aac ccc
+- b sinq cosc
+aac
+c = - (1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+xzx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+zxx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+xxz aac ccc
++ b cosq
+aac
+c = - (b - b )cos3q
+zzz aac ccc
++ b cosq
+aac
+(spp) c = - (1/4)(b - b )sin3q (sinc + sin3c )
+yxx aac ccc
+c = - (b - b )(sinq - sin3q )sinc
+yzz aac ccc
+CHの配向とテンソル - 3
+
+===== PDF p.4 =====
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+yzx aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+yxz aac ccc
+(ssp) c = (1/4)(b - b )sin3q (cosc - cos3c )
+yyx aac ccc
+- b sinq cosc
+aac
+c = - (1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+yyz aac ccc
++ b cosq
+aac
+(psp) c = - (1/4)(b - b )sin3q (sinc + sin3c )
+xyx aac ccc
+c = - (b - b )(sinq - sin3q )sinc
+zyz aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+xyz aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zyx aac ccc
+(sps) c = (1/4)(b - b )sin3q (cosc - cos3c )
+yxy aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+yzy aac ccc
+(pps) c = - (1/4)(b - b )sin3q (sinc + sin3c )
+xxy aac ccc
++ b sinq sinc
+aac
+c = - (b - b )(sinq - sin3q )sinc
+zzy aac ccc
++ b sinq sinc
+aac
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+xzy aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zxy aac ccc
+(pss) c = (1/4)(b - b )sin3q (cosc - cos3c )
+xyy aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+zyy aac ccc
+(sss) c = - (1/4)(b - b )sin3q (3sinc - sin3c )
+yyy aac ccc
++ b sinq sinc
+aac
+5．表面配向による SFGテンソルの違い
+（以下の記述で使われる角 c は、外向き法線から見たc軸の傾き角を q 、c軸の射影とx軸の間の
+tilt
+角（面内配向角）を c とするときの c にあたる。テンソル成分の表式に使われているオイラー角
+ip ip
+との間には、q = p - q 、c = p + c 、の関係がある。）
+tilt ip
+CH基の面内配向は角 c で定義される。光の進行方向を正方向に取った入射面と表面の交線がCH
+基の分子軸の表面への射影との間でなす角をこの配向角と定義することによって、測定データを解析
+するためのテンソルを導くことが出来、試料の回転に対するシグナルの振る舞いを調べることが出来
+る。一方、表面に固定した軸 — 結晶軸など — がCH基の軸の射影に対してなす角を c と定義す
+ると、表面固有のテンソル成分を求めることになる。但し、5d で記すC 対称の場合には、２つの角、
+s
+即ち、入射面と表面の交線が鏡映対称面と表面の交線（director）との間になす角及びCH軸の射影が
+鏡映面と表面の交線との間になす角の両方を定義した方が、データを解釈する上で分かりやすい。C
+s
+対称の表面のSFG実験で入射面が対称面に重なった場合には、(spp)、(psp)、(pps)、(sss) 光は生成し
+ない。
+以下では、代表的な配向形式におけるテンソル成分を検討する。
+CHの配向とテンソル - 4
+
+===== PDF p.5 =====
+5a．ランダム（２次元）配向表面の SFGテンソル
+CH基の面内配向がランダムになっている場合には、面内配向角 c が0から2p の間の任意の値を
+等しい確率で取り得る。 (cid:242) 2p cos(nc )dc = (cid:242) 2p sin(nc )dc =0, (n = 1, 2, 3) であるから、テンソル成分は大
+0 0
+幅に整理されて下のようになる。
+なお、c軸の外向き法線からの傾き角を q とするとき、下のテンソル成分の表式に使われている
+tilt
+オイラー角は q = p - q である。
+tilt
+(ppp) c = - (1/2)(b - b )(cosq - cos3q )
+xzx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q ) + b cosq
+xxz aac ccc aac
+c = - (1/2)(b - b )(cosq - cos3q )
+zxx aac ccc
+c = - (b - b )(cosq - cos3q ) + b cosq
+zzz aac ccc aac
+(spp) (none)
+(ssp) c = - (1/2)(b - b )(cosq - cos3q ) + b cosq
+yyz aac ccc aac
+(psp) (none)
+(sps) c = - (1/2)(b - b )(cosq - cos3q )
+yzy aac ccc
+(pps) (none)
+(pss) c = - (1/2)(b - b )(cosq - cos3q )
+zyy aac ccc
+(sss) (none)
+(cid:160)
+5b．C 配向表面の SFGテンソル
+3v
+この場合には、角 c について３つの値、即ち、c 、c + 2p /3、c + 4p /3( = c - 2p /3) を取るCH基が等
+しい確率で存在する。そこで三角関数の和の法則を使って、３つの配向のサイン、コサインを c で
+表してから足し合わせると、下式の結果が得られる。
+(cid:229) 1 = 3, (cid:229) sinc = (cid:229) cosc = (cid:229) sin2c = (cid:229) cos2c = 0, (cid:229) sin3c = 3sin3c , (cid:229) cosc = 3cos3c
+上式を4節に示した一般式に代入すると下に示す結果が得られ、(a) スペクトルが表面の回転に対し
+て６回対称を示すこと、(b) (spp)、(psp)、(psp)、(pss) 信号が得られること、(c) tilt 角が90˚ のと
+きにも、基板の向きによっては (spp)、(psp)、(pps)、(sss) 信号が得られることがわかる。
+なお、c軸の外向き法線からの傾き角を q 、c軸の射影とx軸の間の角（面内配向角）を c とす
+tilt ip
+るとき、下のテンソル成分の表式に使われているオイラー角は、 q = p - q 、c = p + c である。
+tilt ip
+(ppp) c = (1/4)(b - b )sin3q cos3c
+xxx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )
+xzx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )
+zxx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q ) + b cosq
+xxz aac ccc aac
+c = - (b - b )cos3q + b cosq
+zzz aac ccc aac
+CHの配向とテンソル - 5
+
+===== PDF p.6 =====
+(spp) c = - (1/4)(b - b )sin3q sin3c
+yxx aac ccc
+(ssp) c = - (1/4)(b - b )sin3q cos3c
+yyx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q ) + b cosq
+yyz aac ccc aac
+(psp) c = - (1/4)(b - b )sin3q sin3c
+xyx aac ccc
+(sps) c = - (1/4)(b - b )sin3q cos3c
+yxy aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )
+yzy aac ccc
+(pps) c = - (1/4)(b -b )sin3q sin3c
+xxy aac ccc
+(pss) c = - (1/2)(b - b )(cosq - cos3q )
+zyy aac ccc
+c = -(1/4)(b - b )sin3q cos3c
+xyy aac ccc
+(sss) c = (1/4)(b - b )sin3q sin3c
+yyy aac ccc
+傾き角がゼロのときには、(spp), (psp), (pps), (sps), (pss), (sss) 信号が出ない。
+5c．C 配向、C 配向表面の SFGテンソル
+4v 6v
+この場合には、(cid:229) sinc = (cid:229) cosc = (cid:229) sin2c = (cid:229) cos2c = (cid:229) sin3c = (cid:229) cos3c = 0になるので、5a節で示した
+ものと同じ表式になる。
+5d．C 配向表面の SFGテンソル
+s
+表面に垂直な面に関して鏡映対称がある場合である。引き上げ方向に対する配向を示すLB 膜のCH
+基のように、CH基が面の両側に向けてV字形に並んだ場合が当てはまる。鏡映対称面と表面の交線
+がCH軸の表面への射影に対してなす角を +b と -b とし、交線がx軸となす配向角を a とすると
+き、配向角 c が a + b のCH基と a - b のCH基が同数づつ存在する。c軸の外向き法線からの傾
+ip
+き角を q 、c軸の射影とx軸の間の角（面内配向角）を c とするとき、下記のテンソル成分の表
+tilt ip
+式に使われているオイラー角は、q = p - q 、c = p + c である。そして、下の三角関数の和の法則を
+tilt ip
+使って、２つの配置のサイン、コサインを c で表してから足し合わせたものを4a節の結果に代入す
+れば、求める表式が得られる。
+(cid:229) 1 = 2, (cid:229) sinc = 2sina cosb , (cid:229) cosc = 2cosa cosb ,
+ip ip
+(cid:229) sin2c = 2sin2a cos2b , (cid:229) cos2c = 2cos2a cos2b ,
+ip ip
+(cid:229) sin3c = 2sin3a cos3b , (cid:229) cos3c = 2cos3a cos3b
+ip ip
+(ppp) c = - (1/2)(b - b )sin3q (3cosa cosb + cos3a cos3b )
+xxx aac ccc
++ 2b sinq cosa cosb
+aac
+c = - 2(b - b )(sinq - sin3q )cosa cosb
+xzz aac ccc
+c = - 2(b - b )(sinq - sin3q )cosa cosb
+zxz aac ccc
+c = - 2(b - b )(sinq - sin3q )cosa cosb
+zzx aac ccc
++ 2b sinq cosa cosb
+aac
+c = - (b - b )(cosq - cos3q )(1 + cos2a cos2b )
+xzx aac ccc
+CHの配向とテンソル - 6
+
+===== PDF p.7 =====
+c = - (b - b )(cosq - cos3q )(1 + cos2a cos2b )
+zxx aac ccc
+c = - (b - b )(cosq - cos3q )(1 + cos2a cos2b )
+xxz aac ccc
++ 2b cosq
+aac
+c = - 2(b - b )cos3q
+zzz aac ccc
++ 2b cosq
+aac
+(spp) c = - (1/2)(b - b )sin3q ( sina cosb + sin3a cos3b )
+yxx aac ccc
+c = - 2(b - b )(sinq - sin3q )sina cosb
+yzz aac ccc
+c = + (b - b )(cosq - cos3q )sin2a cos2b
+yzx aac ccc
+c = + (b - b )(cosq - cos3q )sin2a cos2b
+yxz aac ccc
+(ssp) c = - (1/2)(b - b )sin3q (cosa cosb - cos3a cos3b )
+yyx aac ccc
++ 2b sinq cosa cosb
+aac
+c = - (b - b )(cosq - cos3q )(1 - cos2a cos2b )
+yyz aac ccc
++ 2b cosq
+aac
+(psp) c = - (1/2)(b - b )sin3q (sina cosb + sin3a cos3b )
+xyx aac ccc
+c = - 2(b - b )(sinq - sin3q ) sina cosb
+zyz aac ccc
+c = + (b - b )(cosq - cos3q )sin2a cos2b
+xyz aac ccc
+c = + (b - b )(cosq - cos3q )sin2a cos2b
+zyx aac ccc
+(sps) c = - (1/2)(b - b )sin3q (cosa cosb - cos3a cos3b )
+yxy aac ccc
+c = - (b - b )(cosq - cos3q )(1 - cos2a cos2b )
+yzy aac ccc
+(pps) c = + (1/2)(b - b )sin3q (sina cosb + sin3a cos3b )
+xxy aac ccc
+- 2b sinq sina cosb
+aac
+c = + 2(b - b )(sinq - sin3q )sina cosb
+zzy aac ccc
+- 2b sinq sina cosb
+aac
+c = + (b - b )(cosq - cos3q )sin2a cos2b
+xzy aac ccc
+c = + (b - b )(cosq - cos3q )sin2a cos2b
+zxy aac ccc
+(pss) c = - (1/2)(b - b )sin3q (cosa cosb - cos3a cos3b )
+xyy aac ccc
+c = - (b - b )(cosq - cos3q )(1 - cos2a cos2b )
+zyy aac ccc
+(sss) c = + (1/2)(b - b )sin3q (3sina cosb c - sin3a cos3b )
+yyy aac ccc
+- 2b sinq sina cosb
+aac
+b = 0とすれば、表面固定系でのテンソル成分になる。また、SFG実験で入射面が対称面に重なる
+ようにした場合には、全対称バンドの (spp)、(psp)、(pps)、(sss) 光が生成しないことがわかる。
+5e．C 配向表面の SFGテンソル
+2v
+表面に垂直な面の上に、CH基が２個ずつV字形に並んで対になっている場合が当てはまる。この
+場合には、傾き角 q が全ての CH 基で同じであるが、配向角については c のCH基と c + p のCH
+tilt
+基が同数ずつ存在する。三角関数の和の法則を使って、２つの配置のサイン、コサインを c で表し
+てから足し合わせると下の結果を得る。
+CHの配向とテンソル - 7
+
+===== PDF p.8 =====
+なお、c軸の外向き法線からの傾き角を q 、c軸の射影とx軸の間の角（面内配向角）を c とす
+tilt ip
+るとき、下に示すテンソル成分の表式に使われているオイラー角は、q = p - q 、c = p + c である。
+tilt ip
+(cid:229) 1 = 2、(cid:229) sinc = 0、(cid:229) cosc = 0、(cid:229) sin2c = 2sin2c 、(cid:229) cos2c = 2cos2c 、(cid:229) sin3c = 0、(cid:229) cos3c = 0
+(ppp) c = - (1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+xzx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )(1 + cos2c )
+zxx aac ccc
+c = - (1/2)(b - b )(cosq - cos3q )(1 + cos2c ) + b cosq
+xxz aac ccc aac
+c = - (b - b )cos3q + b cosq
+zzz aac ccc aac
+(spp) c = (1/2)(b - b )(cosq - cos3q )sin2c
+yzx aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+yxz aac ccc
+(ssp) c = - (1/2)(b - b )(cosq - cos3q )(1 - cos2c ) + b cosq
+yyz aac ccc aac
+(psp) c = (1/2)(b - b )(cosq - cos3q )sin2c
+xyz aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zyx aac ccc
+(sps) c = - (1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+yzy aac ccc
+(pps) c = (1/2)(b - b )(cosq - cos3q )sin2c
+xzy aac ccc
+c = (1/2)(b - b )(cosq - cos3q )sin2c
+zxy aac ccc
+(pss) c = - (1/2)(b - b )(cosq - cos3q )(1 - cos2c )
+zyy aac ccc
+(sss) (none)
+6．表面電場から SFG分極へ
+SFG分極ベクトルP(w ) は、下式によって入射光の表面電場（E(i)(w ) と E(i)(w )、入射光の電場
+SF vis IR
+と反射光の電場のベクトル和）と関係付けられる。
+P(w )=(cid:229) c SF E (w )E (w ) (6.1)
+i SF ijk j vis k IR
+j,k
+式中、下付きのi, j, kは左から順にSFG光、vis 光、IR 光の電場の座標軸成分を表す。一般に、入射
+角 q を持つ入射光の電場E(i) をp偏光成分とs 偏光成分に分け（E(i) = E(i) + E(i)）、x, y, z成分の振幅
+i p s
+を偏光成分の振幅で表すと、下式のようになる。
+E(i) = E(i) cosq 、E(i) = E(i)、E(i) = - E(i) sinq (6.2)
+x p i y s z p i
+同様に、反射角 q の反射光E(r) については、下式のようになる。
+r
+E(r) = - E(r) cosq 、E(i) = E(r)、E(i) = - E(r) sinq (6.3)
+x p r y s z p r
+また、振幅E(r) とE(i) は、フレネルの反射係数を介して次のような関係にある。
+CHの配向とテンソル - 8
+(cid:160)
+
+===== PDF p.9 =====
+n cosq - n cosq n cosq - n cosq
+E(r) = 1 i 2 t E(i)、E(r) = 2 i 1 t E(i) (6.4)
+s n cosq +n cosq s p n cosq +n cosq p
+1 i 2 t 2 i 1 t
+n とn は、入射側及び透過側の屈折率、q は屈折角である。よって、表面電場E(surf) の座標成分は下
+1 2 t
+式で表される。
+2n cosq cosq
+E(surf) = 1 i t E(i) (6.5a)
+x n cosq +n cosq p
+2 i 1 t
+2n cosq
+E(surf) = 1 i E(i) (6.5b)
+y n cosq +n cosq s
+1 i 2 t
+2n cosq sinq nn
+E(surf)=- 1 i t ( 1 2)2E (i) (6.5c)
+z n cosq +n cosq n' p
+2 i 1 t
+(6.5c) 式で、n’ はSFG信号を出す表面層の屈折率である。 (6.5) 式によって赤外光と可視光の電場
+の座標成分を求め、それを (6.1) 式に代入すれば、分極ベクトルの大きさが求められる。
+7．SFG分極から SFG電場へ
+SFG分極P(w ) がもとになって生成するSFG電場E(w ) は、「反射方向」と「透過方向」の２方
+SF SF
+向に伝播する。そして、反射方向に出て行くSFG光の電場E(r)( w ) と透過方向に出て行くSFG光の
+SF
+電場E(t)( w ) の振幅は、下式で表される。
+SF
+(cid:160) (cid:160) w P (w )
+E(r)(w )=4p i SF y SF (7.1a)
+s SF c n cosq +n cosq
+1 i 2 t
+n
+w P (w )cosq - ( 2)2P(w )sinq
+E(r)(w )=- 4p i SF x SF t n' z SF t (7.1b)
+p SF c n cosq +n cosq
+2 i 1 t
+w P (w )
+(cid:160) E s (t)(w SF )=4p i c SF n cosq y + S n F cosq (7.2a)
+1 i 2 t
+n
+(cid:160) w P (w )cosq +( 1)2P(w )sinq
+E(t)(w )=- 4p i SF x SF i n' z SF i (7.2b)
+p SF c n cosq +n cosq
+2 i 1 t
+(cid:160)
+フレネルのL係数を導入すると、式の表現が簡単化される。
+E(r)( w ) = L (r)P(w ), E(r)( w ) = L (r)P(w ) + L (r)P(w ) (7.3a)
+s SF s,y y SF p SF p,x x SF p,z z SF
+E(t)( w ) = L (t)P(w ), E(t)( w ) = L (t)P(w ) + L (t)P(w ) (7.3b)
+s SF s,y y SF p SF p,x x SF p,z z SF
+w 1
+L (r) =- 4p i SF (7.4a)
+s,y c n cosq +n cosq
+1 i 2 t
+w cosq
+L (r) =- 4p i SF t (7.4b)
+p,x c n cosq +n cosq
+2 i 1 t
+(cid:160)
+CHの配向とテンソル - 9
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+
+===== PDF p.10 =====
+n
+w ( 2)2P(w )sinq
+L (r) =4p i SF n' z SF t (7.4c)
+p,z c n cosq +n cosq
+2 i 1 t
+w 1
+L (t) =- 4p i SF (7.5a)
+s,y c n cosq +n cosq
+1 i 2 t
+w cosq
+L (t) =- 4p i SF i (7.5b)
+p,x c n cosq +n cosq
+2 i 1 t
+n
+w ( 1)2P (w )sinq
+L (t) =- 4p i SF n' z SF i (7.5c)
+p,z c n cosq +n cosq
+2 i 1 t
+なお、(7.1b) 式および (7.4b) 式の分極の成分にかかる係数の符号には、z軸の取り方で変わってしま
+うため、不確定が残っている。
+おわり
+(cid:160)
+(cid:160)
+(cid:160)
+(cid:160)
+CHの配向とテンソル - 10

@@ -1,0 +1,23 @@
+{
+  "batch": "B287",
+  "date": "2026-10-21",
+  "pages": [
+    10,
+    11,
+    12
+  ],
+  "scope": "4c三重配置求和、每个甲基归一化与27个简并分量",
+  "source_sha256": "32c7d7cff4852fdce477dd9cdea4a554938568324743fd788df95c46f4186cf4",
+  "source_images_visually_checked": true,
+  "source_corrections_adopted": false,
+  "status": "本批译校与参考排版验收完成",
+  "render": {
+    "batch": "B287",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "translation_sha256": "ea060584b10e34f38036ebb71667eab705ed58022efe15f89c1082af6c7bba68",
+  "scope_limit": "确认原文覆盖及转录；不将原文疑点视为理论已验证。"
+}

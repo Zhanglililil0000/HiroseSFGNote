@@ -1,0 +1,16 @@
+{
+  "batch": "B175",
+  "date": "2026-10-20",
+  "pages": [
+    9
+  ],
+  "units": "2.2和频极化引言、1/m′界面1侧源分类及完整式2.18",
+  "tags": [
+    "2.18"
+  ],
+  "source_images_visually_checked": true,
+  "formula_factors_checked_after_layout_normalization": true,
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f",
+  "source_formula_corrections_adopted": false,
+  "unchanged_tail": "1/m′界面m′侧式2.19及以后"
+}

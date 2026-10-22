@@ -1,0 +1,21 @@
+{
+  "batch": "B093",
+  "date": "2026-10-19",
+  "page": 12,
+  "equations": [
+    "5.1a",
+    "5.1b",
+    "5.1c",
+    "5.2a",
+    "5.2b",
+    "5.2c"
+  ],
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅六式及状态行改变，其他正文相同",
+  "math_syntax_pass": 823,
+  "render_overflow": false,
+  "visual_review": "参考渲染与高清原图及z分量局部对照通过",
+  "new_issues": 0,
+  "adopted_source_corrections": 0,
+  "next": "B094，5.3a—5.4c"
+}

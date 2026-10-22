@@ -1,0 +1,15 @@
+{
+  "batch": "B249",
+  "date": "2026-10-20",
+  "pages": [1, 2],
+  "tags": ["0.1a", "0.1b", "0.2"],
+  "scope": "原题、目录、近似条件与CH基要点；止于CH₂基之前",
+  "source_images_visually_checked": true,
+  "math_fragments": 31,
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false,
+  "source_sha256": "ddd8bdf08396ce91fbd9c8dd58f5c25ca86c6b6f7c6b8172db442fc06e25e07e",
+  "next": "B250：CH₂坐标定义及对称伸缩0.3与Ga1"
+}

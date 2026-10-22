@@ -1,0 +1,32 @@
+{
+  "batch": "B160",
+  "date": "2026-10-20",
+  "coverage": {
+    "batch": "B160",
+    "date": "2026-10-20",
+    "pages": [
+      9,
+      10,
+      11
+    ],
+    "units": "三层膜五处正反场与五处和差场4.15a/b—4.19a/b；4.18b跨p10—11",
+    "tags": [
+      "4.15a",
+      "4.16a",
+      "4.17a",
+      "4.18a",
+      "4.19a",
+      "4.15b",
+      "4.16b",
+      "4.17b",
+      "4.18b",
+      "4.19b"
+    ],
+    "source_images_visually_checked": true,
+    "source_formula_corrections_adopted": false
+  },
+  "math_syntax_errors": 0,
+  "display_overflows": 0,
+  "render_preview_checked": true,
+  "source_formula_corrections_adopted": false
+}

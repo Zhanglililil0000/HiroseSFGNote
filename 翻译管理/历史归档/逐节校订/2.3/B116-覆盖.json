@@ -1,0 +1,23 @@
+{
+  "batch": "B116",
+  "pages": [
+    3,
+    4
+  ],
+  "start": "附录B标题",
+  "end": "附录C标题前",
+  "labels": [
+    "B.1",
+    "B.2"
+  ],
+  "units": [
+    "定义与(a)(b)",
+    "行波与驻波",
+    "B.1/B.2",
+    "表示法1/2",
+    "观测量约定1/2"
+  ],
+  "source_sha256": "63c635f8fde9e43fd6e7e9b1be2504119bf4354fb7a1f3deba48f3024eb28384",
+  "unreviewed_C_D_unchanged": true,
+  "source_correction_adopted": false
+}

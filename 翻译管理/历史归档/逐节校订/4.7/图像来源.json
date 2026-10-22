@@ -1,0 +1,13 @@
+{
+  "asset": "中文版本\\assets\\4.7-p1-diamond-models.png",
+  "source_pdf": "日语原版/Chapter4/chap4-7.pdf",
+  "page": 1,
+  "object": "IMcpdf0",
+  "original_pixels": [
+    827,
+    295
+  ],
+  "method": "直接解码原嵌入RGB图像，未重绘",
+  "sha256": "731df2e7210698cbb5aa2ad0ee0d173b0ddcb94ecbdac6b9f4d6ef0cc249e9d4",
+  "caption": "(a) Diamond (100)-2x1; (b) Diamond (100)-1x1"
+}

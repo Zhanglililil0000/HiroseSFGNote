@@ -1,0 +1,9 @@
+{
+  "batch": "B136",
+  "date": "2026-10-20",
+  "strict_math_scope": "整节292片段零错误",
+  "render_visually_checked": true,
+  "overflow": false,
+  "coverage_record": "B136-覆盖.json",
+  "source_formula_corrections_adopted": false
+}

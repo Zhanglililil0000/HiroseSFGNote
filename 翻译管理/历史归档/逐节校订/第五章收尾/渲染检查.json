@@ -1,0 +1,3051 @@
+{
+  "date": "2026-10-21",
+  "syntax": [
+    {
+      "name": "B474",
+      "count": 7
+    },
+    {
+      "name": "B475",
+      "count": 3
+    },
+    {
+      "name": "B476",
+      "count": 3
+    },
+    {
+      "name": "B477",
+      "count": 3
+    },
+    {
+      "name": "B478",
+      "count": 3
+    },
+    {
+      "name": "B479",
+      "count": 3
+    },
+    {
+      "name": "B480",
+      "count": 3
+    },
+    {
+      "name": "B481",
+      "count": 3
+    },
+    {
+      "name": "B482",
+      "count": 3
+    },
+    {
+      "name": "B483",
+      "count": 3
+    },
+    {
+      "name": "B484",
+      "count": 3
+    },
+    {
+      "name": "B485",
+      "count": 3
+    },
+    {
+      "name": "B486",
+      "count": 3
+    },
+    {
+      "name": "B487",
+      "count": 3
+    },
+    {
+      "name": "B488",
+      "count": 3
+    },
+    {
+      "name": "B489",
+      "count": 3
+    },
+    {
+      "name": "B490",
+      "count": 3
+    },
+    {
+      "name": "B491",
+      "count": 3
+    },
+    {
+      "name": "B492",
+      "count": 3
+    },
+    {
+      "name": "B493",
+      "count": 3
+    },
+    {
+      "name": "B494",
+      "count": 3
+    },
+    {
+      "name": "B495",
+      "count": 3
+    },
+    {
+      "name": "B496",
+      "count": 3
+    },
+    {
+      "name": "B497",
+      "count": 3
+    },
+    {
+      "name": "B498",
+      "count": 3
+    },
+    {
+      "name": "B499",
+      "count": 3
+    },
+    {
+      "name": "B500",
+      "count": 3
+    },
+    {
+      "name": "B501",
+      "count": 26
+    },
+    {
+      "name": "B502",
+      "count": 9
+    },
+    {
+      "name": "B503",
+      "count": 0
+    },
+    {
+      "name": "B504",
+      "count": 0
+    },
+    {
+      "name": "B505",
+      "count": 1
+    },
+    {
+      "name": "B506",
+      "count": 0
+    },
+    {
+      "name": "B507",
+      "count": 0
+    },
+    {
+      "name": "B508",
+      "count": 0
+    },
+    {
+      "name": "B509",
+      "count": 0
+    },
+    {
+      "name": "B510",
+      "count": 0
+    },
+    {
+      "name": "B511",
+      "count": 0
+    },
+    {
+      "name": "B512",
+      "count": 0
+    },
+    {
+      "name": "B513",
+      "count": 27
+    },
+    {
+      "name": "B514",
+      "count": 3
+    },
+    {
+      "name": "B515",
+      "count": 26
+    },
+    {
+      "name": "B516",
+      "count": 15
+    },
+    {
+      "name": "B517",
+      "count": 5
+    },
+    {
+      "name": "B518",
+      "count": 4
+    },
+    {
+      "name": "B519",
+      "count": 1
+    },
+    {
+      "name": "B520",
+      "count": 1
+    },
+    {
+      "name": "B521",
+      "count": 2
+    },
+    {
+      "name": "B522",
+      "count": 1
+    },
+    {
+      "name": "B523",
+      "count": 0
+    },
+    {
+      "name": "B524",
+      "count": 0
+    },
+    {
+      "name": "B525",
+      "count": 0
+    },
+    {
+      "name": "B526",
+      "count": 0
+    },
+    {
+      "name": "B527",
+      "count": 0
+    },
+    {
+      "name": "B528",
+      "count": 11
+    },
+    {
+      "name": "B529",
+      "count": 0
+    },
+    {
+      "name": "B530",
+      "count": 0
+    },
+    {
+      "name": "B531",
+      "count": 0
+    },
+    {
+      "name": "B532",
+      "count": 0
+    },
+    {
+      "name": "B533",
+      "count": 0
+    },
+    {
+      "name": "B534",
+      "count": 0
+    },
+    {
+      "name": "B535",
+      "count": 0
+    },
+    {
+      "name": "B536",
+      "count": 0
+    },
+    {
+      "name": "B537",
+      "count": 0
+    },
+    {
+      "name": "B538",
+      "count": 0
+    },
+    {
+      "name": "B539",
+      "count": 0
+    },
+    {
+      "name": "B540",
+      "count": 0
+    },
+    {
+      "name": "B541",
+      "count": 0
+    },
+    {
+      "name": "B542",
+      "count": 0
+    },
+    {
+      "name": "B543",
+      "count": 0
+    },
+    {
+      "name": "B544",
+      "count": 0
+    },
+    {
+      "name": "B545",
+      "count": 0
+    },
+    {
+      "name": "B546",
+      "count": 0
+    },
+    {
+      "name": "B547",
+      "count": 0
+    },
+    {
+      "name": "B548",
+      "count": 0
+    },
+    {
+      "name": "B549",
+      "count": 0
+    },
+    {
+      "name": "B550",
+      "count": 0
+    },
+    {
+      "name": "B551",
+      "count": 0
+    },
+    {
+      "name": "B552",
+      "count": 0
+    },
+    {
+      "name": "B553",
+      "count": 0
+    },
+    {
+      "name": "B554",
+      "count": 0
+    },
+    {
+      "name": "B555",
+      "count": 0
+    },
+    {
+      "name": "B556",
+      "count": 0
+    },
+    {
+      "name": "B557",
+      "count": 0
+    },
+    {
+      "name": "B558",
+      "count": 0
+    },
+    {
+      "name": "B559",
+      "count": 0
+    },
+    {
+      "name": "B560",
+      "count": 0
+    },
+    {
+      "name": "B561",
+      "count": 0
+    },
+    {
+      "name": "B562",
+      "count": 0
+    },
+    {
+      "name": "B563",
+      "count": 0
+    },
+    {
+      "name": "B564",
+      "count": 0
+    },
+    {
+      "name": "5.3",
+      "count": 114
+    },
+    {
+      "name": "5.4",
+      "count": 66
+    },
+    {
+      "name": "5.5",
+      "count": 55
+    },
+    {
+      "name": "5.6",
+      "count": 11
+    }
+  ],
+  "errors": [],
+  "results": [
+    {
+      "name": "B474",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1482,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-001.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-002.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-003.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "name": "B475",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-004.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-005.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-006.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 328
+        }
+      ]
+    },
+    {
+      "name": "B476",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-007.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-008.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-009.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "name": "B477",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-010.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-011.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-012.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "name": "B478",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-013.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-014.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-015.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "name": "B479",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-016.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-017.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-018.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "name": "B480",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-019.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-020.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-021.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 500
+        }
+      ]
+    },
+    {
+      "name": "B481",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-022.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-023.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-024.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "name": "B482",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-025.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-026.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-027.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 499
+        }
+      ]
+    },
+    {
+      "name": "B483",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1149,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-028.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 653
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-029.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-030.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "name": "B484",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1103,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-031.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-032.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-033.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 503
+        }
+      ]
+    },
+    {
+      "name": "B485",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-034.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 419
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-035.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-036.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 477
+        }
+      ]
+    },
+    {
+      "name": "B486",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-037.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-038.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-039.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        }
+      ]
+    },
+    {
+      "name": "B487",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1161,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-040.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-041.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 422
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-042.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        }
+      ]
+    },
+    {
+      "name": "B488",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-043.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-044.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 419
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-045.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        }
+      ]
+    },
+    {
+      "name": "B489",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1197,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-046.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-047.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 482
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-048.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        }
+      ]
+    },
+    {
+      "name": "B490",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-049.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-050.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-051.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 422
+        }
+      ]
+    },
+    {
+      "name": "B491",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1228,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-052.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 477
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-053.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 477
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-054.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 537
+        }
+      ]
+    },
+    {
+      "name": "B492",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1365,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-055.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 674
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-056.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-057.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 358
+        }
+      ]
+    },
+    {
+      "name": "B493",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1272,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-058.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-059.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 593
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-060.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 610
+        }
+      ]
+    },
+    {
+      "name": "B494",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1263,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-061.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 534
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-062.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-063.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 653
+        }
+      ]
+    },
+    {
+      "name": "B495",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1134,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-064.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-065.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 491
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-066.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        }
+      ]
+    },
+    {
+      "name": "B496",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1412,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-067.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 593
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-068.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 534
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-069.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 674
+        }
+      ]
+    },
+    {
+      "name": "B497",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1124,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-070.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-071.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-072.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 474
+        }
+      ]
+    },
+    {
+      "name": "B498",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1408,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-073.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 589
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-074.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 615
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-075.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 590
+        }
+      ]
+    },
+    {
+      "name": "B499",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1121,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-076.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-077.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 474
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-078.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 474
+        }
+      ]
+    },
+    {
+      "name": "B500",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1447,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-079.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 615
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-080.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 593
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-081.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 652
+        }
+      ]
+    },
+    {
+      "name": "B501",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1580,
+      "mathOverflow": 0,
+      "images": []
+    },
+    {
+      "name": "B502",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1962,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p02-table01.png",
+          "loaded": true,
+          "width": 610,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p02-table02.png",
+          "loaded": true,
+          "width": 694,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p02-table03.png",
+          "loaded": true,
+          "width": 862,
+          "height": 216
+        }
+      ]
+    },
+    {
+      "name": "B503",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p03-table01.png",
+          "loaded": true,
+          "width": 1664,
+          "height": 476
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p03-table02.png",
+          "loaded": true,
+          "width": 1897,
+          "height": 540
+        }
+      ]
+    },
+    {
+      "name": "B504",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p04-table01.png",
+          "loaded": true,
+          "width": 1897,
+          "height": 540
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p04-table02.png",
+          "loaded": true,
+          "width": 1897,
+          "height": 540
+        }
+      ]
+    },
+    {
+      "name": "B505",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p05-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1382
+        }
+      ]
+    },
+    {
+      "name": "B506",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1149,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p06-table01.png",
+          "loaded": true,
+          "width": 1679,
+          "height": 1382
+        }
+      ]
+    },
+    {
+      "name": "B507",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p07-table01.png",
+          "loaded": true,
+          "width": 2374,
+          "height": 1382
+        }
+      ]
+    },
+    {
+      "name": "B508",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1171,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p08-table01.png",
+          "loaded": true,
+          "width": 1639,
+          "height": 1382
+        }
+      ]
+    },
+    {
+      "name": "B509",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p09-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1382
+        }
+      ]
+    },
+    {
+      "name": "B510",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1149,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p10-table01.png",
+          "loaded": true,
+          "width": 1679,
+          "height": 1382
+        }
+      ]
+    },
+    {
+      "name": "B511",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p11-table01.png",
+          "loaded": true,
+          "width": 2354,
+          "height": 1447
+        }
+      ]
+    },
+    {
+      "name": "B512",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1230,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p12-table01.png",
+          "loaded": true,
+          "width": 1865,
+          "height": 1447
+        }
+      ]
+    },
+    {
+      "name": "B513",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": []
+    },
+    {
+      "name": "B514",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1498,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table01.png",
+          "loaded": true,
+          "width": 1934,
+          "height": 346
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table02.png",
+          "loaded": true,
+          "width": 2144,
+          "height": 346
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table03.png",
+          "loaded": true,
+          "width": 2228,
+          "height": 346
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table04.png",
+          "loaded": true,
+          "width": 2312,
+          "height": 346
+        }
+      ]
+    },
+    {
+      "name": "B515",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1439,
+      "mathOverflow": 0,
+      "images": []
+    },
+    {
+      "name": "B516",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1116,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p02-table01.png",
+          "loaded": true,
+          "width": 904,
+          "height": 216
+        }
+      ]
+    },
+    {
+      "name": "B517",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1192,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p03-table01.png",
+          "loaded": true,
+          "width": 778,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p03-table02.png",
+          "loaded": true,
+          "width": 2059,
+          "height": 410
+        }
+      ]
+    },
+    {
+      "name": "B518",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1296,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p04-table01.png",
+          "loaded": true,
+          "width": 1468,
+          "height": 411
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p04-table02.png",
+          "loaded": true,
+          "width": 2647,
+          "height": 919
+        }
+      ]
+    },
+    {
+      "name": "B519",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p05-table01.png",
+          "loaded": true,
+          "width": 2038,
+          "height": 918
+        }
+      ]
+    },
+    {
+      "name": "B520",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p06-table01.png",
+          "loaded": true,
+          "width": 2568,
+          "height": 1489
+        }
+      ]
+    },
+    {
+      "name": "B521",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1135,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p07-table01.png",
+          "loaded": true,
+          "width": 2710,
+          "height": 1300
+        }
+      ]
+    },
+    {
+      "name": "B522",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1114,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p08-table01.png",
+          "loaded": true,
+          "width": 1492,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p08-table02.png",
+          "loaded": true,
+          "width": 2311,
+          "height": 675
+        }
+      ]
+    },
+    {
+      "name": "B523",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p09-table01.png",
+          "loaded": true,
+          "width": 2421,
+          "height": 918
+        }
+      ]
+    },
+    {
+      "name": "B524",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p10-table01.png",
+          "loaded": true,
+          "width": 1833,
+          "height": 918
+        }
+      ]
+    },
+    {
+      "name": "B525",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p11-table01.png",
+          "loaded": true,
+          "width": 2589,
+          "height": 1237
+        }
+      ]
+    },
+    {
+      "name": "B526",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p12-table01.png",
+          "loaded": true,
+          "width": 2547,
+          "height": 1237
+        }
+      ]
+    },
+    {
+      "name": "B527",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1550,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p13-table01.png",
+          "loaded": true,
+          "width": 720,
+          "height": 1174
+        }
+      ]
+    },
+    {
+      "name": "B528",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 2128,
+      "mathOverflow": 0,
+      "images": []
+    },
+    {
+      "name": "B529",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p02-table01.png",
+          "loaded": true,
+          "width": 2506,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B530",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1111,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p03-table01.png",
+          "loaded": true,
+          "width": 2260,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B531",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p04-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B532",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p05-table01.png",
+          "loaded": true,
+          "width": 2401,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B533",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p06-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1233
+        }
+      ]
+    },
+    {
+      "name": "B534",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p07-table01.png",
+          "loaded": true,
+          "width": 2464,
+          "height": 1233
+        }
+      ]
+    },
+    {
+      "name": "B535",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p08-table01.png",
+          "loaded": true,
+          "width": 2464,
+          "height": 1233
+        }
+      ]
+    },
+    {
+      "name": "B536",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p09-table01.png",
+          "loaded": true,
+          "width": 2254,
+          "height": 1422
+        }
+      ]
+    },
+    {
+      "name": "B537",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p10-table01.png",
+          "loaded": true,
+          "width": 2338,
+          "height": 1422
+        }
+      ]
+    },
+    {
+      "name": "B538",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p11-table01.png",
+          "loaded": true,
+          "width": 2506,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B539",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p12-table01.png",
+          "loaded": true,
+          "width": 2296,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B540",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p13-table01.png",
+          "loaded": true,
+          "width": 2400,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B541",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p14-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1485
+        }
+      ]
+    },
+    {
+      "name": "B542",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p15-table01.png",
+          "loaded": true,
+          "width": 2275,
+          "height": 1233
+        }
+      ]
+    },
+    {
+      "name": "B543",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p16-table01.png",
+          "loaded": true,
+          "width": 2443,
+          "height": 1233
+        }
+      ]
+    },
+    {
+      "name": "B544",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p17-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1233
+        }
+      ]
+    },
+    {
+      "name": "B545",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p18-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1422
+        }
+      ]
+    },
+    {
+      "name": "B546",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p19-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1422
+        }
+      ]
+    },
+    {
+      "name": "B547",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p20-table01.png",
+          "loaded": true,
+          "width": 2443,
+          "height": 1296
+        }
+      ]
+    },
+    {
+      "name": "B548",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p21-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1296
+        }
+      ]
+    },
+    {
+      "name": "B549",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p22-table01.png",
+          "loaded": true,
+          "width": 2402,
+          "height": 1296
+        }
+      ]
+    },
+    {
+      "name": "B550",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p23-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1296
+        }
+      ]
+    },
+    {
+      "name": "B551",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p24-table01.png",
+          "loaded": true,
+          "width": 2317,
+          "height": 1044
+        }
+      ]
+    },
+    {
+      "name": "B552",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p25-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1296
+        }
+      ]
+    },
+    {
+      "name": "B553",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p26-table01.png",
+          "loaded": true,
+          "width": 2044,
+          "height": 1233
+        }
+      ]
+    },
+    {
+      "name": "B554",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p27-table01.png",
+          "loaded": true,
+          "width": 2023,
+          "height": 1170
+        }
+      ]
+    },
+    {
+      "name": "B555",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p28-table01.png",
+          "loaded": true,
+          "width": 1981,
+          "height": 1170
+        }
+      ]
+    },
+    {
+      "name": "B556",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p29-table01.png",
+          "loaded": true,
+          "width": 2170,
+          "height": 1231
+        }
+      ]
+    },
+    {
+      "name": "B557",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p30-table01.png",
+          "loaded": true,
+          "width": 2170,
+          "height": 1231
+        }
+      ]
+    },
+    {
+      "name": "B558",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p31-table01.png",
+          "loaded": true,
+          "width": 2296,
+          "height": 1231
+        }
+      ]
+    },
+    {
+      "name": "B559",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p32-table01.png",
+          "loaded": true,
+          "width": 2506,
+          "height": 1105
+        }
+      ]
+    },
+    {
+      "name": "B560",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p33-table01.png",
+          "loaded": true,
+          "width": 2128,
+          "height": 979
+        }
+      ]
+    },
+    {
+      "name": "B561",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p34-table01.png",
+          "loaded": true,
+          "width": 1981,
+          "height": 1231
+        }
+      ]
+    },
+    {
+      "name": "B562",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p35-table01.png",
+          "loaded": true,
+          "width": 1855,
+          "height": 1105
+        }
+      ]
+    },
+    {
+      "name": "B563",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p36-table01.png",
+          "loaded": true,
+          "width": 2275,
+          "height": 1231
+        }
+      ]
+    },
+    {
+      "name": "B564",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 1100,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p37-table01.png",
+          "loaded": true,
+          "width": 2296,
+          "height": 1231
+        }
+      ]
+    },
+    {
+      "name": "5.3",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 30039,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-001.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-002.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-003.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-004.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-005.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-006.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 328
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-007.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-008.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-009.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-010.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-011.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-012.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-013.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-014.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-015.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-016.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-017.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-018.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-019.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-020.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-021.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 500
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-022.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-023.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-024.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-025.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-026.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-027.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 499
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-028.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 653
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-029.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-030.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-031.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 299
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-032.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-033.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 503
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-034.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 419
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-035.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-036.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 477
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-037.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-038.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-039.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-040.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-041.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 422
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-042.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-043.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-044.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 419
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-045.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-046.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-047.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 482
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-048.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-049.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 303
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-050.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 443
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-051.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 422
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-052.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 477
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-053.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 477
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-054.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 537
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-055.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 674
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-056.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-057.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 358
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-058.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-059.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 593
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-060.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 610
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-061.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 534
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-062.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-063.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 653
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-064.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 363
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-065.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 491
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-066.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-067.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 593
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-068.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 534
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-069.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 674
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-070.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-071.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 478
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-072.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 474
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-073.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 589
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-074.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 615
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-075.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 590
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-076.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 362
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-077.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 474
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-078.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 474
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-079.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 615
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-080.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 593
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s03-formula-081.png",
+          "loaded": true,
+          "width": 1856,
+          "height": 652
+        }
+      ]
+    },
+    {
+      "name": "5.4",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 14698,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p02-table01.png",
+          "loaded": true,
+          "width": 610,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p02-table02.png",
+          "loaded": true,
+          "width": 694,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p02-table03.png",
+          "loaded": true,
+          "width": 862,
+          "height": 216
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p03-table01.png",
+          "loaded": true,
+          "width": 1664,
+          "height": 476
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p03-table02.png",
+          "loaded": true,
+          "width": 1897,
+          "height": 540
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p04-table01.png",
+          "loaded": true,
+          "width": 1897,
+          "height": 540
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p04-table02.png",
+          "loaded": true,
+          "width": 1897,
+          "height": 540
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p05-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1382
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p06-table01.png",
+          "loaded": true,
+          "width": 1679,
+          "height": 1382
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p07-table01.png",
+          "loaded": true,
+          "width": 2374,
+          "height": 1382
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p08-table01.png",
+          "loaded": true,
+          "width": 1639,
+          "height": 1382
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p09-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1382
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p10-table01.png",
+          "loaded": true,
+          "width": 1679,
+          "height": 1382
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p11-table01.png",
+          "loaded": true,
+          "width": 2354,
+          "height": 1447
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p12-table01.png",
+          "loaded": true,
+          "width": 1865,
+          "height": 1447
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table01.png",
+          "loaded": true,
+          "width": 1934,
+          "height": 346
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table02.png",
+          "loaded": true,
+          "width": 2144,
+          "height": 346
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table03.png",
+          "loaded": true,
+          "width": 2228,
+          "height": 346
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s04-p14-table04.png",
+          "loaded": true,
+          "width": 2312,
+          "height": 346
+        }
+      ]
+    },
+    {
+      "name": "5.5",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 12086,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p02-table01.png",
+          "loaded": true,
+          "width": 904,
+          "height": 216
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p03-table01.png",
+          "loaded": true,
+          "width": 778,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p03-table02.png",
+          "loaded": true,
+          "width": 2059,
+          "height": 410
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p04-table01.png",
+          "loaded": true,
+          "width": 1468,
+          "height": 411
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p04-table02.png",
+          "loaded": true,
+          "width": 2647,
+          "height": 919
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p05-table01.png",
+          "loaded": true,
+          "width": 2038,
+          "height": 918
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p06-table01.png",
+          "loaded": true,
+          "width": 2568,
+          "height": 1489
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p07-table01.png",
+          "loaded": true,
+          "width": 2710,
+          "height": 1300
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p08-table01.png",
+          "loaded": true,
+          "width": 1492,
+          "height": 281
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p08-table02.png",
+          "loaded": true,
+          "width": 2311,
+          "height": 675
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p09-table01.png",
+          "loaded": true,
+          "width": 2421,
+          "height": 918
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p10-table01.png",
+          "loaded": true,
+          "width": 1833,
+          "height": 918
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p11-table01.png",
+          "loaded": true,
+          "width": 2589,
+          "height": 1237
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p12-table01.png",
+          "loaded": true,
+          "width": 2547,
+          "height": 1237
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s05-p13-table01.png",
+          "loaded": true,
+          "width": 720,
+          "height": 1174
+        }
+      ]
+    },
+    {
+      "name": "5.6",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 29668,
+      "mathOverflow": 0,
+      "images": [
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p02-table01.png",
+          "loaded": true,
+          "width": 2506,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p03-table01.png",
+          "loaded": true,
+          "width": 2260,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p04-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p05-table01.png",
+          "loaded": true,
+          "width": 2401,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p06-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1233
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p07-table01.png",
+          "loaded": true,
+          "width": 2464,
+          "height": 1233
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p08-table01.png",
+          "loaded": true,
+          "width": 2464,
+          "height": 1233
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p09-table01.png",
+          "loaded": true,
+          "width": 2254,
+          "height": 1422
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p10-table01.png",
+          "loaded": true,
+          "width": 2338,
+          "height": 1422
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p11-table01.png",
+          "loaded": true,
+          "width": 2506,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p12-table01.png",
+          "loaded": true,
+          "width": 2296,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p13-table01.png",
+          "loaded": true,
+          "width": 2400,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p14-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1485
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p15-table01.png",
+          "loaded": true,
+          "width": 2275,
+          "height": 1233
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p16-table01.png",
+          "loaded": true,
+          "width": 2443,
+          "height": 1233
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p17-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1233
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p18-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1422
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p19-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1422
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p20-table01.png",
+          "loaded": true,
+          "width": 2443,
+          "height": 1296
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p21-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1296
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p22-table01.png",
+          "loaded": true,
+          "width": 2402,
+          "height": 1296
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p23-table01.png",
+          "loaded": true,
+          "width": 2422,
+          "height": 1296
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p24-table01.png",
+          "loaded": true,
+          "width": 2317,
+          "height": 1044
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p25-table01.png",
+          "loaded": true,
+          "width": 2233,
+          "height": 1296
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p26-table01.png",
+          "loaded": true,
+          "width": 2044,
+          "height": 1233
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p27-table01.png",
+          "loaded": true,
+          "width": 2023,
+          "height": 1170
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p28-table01.png",
+          "loaded": true,
+          "width": 1981,
+          "height": 1170
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p29-table01.png",
+          "loaded": true,
+          "width": 2170,
+          "height": 1231
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p30-table01.png",
+          "loaded": true,
+          "width": 2170,
+          "height": 1231
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p31-table01.png",
+          "loaded": true,
+          "width": 2296,
+          "height": 1231
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p32-table01.png",
+          "loaded": true,
+          "width": 2506,
+          "height": 1105
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p33-table01.png",
+          "loaded": true,
+          "width": 2128,
+          "height": 979
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p34-table01.png",
+          "loaded": true,
+          "width": 1981,
+          "height": 1231
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p35-table01.png",
+          "loaded": true,
+          "width": 1855,
+          "height": 1105
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p36-table01.png",
+          "loaded": true,
+          "width": 2275,
+          "height": 1231
+        },
+        {
+          "path": "file:///D:/TraeProject/Project5Hirose%E7%BF%BB%E8%AF%91/HiroseSFGNote/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC/assets/ch05/ch05-s06-p37-table01.png",
+          "loaded": true,
+          "width": 2296,
+          "height": 1231
+        }
+      ]
+    }
+  ]
+}

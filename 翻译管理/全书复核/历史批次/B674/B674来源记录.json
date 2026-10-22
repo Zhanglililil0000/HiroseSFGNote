@@ -1,0 +1,20 @@
+{
+  "access_date": "2026-10-22",
+  "sources": [
+    {
+      "label": "RP Photonics：拍频",
+      "author": "Dr. Rüdiger Paschotta",
+      "url": "https://www.rp-photonics.com/beat_note.html",
+      "read_scope": "作者正文的空间/偏振重叠与探测带宽条件；不以AI辅助FAQ作独立依据",
+      "supports": "可观察差频交叉项有探测条件，不等于仅由相位锁定决定"
+    },
+    {
+      "label": "Ansys Optics：Parseval能量核查示例",
+      "author": "Ansys Optics官方技术文档",
+      "url": "https://optics.ansys.com/hc/en-us/articles/360034394274-Using-Parseval-s-theorem-to-check-for-energy-conservation-between-the-time-and-frequency-domain",
+      "read_scope": "有限脉冲的时频能量等价及软件归一化限制；未运行附带FDTD文件",
+      "supports": "区分时域总能量、谱能量积分和软件所用常数"
+    }
+  ],
+  "scope": "外部技术条件作参照，时间窗推导为译者独立条件性分析"
+}

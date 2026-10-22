@@ -1,0 +1,17 @@
+{
+  "batch": "B169",
+  "date": "2026-10-20",
+  "pages": [
+    5
+  ],
+  "units": "m′/m界面m′侧源分类(a)/(b)及完整式2.6—2.7",
+  "tags": [
+    "2.6",
+    "2.7"
+  ],
+  "source_images_visually_checked": true,
+  "formula_factors_checked_after_layout_normalization": true,
+  "source_corrections_adopted": false,
+  "unchanged_tail": "m′/m界面m侧及以后",
+  "source_sha256": "3fdb1ecaa620a0b809337eacd52e356ef7c8145642b49df5c7ee476f7789387f"
+}

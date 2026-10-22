@@ -1,0 +1,285 @@
+{
+  "batch": "B418",
+  "source_sha256": "d734ad0e42503a08065d0beb0964a16668ad9b7d7667355dbc59629378d9ef20",
+  "source_lines_and_locations": [
+    {
+      "locations": [
+        [
+          4,
+          186.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = -1、\\sin 2\\chi  = 0、\\sin 3\\chi  = +1  \\cos \\chi  = 0、\\cos 2\\chi  = -1、\\cos 3\\chi  = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          203.2
+        ],
+        [
+          4,
+          219.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = +1、\\sin 2\\phi  = 0、\\sin 3\\phi  = -1  \\cos \\phi  = 0、\\cos 2\\phi  = -1、\\cos 3\\phi  = 0",
+        "(\\sin \\theta  /-\\sin \\theta ）pairs"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          416.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = 0、\\sin 2\\chi  = 0、\\sin 3\\chi  = 0\\cos \\chi  = -1、\\cos 2\\chi  = +1、\\cos 3\\chi  = -1"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          432.2
+        ],
+        [
+          4,
+          449.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = 0、\\sin 2\\phi  = 0、\\sin 3\\phi  = 0\\cos \\phi  = -1、\\cos 2\\phi  = +1、\\cos 3\\phi  = -1",
+        "either \\sin \\theta  /or -\\sin \\theta"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          728.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = -1、\\sin 2\\chi  = 0、\\sin 3\\chi  = -1\\cos \\chi  = 0、\\cos 2\\chi  = -1、\\cos 3\\chi  = 0"
+      ]
+    },
+    {
+      "locations": [
+        [
+          4,
+          753.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = \\cos \\gamma  = \\cos \\tau /\\sin \\theta 、 \\sin 2\\phi  = \\sin 2\\gamma  = 2\\cos \\tau \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{2}\\theta ,"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          97.2
+        ]
+      ],
+      "source_lines": [
+        "\\cos \\phi  = \\sin \\gamma  = \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin \\theta 、 　\\cos 2\\phi  = -\\cos 2\\gamma  = (\\sin ^{2}\\theta  - 2\\cos ^{2}\\tau )/\\sin ^{2}\\theta 、"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          130.2
+        ],
+        [
+          5,
+          155.2
+        ],
+        [
+          5,
+          170.2
+        ],
+        [
+          5,
+          186.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin 3\\phi  = -\\cos 3\\gamma  = \\cos \\tau (3\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )/\\sin ^{3}\\theta 、\\cos 3\\phi  = -\\sin 3\\gamma  = (\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{3}\\theta",
+        "(Eu-3a)",
+        "either (\\sin \\gamma 、\\sin 2\\gamma 、\\sin 3\\gamma ) 　set or 　(-\\sin 2\\gamma 、-\\sin 2\\gamma 、-\\sin 3\\gamma )  set",
+        "(\\sin \\theta  /- \\sin \\theta ) pair"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          416.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = 0, \\sin 2\\chi  = 0, \\sin 3\\chi  = 0,  \\cos \\chi  = -1, \\cos 2\\chi  = +1, \\cos 3\\chi  = -1"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          441.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = \\sin \\gamma  = \\cos \\tau /\\sin \\theta ,  \\sin 2\\phi  = -\\sin 2\\gamma  = -2\\cos \\tau \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{2}\\theta ,"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          474.2
+        ]
+      ],
+      "source_lines": [
+        "\\cos \\phi  = -\\cos \\gamma  = -\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin \\theta ,\\cos 2\\phi  = \\cos 2\\gamma  = (\\sin ^{2}\\theta  - 2\\cos ^{2}\\tau )/\\sin ^{2}\\theta ,"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          498.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin 3\\phi  = \\sin 3\\gamma  = \\cos t(3\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )/\\sin ^{3}\\theta ,"
+      ]
+    },
+    {
+      "locations": [
+        [
+          5,
+          523.2
+        ],
+        [
+          5,
+          547.2
+        ]
+      ],
+      "source_lines": [
+        "\\cos 3\\phi  = -\\cos 3\\gamma  = -(\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{3}\\theta (Eu-3b)",
+        "(+\\gamma , +\\theta ) set,　(+\\gamma , -\\theta ) set,　(-\\gamma , +\\theta ) set,　or  (-\\gamma , -\\theta ) set"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          154.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\chi  = \\sin \\chi *、\\sin 2\\chi  = -\\sin 2\\chi *、\\sin 3\\chi  = \\sin 3\\chi *"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          170.2
+        ]
+      ],
+      "source_lines": [
+        "\\cos \\chi  = -\\cos \\chi *、\\cos 2\\chi  = +\\cos 2\\chi *、\\cos 3\\chi  = -\\cos 3\\chi *"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          195.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin \\phi  = \\sin \\gamma  =  \\cos \\tau /\\sin \\theta 、 \\sin 2\\phi  = -\\sin 2\\gamma  = -2\\cos \\tau \\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{2}\\theta 、"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          228.2
+        ]
+      ],
+      "source_lines": [
+        "\\cos \\phi  = -\\cos \\gamma  = -\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin \\theta 、\\cos 2\\phi  = \\cos 2\\gamma  = (\\sin ^{2}\\theta  - 2\\cos ^{2}\\tau )/\\sin ^{2}\\theta 、"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          252.2
+        ]
+      ],
+      "source_lines": [
+        "\\sin 3\\phi  = \\sin 3\\gamma  = \\cos \\tau  (3\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )/\\sin ^{3}\\theta 、"
+      ]
+    },
+    {
+      "locations": [
+        [
+          6,
+          277.2
+        ],
+        [
+          6,
+          301.2
+        ],
+        [
+          6,
+          318.2
+        ]
+      ],
+      "source_lines": [
+        "\\cos 3\\phi  = -\\cos 3\\gamma  = -(\\sin ^{2}\\theta  - 4\\cos ^{2}\\tau )\\sqrt{\\sin ^{2}\\theta -\\cos ^{2}\\tau }/\\sin ^{3}\\theta (Eu-3c)",
+        "either (\\sin \\gamma 、\\sin 2\\gamma 、in3\\gamma ) 　set or　 (-\\sin 2\\gamma 、-\\sin 2\\gamma 、-\\sin 3\\gamma )  set",
+        "for either one of the (+\\gamma , +\\theta ) set、　(+\\gamma , -\\theta ) set、　(-\\gamma , +\\theta ) set、　or  (-\\gamma , -\\theta ) set"
+      ]
+    }
+  ],
+  "source_corrections_adopted": false,
+  "manual_vector_and_prose_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "pages": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "tensor_left_sides": [],
+  "source_images_visually_checked": true,
+  "translation_sha256": "61be4756b8c6d397ccc03ab49f097c11ca441ab2a4977d2f0489741c70134b5c",
+  "status": "本批原页对照、译校、覆盖与参考排版验收完成",
+  "date": "2026-10-21",
+  "render": {
+    "batch": "B418",
+    "width": 1100,
+    "scrollWidth": 1100,
+    "overs": [],
+    "images": []
+  },
+  "validation_limit": "数学语法和版式通过不等于原稿公式已完成独立物理证明。"
+}

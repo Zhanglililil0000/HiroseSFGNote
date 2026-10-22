@@ -1,0 +1,14 @@
+{
+  "batch": "B090",
+  "date": "2026-10-19",
+  "page": 10,
+  "equation": "4.29",
+  "body_image_blocks_replaced": 1,
+  "scope_check": "仅公式及状态行改变，其他正文相同",
+  "math_syntax_pass": 809,
+  "render_overflow": false,
+  "visual_review": "参考渲染与高清原式及六倍首行局部对照通过",
+  "new_issue": "Q063；原有无指数e保留",
+  "adopted_source_corrections": 0,
+  "next": "B091，式4.30a"
+}
